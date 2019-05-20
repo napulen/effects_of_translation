@@ -1,0 +1,111 @@
+!!!COM: Johann Sebastian Bach
+!!!LYR: Martin Luther
+!!!OTL: Ein feste Burg ist unser Gott
+**kern	**kern	**text	**text
+*part2	*part1	*part1	*part1
+*staff2	*staff1	*staff1	*staff1
+*clefF4	*clefG2	*	*
+*k[f#c#]	*k[f#c#]	*	*
+*M4/4	*M4/4	*	*
+*^	*^	*	*
+4f	8dL	4dd	4a	Ein´	Er
+.	8cJ	.	.	.	.
+=1	=1	=1	=1	=1	=1
+4f	4B	4dd	4d	fe-	hilft
+8BL	8AL	4dd	8dL	-ste	uns
+8cJ	8GJ	.	8eJ	.	.
+4d	4F	8aL	4f	Burg	frei
+.	.	8bJ	.	.	.
+4e	4E	4cc	4g	ist	aus
+=2	=2	=2	=2	=2	=2
+4.f	4D	8ddL	4a	un-	al-
+.	.	8ccJ	.	.	.
+.	4E	4b	4g#	ser	ler
+16eL	.	.	.	.	.
+16dJ	.	.	.	.	.
+4c	4AA;	4a;	4e	Gott,	Not,
+8FL	4BB	4dd	4b	ein'	die
+8G#J	.	.	.	.	.
+=3	=3	=3	=3	=3	=3
+4A#	4C	4cc	4e	gu-	uns
+4B	8DL	4b	4d	-te	jetzt
+.	8EJ	.	.	.	.
+8fL	4F	4a	4c	Wehr	hat
+8eJ	.	.	.	.	.
+4d	8GL	4b	4B	und	be-
+.	8FJ	.	.	.	.
+=4	=4	=4	=4	=4	=4
+(>8e	(<8EL	8gL	(<8c	Waf-	-trof-
+4A	8DJ	8fJ	4d	.	.
+.	4AA)	4e	.	.	.
+8G)	.	.	8c	.	.
+4F	4D;	4d;	4d)	-fen.	-fen.
+!!LO:LB
+=:|!	=:|!	=:|!	=:|!	=:|!	=:|!
+8FL	8DL	4d	4d	Der	.
+8GJ	8EJ	.	.	.	.
+=5	=5	=5	=5	=5	=5
+(>4A	(<4F	(>4a	(<4c	alt'	.
+8G#L	8EL	4b)	4d)	.	.
+8FJ)	8DJ)	.	.	.	.
+8EL	8CL	4a	8eL	bö-	.
+8FJ	8DJ	.	8dJ	.	.
+4E	4E	4g#	4B	-se	.
+=6	=6	=6	=6	=6	=6
+2E	2AA;	2a;	2c	Feind,	.
+4A	4F	4d	8dL	mit	.
+.	.	.	8eJ	.	.
+4d	8EL	4a	4f	Ernst	.
+.	8DJ	.	.	.	.
+=7	=7	=7	=7	=7	=7
+4d	4Gn	4b	8gnL	er's	.
+.	.	.	8fJ	.	.
+4A	4A	4cc	4e	jetzt	.
+4A	4D;	4dd;	4f	meint,	.
+4A	4F	4cc	4f	groß'	.
+=8	=8	=8	=8	=8	=8
+8B	8BB	8dd	16fL	Macht	.
+.	.	.	16g#J	.	.
+8e	8C	8cc	8a	und	.
+8fL	8DL	4b	8aL	viel	.
+8eJ	8EJ	.	8gJ	.	.
+4c	4AA;	4a;	4e	List	.
+4e	8EL	4b	4gn	sein	.
+.	8FJ	.	.	.	.
+!!LO:LB
+=9	=9	=9	=9	=9	=9
+8dL	4G	4b	4g	grau-	.
+8eJ	.	.	.	.	.
+4f	8FL	4a	8d#L	-sam	.
+.	8EJ	.	8eJ	.	.
+4B	4D#	8bL	4f	Rüst-	.
+.	.	8aJ	.	.	.
+4B	4E	4g	4e	zeug	.
+=10	=10	=10	=10	=10	=10
+4B	4BB;	4f;	4d#	-ist,	.
+4B	4BB	4ddn	4f	auf	.
+4A	4F	4cc	8fL	Erd'n	.
+.	.	.	8eJ	.	.
+8BL	4G	4b	8dnL	ist	.
+8cJ	.	.	8eJ	.	.
+=11	=11	=11	=11	=11	=11
+4d	8DL	4a	8fL	nicht	.
+.	8CJ	.	8eJ	.	.
+8GL	4BB	8bL	4d	sein´s	.
+8FJ	.	8aJ	.	.	.
+(>4E	(<4C	(>4g	(<8eL	Glei-	.
+.	.	.	8AJ	.	.
+16FL	4D	4f	[4d	.	.
+16G	.	.	.	.	.
+8AJ	.	.	.	.	.
+=12	=12	=12	=12	=12	=12
+4B	4GG	2e)	4d]	.	.
+8AL)	4AA)	.	4c)	.	.
+8GJ	.	.	.	.	.
+4F	4DD	4d;	4A	-chen.	.
+*v	*v	*	*	*	*
+*	*v	*v	*	*
+==	==	==	==
+*-	*-	*-	*-
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below

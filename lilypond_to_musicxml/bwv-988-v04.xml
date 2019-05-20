@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 2.0 Partwise//EN"
+                                "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="3.0">
+  <movement-title>Clavierübung Vierter Teil Aria mit 30 Veränderungen</movement-title>
+  <identification>
+    <encoding>
+      <software>python-ly 0.9.5</software>
+      <encoding-date>2019-05-18</encoding-date>
+    </encoding>
+    <creator type="composer">Johann Sebastian Bach (1685-1750)</creator>
+    <subtitle>"Goldberg Variationen"</subtitle>
+    <piece>Variatio 4. a 1 Clav</piece>
+    <mutopiatitle>Goldberg Variations - 4</mutopiatitle>
+    <mutopiacomposer>BachJS</mutopiacomposer>
+    <opus>BWV 988</opus>
+    <date>1741</date>
+    <mutopiainstrument>Harpsichord,Clavichord</mutopiainstrument>
+    <style>Baroque</style>
+    <source>Bach-Gesellschaft Edition 1853 Band 3</source>
+    <maintainer>Hajo Dezelski</maintainer>
+    <maintainerEmail>dl1sdz (at) gmail.com</maintainerEmail>
+    <footer>Mutopia-2013/04/07-1405</footer>
+    <tagline>   Sheet music from http://www.MutopiaProject.org  www. MutopiaProject .org  •  Free to download, with the freedom to distribute, modify and perform.  Typeset using http://www.LilyPond.org  www. LilyPond .org by .  Copyright © 2013.  Reference:   Licensed under the Creative Commons Attribution-ShareAlike 3.0 (Unported) License, for details see:http://creativecommons.org/licenses/by-sa/3.0 http://creativecommons.org/licenses/by-sa/3.0</tagline>
+    <rights>Creative Commons Attribution-ShareAlike 3.0</rights>
+  </identification>
+  <part-list />
+</score-partwise>

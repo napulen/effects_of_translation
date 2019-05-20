@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 2.0 Partwise//EN"
+                                "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="3.0">
+  <movement-title> Gelobet Seystu Jesu Xst.  (Gelobet seist Du, Jesu Christ)  á 2 Clav. &amp; Ped.</movement-title>
+  <identification>
+    <encoding>
+      <software>python-ly 0.9.5</software>
+      <encoding-date>2019-05-18</encoding-date>
+    </encoding>
+    <creator type="composer">Johann Sebastian Bach</creator>
+    <mutopiatitle>Gelobet seist Du, Jesu Christ</mutopiatitle>
+    <mutopiacomposer>BachJS</mutopiacomposer>
+    <mutopiaopus>BWV 604</mutopiaopus>
+    <mutopiainstrument>Organ</mutopiainstrument>
+    <source>Autograph</source>
+    <style>Baroque</style>
+    <maintainer>Urs Metzger</maintainer>
+    <maintainerEmail>urs@ursmetzger.de</maintainerEmail>
+    <lastupdated>2006/May/24</lastupdated>
+    <opus>BWV 604</opus>
+    <footer>Mutopia-2006/05/25-772</footer>
+    <tagline>  Sheet music from http://www.MutopiaProject.org www.  MutopiaProject  .org  •  Free to download, with the freedom to distribute, modify and perform. Typeset using http://www.LilyPond.org www.  LilyPond  .org by   .  Reference:  This sheet music has been placed in the public domain by the typesetter, for details see:  http://creativecommons.org/licenses/publicdomain http://creativecommons.org/licenses/publicdomain</tagline>
+    <rights>Public Domain</rights>
+  </identification>
+  <part-list />
+</score-partwise>

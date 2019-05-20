@@ -1,0 +1,188 @@
+!!!OTL: Quartett in B für 2 Violinen, Viola und Violoncello, 2. Satz, KV 458/02
+!!!system-decoration: [(s1,s2,s3,s4)]
+**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern
+*part4	*part4	*part4	*part4	*part3	*part3	*part3	*part3	*part2	*part2	*part2	*part2	*part1	*part1	*part1	*part1
+*staff16	*staff15	*staff14	*staff13	*staff12	*staff11	*staff10	*staff9	*staff8	*staff7	*staff6	*staff5	*staff4	*staff3	*staff2	*staff1
+*I"Violoncello	*	*	*	*I"Viola	*	*	*	*I"Violino secondo	*	*	*	*I"Violino primo	*	*	*
+*clefF4	*clefC3	*clefG2	*clefG2
+*k[b-e-]	*k[b-e-]	*k[b-e-]	*k[b-e-]
+*M3/4	*M3/4	*M3/4	*M3/4
+4r	[2.f	(2d	(2b-y
+(4BB-y	.	.	.
+4C	.	4e-y	4a)
+=2	=2	=2	=2
+4D	(4f_	4f	4b-y
+4C	4A	4e-y	(8.ccLT
+.	.	.	32b-y
+.	.	.	32ccJ
+4BB-y)	4B-y)	4d)	8.ddL
+.	.	.	16b-yJ)
+=3	=3	=3	=3
+(4AA	((4c	2c	2f
+4FF)	4A)	.	.
+4A	4c)	(8.ee-yL	(8.ggL
+.	.	16ddJ)	16ffJ)
+=4	=4	=4	=4
+(4B-y	(4d	2dd	2ff
+4d	4f	.	.
+4F#)	4A)	(8.ccL	(8.ee-yL
+.	.	16b-yJ)	16ddJ)
+=5	=5	=5	=5
+(4G	(4B-y	(2b-y	2dd
+4B-y	4d	.	.
+4D)	4F)	4a-	(8.ccL
+.	.	.	16b-yJ)
+=6	=6	=6	=6
+(4E-y	(4G	4g	4.b-y
+4C	4e-y	4b-y	.
+.	.	.	16ccL
+.	.	.	16ddJ
+.	.	.	16qff
+4Fn)	4c)	4an)	8ee-yL
+.	.	.	16dd
+.	.	.	16ccJ
+!!LO:LB
+=7	=7	=7	=7
+(4D	[2f	2b-y	(4..b-y
+4F)	.	.	.
+.	.	.	16dd)
+4F	(8.fL_	(8.ccL	(8.ee-yL
+.	16e-yJ)	16aJ)	16ccJ)
+!!LO:LB
+=8	=8	=8	=8
+4B-y	4d	4b-y	4b-y
+4F	4r	4r	4r
+4BB-y	4r	4r	4r
+!!LO:LB
+=9:|!	=9:|!	=9:|!	=9:|!
+4r	[2.d	(2b-y	(2ddd
+(4G	.	.	.
+4A	.	4cc	4ff#)
+=10	=10	=10	=10
+4B-y	(4d_	4dd	4gg
+4A	4f#	4cc	(8.aaLT
+.	.	.	32gg
+.	.	.	32aaJ
+4G)	4g)	4b-y)	8.bb-yL
+.	.	.	16ggJ)
+=11	=11	=11	=11
+4r	4r	4r	(8dddL
+.	.	.	8ccc
+(4En	[2c	(8gL	8bb-y
+.	.	8f	8aa
+4B-y	.	8en	8gg
+.	.	8gJ)	8eenJ)
+=12	=12	=12	=12
+4A	4c]	2.cc	(8ggL
+.	.	.	8ff)
+4G	(8fnL	.	(8aa
+.	8en)	.	8gg)
+4F)	(8g	.	(8bb-y
+.	8fJ)	.	8aaJ)
+!!LO:LB
+=13	=13	=13	=13
+4r	[2.g	[2.b-y	(8bb-yL
+.	.	.	8dd
+(4G	.	.	8bb-y
+.	.	.	8dd
+4F)	.	.	8bb-y
+.	.	.	8dd-J)
+!!LO:LB
+=14	=14	=14	=14
+(2En	(8gL_	(8b-yL_	(8ccL
+.	8en	8g	8bb-y
+.	8g	8b-y	8cc
+.	8eJ)	8g	8bb-y
+4F)	4c	8a	8cc
+.	.	8fJ)	8aaJ)
+!!LO:LB
+=15	=15	=15	=15
+(4B-y	((4b-y	(4dd	(8b-yL
+.	.	.	8gg)
+4c)	4a	4cc	(8a
+.	.	.	8ff)
+4C	4g)	4b-y)	(8g
+.	.	.	8eenJ)
+!!LO:LB
+=16	=16	=16	=16
+!!Error: measure 16, staff 2 is underfilled: adding token 16ryy at end of measure to complete its duration.
+4F	4f)	4a	[2.ff
+4FF	4r	4r	.
+4r	(8.bnL	((8.ddLJ	.
+.	16ccJ)	16ryy	.
+=17	=17	=17	=17
+4r	(2cc	2ee-y	2.ff_
+(4A	.	.	.
+4B-y)	4b-)	(8.ddL	.
+.	.	16dd-J)	.
+=18	=18	=18	=18
+4F	2a	2cc	2.ff_
+4FF	.	.	.
+4r	(8.dL	(8.fL	.
+.	16c#J)	16enJ)	.
+=19	=19	=19	=19
+4r	(2cn	2e-	2.ff_
+(4AA	.	.	.
+4BB-y)	4B-y)	(8.dL	.
+.	.	16d-J)	.
+=20	=20	=20	=20
+4FF	4A	4c	(4.ff_
+4F	4r	4r	.
+.	.	.	8een
+4r	4r	4r	8ee-L
+.	.	.	8ccJ)
+=21	=21	=21	=21
+4r	[2.F	(2d	(2b-y
+(4BB-y	.	.	.
+4C	.	4e-y)	4a)
+!!LO:LB
+=22	=22	=22	=22
+4D	4F]	(4f	4b-y
+4C	(4A	4e-y	(8.ccLT
+.	.	.	32b-y
+.	.	.	32ccJ
+4BB-y)	4B-y)	4d)	8.ddL
+.	.	.	16b-yJ)
+!!LO:LB
+=23	=23	=23	=23
+(4AA	((4c	2c	2f
+4FF)	4A)	.	.
+4A	4c)	(8.ee-yL	(8.ggL
+.	.	16ddJ)	16ffJ)
+=24	=24	=24	=24
+(4B-y	((4d	2dd	2ff
+4d	4f)	.	.
+4F#)	4A)	(8.ccL	(8.ee-yL
+.	.	16b-yJ)	16ddJ)
+!!LO:LB
+=25	=25	=25	=25
+(4G	((4B-y	(2b-y	2dd
+4B-y	4d)	.	.
+4D)	4f)	4a-)	(8.ccL
+.	.	.	16b-yJ)
+=26	=26	=26	=26
+(4E-y	(4B-y	(4g	4.b-y
+4F	4d	4f	.
+.	.	.	16ccL
+.	.	.	16ddJ
+.	.	.	16qff
+4F#)	4c)	4An)	8ee-yL
+.	.	.	16dd
+.	.	.	16ccJ
+=27	=27	=27	=27
+(4G	4en	4d-	(4..b-y
+4Fn)	(4..f	(8.dnL	.
+.	.	16B-y	16dd)
+4FF	.	8.c	(8.ee-yL
+.	16e-)	16AJ)	16ccJ)
+!!LO:LB
+=28	=28	=28	=28
+4BB-y;	4d	4B-y	4b-y
+4F	4r	4r	4r
+4B-y	4r	4r	4r
+!!LO:LB
+!!LO:LB
+!!LO:LB
+!!LO:LB
+=:|!
+*-	*-	*-	*-

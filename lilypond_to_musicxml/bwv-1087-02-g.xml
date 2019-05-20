@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 2.0 Partwise//EN"
+                                "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="3.0">
+  <movement-title>14 Kanons </movement-title>
+  <identification>
+    <encoding>
+      <software>python-ly 0.9.5</software>
+      <encoding-date>2019-05-18</encoding-date>
+    </encoding>
+    <creator type="composer">Johann Sebastian Bach (1685-1750)</creator>
+    <creator type="arranger">Hajo Dezelski</creator>
+    <subtitle>über die ersten acht Fundamentalnoten der Aria aus den Goldberg-Variationen</subtitle>
+    <piece>2. All' roverscio </piece>
+    <mutopiatitle>14 Canons - 2</mutopiatitle>
+    <mutopiacomposer>BachJS</mutopiacomposer>
+    <opus>BWV 1087</opus>
+    <mutopiainstrument>Guitar</mutopiainstrument>
+    <style>Baroque</style>
+    <source>Photocopy of Autograph</source>
+    <maintainer>Hajo Dezelski</maintainer>
+    <maintainerEmail>dl1sdz (at) gmail.com</maintainerEmail>
+    <footer>Mutopia-2008/06/01-1431</footer>
+    <tagline>  Sheet music from http://www.MutopiaProject.org www.  MutopiaProject  .org  •  Free to download, with the freedom to distribute, modify and perform. Typeset using http://www.LilyPond.org www.  LilyPond  .org by   .  Copyright © 2008.  Reference:  Licensed under the Creative Commons Attribution-ShareAlike 3.0 (Unported) License, for details see:  http://creativecommons.org/licenses/by-sa/3.0 http://creativecommons.org/licenses/by-sa/3.0</tagline>
+    <rights>Creative Commons Attribution-ShareAlike 3.0</rights>
+  </identification>
+  <part-list />
+</score-partwise>

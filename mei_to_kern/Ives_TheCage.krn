@@ -1,0 +1,101 @@
+!!!COM: Charles Ives
+!!!OTL: The Cage
+**kern	**kern	**kern	**text
+*part3	*part2	*part1	*part1
+*staff3	*staff2	*staff1	*staff1
+*clefF4	*clefG2	*clefG2	*
+!!Warning: measure 1, staff 1 padded. adding token 16%25ryy at end ot measure to extend its duration.
+!!Error: measure 1 staff 3 is overfilled: 10.25 quarter notes instead of 0.
+!!Error: measure 1 staff 2 is overfilled: 10.25 quarter notes instead of 0.
+!!Error: measure 1 staff 1 is overfilled: 4 quarter notes instead of 0.
+!	!LO:TX:a:i:t=evenly and mechanically, no ritard., cresc., accel. etc. (repeat 2 or 3 times)	!	!
+*^	*^	*	*
+2F# 2b	2DD# 2GG# 2C#	2ryy	4.c#	1r	.
+.	.	.	4e	.	.
+4.G#	4.AA# 4.D#	4.f#	.	.	.
+.	.	.	8c	.	.
+.	.	.	8d#	.	.
+4B	4C# 4F#	4a	8B	.	.
+.	.	.	1e	16%25ryy	.
+8.G	8.AA 8.D	8.f	.	.	.
+8A#	8BB# 8E#	8g#	.	.	.
+8F#	8C#	8a 8e	.	.	.
+1A	1FF	1ff# 1cc#	.	.	.
+2F# 2B	2GG# 2C#	2e	2ryy	8r	.
+.	.	.	.	8f#	A
+.	.	.	.	8g#	leop-
+.	.	.	.	8a#	-ard
+8F# 8B	8GG# 8C#	8e	8ryy	8g#	went
+4G#	4D#	4f# 4b	4c#	8f#	a-
+.	.	.	.	8e	-round
+4B	4F#	4a 4dd	4e	8d	his
+.	.	.	.	8e	cage
+4.G	4.D	4.f 4.b-	4c	8f	from
+.	.	.	.	8g	one
+*	*	*v	*v	*	*
+.	.	.	8a	side
+*v	*v	*	*	*
+=2	=2	=2	=2
+*	*^	*	*
+!!Warning: measure 3, staff 1 padded. adding token 4.ryy at end ot measure to extend its duration.
+!!Error: measure 3 staff 3 is overfilled: 13 quarter notes instead of 0.
+!!Error: measure 3 staff 2 is overfilled: 13 quarter notes instead of 0.
+!!Error: measure 3 staff 1 is overfilled: 11.5 quarter notes instead of 0.
+2A#	2g# 2cc#	2d#	8b	back
+.	.	.	4cc#	to
+.	.	.	8b	the
+2.B	2.a 2.dd	2.e	4a	oth-
+.	.	.	8b	-er
+.	.	.	8a	side;
+.	.	.	8g	he
+.	.	.	8a	stopped
+4.d	4.ff# 4.bbn	4.a	4a	.
+.	.	.	8b-	on-
+4B	4a 4dd	4e	8cc	-ly
+.	.	.	8cc	when
+4c	4a# 4dd#	4e#	8ee	the
+.	.	.	8dd	keep-
+4ryy	4.b 4.ee 4.aa	4.c# 4.f#	8cc	-er
+.	.	.	8a#	came
+4.ryy	.	.	8g#	a-
+.	4cc 4ff 4bb-	4d 4g 4cc	8f#	-round
+.	.	.	8e	with
+2ryy	2cc# 2ff# 2bb	2d# 2g# 2cc#	8f#	meat;
+.	.	.	4.ryy	.
+*^	*	*	*	*
+2ryy	2ryy	2gg 2ccc	2e 2a 2dd	8r	.
+.	.	.	.	4g	.
+.	.	.	.	8a	.
+8ryy	8ryy	8gg 8ccc	8e 8a 8dd	8a	.
+4.ryy	4.ryy	4.ee 4.aa	4.c# 4.f# 4.b	8b	.
+.	.	.	.	8cc#	.
+.	.	.	.	8cc#	.
+8A-	4ryy	8ff 8ccc	4e- 4b-	8dd#	.
+4G	.	4e- 4b	.	4.ee	.
+*v	*v	*	*	*	*
+.	.	4d 4a	.	.
+4F	4d 4a	.	.	.
+.	.	4c 4g	8dd#	.
+4ryy	4cc# 4ff# 4dd	.	8cc#	.
+.	.	4d# 4g#	8b	.
+=3	=3	=3	=3	=3
+*^	*	*	*	*
+2.F 2.c	2.AAA 2.D#	2.ff 2.bb 2.ddd# 2.eee	.	4a	won-
+*	*	*v	*v	*	*
+.	.	.	2a	-der
+*	*	*^	*	*
+2F# 2B	2G# 2C#	2e	2ryy	8a	.
+.	.	.	.	8f#	"Is
+.	.	.	.	8g#	.
+.	.	.	.	8a#	life
+8F# 8B	8G# 8C#	8e	8ryy	8g#'>	an-
+4G#	4D#	4f# 4bb'>	4c#	8f#'>	-y-
+.	.	.	.	8e'>	-thing
+8B	8F#	8a 8dd'	8e	8d'	like
+8r	8ryy	8r	8ryy	8e'	that?"
+8r	8ryy	8r;	8ryy	8r;	.
+*v	*v	*	*	*	*
+*	*v	*v	*	*
+==	==	==	==
+*-	*-	*-	*-
+!!!RDF**kern: > = above

@@ -1,0 +1,2331 @@
+!!!OTL: "Non più di fiori" KV 621/23
+!!!system-decoration: [(s1,s2,s3,s4)][(s5)][({(s6,s7)}s8)]s9[(s10)]
+**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**text	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**dynam
+*part10	*part10	*part10	*part10	*part10	*part10	*part10	*part10	*part10	*part10	*part10	*part9	*part9	*part9	*part9	*part9	*part9	*part9	*part9	*part9	*part9	*part9	*part8	*part8	*part8	*part8	*part8	*part8	*part8	*part8	*part8	*part8	*part8	*part7	*part7	*part7	*part7	*part7	*part7	*part7	*part7	*part7	*part7	*part7	*part6	*part6	*part6	*part6	*part6	*part6	*part6	*part6	*part6	*part6	*part6	*part5	*part5	*part5	*part5	*part5	*part5	*part5	*part5	*part5	*part5	*part5	*part4	*part4	*part4	*part4	*part4	*part4	*part4	*part4	*part4	*part4	*part4	*part3	*part3	*part3	*part3	*part3	*part3	*part3	*part3	*part3	*part3	*part2	*part2	*part2	*part2	*part2	*part2	*part2	*part2	*part2	*part2	*part2	*part1	*part1	*part1	*part1	*part1	*part1	*part1	*part1	*part1	*part1	*part1
+*staff100	*staff99	*staff98	*staff97	*staff96	*staff95	*staff94	*staff93	*staff92	*staff91	*	*staff90	*staff89	*staff88	*staff87	*staff86	*staff85	*staff84	*staff83	*staff82	*staff81	*staff81	*staff80	*staff79	*staff78	*staff77	*staff76	*staff75	*staff74	*staff73	*staff72	*staff71	*	*staff70	*staff69	*staff68	*staff67	*staff66	*staff65	*staff64	*staff63	*staff62	*staff61	*	*staff60	*staff59	*staff58	*staff57	*staff56	*staff55	*staff54	*staff53	*staff52	*staff51	*	*staff50	*staff49	*staff48	*staff47	*staff46	*staff45	*staff44	*staff43	*staff42	*staff41	*	*staff40	*staff39	*staff38	*staff37	*staff36	*staff35	*staff34	*staff33	*staff32	*staff31	*	*staff30	*staff29	*staff28	*staff27	*staff26	*staff25	*staff24	*staff23	*staff22	*staff21	*staff20	*staff19	*staff18	*staff17	*staff16	*staff15	*staff14	*staff13	*staff12	*staff11	*	*staff10	*staff9	*staff8	*staff7	*staff6	*staff5	*staff4	*staff3	*staff2	*staff1	*
+*I'Vc. e Bs.	*	*	*	*	*	*	*	*	*	*	*I'Vit.	*	*	*	*	*	*	*	*	*	*	*I'Va.	*	*	*	*	*	*	*	*	*	*	*I'Vl. II	*	*	*	*	*	*	*	*	*	*	*I'Vl. I	*	*	*	*	*	*	*	*	*	*	*I'Cor.	*	*	*	*	*	*	*	*	*	*	*I'Fag.	*	*	*	*	*	*	*	*	*	*	*I'CorB	*	*	*	*	*	*	*	*	*	*I'Ob.	*	*	*	*	*	*	*	*	*	*	*I'Fl.	*	*	*	*	*	*	*	*	*	*
+*clefF4	*	*clefG2	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefF4	*	*clefG2	*clefG2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*k[b-]	*	*k[b-]	*
+*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*	*M3/8	*M3/8	*	*M3/8	*
+*	*	*	*	*	*	*	*	*	*	*ITrd0c7	*	*	*	*ITrd0c7	*	*	*	*
+!!Warning: measure 1, staff 9 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 1, staff 5 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 1, staff 4 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 1, staff 2 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 1, staff 1 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 1 staff 10 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 1 staff 8 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 1 staff 7 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 1 staff 6 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 1 staff 3 is overfilled: 1.5 quarter notes instead of 1.
+8F	.	4r	.	(16FL	.	(16AL	.	(8aaL	.	4r	.	4r	.	(8eeL	4r	.	4r	.
+.	.	.	.	16A	.	16c	.	.	.	.	.	.	.	.	.	.	.	.
+8r	.	.	.	16F	.	16A	.	8ccc	.	.	.	.	.	8gg	.	.	.	.
+.	.	.	.	16A	.	16c	.	.	.	.	.	.	.	.	.	.	.	.
+8r	.	8ryy	.	16F	.	16A	.	8ffJ	.	8ryy	.	8ryy	.	8ccJ	8ryy	.	8ryy	.
+.	.	.	.	16AJ)	.	16cJ)	.	.	.	.	.	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+!!Warning: measure 2, staff 9 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 2, staff 5 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 2, staff 4 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 2, staff 2 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 2, staff 1 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 2 staff 10 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 2 staff 8 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 2 staff 7 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 2 staff 6 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 2 staff 3 is overfilled: 1.5 quarter notes instead of 1.
+(4C	.	4r	.	(16GL	.	(16B-yL	.	4ee	.	4r	.	4r	.	4b	4r	.	4r	.
+.	.	.	.	16B-y	.	16c	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16G	.	16B-y	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16B-y	.	16c	.	.	.	.	.	.	.	.	.	.	.	.
+8F)	.	8ryy	.	16F	.	16A	.	8ff)	.	8ryy	.	8ryy	.	8cc)	8ryy	.	8ryy	.
+.	.	.	.	16AJ)	.	16cJ)	.	.	.	.	.	.	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+!!Warning: measure 3, staff 9 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 3, staff 5 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 3, staff 4 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 3, staff 2 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 3, staff 1 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 3 staff 10 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 3 staff 8 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 3 staff 7 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 3 staff 6 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 3 staff 3 is overfilled: 1.5 quarter notes instead of 1.
+(8CL	.	4r	.	(16EL	.	(16GL	.	(8ggL	.	4r	.	4r	.	(8ddL	4r	.	4r	.
+.	.	.	.	16G	.	16c	.	.	.	.	.	.	.	.	.	.	.	.
+8F	.	.	.	16F	.	16A	.	8aa	.	.	.	.	.	8ee	.	.	.	.
+.	.	.	.	16A	.	16c	.	.	.	.	.	.	.	.	.	.	.	.
+8BB-yJ)	.	8ryy	.	16G	.	16B-y	.	8bb-yJ	.	8ryy	.	8ryy	.	8ffJ	8ryy	.	8ryy	.
+.	.	.	.	16B-yJ)	.	16dJ)	.	.	.	.	.	.	.	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+!!Warning: measure 4, staff 9 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 4, staff 5 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 4, staff 4 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 4, staff 2 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 4, staff 1 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 4 staff 10 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 4 staff 8 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 4 staff 7 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 4 staff 6 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 4 staff 3 is overfilled: 1.5 quarter notes instead of 1.
+8C	.	4r	.	16EL	.	16GL	.	8gg)	.	4r	.	4r	.	8dd)	4r	.	4r	.
+.	.	.	.	(32e	.	(32g	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32dJ	.	32fJ	.	.	.	.	.	.	.	.	.	.	.	.
+8r	.	.	.	16cL	.	16eL	.	8r	.	.	.	.	.	8r	.	.	.	.
+.	.	.	.	16B-y	.	16d	.	.	.	.	.	.	.	.	.	.	.	.
+8r	.	8ryy	.	16A	.	16c	.	8r	.	8ryy	.	8ryy	.	8r	8ryy	.	8ryy	.
+.	.	.	.	16GJ)	.	16B-yJ)	.	.	.	.	.	.	.	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+!!Warning: measure 5, staff 9 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 5, staff 5 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 5, staff 4 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 5, staff 2 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 5, staff 1 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 5 staff 10 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 5 staff 8 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 5 staff 7 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 5 staff 6 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 5 staff 3 is overfilled: 1.5 quarter notes instead of 1.
+8F	.	4r	.	(16FL	.	(16AL	.	(8aaL	.	4r	.	4r	.	(8eeL	4r	.	4r	.
+.	.	.	.	16A	.	16c	.	.	.	.	.	.	.	.	.	.	.	.
+8r	.	.	.	16F	.	16A	.	8ccc	.	.	.	.	.	8gg	.	.	.	.
+.	.	.	.	16A	.	16c	.	.	.	.	.	.	.	.	.	.	.	.
+8r	.	8ryy	.	16F	.	16A	.	8ffJ	.	8ryy	.	8ryy	.	8ccJ	8ryy	.	8ryy	.
+.	.	.	.	16AJ)	.	16cJ)	.	.	.	.	.	.	.	.	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+!!Warning: measure 6, staff 9 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 6, staff 5 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 6, staff 4 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 6, staff 2 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 6, staff 1 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 6 staff 10 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 6 staff 8 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 6 staff 7 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 6 staff 6 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 6 staff 3 is overfilled: 1.5 quarter notes instead of 1.
+(4BB-y	.	4r	.	(16FL	.	(16B-yL	.	4ddd	.	4r	.	4r	.	4aa	4r	.	4r	.
+.	.	.	.	16B-y	.	16d	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16F	.	16B-y	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16B-y	.	16d	.	.	.	.	.	.	.	.	.	.	.	.
+8AA)	.	8ryy	.	16F	.	16c	.	8ccc)	.	8ryy	.	8ryy	.	8gg)	8ryy	.	8ryy	.
+.	.	.	.	16cJ)	.	16fJ)	.	.	.	.	.	.	.	.	.	.	.	.
+!!LO:LB
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+!!Warning: measure 7, staff 9 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 7, staff 5 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 7, staff 4 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 7, staff 2 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 7, staff 1 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 7 staff 10 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 7 staff 8 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 7 staff 7 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 7 staff 6 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 7 staff 3 is overfilled: 1.5 quarter notes instead of 1.
+8CL	.	4r	.	(16AL	.	(16cL	.	(8ffL	.	4r	.	4r	.	(8ccL	4r	.	4r	.
+.	.	.	.	16c	.	16f	.	.	.	.	.	.	.	.	.	.	.	.
+8C	.	.	.	16A	.	16c	.	16.aa	.	.	.	.	.	16.ee	.	.	.	.
+.	.	.	.	16c	.	16f	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	32bb-y	.	.	.	.	.	32ff	.	.	.	.
+8CJ	.	8ryy	.	16B-y	.	16c	.	16.gg	.	8ryy	.	8ryy	.	16.dd	8ryy	.	8ryy	.
+.	.	.	.	16cJ)	.	16eJ)	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	32aaJ)	.	.	.	.	.	32eeJ)	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+!!Warning: measure 8, staff 9 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 8, staff 5 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 8, staff 4 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 8, staff 2 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 8, staff 1 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 8 staff 10 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 8 staff 8 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 8 staff 7 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 8 staff 6 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 8 staff 3 is overfilled: 1.5 quarter notes instead of 1.
+8FF	.	4r	.	16A	.	16f	.	8ff	.	4r	.	4r	.	8cc	4r	.	4r	.
+.	.	.	.	(16dL	.	(16fL	.	.	.	.	.	.	.	.	.	.	.	.
+8r	.	.	.	16c	.	16e	.	8r	.	.	.	.	.	8r	.	.	.	.
+.	.	.	.	16B-y	.	16d	.	.	.	.	.	.	.	.	.	.	.	.
+8r	.	8ryy	.	16A	.	16c	.	8r	.	8ryy	.	8ryy	.	8r	8ryy	.	8ryy	.
+.	.	.	.	16GJ)	.	16B-yJ)	.	.	.	.	.	.	.	.	.	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+!!Warning: measure 9, staff 5 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 9, staff 4 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 9, staff 3 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 9, staff 2 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 9, staff 1 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 9 staff 10 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 9 staff 9 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 9 staff 8 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 9 staff 7 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 9 staff 6 is overfilled: 1.5 quarter notes instead of 1.
+8F	.	8a	Non	(16FL	.	(16AL	.	(8aaL	.	4r	.	4r	.	4r	4r	.	4r	.
+.	.	.	.	16A	.	16c	.	.	.	.	.	.	.	.	.	.	.	.
+8r	.	8cc	più	16F	.	16A	.	8ccc	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16A	.	16c	.	.	.	.	.	.	.	.	.	.	.	.
+8r	.	8f	di	16F	.	16A	.	8ffJ	.	8ryy	.	8ryy	.	8ryy	8ryy	.	8ryy	.
+.	.	.	.	16AJ)	.	16cJ)	.	.	.	.	.	.	.	.	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+!!Warning: measure 10, staff 5 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 10, staff 4 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 10, staff 3 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 10, staff 2 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 10, staff 1 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 10 staff 10 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 10 staff 9 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 10 staff 8 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 10 staff 7 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 10 staff 6 is overfilled: 1.5 quarter notes instead of 1.
+(4C	.	4e	fio-	(16GL	.	(16B-yL	.	4ee	.	4r	.	4r	.	4r	4r	.	4r	.
+.	.	.	.	16B-y	.	16c	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16G	.	16B-y	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16B-y	.	16c	.	.	.	.	.	.	.	.	.	.	.	.
+8F)	.	8f	-ri	16F	.	16A	.	8ff)	.	8ryy	.	8ryy	.	8ryy	8ryy	.	8ryy	.
+.	.	.	.	16AJ)	.	16cJ)	.	.	.	.	.	.	.	.	.	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+!!Warning: measure 11, staff 5 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 11, staff 4 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 11, staff 3 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 11, staff 2 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 11, staff 1 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 11 staff 10 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 11 staff 9 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 11 staff 8 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 11 staff 7 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 11 staff 6 is overfilled: 1.5 quarter notes instead of 1.
+(8CL	.	8g	va-	(16EL	.	(16GL	.	(8ggL	.	4r	.	4r	.	4r	4r	.	4r	.
+.	.	.	.	16G	.	16c	.	.	.	.	.	.	.	.	.	.	.	.
+8F	.	8a	-ghe	16F	.	16A	.	8aa	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16A	.	16c	.	.	.	.	.	.	.	.	.	.	.	.
+8BB-yJ)	.	8b-y	ca-	16G	.	16B-y	.	8bb-yJ)	.	8ryy	.	8ryy	.	8ryy	8ryy	.	8ryy	.
+.	.	.	.	16B-yJ)	.	16dJ)	.	.	.	.	.	.	.	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+!!Warning: measure 12, staff 5 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 12, staff 4 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 12, staff 3 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 12, staff 2 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 12, staff 1 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 12 staff 10 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 12 staff 9 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 12 staff 8 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 12 staff 7 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 12 staff 6 is overfilled: 1.5 quarter notes instead of 1.
+8C	.	8g	te-	16EL	.	16GL	.	8gg	.	4r	.	4r	.	4r	4r	.	4r	.
+.	.	.	.	(32e	.	(32g	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	32dJ	.	32fJ	.	.	.	.	.	.	.	.	.	.	.	.
+8r	.	8g	-ne	16cL	.	16eL	.	8r	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16B-y	.	16d	.	.	.	.	.	.	.	.	.	.	.	.
+8r	.	8r	.	16A	.	16c	.	8r	.	8ryy	.	8ryy	.	8ryy	8ryy	.	8ryy	.
+.	.	.	.	16GJ)	.	16B-yJ)	.	.	.	.	.	.	.	.	.	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+!!Warning: measure 13, staff 5 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 13, staff 4 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 13, staff 3 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 13, staff 2 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 13, staff 1 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 13 staff 10 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 13 staff 9 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 13 staff 8 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 13 staff 7 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 13 staff 6 is overfilled: 1.5 quarter notes instead of 1.
+8F	.	8a	di-	(16FL	.	(16AL	.	(8aaL	.	4r	.	4r	.	4r	4r	.	4r	.
+.	.	.	.	16A	.	16c	.	.	.	.	.	.	.	.	.	.	.	.
+8r	.	8cc	-scen-	16F	.	16A	.	8ccc	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16A	.	16c	.	.	.	.	.	.	.	.	.	.	.	.
+8r	.	8f	-da I-	16F	.	16A	.	8ffJ	.	8ryy	.	8ryy	.	8ryy	8ryy	.	8ryy	.
+.	.	.	.	16AJ)	.	16cJ)	.	.	.	.	.	.	.	.	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+!!Warning: measure 14, staff 5 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 14, staff 4 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 14, staff 3 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 14, staff 2 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 14, staff 1 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 14 staff 10 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 14 staff 9 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 14 staff 8 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 14 staff 7 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 14 staff 6 is overfilled: 1.5 quarter notes instead of 1.
+(4BB-y	.	(8.b-yL	me-	(16FL	.	(16B-yL	.	4ddd	.	4r	.	4r	.	4r	4r	.	4r	.
+.	.	.	.	16B-y	.	16d	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16F	.	16B-y	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	32cc	.	16B-y	.	16d	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	32ddJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8AA)	.	8cc	-ne	16F	.	16c	.	8ccc)	.	8ryy	.	8ryy	.	8ryy	8ryy	.	8ryy	.
+.	.	.	.	16cJ)	.	16fJ)	.	.	.	.	.	.	.	.	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+!!Warning: measure 15, staff 5 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 15, staff 4 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 15, staff 3 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 15, staff 2 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 15, staff 1 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 15 staff 10 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 15 staff 9 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 15 staff 8 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 15 staff 7 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 15 staff 6 is overfilled: 1.5 quarter notes instead of 1.
+8CL	.	8f	ad	(16AL	.	(16cL	.	(8ffL	.	4r	.	4r	.	4r	4r	.	4r	.
+.	.	.	.	16c	.	16f	.	.	.	.	.	.	.	.	.	.	.	.
+8C	.	(16.aL	in-	16A	.	16c	.	16.aa	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16c	.	16f	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	32b-yJ)	.	.	.	.	.	32bb-y	.	.	.	.	.	.	.	.	.	.
+8CJ	.	(16.gL	-trec-	16B-y	.	16c	.	16.gg	.	8ryy	.	8ryy	.	8ryy	8ryy	.	8ryy	.
+.	.	.	.	16cJ)	.	16eJ)	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	32aJ)	.	.	.	.	.	32aaJ)	.	.	.	.	.	.	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+!!Warning: measure 16, staff 9 padded. adding token 4.ryy at end ot measure to extend its duration.
+!!Warning: measure 16, staff 5 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 16, staff 4 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 16, staff 3 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 16, staff 2 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 16, staff 1 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 16 staff 10 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 16, staff 9 is underfilled: adding token 4ryy at end of measure to complete its duration.
+!!Error: measure 16 staff 8 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 16 staff 7 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 16 staff 6 is overfilled: 1.5 quarter notes instead of 1.
+8F	.	4.ryy	.	16A	.	16f	.	8ff	.	4r	.	4r	.	4r	4r	.	4r	.
+.	.	.	.	(16fL	.	(16aL	.	.	.	.	.	.	.	.	.	.	.	.
+8r	.	.	.	16e	.	16g	.	8r	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16d	.	16f	.	.	.	.	.	.	.	.	.	.	.	.
+8r	.	.	.	16c	.	16e	.	8r	.	8ryy	.	8ryy	.	8ryy	8ryy	.	8ryy	.
+.	.	.	.	16BnJ)	.	16dJ)	.	.	.	.	.	.	.	.	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+!!Warning: measure 17, staff 5 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 17, staff 4 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 17, staff 3 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 17, staff 2 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 17, staff 1 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 17 staff 10 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 17 staff 9 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 17 staff 8 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 17 staff 7 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 17 staff 6 is overfilled: 1.5 quarter notes instead of 1.
+8C	.	8g	Stret-	(16cL	.	(16eL	.	8r	.	4r	.	4r	.	4r	4r	.	4r	.
+.	.	.	.	16e	.	16g	.	.	.	.	.	.	.	.	.	.	.	.
+8r	.	8.cc	-ta	16c	.	16e	.	16ccc'	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16e	.	16g	.	16r	.	.	.	.	.	.	.	.	.	.
+8r	.	.	.	16c	.	16e	.	16eee'	.	8ryy	.	8ryy	.	8ryy	8ryy	.	8ryy	.
+.	.	16ee	fra	16eJ	.	16gJ	.	16r	.	.	.	.	.	.	.	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+!!Warning: measure 18, staff 5 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 18, staff 4 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 18, staff 3 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 18, staff 2 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 18, staff 1 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 18 staff 10 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 18 staff 9 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 18 staff 8 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 18 staff 7 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 18 staff 6 is overfilled: 1.5 quarter notes instead of 1.
+8C	.	16.g	bar-	16cL	.	16eL	.	8r	.	4r	.	4r	.	4r	4r	.	4r	.
+.	.	.	.	16e	.	16g	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	32e	-ba-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8r	.	8c	-re	16c	.	16e	.	16gg'	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16e	.	16g	.	16r	.	.	.	.	.	.	.	.	.	.
+8r	.	8r	.	16c	.	16e	.	16ee'	.	8ryy	.	8ryy	.	8ryy	8ryy	.	8ryy	.
+.	.	.	.	16eJ)	.	16gJ)	.	16r	.	.	.	.	.	.	.	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+!!Warning: measure 19, staff 5 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 19, staff 4 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 19, staff 3 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 19, staff 2 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 19, staff 1 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 19 staff 10 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 19 staff 9 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 19 staff 8 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 19 staff 7 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 19 staff 6 is overfilled: 1.5 quarter notes instead of 1.
+8GG	.	8f	a-	(16BnL	.	(16dL	.	8r	.	4r	.	4r	.	4r	4r	.	4r	.
+.	.	.	.	16d	.	16f	.	.	.	.	.	.	.	.	.	.	.	.
+8r	.	8.bn	-spre	16B	.	16d	.	16bbn'	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16d	.	16f	.	16r	.	.	.	.	.	.	.	.	.	.
+8r	.	.	.	16B	.	16d	.	16ddd'	.	8ryy	.	8ryy	.	8ryy	8ryy	.	8ryy	.
+.	.	16dd	ri-	16dJ	.	16fJ	.	16r	.	.	.	.	.	.	.	.	.	.
+=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
+!!Warning: measure 20, staff 5 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 20, staff 4 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 20, staff 3 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 20, staff 2 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 20, staff 1 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 20 staff 10 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 20 staff 9 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 20 staff 8 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 20 staff 7 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 20 staff 6 is overfilled: 1.5 quarter notes instead of 1.
+8GG	.	(16.fL	tor-	16BL	.	16dL	.	8r	.	4r	.	4r	.	4r	4r	.	4r	.
+.	.	.	.	16d	.	16f	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	32dJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8r	.	8Bn	-te	16B	.	16d	.	16ff'	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16d	.	16f	.	16r	.	.	.	.	.	.	.	.	.	.
+8r	.	8r	.	16B	.	16d	.	16dd'	.	8ryy	.	8ryy	.	8ryy	8ryy	.	8ryy	.
+.	.	.	.	16dJ)	.	16fJ)	.	16r	.	.	.	.	.	.	.	.	.	.
+!!LO:LB
+=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
+!!Warning: measure 21, staff 5 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 21, staff 4 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 21, staff 3 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 21, staff 2 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 21, staff 1 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 21 staff 10 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 21 staff 9 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 21 staff 8 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 21 staff 7 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 21 staff 6 is overfilled: 1.5 quarter notes instead of 1.
+(8cL	.	8cc	veg-	(8cL	.	(8ccL	.	(8ccL	.	4r	.	4r	.	4r	4r	.	4r	.
+16e	.	(16eeL	-go	16e	.	16ee	.	16ee	.	.	.	.	.	.	.	.	.	.
+16c	.	16ccJ)	.	16c	.	16cc	.	16cc	.	.	.	.	.	.	.	.	.	.
+16G	.	(16gL	la	16G	.	16g	.	16g	.	8ryy	.	8ryy	.	8ryy	8ryy	.	8ryy	.
+16EJ)	.	16eJ)	.	16EJ)	.	16eJ)	.	16eJ)	.	.	.	.	.	.	.	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
+!!Warning: measure 22, staff 5 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 22, staff 4 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 22, staff 3 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 22, staff 2 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 22, staff 1 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 22 staff 10 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 22 staff 9 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 22 staff 8 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 22 staff 7 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 22 staff 6 is overfilled: 1.5 quarter notes instead of 1.
+(8cL	.	(8ccL	mor-	(8cL	.	(8ccL	.	(8ccL	.	4r	.	4r	.	4r	4r	.	4r	.
+16e	.	16ee	.	16e	.	16ee	.	16ee	.	.	.	.	.	.	.	.	.	.
+16c	.	16ccJ)	.	16c	.	16cc	.	16cc	.	.	.	.	.	.	.	.	.	.
+16G	.	(16gL	-te	16G	.	16g	.	16g	.	8ryy	.	8ryy	.	8ryy	8ryy	.	8ryy	.
+16EJ)	.	16eJ)	.	16EJ)	.	16eJ)	.	16eJ)	.	.	.	.	.	.	.	.	.	.
+=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
+!!Warning: measure 23, staff 5 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 23, staff 4 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 23, staff 3 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 23, staff 2 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 23, staff 1 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 23 staff 10 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 23 staff 9 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 23 staff 8 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 23 staff 7 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 23 staff 6 is overfilled: 1.5 quarter notes instead of 1.
+8F'L	.	(16fL	ver	8F'L	.	8d'L	.	8f'L	.	4r	.	4r	.	4r	4r	.	4r	.
+.	.	32g	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	32aJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8G'	.	8.g	me a-	8G'	.	8c'	.	8e'	.	.	.	.	.	.	.	.	.	.
+8G'J	.	.	.	8G'J	.	8Bn'J	.	8d'J	.	8ryy	.	8ryy	.	8ryy	8ryy	.	8ryy	.
+.	.	16bn	-van-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
+!!Warning: measure 24, staff 5 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 24, staff 4 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 24, staff 3 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 24, staff 2 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 24, staff 1 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 24 staff 10 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 24 staff 9 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 24 staff 8 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 24 staff 7 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 24 staff 6 is overfilled: 1.5 quarter notes instead of 1.
+8C	.	4cc	zar,	8c	.	16c'L	.	16c'L	.	4r	.	4r	.	4r	4r	.	4r	.
+.	.	.	.	.	.	16c'	.	16e'	.	.	.	.	.	.	.	.	.	.
+8r	.	.	.	8r	.	16d'	.	16f'	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	16e'	.	16g'	.	.	.	.	.	.	.	.	.	.
+8r	.	8r	.	8r	.	16f'	.	16a'	.	8ryy	.	8ryy	.	8ryy	8ryy	.	8ryy	.
+.	.	.	.	.	.	16d'J	.	16bn'J	.	.	.	.	.	.	.	.	.	.
+=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
+!!Warning: measure 25, staff 5 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 25, staff 2 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 25 staff 10 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 25 staff 9 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 25 staff 8 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 25 staff 7 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 25 staff 6 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 25 staff 4 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 25 staff 3 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 25 staff 1 is overfilled: 1.5 quarter notes instead of 1.
+8C	.	[8ccL	veg-	8G	.	8e	.	8cc	.	4r	.	(8cL	.	(8ggL	4r	.	(8cccL	.
+8r	.	(32cc_	.	8r	.	8r	.	8r	.	.	.	16e	.	16bb	.	.	16eee	.
+.	.	32ee	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	32gg	.	.	.	.	.	.	.	.	.	16c	.	16gg	.	.	16ccc	.
+.	.	32eeJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8r	.	(32ccL	-go	8r	.	8r	.	8r	.	8ryy	.	16G	.	16dd	8ryy	.	16gg	.
+.	.	32gJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	(32eL	la	.	.	.	.	.	.	.	.	16EJ)	.	16bJ)	.	.	16eeJ)	.
+.	.	32gJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
+!!Warning: measure 26, staff 5 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 26, staff 2 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 26 staff 10 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 26 staff 9 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 26 staff 8 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 26 staff 7 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 26 staff 6 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 26 staff 4 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 26 staff 3 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 26 staff 1 is overfilled: 1.5 quarter notes instead of 1.
+8C	.	[8ccL	mor-	8c	.	8e	.	8g	.	4r	.	(8cL	.	(8ggL	4r	.	(8cccL	.
+8r	.	(32cc_	.	8r	.	8r	.	8r	.	.	.	16e	.	16bb	.	.	16eee	.
+.	.	32ee	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	32gg	.	.	.	.	.	.	.	.	.	16c	.	16gg	.	.	16ccc	.
+.	.	32eeJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8r	.	(32ccL	-te	8r	.	8r	.	8r	.	8ryy	.	16G	.	16dd	8ryy	.	16gg	.
+.	.	32g	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	32e	.	.	.	.	.	.	.	.	.	16EJ)	.	16bJ)	.	.	16eeJ)	.
+.	.	32gJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27
+!!Warning: measure 27, staff 5 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 27, staff 2 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 27 staff 10 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 27 staff 9 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 27 staff 8 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 27 staff 7 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 27 staff 6 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 27 staff 4 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 27 staff 3 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 27 staff 1 is overfilled: 1.5 quarter notes instead of 1.
+8FL	.	(16fL	ver	8A'L	.	8d'L	.	8f'L	.	4r	.	8F'L	.	8aa'L	4r	.	8ff'L	.
+.	.	32g	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	32aJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8G	.	8.g	me a-	8G'	.	8c'	.	8e'	.	.	.	8G'	.	8gg'	.	.	8ee'	.
+8GGJ	.	.	.	8F'J	.	8Bn'J	.	8d'J	.	8ryy	.	8GG'J	.	8ff#'J	8ryy	.	8dd'J	.
+.	.	16Bn	-van-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28
+!!Warning: measure 28, staff 5 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 28, staff 2 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 28 staff 10 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 28 staff 9 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 28 staff 8 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 28 staff 7 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 28 staff 6 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 28 staff 4 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 28 staff 3 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 28 staff 1 is overfilled: 1.5 quarter notes instead of 1.
+8C	.	4.c	zar.	8E	.	8c	.	8c	.	4r	.	8C	.	8gg	4r	.	8cc	.
+8r	.	.	.	8r	.	8r	.	8r	.	.	.	8r	.	8r	.	.	8r	.
+8r	.	.	.	8r	.	8r	.	8r	.	8ryy	.	8r	.	8r	8ryy	.	8r	.
+=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29
+*	*	*	*	*	*	*	*	*	*	*^	*	*^	*	*	*	*	*	*
+!!Warning: measure 29, staff 8 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 29, staff 7 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 29, staff 6 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 29, staff 2 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 29 staff 10 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 29 staff 9 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 29 staff 5 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 29 staff 4 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 29 staff 3 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 29 staff 1 is overfilled: 1.5 quarter notes instead of 1.
+8F	.	8a	Non	4r	.	4r	.	4r	.	[4.g	[4.g	.	8r	(8FL	.	24cL	4r	.	(8aaL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24e	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24gJ	.	.	.	.
+8r	.	8cc	più	.	.	.	.	.	.	.	.	.	(8AL	8AJ)	.	24cL	.	.	8ccc	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24e	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24gJ	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*
+8r	.	8f	di	8ryy	.	8ryy	.	8ryy	.	.	.	.	8cJ)	.	24cL	8ryy	.	8ffJ	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24e	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24gJ	.	.	.	.
+=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30
+*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*
+!!Warning: measure 30, staff 8 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 30, staff 7 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 30, staff 6 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 30, staff 2 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 30 staff 10 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 30 staff 9 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 30 staff 5 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 30 staff 4 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 30 staff 3 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 30 staff 1 is overfilled: 1.5 quarter notes instead of 1.
+(4C	.	4e	fio-	4r	.	4r	.	4r	.	4.g]	4.g]	.	8r	(8GL	.	24dL	4r	.	4ee	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24f	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24gJ	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	(8B-L	8FJ)	.	24dL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24f	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24gJ	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*
+8F)	.	8f	-ri	8ryy	.	8ryy	.	8ryy	.	.	.	.	8AJ)	.	24cL	8ryy	.	8ff)	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24e	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24gJ	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*
+=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31
+*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*
+!!Warning: measure 31, staff 8 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 31, staff 7 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 31, staff 6 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 31, staff 5 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 31, staff 2 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 31 staff 10 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 31 staff 9 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 31 staff 4 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 31 staff 3 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 31 staff 1 is overfilled: 1.5 quarter notes instead of 1.
+(8CL	.	8g	va-	4r	.	4r	.	4r	.	4r	.	(8eL	(8B-yL	.	24BL	4r	.	(8ggL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24d	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24gJ	.	.	.	.
+8F	.	8a	-ghe	.	.	.	.	.	.	.	.	8f	8A	.	24cL	.	.	8aa	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24e	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24gJ	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*clefF4	*	*	*	*
+8BB-yJ)	.	8b-y	ca-	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8gJ)	8dJ)	.	24FFL	8ryy	.	8bb-yJ)	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24AA	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24DJ	.	.	.	.
+=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32
+!!Warning: measure 32, staff 8 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 32, staff 7 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 32, staff 6 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 32, staff 5 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 32, staff 2 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 32 staff 10 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 32 staff 9 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 32 staff 4 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 32 staff 3 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 32 staff 1 is overfilled: 1.5 quarter notes instead of 1.
+8C	.	8g	te-	4r	.	4r	.	4r	.	4r	.	8e	8c	.	24GGL	4r	.	8gg	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24BB	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24DJ	.	.	.	.
+8r	.	8g	-ne	.	.	.	.	.	.	.	.	8r	1%0r	.	24GL	.	.	8r	.
+*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	24D	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	24BBJ	.	.	.	.
+8r	.	8r	.	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8r	.	24GGL	8ryy	.	8r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	24FF	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	24DDJ	.	.	.	.
+!!LO:LB
+=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33
+*	*	*	*	*	*	*	*	*	*	*^	*	*^	*	*	*	*	*	*
+!!Warning: measure 33, staff 8 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 33, staff 7 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 33, staff 6 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 33, staff 2 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 33 staff 10 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 33 staff 9 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 33 staff 5 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 33 staff 4 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 33 staff 3 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 33 staff 1 is overfilled: 1.5 quarter notes instead of 1.
+8F	.	8a	di-	4r	.	4r	.	4r	.	[4.cc	[4.c	.	8r	(8FL	.	24CCL	4r	.	(8aaL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24EE	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24GGJ	.	.	.	.
+8r	.	8cc	-scen-	.	.	.	.	.	.	.	.	.	(8AL	8AJ)	.	24CCL	.	.	8ccc	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24EE	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24GGJ	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*
+8r	.	8f	-da I-	8ryy	.	8ryy	.	8ryy	.	.	.	.	8cJ)	.	24CCL	8ryy	.	8ffJ)	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24EE	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24GGJ	.	.	.	.
+=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34
+*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*
+!!Warning: measure 34, staff 8 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 34, staff 7 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 34, staff 6 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 34, staff 2 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 34 staff 10 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 34 staff 9 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 34 staff 5 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 34 staff 4 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 34 staff 3 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 34 staff 1 is overfilled: 1.5 quarter notes instead of 1.
+(4BB-y	.	(8.b-yL	me-	4r	.	4r	.	4r	.	4.cc]	4.c]	.	8r	(8dL	.	24CCL	4r	.	(8.bb-yL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24FF	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24AAJ	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	(8fL	8cJ)	.	24CL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24AA	.	.	.	.
+.	.	32cc	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32ccc	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24FFJ	.	.	.	.
+.	.	32ddJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32dddJ)	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*
+8AA)	.	8cc	-ne	8ryy	.	8ryy	.	8ryy	.	.	.	.	8fJ)	.	24EEL	8ryy	.	8ccc	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24GG	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24CJ	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*
+=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35
+*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*
+!!Warning: measure 35, staff 8 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 35, staff 7 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 35, staff 6 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 35, staff 5 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 35, staff 2 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 35 staff 10 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 35 staff 9 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 35 staff 4 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 35 staff 3 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 35 staff 1 is overfilled: 1.5 quarter notes instead of 1.
+8CL	.	8f	ad	4r	.	4r	.	4r	.	4r	.	8r	((8cL	.	24GGL	4r	.	8ffL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24C	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24EJ	.	.	.	.
+8C	.	(16.aL	in-	.	.	.	.	.	.	.	.	(8fL	8B-yJ))	.	24GGL	.	.	(16.aa	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24C	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	24EJ	.	.	.	.
+.	.	32b-yJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32bb-y)	.
+*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*
+8CJ	.	(16.gL	-trec-	8ryy	.	8ryy	.	8ryy	.	8ryy	.	8eJ)	.	24GGL	8ryy	.	(16.gg	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	24BB	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	24DJ	.	.	.	.
+.	.	32aJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32aaJ)	.
+=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36
+*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*
+!!Warning: measure 36, staff 5 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 36, staff 2 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 36 staff 10 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 36 staff 9 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 36 staff 8 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 36 staff 7 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 36 staff 6 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 36 staff 4 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 36 staff 3 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 36 staff 1 is overfilled: 1.5 quarter notes instead of 1.
+8F	.	4f	ciar,	8F	.	8r	.	8r	.	4r	.	8f	8A	.	32r	4r	.	8ff	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32CCL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32EE	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32GGJ	.	.	.	.
+8r	.	.	.	8r	.	8f'L	.	8a'L	.	.	.	8r	1%0r	.	32CL	.	.	8r	.
+*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32E	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32G	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32EJ	.	.	.	.
+8r	.	8r	.	8r	.	8a'J	.	8cc'J	.	8ryy	.	8r	.	32CL	8ryy	.	8r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32GG	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32EE	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32CCJ	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*clefG2	*	*	*	*
+=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37
+!!Warning: measure 37, staff 5 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 37, staff 4 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 37, staff 2 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 37, staff 1 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 37 staff 10 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 37 staff 9 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 37 staff 8 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 37 staff 7 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 37 staff 6 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 37 staff 3 is overfilled: 1.5 quarter notes instead of 1.
+8C	.	8b-y	non	8c	.	8r	.	8r	.	4r	.	4r	.	32r	4r	.	4r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32GL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32B	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32dJ	.	.	.	.
+8r	.	8g	più	8r	.	8e'L	.	8g'L	.	.	.	.	.	32gL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32b	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32dd	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32ffJ	.	.	.	.
+8r	.	16r	.	8r	.	8g'J	.	8b-y'J	.	8ryy	.	8ryy	.	32ddL	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32b	.	.	.	.
+.	.	16e	di	.	.	.	.	.	.	.	.	.	.	32g	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32fJ	.	.	.	.
+=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38
+!!Warning: measure 38, staff 5 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 38, staff 4 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 38, staff 2 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 38, staff 1 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 38 staff 10 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 38 staff 9 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 38 staff 8 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 38 staff 7 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 38 staff 6 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 38 staff 3 is overfilled: 1.5 quarter notes instead of 1.
+8F	.	8f	fio-	8F	.	8r	.	8r	.	4r	.	4r	.	32r	4r	.	4r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32cL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32e	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32gJ	.	.	.	.
+8r	.	8a	-ri	8r	.	8f'L	.	8a'L	.	.	.	.	.	32ccL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32ee	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32gg	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32eeJ	.	.	.	.
+8r	.	8r	.	8r	.	8a'J	.	8cc'J	.	8ryy	.	8ryy	.	32ccL	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32g	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32e	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32cJ	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*clefF4	*	*	*	*
+=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39
+!!Warning: measure 39, staff 5 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 39, staff 4 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 39, staff 2 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 39, staff 1 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 39 staff 10 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 39 staff 9 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 39 staff 8 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 39 staff 7 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 39 staff 6 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 39 staff 3 is overfilled: 1.5 quarter notes instead of 1.
+8G	.	(16.bnL	va-	8G	.	8r	.	8r	.	4r	.	4r	.	32r	4r	.	4r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32DDL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32FF#	.	.	.	.
+.	.	64cc	.	.	.	.	.	.	.	.	.	.	.	32AAJ	.	.	.	.
+.	.	64ddJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8r	.	8f	-ghe	8r	.	8d'L	.	8bn'L	.	.	.	.	.	32DL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32F#	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32A	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32F#yJ	.	.	.	.
+8r	.	16r	.	8r	.	8f'J	.	8dd'J	.	8ryy	.	8ryy	.	32DL	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32C	.	.	.	.
+.	.	16g	ca-	.	.	.	.	.	.	.	.	.	.	32AA	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32FF#yJ	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*clefG2	*	*	*	*
+=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40
+!!Warning: measure 40, staff 5 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 40, staff 4 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 40, staff 2 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 40, staff 1 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 40 staff 10 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 40 staff 9 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 40 staff 8 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 40 staff 7 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 40 staff 6 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 40 staff 3 is overfilled: 1.5 quarter notes instead of 1.
+8C	.	8e	te-	8c	.	8r	.	8r	.	4r	.	4r	.	32r	4r	.	4r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32GL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32B	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32dJ	.	.	.	.
+8r	.	8c	-ne	8r	.	8c'L	.	8c'L	.	.	.	.	.	32gL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32b	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32dd	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32bJ	.	.	.	.
+8r	.	8r	.	8r	.	8c'J	.	8e'J	.	8ryy	.	8ryy	.	32gL	8ryy	.	8ryy	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32d	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32B	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32GJ	.	.	.	.
+!!LO:LB
+=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41
+!!Warning: measure 41, staff 10 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 41, staff 8 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 41, staff 5 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 41, staff 4 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 41, staff 3 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 41, staff 2 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 41, staff 1 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 41 staff 9 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 41 staff 7 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 41 staff 6 is overfilled: 1.5 quarter notes instead of 1.
+4r	.	(16fL	di-	4r	.	8A'L	.	8f'L	.	4r	.	4r	.	4r	4r	.	4r	.
+.	.	16aJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	(16aL	-scen-	.	.	8f'	.	8a'	.	.	.	.	.	.	.	.	.	.
+.	.	16ccJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8ryy	.	(16ccL	-da I-	8ryy	.	8a'J	.	8cc'J	.	8ryy	.	8ryy	.	8ryy	8ryy	.	8ryy	.
+.	.	16ddJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42
+!!Warning: measure 42, staff 5 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 42, staff 4 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 42, staff 3 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 42, staff 2 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 42, staff 1 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 42 staff 10 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 42 staff 9 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 42 staff 8 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 42 staff 7 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 42 staff 6 is overfilled: 1.5 quarter notes instead of 1.
+8BB-y	.	(8.ddL;	me-	8B-y	.	8f	.	8dd	.	4r	.	4r	.	4r	4r	.	4r	.
+8r;	.	.	.	8r;	.	8r;	.	8r;	.	.	.	.	.	.	.	.	.	.
+.	.	16eeJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16AA	.	8ff;	-ne	16A	.	16f	.	16cc	.	8ryy	.	8ryy	.	8ryy	8ryy	.	8ryy	.
+16r;	.	.	.	16r;	.	16r;	.	16r;	.	.	.	.	.	.	.	.	.	.
+=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43
+!!Warning: measure 43, staff 5 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 43, staff 4 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 43, staff 3 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 43, staff 2 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 43, staff 1 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 43 staff 10 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 43 staff 9 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 43 staff 8 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 43 staff 7 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 43 staff 6 is overfilled: 1.5 quarter notes instead of 1.
+8BB-yL	.	(16B-yL	ad	8B-yL	.	8g'L	.	8b-'L	.	4r	.	4r	.	4r	4r	.	4r	.
+.	.	32c	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	32dJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8C	.	8.c	in-	8c	.	8f'	.	8a'	.	.	.	.	.	.	.	.	.	.
+8CJ	.	.	.	8cJ	.	8e'J	.	8g'J	.	8ryy	.	8ryy	.	8ryy	8ryy	.	8ryy	.
+.	.	16e	-trec-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44
+4F	.	4f	ciar.	4f	.	8r	.	8r	.	1r	.	1r	.	[2cc	1r	.	1r	.
+.	.	.	.	.	.	8A-L	.	8fL	.	.	.	.	.	.	.	.	.	.
+4r	.	4r	.	4r	.	8A-y	.	8f	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	8A-yJ	.	8fJ	.	.	.	.	.	.	.	.	.	.
+2r	.	2r	.	2r	.	8A-yL	.	8fL	.	.	.	.	.	(8ccL_	.	.	.	.
+.	.	.	.	.	.	(8A-y	.	(8f	.	.	.	.	.	8ee-	.	.	.	.
+.	.	.	.	.	.	8B-y	.	8g	.	.	.	.	.	8dd	.	.	.	.
+.	.	.	.	.	.	8cJ)	.	8a-J)	.	.	.	.	.	8ccJ)	.	.	.	.
+=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45
+!!Error: measure 45, staff 7 is underfilled: adding token 2ryy at end of measure to complete its duration.
+!!Error: measure 45, staff 6 is underfilled: adding token 2ryy at end of measure to complete its duration.
+4C	.	1r	.	4c	.	8r	.	8r	.	1r	.	1r	.	(12bL	1r	.	1r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	12dd	.	.	.	.
+.	.	.	.	.	.	8GL	.	8eL	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ffJ)	.	.	.	.
+4r	.	.	.	4r	.	8G	.	8e	.	.	.	.	.	(2aa-	.	.	.	.
+.	.	.	.	.	.	8GJ	.	8eJ	.	.	.	.	.	.	.	.	.	.
+2r	.	.	.	2r	.	2ryy	.	2ryy	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ggL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ffJ)	.	.	.	.
+=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46
+4F	.	2.cc	In-	4f	.	8r	.	8r	.	1r	.	1r	.	(8ffL	1r	.	1r	.
+.	.	.	.	.	.	(8cL	.	(8a-L	.	.	.	.	.	8ee-	.	.	.	.
+4r	.	.	.	4r	.	8B-y	.	8g	.	.	.	.	.	8dd	.	.	.	.
+.	.	.	.	.	.	8A-J	.	8fJ	.	.	.	.	.	8ccJ)	.	.	.	.
+4C	.	.	.	4c	.	8GL)	.	8eL)	.	.	.	.	.	4b	.	.	.	.
+.	.	.	.	.	.	8A-y'	.	8f'	.	.	.	.	.	.	.	.	.	.
+4r	.	4b-y	-fe-	4r	.	8B-y'	.	8g'	.	.	.	.	.	4r	.	.	.	.
+.	.	.	.	.	.	8G'J	.	8e'J	.	.	.	.	.	.	.	.	.	.
+=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47
+4F	.	4a-	li-	4f	.	8r	.	8r	.	1r	.	1r	.	[2cc	1r	.	1r	.
+.	.	.	.	.	.	8A-L	.	8fL	.	.	.	.	.	.	.	.	.	.
+4r	.	4a-y	-ce!	4r	.	8A-y	.	8f	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	8A-yJ	.	8fJ	.	.	.	.	.	.	.	.	.	.
+2r	.	2r	.	2r	.	8A-yL	.	8fL	.	.	.	.	.	(8ccL_	.	.	.	.
+.	.	.	.	.	.	(8f	.	(8a-	.	.	.	.	.	8gg	.	.	.	.
+.	.	.	.	.	.	8g	.	8b-y	.	.	.	.	.	8ff	.	.	.	.
+.	.	.	.	.	.	8a-J)	.	8ccJ)	.	.	.	.	.	8ee-J)	.	.	.	.
+=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48
+!!Error: measure 48, staff 7 is underfilled: adding token 2ryy at end of measure to complete its duration.
+!!Error: measure 48, staff 6 is underfilled: adding token 2ryy at end of measure to complete its duration.
+4E-	.	1r	.	4e-	.	8r	.	8r	.	1r	.	1r	.	((12ddL	1r	.	1r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	12ff	.	.	.	.
+.	.	.	.	.	.	8B-yL	.	8gL	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	12aa-J))	.	.	.	.
+4r	.	.	.	4r	.	8B-y	.	8g	.	.	.	.	.	(2ccc	.	.	.	.
+.	.	.	.	.	.	8B-yJ	.	8gJ	.	.	.	.	.	.	.	.	.	.
+2r	.	.	.	2r	.	2ryy	.	2ryy	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8bb-L	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8aa-yJ)	.	.	.	.
+=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49
+4A-	.	2.ee-	qual	4a-	.	8r	.	8r	.	1r	.	1r	.	(8aa-L	1r	.	1r	.
+.	.	.	.	.	.	(8e-L	.	(8ccL	.	.	.	.	.	8gg	.	.	.	.
+4r	.	.	.	4r	.	8d-	.	8b-y	.	.	.	.	.	8ff	.	.	.	.
+.	.	.	.	.	.	8cJ	.	8a-J	.	.	.	.	.	8ee-J)	.	.	.	.
+4E-	.	.	.	4e-	.	8B-yL)	.	8gL)	.	.	.	.	.	4dd	.	.	.	.
+.	.	.	.	.	.	8c'	.	8a-y'	.	.	.	.	.	.	.	.	.	.
+4r	.	4dd-	or-	4r	.	8d-y'	.	8b-y'	.	.	.	.	.	4r	.	.	.	.
+.	.	.	.	.	.	8B-y'J	.	8g'J	.	.	.	.	.	.	.	.	.	.
+=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50
+*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*^	*	*	*
+8A-'L	.	4cc	ro-	8a-'L	.	8c	.	8a-	.	1r	.	1e-	1c	.	1r	1ee-	1cc	.	1eee-	.
+8c'	.	.	.	8cc'	.	4ccc	.	4eee-	.	.	.	.	.	.	.	.	.	.	.	.
+8A-y'	.	4cc	-re!	8a-y'	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8c'J	.	.	.	8cc'J	.	4aa-	.	4ccc	.	.	.	.	.	.	.	.	.	.	.	.
+8A-y'L	.	2r	.	8a-y'L	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8c'	.	.	.	8cc'	.	4ee-	.	4aa-	.	.	.	.	.	.	.	.	.	.	.	.
+8A-y'	.	.	.	8a-y'	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8c'J	.	.	.	8cc'J	.	8cc	.	8ee-	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*v	*v	*	*	*
+=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51
+8GL	.	[2ee-	Ah	8gL	.	8e-'	.	8b-y'	.	1r	.	1r	.	1r	1r	.	1r	.
+8B-y	.	.	.	8b-y	.	8r	.	8r	.	.	.	.	.	.	.	.	.	.
+8G	.	.	.	8g	.	8e-y'	.	8b-y'	.	.	.	.	.	.	.	.	.	.
+8B-yJ	.	.	.	8b-yJ	.	8r	.	8r	.	.	.	.	.	.	.	.	.	.
+8GL	.	(8ee-yL_	.	8gL	.	8e-y'	.	8b-y'	.	.	.	.	.	.	.	.	.	.
+8B-y	.	8eenJ)	.	8b-y	.	8r	.	8r	.	.	.	.	.	.	.	.	.	.
+8G	.	(8ffL	di	8g	.	8e-y'	.	8b-y'	.	.	.	.	.	.	.	.	.	.
+8B-yJ	.	8dd-J)	.	8b-yJ	.	8r	.	8r	.	.	.	.	.	.	.	.	.	.
+=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52
+.	.	(<4qdd	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*^	*	*	*
+8A-L	.	2cc)	me	8a-L	.	8e-	.	8cc	.	1r	.	1c	1A-	.	1r	1cc	1a-	.	1ccc	.
+8c	.	.	.	8cc	.	4aa-	.	4ccc	.	.	.	.	.	.	.	.	.	.	.	.
+8A-y	.	.	.	8a-y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8cJ	.	.	.	8ccJ	.	4ee-	.	4aa-	.	.	.	.	.	.	.	.	.	.	.	.
+8A-yL	.	4r	.	8a-yL	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8c	.	.	.	8cc	.	4cc	.	4ee-	.	.	.	.	.	.	.	.	.	.	.	.
+8A-y	.	4cc	che	8a-y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8cJ	.	.	.	8ccJ	.	8a-	.	8cc	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*v	*v	*	*	*
+!!LO:LB
+=53	=53	=53	=53	=53	=53	=53	=53	=53	=53	=53	=53	=53	=53	=53	=53	=53	=53	=53
+8EnL	.	2.cc	si	8enL	.	8c'	.	8g'	.	1r	.	1r	.	1r	1r	.	1r	.
+8G	.	.	.	8g	.	8r	.	8r	.	.	.	.	.	.	.	.	.	.
+8E	.	.	.	8e	.	8c'	.	8g'	.	.	.	.	.	.	.	.	.	.
+8GJ	.	.	.	8gJ	.	8r	.	8r	.	.	.	.	.	.	.	.	.	.
+8EL	.	.	.	8eL	.	8c'	.	8g'	.	.	.	.	.	.	.	.	.	.
+8G	.	.	.	8g	.	8r	.	8r	.	.	.	.	.	.	.	.	.	.
+8E	.	(8dd-L	di-	8e	.	8c'	.	8g'	.	.	.	.	.	.	.	.	.	.
+8GJ	.	8b-yJ)	.	8gJ	.	8r	.	8r	.	.	.	.	.	.	.	.	.	.
+=54	=54	=54	=54	=54	=54	=54	=54	=54	=54	=54	=54	=54	=54	=54	=54	=54	=54	=54
+.	.	(<4qb-y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*^	*	*^	*	*	*^	*	*	*
+8FL	.	2a-)	rà,	8fL	.	8c	.	8a-	.	1g	1c	.	1A-	1F	.	1r	1a-	1f	.	1aa-	.
+8A-	.	.	.	8a-	.	4ff	.	4aa-	.	.	.	.	.	.	.	.	.	.	.	.	.
+8F	.	.	.	8f	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8A-yJ	.	.	.	8a-yJ	.	4cc	.	4ff	.	.	.	.	.	.	.	.	.	.	.	.	.
+8FL	.	4r	.	8fL	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8A-y	.	.	.	8a-y	.	4a-	.	4cc	.	.	.	.	.	.	.	.	.	.	.	.	.
+8F	.	(8ccL	che	8f	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8A-yJ	.	8ffJ)	.	8a-yJ	.	8f	.	8a-y	.	.	.	.	.	.	.	.	.	.	.	.	.
+=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55
+4D-	.	2ff;	si	4F	.	4Bn	.	4f	.	4cc	4c	.	4D-	4D-	.	1r	4ff	4bn	.	4bbn	.
+4r	.	.	.	4r	.	4r	.	4r	.	4r	1%0r	.	4r	1%0r	.	.	4r	1%0r	.	4r	.
+*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*v	*v	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*
+2r;	.	(4.bn	di-	2r;	.	2r;	.	2r;	.	2r;	.	2r;	.	.	2r;	.	2r;	.
+.	.	8cc)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56
+*	*	*	*	*	*	*	*	*	*	*^	*	*^	*	*	*^	*	*	*
+4C	.	4cc	rà?	4G	.	4c	.	4en	.	4g	4G	.	4C	4C	.	2r;	4een	4cc	.	4ccc	.
+4r;	.	4r;	.	4r;	.	4r;	.	4r;	.	4r;	1%0r	.	4r;	1%0r	.	.	4r;	1%0r	.	4r;	.
+*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*v	*v	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*
+2r	.	2r	.	2r	.	2r	.	2r	.	2r	.	2r	.	(8ggL	2r	.	2r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ff	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8een	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ddJ)	.	.	.	.
+=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57
+4F	.	1r	.	1r	.	4r	.	4r	.	1r	.	1r	.	(4.cc	1r	.	1r	.
+4r	.	.	.	.	.	4An'	.	4c'	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8cc#	.	.	.	.
+2r	.	.	.	.	.	4A'	.	4c'	.	.	.	.	.	8ddL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ccn	.	.	.	.
+.	.	.	.	.	.	4A'	.	4c'	.	.	.	.	.	8b	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8aJ)	.	.	.	.
+=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58
+4C	.	1r	.	1r	.	4r	.	4r	.	1r	.	1r	.	(4.g	1r	.	1r	.
+4r	.	.	.	.	.	4B-'	.	4c'	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8a	.	.	.	.
+2r	.	.	.	.	.	4B-y'	.	4c'	.	.	.	.	.	8bL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8cc	.	.	.	.
+.	.	.	.	.	.	4B-y'	.	4c'	.	.	.	.	.	8dd	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8eeJ	.	.	.	.
+=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59
+4C	.	1r	.	1r	.	4r	.	4r	.	1r	.	1r	.	8ffL	1r	.	1r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ff#	.	.	.	.
+4r	.	.	.	.	.	4G'	.	4e'	.	.	.	.	.	8gg	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8gg#J	.	.	.	.
+2r	.	.	.	.	.	4G'	.	4e'	.	.	.	.	.	8aaL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ggn	.	.	.	.
+.	.	.	.	.	.	4G'	.	4e'	.	.	.	.	.	8ff#	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ffnJ)	.	.	.	.
+=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60
+4FF	.	2r	.	1r	.	4A	.	4f	.	1r	.	1r	.	4ee	1r	.	1r	.
+4r	.	.	.	.	.	4r	.	4r	.	.	.	.	.	4r	.	.	.	.
+2r	.	(8ccL	Chi	.	.	2r	.	(8cccL	.	.	.	.	.	2r	.	.	.	.
+.	.	8b-yJ)	.	.	.	.	.	8bb-y	.	.	.	.	.	.	.	.	.	.
+.	.	(8aL	ve-	.	.	.	.	8aa	.	.	.	.	.	.	.	.	.	.
+.	.	8gJ)	.	.	.	.	.	8ggJ)	.	.	.	.	.	.	.	.	.	.
+=61	=61	=61	=61	=61	=61	=61	=61	=61	=61	=61	=61	=61	=61	=61	=61	=61	=61	=61
+4F	.	4.f	des-	(1F	.	(8AL	.	(4.ff	.	1r	.	1r	.	1r	1r	.	1r	.
+.	.	.	.	.	.	8c	.	.	.	.	.	.	.	.	.	.	.	.
+4r	.	.	.	.	.	8A	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8f#	-se il	.	.	8cJ	.	8ff#	.	.	.	.	.	.	.	.	.	.
+2r	.	(8gL	mio	.	.	8AL	.	8ggL	.	.	.	.	.	.	.	.	.	.
+.	.	8fnJ)	.	.	.	8c	.	8ffn	.	.	.	.	.	.	.	.	.	.
+.	.	(8eL	do-	.	.	8A	.	8ee	.	.	.	.	.	.	.	.	.	.
+.	.	8dJ)	.	.	.	8cJ)	.	8ddJ)	.	.	.	.	.	.	.	.	.	.
+=62	=62	=62	=62	=62	=62	=62	=62	=62	=62	=62	=62	=62	=62	=62	=62	=62	=62	=62
+4C	.	4.c	lo-	2E	.	(8B-yL	.	(4.cc	.	1r	.	1r	.	1r	1r	.	1r	.
+.	.	.	.	.	.	8c	.	.	.	.	.	.	.	.	.	.	.	.
+4r	.	.	.	.	.	8B-y	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8d	-re,	.	.	8cJ	.	8dd	.	.	.	.	.	.	.	.	.	.
+2r	.	(8eL	pur	2G)	.	8B-yL	.	8eeL	.	.	.	.	.	.	.	.	.	.
+.	.	8fJ)	.	.	.	8c	.	8ff	.	.	.	.	.	.	.	.	.	.
+.	.	(8gL	a-	.	.	8B-y	.	8gg	.	.	.	.	.	.	.	.	.	.
+.	.	8aJ)	.	.	.	8cJ)	.	8aaJ	.	.	.	.	.	.	.	.	.	.
+=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63
+4C	.	(8b-yL	vria	(2E	.	(8GL	.	8bb-yL	.	1r	.	1r	.	1r	1r	.	1r	.
+.	.	8bnJ)	.	.	.	8e	.	8bbn	.	.	.	.	.	.	.	.	.	.
+4r	.	(8ccL	di	.	.	8G	.	8ccc	.	.	.	.	.	.	.	.	.	.
+.	.	8cc#J)	.	.	.	8eJ	.	8ccc#J	.	.	.	.	.	.	.	.	.	.
+2r	.	(8ddL	me	2C)	.	8GL	.	8dddL	.	.	.	.	.	.	.	.	.	.
+.	.	8ccnJ)	.	.	.	8e	.	8cccn	.	.	.	.	.	.	.	.	.	.
+.	.	(8bnL	pie-	.	.	8G	.	8bbn	.	.	.	.	.	.	.	.	.	.
+.	.	8b-J)	.	.	.	8eJ)	.	8bb-J)	.	.	.	.	.	.	.	.	.	.
+=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64
+4F	.	4a	tà.	4F	.	4f	.	4aa	.	1r	.	1r	.	2r	1r	.	1r	.
+4r	.	4r	.	4r	.	4r	.	4r	.	.	.	.	.	.	.	.	.	.
+2r	.	2r	.	2r	.	2r	.	2r	.	.	.	.	.	8ee'L	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ff'	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ff#'	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8gg'J	.	.	.	.
+!!LO:LB
+=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65
+2r	.	2r	.	2r	.	2r	.	2r	.	1r	.	1r	.	(4gg#	1r	.	1r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	4aa)	.	.	.	.
+4r	.	(8aL	Chi	4r	.	4r	.	4r	.	.	.	.	.	2r	.	.	.	.
+.	.	8ddJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4F#	.	(8cc#L	ve-	4A	.	4c	.	4d	.	.	.	.	.	.	.	.	.	.
+.	.	8ccnJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66
+4G	.	4a	des-	4G	.	4B-y	.	4d	.	1r	.	1r	.	2r	1r	.	1r	.
+4r	.	4b-y	-se	4r	.	4r	.	4r	.	.	.	.	.	.	.	.	.	.
+2r	.	2r	.	2r	.	2r	.	2r	.	.	.	.	.	8dd'L	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ee'	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ffn'	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ff#'J	.	.	.	.
+=67	=67	=67	=67	=67	=67	=67	=67	=67	=67	=67	=67	=67	=67	=67	=67	=67	=67	=67
+2r	.	4r	.	2r	.	2r	.	2r	.	1r	.	1r	.	(4aa	1r	.	1r	.
+.	.	8r	.	.	.	.	.	.	.	.	.	.	.	4gg)	.	.	.	.
+.	.	8g	il	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4r	.	(8gL	mio	4r	.	4r	.	4r	.	.	.	.	.	2r	.	.	.	.
+.	.	8ccJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4E	.	(8bnL	do-	4G	.	4B-y	.	4c	.	.	.	.	.	.	.	.	.	.
+.	.	8b-J)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=68	=68	=68	=68	=68	=68	=68	=68	=68	=68	=68	=68	=68	=68	=68	=68	=68	=68	=68
+4Fn	.	4g#	lo-	4F	.	4A	.	4c	.	1r	.	1r	.	2r	1r	.	1r	.
+4r	.	4a	-re,	4r	.	4r	.	4r	.	.	.	.	.	.	.	.	.	.
+4F	.	2r	.	2r	.	4r	.	4r	.	.	.	.	.	(8ccL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	24dd	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	24cc	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	24bJ	.	.	.	.
+4r	.	.	.	.	.	8A'L	.	8f'L	.	.	.	.	.	8ccL	.	.	.	.
+.	.	.	.	.	.	8c'J	.	8g'J	.	.	.	.	.	8ddJ)	.	.	.	.
+=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69
+4F	.	1r	.	1r	.	8f'	.	8a'	.	1r	.	1r	.	(8eeL	1r	.	1r	.
+.	.	.	.	.	.	8r	.	8r	.	.	.	.	.	24ff	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ee	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ddJ	.	.	.	.
+4r	.	.	.	.	.	8f'L	.	8a'L	.	.	.	.	.	8eeL	.	.	.	.
+.	.	.	.	.	.	8g'J	.	8b-y'J	.	.	.	.	.	8ffJ)	.	.	.	.
+8F'	.	.	.	.	.	8a'	.	8cc'	.	.	.	.	.	16ggL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ee	.	.	.	.
+8r	.	.	.	.	.	8r	.	8r	.	.	.	.	.	16cc	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16gJ	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*clefF4	*	*	*	*
+8F'	.	.	.	.	.	8a'	.	8cc'	.	.	.	.	.	16EL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16C	.	.	.	.
+8r	.	.	.	.	.	8r	.	8r	.	.	.	.	.	16GG	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16EEJ	.	.	.	.
+=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70
+4B-y	.	2r	.	2r	.	4b-y	.	4dd	.	1r	.	1r	.	4FF	1r	.	1r	.
+4r	.	.	.	.	.	4r	.	4r	.	.	.	.	.	4r	.	.	.	.
+4BB-y	.	(4b-y	pur	4B-y	.	8r	.	8r	.	.	.	.	.	2r	.	.	.	.
+.	.	.	.	.	.	(8gL	.	(8b-yL	.	.	.	.	.	.	.	.	.	.
+4r	.	8cc)	.	4r	.	8a	.	8cc	.	.	.	.	.	.	.	.	.	.
+.	.	8dd	a-	.	.	8b-yJ)	.	8ddJ)	.	.	.	.	.	.	.	.	.	.
+=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71
+4C	.	(8dd	vria	4c	.	8r	.	8r	.	1r	.	1r	.	1ryy	1r	.	1r	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*clefG2	*	*	*	*
+.	.	4cc)	.	.	.	(4a	.	(4cc	.	.	.	.	.	.	.	.	.	.
+4r	.	.	.	4r	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8a	di	.	.	8f)	.	8a)	.	.	.	.	.	.	.	.	.	.
+4C	.	(8cc	me	4c	.	8r	.	8r	.	.	.	.	.	.	.	.	.	.
+.	.	4b-y)	.	.	.	(4g	.	(4b-y	.	.	.	.	.	.	.	.	.	.
+4r	.	.	.	4r	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8g	pie-	.	.	8e)	.	8g)	.	.	.	.	.	.	.	.	.	.
+=72	=72	=72	=72	=72	=72	=72	=72	=72	=72	=72	=72	=72	=72	=72	=72	=72	=72	=72
+4F	.	4a	tà,	4c	.	4f	.	4a	.	1r	.	1r	.	2r	1r	.	1r	.
+4r	.	4r	.	4r	.	4r	.	4r	.	.	.	.	.	.	.	.	.	.
+4F	.	2r	.	2r	.	4r	.	4r	.	.	.	.	.	(8ccL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	24dd	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	24cc	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	24bJ	.	.	.	.
+4r	.	.	.	.	.	8A'L	.	8f'L	.	.	.	.	.	8ccL	.	.	.	.
+.	.	.	.	.	.	8c'J	.	8g'J	.	.	.	.	.	8ddJ)	.	.	.	.
+=73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73
+4F	.	1r	.	1r	.	8f'	.	8a'	.	1r	.	1r	.	(8eeL	1r	.	1r	.
+.	.	.	.	.	.	8r	.	8r	.	.	.	.	.	24ff	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ee	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	24ddJ	.	.	.	.
+4r	.	.	.	.	.	8f'L	.	8a'L	.	.	.	.	.	8eeL	.	.	.	.
+.	.	.	.	.	.	8g'J	.	8b-y'J	.	.	.	.	.	8ffJ)	.	.	.	.
+8F'	.	.	.	.	.	8a'	.	8cc'	.	.	.	.	.	8ggL	.	.	.	.
+8r	.	.	.	.	.	8r	.	8r	.	.	.	.	.	16bb	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16aaJ	.	.	.	.
+8F'	.	.	.	.	.	8f'	.	8a'	.	.	.	.	.	16cccL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16bb	.	.	.	.
+8r	.	.	.	.	.	8r	.	8r	.	.	.	.	.	16ddd	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16cccJ	.	.	.	.
+=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74
+4B-y	.	2r;	.	2r;	.	4f	.	4b-y	.	1r	.	1r	.	4gg#;	1r	.	1r	.
+4r;	.	.	.	.	.	4r;	.	4r;	.	.	.	.	.	8aa	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8r;	.	.	.	.
+4r	.	(4dd	pur	4r	.	4r	.	4r	.	.	.	.	.	2r	.	.	.	.
+(4Bn	.	8ee)	.	(4Bn	.	(4g	.	[4ff	.	.	.	.	.	.	.	.	.	.
+.	.	8ff	a-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=75	=75	=75	=75	=75	=75	=75	=75	=75	=75	=75	=75	=75	=75	=75	=75	=75	=75	=75
+4c)	.	(8ffL	vria	4c)	.	8aL	.	(8ffL_	.	1r	.	1r	.	1r	1r	.	1r	.
+.	.	8eeJ)	.	.	.	8cc)	.	8ee)	.	.	.	.	.	.	.	.	.	.
+4r	.	(8ddL	di	4r	.	8b-y'	.	8dd'	.	.	.	.	.	.	.	.	.	.
+.	.	8ccJ)	.	.	.	8a'J	.	8cc'J	.	.	.	.	.	.	.	.	.	.
+4C	.	(8ccL	me	4c	.	(8aL	.	(8ccL	.	.	.	.	.	.	.	.	.	.
+.	.	8b-yJ)	.	.	.	8g)	.	8b-y)	.	.	.	.	.	.	.	.	.	.
+4r	.	(8aL	pie-	4r	.	8f'	.	8a'	.	.	.	.	.	.	.	.	.	.
+.	.	8gJ)	.	.	.	8e'J	.	8g'J	.	.	.	.	.	.	.	.	.	.
+!!LO:LB
+=76	=76	=76	=76	=76	=76	=76	=76	=76	=76	=76	=76	=76	=76	=76	=76	=76	=76	=76
+8FL	.	4f	tà.	8cL	.	8fL	.	8fL	.	1r	.	1r	.	[2cc	1r	.	1r	.
+8F	.	.	.	8c	.	8A	.	8f	.	.	.	.	.	.	.	.	.	.
+8F	.	4r	.	8c	.	8A	.	8f	.	.	.	.	.	.	.	.	.	.
+8FJ	.	.	.	8cJ	.	8AJ	.	8fJ	.	.	.	.	.	.	.	.	.	.
+4F	.	2r	.	4c	.	4A	.	4f	.	.	.	.	.	16ccL]	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16dd	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16cc	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16bJ	.	.	.	.
+4r	.	.	.	4r	.	4r	.	4r	.	.	.	.	.	16ccL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ee	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16dd	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ffJ	.	.	.	.
+=77	=77	=77	=77	=77	=77	=77	=77	=77	=77	=77	=77	=77	=77	=77	=77	=77	=77	=77
+4F	.	1r	.	4c	.	4f	.	4a	.	1r	.	1r	.	16eeL	1r	.	1r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ff	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ee	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ddJ	.	.	.	.
+4r	.	.	.	4r	.	4r	.	4r	.	.	.	.	.	16eeL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16gg	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ff	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16aaJ	.	.	.	.
+4F	.	.	.	4f	.	4a	.	4cc	.	.	.	.	.	16ggL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16aa	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16gg	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ffJ	.	.	.	.
+4r	.	.	.	4r	.	4r	.	4r	.	.	.	.	.	16ggL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16bb-	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16aa	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16cccJ	.	.	.	.
+=78	=78	=78	=78	=78	=78	=78	=78	=78	=78	=78	=78	=78	=78	=78	=78	=78	=78	=78
+1F	.	1r	.	1c	.	1A	.	1e-	.	1r	.	1r	.	16bb-L	1r	.	1r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ddd	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16bb-y	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ggJ	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16eeL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16gg	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ee	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ccJ	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16b-L	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16g	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16e	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16cJ	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*clefF4	*	*	*	*
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16BB-L	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16GG	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16EE	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16CCJ	.	.	.	.
+=79	=79	=79	=79	=79	=79	=79	=79	=79	=79	=79	=79	=79	=79	=79	=79	=79	=79	=79
+4BB-y	.	4dd	Non	8r	.	8r	.	8d	.	1r	.	1r	.	4FF	1r	.	1r	.
+.	.	.	.	(8B-yL	.	(8dL	.	8r	.	.	.	.	.	.	.	.	.	.
+4r	.	2ff	più	8d	.	8f	.	(2ff	.	.	.	.	.	4r	.	.	.	.
+.	.	.	.	8B-yJ)	.	8dJ)	.	.	.	.	.	.	.	.	.	.	.	.
+4BB-y	.	.	.	8r	.	8r	.	.	.	.	.	.	.	2r	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*clefG2	*	*	*	*
+.	.	.	.	(8B-yL	.	(8dL	.	.	.	.	.	.	.	.	.	.	.	.
+4r	.	4b-y	di	8d	.	8f	.	4b-y)	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	8B-yJ)	.	8dJ)	.	.	.	.	.	.	.	.	.	.	.	.
+=80	=80	=80	=80	=80	=80	=80	=80	=80	=80	=80	=80	=80	=80	=80	=80	=80	=80	=80
+4F	.	2a	fio-	8r	.	8r	.	(2a	.	1r	.	1r	.	1r	1r	.	1r	.
+.	.	.	.	(8cL	.	(8e-L	.	.	.	.	.	.	.	.	.	.	.	.
+4r	.	.	.	8e-	.	8f	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	8cJ)	.	8e-yJ)	.	.	.	.	.	.	.	.	.	.	.	.
+4B-y	.	2b-y	-ri	8r	.	8r	.	2b-y	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	(8B-yL	.	(8dL	.	.	.	.	.	.	.	.	.	.	.	.
+4r	.	.	.	8d	.	8f	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	8B-yJ)	.	8dJ)	.	.	.	.	.	.	.	.	.	.	.	.
+=81	=81	=81	=81	=81	=81	=81	=81	=81	=81	=81	=81	=81	=81	=81	=81	=81	=81	=81
+*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*
+4F	.	2cc	va-	8r	.	8r	.	2cc	.	1r	.	(2c	(2A	.	1r	1r	.	1r	.
+.	.	.	.	(8AL	.	(8cL	.	.	.	.	.	.	.	.	.	.	.	.	.
+4r	.	.	.	8c	.	8f	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	8AJ)	.	8cJ)	.	.	.	.	.	.	.	.	.	.	.	.	.
+4B-y	.	4dd	-ghe	8r	.	8r	.	4dd	.	.	.	4d	4B-y	.	.	.	.	.	.
+.	.	.	.	8B-y	.	8d	.	.	.	.	.	.	.	.	.	.	.	.	.
+4E-	.	4ee-	ca-	8r	.	8r	.	4ee-)	.	.	.	4e-)	4c)	.	.	.	.	.	.
+.	.	.	.	8c	.	8e-	.	.	.	.	.	.	.	.	.	.	.	.	.
+=82	=82	=82	=82	=82	=82	=82	=82	=82	=82	=82	=82	=82	=82	=82	=82	=82	=82	=82	=82
+4F	.	4cc	te-	8r	.	8r	.	4cc	.	1r	.	4c	4A	.	1r	1r	.	1r	.
+.	.	.	.	(16fL	.	(16aL	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16gJ	.	16b-yJ	.	.	.	.	.	.	.	.	.	.	.	.	.
+4r	.	4cc	-ne	8aL	.	8ccL	.	4r	.	.	.	4r	1%0r	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*
+.	.	.	.	8gJ	.	8b-yJ	.	.	.	.	.	.	.	.	.	.	.	.
+2r	.	2r	.	8fL	.	8aL	.	2r	.	.	.	2r	.	.	.	.	.	.
+.	.	.	.	8e-	.	8g	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	8d	.	8f	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	8cJ)	.	8e-J)	.	.	.	.	.	.	.	.	.	.	.	.
+=83	=83	=83	=83	=83	=83	=83	=83	=83	=83	=83	=83	=83	=83	=83	=83	=83	=83	=83
+4BB-y	.	4dd	di-	8r	.	8r	.	(4dd	.	1r	.	1r	.	1r	1r	.	1r	.
+.	.	.	.	(8B-yL	.	(8dL	.	.	.	.	.	.	.	.	.	.	.	.
+4r	.	2ff	-scen-	8d	.	8f	.	2ff	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	8B-yJ)	.	8dJ)	.	.	.	.	.	.	.	.	.	.	.	.
+4BB-y	.	.	.	8r	.	8r	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	(8B-yL	.	(8dL	.	.	.	.	.	.	.	.	.	.	.	.
+4r	.	4b-y	-da I-	8d	.	8f	.	4b-y)	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	8B-yJ)	.	8dJ)	.	.	.	.	.	.	.	.	.	.	.	.
+=84	=84	=84	=84	=84	=84	=84	=84	=84	=84	=84	=84	=84	=84	=84	=84	=84	=84	=84
+4E-	.	(4.ee-	me-	8r	.	8r	.	(2gg	.	1r	.	1r	.	1r	1r	.	1r	.
+.	.	.	.	(8B-yL	.	(8gL	.	.	.	.	.	.	.	.	.	.	.	.
+4r	.	.	.	8g	.	8b-y	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16ffL	.	8B-yJ)	.	8gJ)	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16ggJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4D	.	2ff	-ne	8r	.	8r	.	2ff)	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	(8B-yL	.	(8fL	.	.	.	.	.	.	.	.	.	.	.	.
+4r	.	.	.	8f	.	8b-y	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	8B-yJ)	.	8fJ)	.	.	.	.	.	.	.	.	.	.	.	.
+=85	=85	=85	=85	=85	=85	=85	=85	=85	=85	=85	=85	=85	=85	=85	=85	=85	=85	=85
+*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*
+4F	.	2b-y	ad	8r	.	8r	.	(2b-y	.	1r	.	(2f	(2d	.	1r	1r	.	1r	.
+.	.	.	.	(8B-yL	.	(8dL	.	.	.	.	.	.	.	.	.	.	.	.	.
+4r	.	.	.	8d	.	8f	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	8B-yJ)	.	8dJ)	.	.	.	.	.	.	.	.	.	.	.	.	.
+8F	.	(8.ddL	in-	8r	.	8r	.	8.ddL	.	.	.	4d	4B-y	.	.	.	.	.	.
+8r	.	.	.	8f	.	8b-y	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16ee-J)	.	.	.	.	.	16ee-	.	.	.	.	.	.	.	.	.	.	.
+8FF	.	(8.ccL	-trec-	8r	.	8r	.	8.cc	.	.	.	4c)	4A)	.	.	.	.	.	.
+8r	.	.	.	8e-	.	8a	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16ddJ)	.	.	.	.	.	16ddJ)	.	.	.	.	.	.	.	.	.	.	.
+!!LO:LB
+=86	=86	=86	=86	=86	=86	=86	=86	=86	=86	=86	=86	=86	=86	=86	=86	=86	=86	=86	=86
+*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*
+4BB-y	.	4b-y	ciar.	8d	4B-y	.	8b-y	.	8b-y	.	1r	.	8B-y	8B-y	.	8r	8r	(8cc#L	.	8r	.
+.	.	.	.	4d	.	.	4f	.	(8ccc#L	.	.	.	(8c#L	1%0x	.	(8gg#L	(8ccc#L	8ddJ)	.	(8ccc#L	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*
+4r	.	4r	.	.	4B-y	.	.	.	8dddJ)	.	.	.	8dJ)	.	8aaJ)	8dddJ)	(8aL	.	8dddJ)	.
+.	.	.	.	4d	.	.	4f	.	(8aaL	.	.	.	(8AL	.	(8eeL	(8aaL	8b-yJ)	.	(8aaL	.
+2r	.	2r	.	.	4B-y	.	.	.	8bb-yJ)	.	.	.	8B-yJ)	.	8ffJ)	8bb-yJ)	(8enL	.	8bb-yJ)	.
+.	.	.	.	4d	.	.	4f	.	(8eenL	.	.	.	(8EnL	.	(8bnL	(8eenL	8fJ)	.	(8eenL	.
+.	.	.	.	.	8B-y	.	.	.	8ffJ)	.	.	.	8FJ)	.	8ccJ)	8ffJ)	8d	.	8ffJ)	.
+*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*
+.	.	.	.	8d	.	8f	.	8dd	.	.	.	8D	.	8a	8dd	.	8dd	.
+=87	=87	=87	=87	=87	=87	=87	=87	=87	=87	=87	=87	=87	=87	=87	=87	=87	=87	=87
+!!Error: measure 87, staff 8 is underfilled: adding token 2ryy at end of measure to complete its duration.
+!!Error: measure 87, staff 7 is underfilled: adding token 2ryy at end of measure to complete its duration.
+!!Error: measure 87, staff 6 is underfilled: adding token 2ryy at end of measure to complete its duration.
+4F#	.	2dd	Stret-	8r	.	8r	.	8r	.	1r	.	1r	.	1r	1r	.	1r	.
+.	.	.	.	8AL	.	8cL	.	8dL	.	.	.	.	.	.	.	.	.	.
+4r	.	.	.	8A	.	8c	.	8d	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	8AJ	.	8cJ	.	8dJ	.	.	.	.	.	.	.	.	.	.
+2r	.	4.d	-ta	2ryy	.	2ryy	.	2ryy	.	.	.	.	.	.	.	.	.	.
+.	.	8c	fra	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=88	=88	=88	=88	=88	=88	=88	=88	=88	=88	=88	=88	=88	=88	=88	=88	=88	=88	=88
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*
+4G	.	8.B-y	bar-	8r	.	8r	.	8r	.	4r	.	8r	.	8r	8r	(8cc#L	.	8r	.
+.	.	.	.	4G	.	4d 4B-y	.	(8ccc#L	.	.	.	(8c#L	.	(8gg#L	(8ccc#L	8ddJ)	.	(8ccc#L	.
+.	.	16B-y	-ba-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4r	.	4B-y	-re	.	.	.	.	8dddJ)	.	2dd	.	8dJ)	.	8aaJ)	8dddJ)	(8aL	.	8dddJ)	.
+.	.	.	.	4G	.	4d 4B-y	.	(8aaL	.	.	.	(8AL	.	(8eeL	(8aaL	8b-yJ)	.	(8aaL	.
+2r	.	2r	.	.	.	.	.	8bb-yJ)	.	.	.	8B-yJ)	.	8ffJ)	8bb-yJ)	(8f#L	.	8bb-yJ)	.
+.	.	.	.	4G	.	4d 4B-y	.	(8ff#L	.	.	.	(8F#L	.	(8cc#L	(8ff#L	8gJ)	.	(8ff#L	.
+.	.	.	.	.	.	.	.	8ggJ)	.	4dd	.	8GJ)	.	8ddJ)	8ggJ)	8d	.	8ggJ)	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*
+.	.	.	.	8G	.	8d 8B-y	.	8dd	.	.	.	8D	.	8a	8dd	.	8dd	.
+=89	=89	=89	=89	=89	=89	=89	=89	=89	=89	=89	=89	=89	=89	=89	=89	=89	=89	=89
+!!Error: measure 89, staff 8 is underfilled: adding token 2ryy at end of measure to complete its duration.
+!!Error: measure 89, staff 7 is underfilled: adding token 2ryy at end of measure to complete its duration.
+!!Error: measure 89, staff 6 is underfilled: adding token 2ryy at end of measure to complete its duration.
+4En	.	2cc	a-	8r	.	8r	.	8r	.	1r	.	1r	.	1r	1r	.	1r	.
+.	.	.	.	8GL	.	8B-yL	.	8cL	.	.	.	.	.	.	.	.	.	.
+4r	.	.	.	8G	.	8B-y	.	8c	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	8GJ	.	8B-yJ	.	8cJ	.	.	.	.	.	.	.	.	.	.
+2r	.	4.c	-spre	2ryy	.	2ryy	.	2ryy	.	.	.	.	.	.	.	.	.	.
+.	.	8B-y	ri-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=90	=90	=90	=90	=90	=90	=90	=90	=90	=90	=90	=90	=90	=90	=90	=90	=90	=90	=90
+*	*	*	*	*^	*	*	*	*	*	*^	*	*	*	*	*^	*	*	*
+4Fn	.	4A	tor-	8r	8r	.	8r	.	8r	.	4r	2c	.	8r	.	8r	8r	(8bnL	.	8r	.
+.	.	.	.	4A	4F	.	4f 4c	.	(8bbnL	.	.	.	.	(8BnL	.	(8ff#L	(8bbnL	8ccJ)	.	(8bbnL	.
+4r	.	4A	-te	.	.	.	.	.	8cccJ)	.	2cc	.	.	8cJ)	.	8ggJ)	8cccJ)	(8g#L	.	8cccJ)	.
+.	.	.	.	4A	4F	.	4f 4c	.	(8gg#L	.	.	.	.	(8G#L	.	(8dd#L	(8gg#L	8aJ)	.	(8gg#L	.
+2r	.	2r	.	.	.	.	.	.	8aaJ)	.	.	4c	.	8AJ)	.	8eeJ)	8aaJ)	(8eL	.	8aaJ)	.
+.	.	.	.	4A	4F	.	4f 4c	.	(8eeL	.	.	.	.	(8EL	.	(8bL	(8eeL	8fJ)	.	(8eeL	.
+*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*
+.	.	.	.	.	.	.	.	.	8ffJ)	.	4cc	.	8FJ)	.	8ccJ)	8ffJ)	8c	.	8ffJ)	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*
+.	.	.	.	8A	8F	.	8f 8c	.	8cc	.	.	.	8C	.	8g	8cc	.	8cc	.
+*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91
+*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*
+4AA	.	2A	veg-	1r	.	8r	.	8r	.	1r	.	(1e-	1r	.	1r	1r	.	[1f	.
+*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*clefF4	*	*	*	*
+.	.	.	.	.	.	8A'L	.	8A'L	.	.	.	.	.	.	.	.	.	.
+4r	.	.	.	.	.	8A'	.	8A'	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	8A'J	.	8A'J	.	.	.	.	.	.	.	.	.	.
+8BB-y	.	4B-y	-go	.	.	8r	.	8r	.	.	.	.	.	.	.	.	.	.
+8r	.	.	.	.	.	8B-y'	.	8B'	.	.	.	.	.	.	.	.	.	.
+8C	.	4c	la	.	.	8r	.	8r	.	.	.	.	.	.	.	.	.	.
+8r	.	.	.	.	.	8c'	.	8c'	.	.	.	.	.	.	.	.	.	.
+=92	=92	=92	=92	=92	=92	=92	=92	=92	=92	=92	=92	=92	=92	=92	=92	=92	=92	=92
+*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*
+4BB-y	.	4B-y	mor-	1r	.	4B-y'	.	4B-y'	.	1r	.	1d)	1r	.	16r	1r	.	1f]	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16FFL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16AA	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16CJ	.	.	.	.
+4r	.	4B-y	-te	.	.	4r	.	4r	.	.	.	.	.	.	16FL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16A	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16c	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16AJ	.	.	.	.
+2r	.	2r	.	.	.	2r	.	2r	.	.	.	.	.	.	16FL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16A	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16F	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16CJ	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16AAL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16C	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16AA	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16FFJ	.	.	.	.
+=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93
+4BBn	.	2Bn	ver	1r	.	8r	.	8r	.	1r	.	(1f	1r	.	1r	1r	.	[1g	.
+.	.	.	.	.	.	8BnL	.	8BnL	.	.	.	.	.	.	.	.	.	.	.
+4r	.	.	.	.	.	8B	.	8B	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	8BJ	.	8BJ	.	.	.	.	.	.	.	.	.	.	.
+8C'	.	4c	me a-	.	.	8r	.	8r	.	.	.	.	.	.	.	.	.	.	.
+8r	.	.	.	.	.	8c	.	8c	.	.	.	.	.	.	.	.	.	.	.
+8D'	.	4d	-van-	.	.	8r	.	8r	.	.	.	.	.	.	.	.	.	.	.
+8r	.	.	.	.	.	8d	.	8d	.	.	.	.	.	.	.	.	.	.	.
+=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94
+4C	.	4c	zar,	1r	.	4c	.	4c	.	1r	.	1en	1r	.	16r	1r	.	1g]	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16GGL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16BB	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16DJ	.	.	.	.
+4r	.	4r	.	.	.	4r	.	4r	.	.	.	.	.	.	16GL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16B	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16d	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16BJ	.	.	.	.
+2r	.	2r	.	.	.	2r	.	2r	.	.	.	.	.	.	16GL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16B	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16G	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16DJ	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16BBL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16D	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16BB	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16GGJ	.	.	.	.
+!!LO:LB
+=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95
+4C#	.	2c#	veg-	1r	.	8r	.	8r	.	1r	.	1g	1r	.	1r	1r	.	[1a	.
+.	.	.	.	.	.	8c#L	.	8c#L	.	.	.	.	.	.	.	.	.	.	.
+4r	.	.	.	.	.	8c#y	.	8c#y	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	8c#yJ	.	8c#yJ	.	.	.	.	.	.	.	.	.	.	.
+8D	.	4d	-go	.	.	8r	.	8r	.	.	.	.	.	.	.	.	.	.	.
+8r	.	.	.	.	.	8d	.	8d	.	.	.	.	.	.	.	.	.	.	.
+8E	.	4e	la	.	.	8r	.	8r	.	.	.	.	.	.	.	.	.	.	.
+8r	.	.	.	.	.	8e	.	8e	.	.	.	.	.	.	.	.	.	.	.
+=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96
+4D	.	2d	mor-	1r	.	8r	.	8r	.	1r	.	4f)	1r	.	2AA	1r	.	4a]	.
+.	.	.	.	.	.	8dL	.	8dL	.	.	.	.	.	.	.	.	.	.	.
+4r	.	.	.	.	.	8d	.	8d	.	.	.	4r	.	.	.	.	.	4r	.
+.	.	.	.	.	.	8dJ	.	8dJ	.	.	.	.	.	.	.	.	.	.	.
+4F	.	2f	-te	.	.	8r	.	8r	.	.	.	2r	.	.	2C	.	.	2r	.
+.	.	.	.	.	.	8fL	.	8fL	.	.	.	.	.	.	.	.	.	.	.
+4r	.	.	.	.	.	8f	.	8f	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	8fJ	.	8fJ	.	.	.	.	.	.	.	.	.	.	.
+=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97
+4AA	.	2A	ver	1r	.	8r	.	8r	.	1r	.	1r	1r	.	2EE	1r	.	1r	.
+.	.	.	.	.	.	8AL	.	8AL	.	.	.	.	.	.	.	.	.	.	.
+4r	.	.	.	.	.	8A	.	8A	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	8AJ	.	8AJ	.	.	.	.	.	.	.	.	.	.	.
+4BBn	.	4.Bn	me a-	.	.	8r	.	8r	.	.	.	.	.	.	2FF#	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*clefG2	*	*	*	*
+.	.	.	.	.	.	8BnL	.	8BnL	.	.	.	.	.	.	.	.	.	.
+4r	.	.	.	.	.	8B	.	8B	.	.	.	.	.	.	.	.	.	.
+.	.	8B	-van-	.	.	8BJ	.	8BJ	.	.	.	.	.	.	.	.	.	.
+=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98
+*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*
+4Cn	.	4cn	zar.	4c	.	4cn	.	4cn	.	[1g	[1G	.	1r	.	16r	1r	.	1r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(16gL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16f#	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16gJ	.	.	.	.
+4r	.	4r	.	4r	.	4e	.	4g	.	.	.	.	.	.	16a-L	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16an	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16b-	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16bnJ	.	.	.	.
+4C	.	2r	.	4c	.	4r	.	4r	.	.	.	.	.	.	16ccL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16cc#	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16dd	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ee-J	.	.	.	.
+4r	.	.	.	4r	.	4e	.	4g	.	.	.	.	.	.	16eenL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ffn	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ff#	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ggJ)	.	.	.	.
+=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99
+4C	.	2.cc	In-	4c	.	8r	.	8r	.	1g_	1G_	.	1r	.	4g	1r	.	1r	.
+.	.	.	.	.	.	8fL	.	8a-L	.	.	.	.	.	.	.	.	.	.	.
+4r	.	.	.	4r	.	8f	.	8a-y	.	.	.	.	.	.	4r	.	.	.	.
+.	.	.	.	.	.	8fJ	.	8a-yJ	.	.	.	.	.	.	.	.	.	.	.
+4C	.	.	.	4c	.	8r	.	8r	.	.	.	.	.	.	2r	.	.	.	.
+.	.	.	.	.	.	(8a-L	.	(8ccL	.	.	.	.	.	.	.	.	.	.	.
+4r	.	8b-yL	-fe-	4r	.	8g	.	8b-y	.	.	.	.	.	.	.	.	.	.	.
+.	.	8a-J	.	.	.	8fJ)	.	8a-yJ)	.	.	.	.	.	.	.	.	.	.	.
+=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100
+4C	.	4g	li-	4c	.	4r	.	4r	.	1g_	1G_	.	1r	.	16r	1r	.	1r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(16gL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16f#	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16gJ	.	.	.	.
+4r	.	4g	-ce!	4r	.	4e	.	4g	.	.	.	.	.	.	16a-L	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16an	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16b-	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16bnJ	.	.	.	.
+4C	.	2r	.	4c	.	4r	.	4r	.	.	.	.	.	.	16ccL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16cc#	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16dd	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ee-J	.	.	.	.
+4r	.	.	.	4r	.	4e	.	4g	.	.	.	.	.	.	16eenL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ffn	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ff#	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ggJ)	.	.	.	.
+=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101
+4C	.	2.cc	qual	4c	.	8r	.	8r	.	1g_	1G_	.	1r	.	4g	1r	.	1r	.
+.	.	.	.	.	.	(8fL	.	(8a-L	.	.	.	.	.	.	.	.	.	.	.
+4r	.	.	.	4r	.	8a-	.	8cc	.	.	.	.	.	.	4r	.	.	.	.
+.	.	.	.	.	.	8fJ)	.	8a-yJ)	.	.	.	.	.	.	.	.	.	.	.
+4C	.	.	.	4c	.	8r	.	8r	.	.	.	.	.	.	2r	.	.	.	.
+.	.	.	.	.	.	(8fL	.	(8a-yL	.	.	.	.	.	.	.	.	.	.	.
+4r	.	4ff	or-	4r	.	8a-y	.	8cc	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	8fJ)	.	8a-yJ)	.	.	.	.	.	.	.	.	.	.	.
+=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102
+4C	.	4ee	ro-	4c	.	8r	.	8r	.	4g]	4G]	.	1r	.	1r	1r	.	1r	.
+.	.	.	.	.	.	8eL	.	8gL	.	.	.	.	.	.	.	.	.	.	.
+4r	.	4ee	-re!	4r	.	8e	.	8g	.	4r	1%0r	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*
+.	.	.	.	.	.	8eJ	.	8gJ	.	.	.	.	.	.	.	.	.	.
+4C	.	4r	.	4c	.	(8eL	.	(8gL	.	2r	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	8g)	.	8cc)	.	.	.	.	.	.	.	.	.	.
+4r	.	8cc	Ah	4r	.	(8e	.	(8cc	.	.	.	.	.	.	.	.	.	.
+.	.	8cc	di	.	.	8gJ)	.	8eeJ)	.	.	.	.	.	.	.	.	.	.
+=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103
+*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+8D-L	cresc.	2.ff	me	8A-	8F	cresc.	8f	cresc.	8ff	cresc.	1r	.	1r	.	1r	1r	.	1r	.
+8F	.	.	.	4A-y	4F	.	4f	.	4ff	.	.	.	.	.	.	.	.	.	.
+8D-y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8FJ	.	.	.	4A-y	4F	.	4e-	.	4ee-	.	.	.	.	.	.	.	.	.	.
+8D-yL	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8F	.	.	.	4A-y	4F	.	4d-	.	4dd-	.	.	.	.	.	.	.	.	.	.
+8D-y	.	(8ffL	che	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8FJ	.	8aa-J)	.	8A-y	8F	.	8c	.	8cc	.	.	.	.	.	.	.	.	.	.
+=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104
+*	*	*	*	*	*	*	*	*	*	*	*^	*	*^	*	*	*^	*	*	*
+4D-	.	2.aa-;	si	4A-	4F	.	4Bn	.	4bn	.	4cc	4c	.	4D-	4D-	.	1r	4ff	4bn	.	4bbn	.
+4r	.	.	.	4r	4r	.	4r	.	4r	.	4r	1%0r	.	4r	1%0r	.	.	4r	1%0r	.	4r	.
+*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*v	*v	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*
+2r;	.	.	.	2r;	2r	.	2r;	.	2r;	.	2r;	.	2r;	.	.	2r;	.	2r;	.
+.	.	4bn	di-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105
+*	*	*	*	*	*	*	*	*	*	*^	*	*^	*	*	*^	*	*	*
+4C	.	4cc	rà?	4c	.	4e	.	4cc	.	4g	4G	.	4C	4C	.	2r;	4ee	4cc	.	4ccc	.
+4r;	.	4r;	.	4r;	.	4r;	.	4r;	.	4r;	1%0r	.	4r;	1%0r	.	.	4r;	1%0r	.	4r;	.
+*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*v	*v	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*
+2r	.	2r	.	2r	.	2r	.	2r	.	2r	.	2r	.	(8bb-L	2r	.	2r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8aa-	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8gg	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ffJ)	.	.	.	.
+!!LO:LB
+=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106
+1r	.	1r	.	1r	.	(8cL	.	(8cL	.	1r	.	1r	.	(4.ee-	1r	.	1r	.
+.	.	.	.	.	.	8e-	.	8e-	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	8c	.	8c	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	8e-yJ	.	8e-yJ	.	.	.	.	.	8een	.	.	.	.
+.	.	.	.	.	.	8cL	.	8cL	.	.	.	.	.	8ffL	.	.	.	.
+.	.	.	.	.	.	8e-y	.	8e-y	.	.	.	.	.	8ee-	.	.	.	.
+.	.	.	.	.	.	8c	.	8c	.	.	.	.	.	8dd	.	.	.	.
+.	.	.	.	.	.	8e-yJ)	.	8e-yJ)	.	.	.	.	.	8ccJ)	.	.	.	.
+=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107
+1r	.	1r	.	1r	.	(8d-L	.	(8d-L	.	1r	.	1r	.	(4.b-	1r	.	1r	.
+.	.	.	.	.	.	8e-	.	8e-	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	8d-y	.	8d-y	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	8e-yJ	.	8e-yJ	.	.	.	.	.	8cc	.	.	.	.
+.	.	.	.	.	.	8d-yL	.	8d-yL	.	.	.	.	.	8ddL	.	.	.	.
+.	.	.	.	.	.	8e-y	.	8e-y	.	.	.	.	.	8ee-	.	.	.	.
+.	.	.	.	.	.	8d-y	.	8d-y	.	.	.	.	.	8ff	.	.	.	.
+.	.	.	.	.	.	8e-yJ)	.	8e-yJ)	.	.	.	.	.	8ggJ	.	.	.	.
+=108	=108	=108	=108	=108	=108	=108	=108	=108	=108	=108	=108	=108	=108	=108	=108	=108	=108	=108
+1r	.	1r	.	1r	.	(8GL	.	(8GL	.	1r	.	1r	.	8aa-L	1r	.	1r	.
+.	.	.	.	.	.	8e-	.	8e-	.	.	.	.	.	8aan	.	.	.	.
+.	.	.	.	.	.	8G	.	8G	.	.	.	.	.	8bb-	.	.	.	.
+.	.	.	.	.	.	8e-yJ	.	8e-yJ	.	.	.	.	.	8bbnJ	.	.	.	.
+.	.	.	.	.	.	8GL	.	8GL	.	.	.	.	.	8cccL	.	.	.	.
+.	.	.	.	.	.	8e-y	.	8e-y	.	.	.	.	.	8bb-	.	.	.	.
+.	.	.	.	.	.	8G	.	8G	.	.	.	.	.	8aan	.	.	.	.
+.	.	.	.	.	.	8e-yJ)	.	8e-yJ)	.	.	.	.	.	8aa-J	.	.	.	.
+=109	=109	=109	=109	=109	=109	=109	=109	=109	=109	=109	=109	=109	=109	=109	=109	=109	=109	=109
+1r	.	2r	.	1r	.	4A-	.	4A-	.	1r	.	1r	.	4gg)	1r	.	1r	.
+.	.	.	.	.	.	4r	.	4r	.	.	.	.	.	4r	.	.	.	.
+.	.	(8ee-L	Chi	.	.	2r	.	2r	.	.	.	.	.	2r	.	.	.	.
+.	.	8dd-J)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	(8ccL	ve-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8b-yJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110
+4A-	.	4.a-	des-	1r	.	4r	.	4r	.	1r	.	1r	.	1r	1r	.	1r	.
+4r	.	.	.	.	.	4c'	.	4e-'	.	.	.	.	.	.	.	.	.	.
+.	.	8an	-se il	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+2r	.	(8b-L	mio	.	.	4c'	.	4e-y'	.	.	.	.	.	.	.	.	.	.
+.	.	8a-J)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	(8gL	do-	.	.	4c'	.	4e-y'	.	.	.	.	.	.	.	.	.	.
+.	.	8fJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111
+4E-	.	4.e-	lo-	1r	.	4r	.	4r	.	1r	.	1r	.	1r	1r	.	1r	.
+4r	.	.	.	.	.	4d-'	.	4e-'	.	.	.	.	.	.	.	.	.	.
+.	.	8f	-re,	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+2r	.	(8gL	pur	.	.	4d-y'	.	4e-y'	.	.	.	.	.	.	.	.	.	.
+.	.	8a-J)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	(8b-yL	a-	.	.	4d-y'	.	4e-y'	.	.	.	.	.	.	.	.	.	.
+.	.	8ccJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112
+4E-	.	(8dd-L	vria	1r	.	4r	.	4r	.	1r	.	1r	.	1r	1r	.	1r	.
+.	.	8ddnJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4r	.	(8ee-L	di	.	.	4G'	.	4e-'	.	.	.	.	.	.	.	.	.	.
+.	.	8eenJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+2r	.	(8ffL	me	.	.	4G'	.	4e-y'	.	.	.	.	.	.	.	.	.	.
+.	.	8ee-J)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	(8ddL	pie-	.	.	4G'	.	4e-y'	.	.	.	.	.	.	.	.	.	.
+.	.	8dd-J)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=113	=113	=113	=113	=113	=113	=113	=113	=113	=113	=113	=113	=113	=113	=113	=113	=113	=113	=113
+4AA-	.	4cc	tà.	1r	.	4A-	.	4e	.	1r	.	1r	.	2r	1r	.	1r	.
+4r	.	4r	.	.	.	4r	.	4r	.	.	.	.	.	.	.	.	.	.
+2r	.	2r	.	.	.	2r	.	2r	.	.	.	.	.	8gg'L	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8aa-'	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8aan'	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8bb'J	.	.	.	.
+=114	=114	=114	=114	=114	=114	=114	=114	=114	=114	=114	=114	=114	=114	=114	=114	=114	=114	=114
+2r	.	2r	.	2r	.	2r	.	2r	.	1r	.	1r	.	(4bbn	1r	.	1r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	4ccc)	.	.	.	.
+4r	.	(8ccL	Chi	4r	.	4r	.	4r	.	.	.	.	.	2r	.	.	.	.
+.	.	8ffJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4An	.	(8eenL	ve-	4c	.	4e-	.	4f	.	.	.	.	.	.	.	.	.	.
+.	.	8ee-J)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=115	=115	=115	=115	=115	=115	=115	=115	=115	=115	=115	=115	=115	=115	=115	=115	=115	=115	=115
+4B-y	.	4cc	des-	4B-y	.	4d-	.	4f	.	1r	.	1r	.	2r	1r	.	1r	.
+4r	.	4dd-	-se	4r	.	4r	.	4r	.	.	.	.	.	.	.	.	.	.
+2r	.	2r	.	2r	.	2r	.	2r	.	.	.	.	.	8ff'L	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8gg'	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8aa-'	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8aan'J	.	.	.	.
+=116	=116	=116	=116	=116	=116	=116	=116	=116	=116	=116	=116	=116	=116	=116	=116	=116	=116	=116
+2r	.	4r	.	2r	.	2r	.	2r	.	1r	.	1r	.	(4ccc	1r	.	1r	.
+.	.	8r	.	.	.	.	.	.	.	.	.	.	.	4bb-)	.	.	.	.
+.	.	8b-y	il	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4r	.	(8b-yL	mio	4r	.	4r	.	4r	.	.	.	.	.	2r	.	.	.	.
+.	.	8ee-J)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4G	.	(8ddnL	do-	4B-y	.	4d-	.	4e-	.	.	.	.	.	.	.	.	.	.
+.	.	8dd-J)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=117	=117	=117	=117	=117	=117	=117	=117	=117	=117	=117	=117	=117	=117	=117	=117	=117	=117	=117
+4A-	.	4bn	lo-	4A-	.	4c	.	4e	.	1r	.	1r	.	1r	1r	.	1r	.
+4r	.	4cc	-re,	4r	.	4r	.	4r	.	.	.	.	.	.	.	.	.	.
+2r	.	(8ccL	pur	2r	.	8r	.	8r	.	.	.	.	.	.	.	.	.	.
+.	.	16dd-	.	.	.	(8ccL	.	(8ee-L	.	.	.	.	.	.	.	.	.	.
+.	.	16ee-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8dd-yJ)	.	.	.	8b-y	.	8dd-	.	.	.	.	.	.	.	.	.	.
+.	.	8cc	a-	.	.	8a-J)	.	8ccJ)	.	.	.	.	.	.	.	.	.	.
+!!LO:LB
+=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118
+*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*
+4E-	.	4b-	vria	8r	.	8r	.	8r	.	1r	.	(2B-y	(2G	.	1r	1r	.	1r	.
+.	.	.	.	8e-L	.	8gL	.	8b-yL	.	.	.	.	.	.	.	.	.	.	.
+4r	.	8r	.	8e-y	.	8g	.	8b-y	.	.	.	.	.	.	.	.	.	.	.
+.	.	8b-y	di	8e-yJ	.	8gJ	.	8b-yJ	.	.	.	.	.	.	.	.	.	.	.
+4E-y	.	(8ccL	me	8r	.	8r	.	8r	.	.	.	2c)	2A-)	.	.	.	.	.	.
+.	.	8a-J)	.	8e-yL	.	8a-L	.	8ccL	.	.	.	.	.	.	.	.	.	.	.
+4r	.	(8ee-L	pie-	8e-y	.	8a-y	.	8cc	.	.	.	.	.	.	.	.	.	.	.
+.	.	8ccJ)	.	8e-yJ	.	8a-yJ	.	8ccJ	.	.	.	.	.	.	.	.	.	.	.
+=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119
+4E-	.	(4b-y	tà,	8r	.	8r	.	8r	.	1r	.	(2B-y	(2G	.	1r	1r	.	1r	.
+.	.	.	.	8e-L	.	(8gL	.	(8b-yL	.	.	.	.	.	.	.	.	.	.	.
+4r	.	2dd-)	.	8e-y	.	8b-y)	.	8dd-)	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	8e-yJ	.	8b-yJ	.	8dd-y'J	.	.	.	.	.	.	.	.	.	.	.
+4En	.	.	.	8r	.	8r	.	8r	.	.	.	2G)	2En)	.	.	.	.	.	.
+.	.	.	.	(8GL	.	(8b-yL	.	(8dd-yL	.	.	.	.	.	.	.	.	.	.	.
+4r	.	8cc	pur	8c)	.	8a-	.	8cc	.	.	.	.	.	.	.	.	.	.	.
+.	.	8b-y	a-	8cJ	.	8gJ)	.	8b-yJ)	.	.	.	.	.	.	.	.	.	.	.
+=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120
+4F	.	(8a-L	vria	8r	.	8r	.	8r	.	1r	.	2A-	1F	.	1r	1r	.	1r	.
+.	.	8ccJ)	.	8cL	.	8fL	.	8a-L	.	.	.	.	.	.	.	.	.	.	.
+4r	.	(8ccL	di	8c	.	8f	.	8a-y	.	.	.	.	.	.	.	.	.	.	.
+.	.	8ffJ)	.	8cJ	.	8fJ	.	8a-yJ	.	.	.	.	.	.	.	.	.	.	.
+4D-	.	4.ff	me	8r	.	8r	.	8r	.	.	.	2Bn	.	.	.	.	.	.	.
+.	.	.	.	8FL	.	8fL	.	8bnL	.	.	.	.	.	.	.	.	.	.	.
+4r	.	.	.	8F	.	8f	.	8b	.	.	.	.	.	.	.	.	.	.	.
+.	.	8bn	pie-	8FJ	.	8fJ	.	8bJ	.	.	.	.	.	.	.	.	.	.	.
+=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121
+*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*
+8C'L	.	4cc	tà.	8G	.	8en	.	(16ccL	.	[1g	[1G	.	4c	4E	.	1r	1r	.	1r	.
+.	.	.	.	.	.	.	.	16g)	.	.	.	.	.	.	.	.	.	.	.	.
+8E'	.	.	.	4G	.	4e	.	16en'	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16g'J	.	.	.	.	.	.	.	.	.	.	.	.
+8G'	.	4r	.	.	.	.	.	(16eL	.	.	.	.	4r	1%0r	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*
+.	.	.	.	.	.	.	.	16g	.	.	.	.	.	.	.	.	.	.	.
+8E'J	.	.	.	4G	.	4e	.	16cc	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16gJ)	.	.	.	.	.	.	.	.	.	.	.
+8C'L	.	2r	.	.	.	.	.	(16ccL	.	.	.	.	2r	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16g)	.	.	.	.	.	.	.	.	.	.	.
+8E'	.	.	.	4G	.	4e	.	16e'	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16g'J	.	.	.	.	.	.	.	.	.	.	.
+8G'	.	.	.	.	.	.	.	(16eL	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16g	.	.	.	.	.	.	.	.	.	.	.
+8E'J	.	.	.	[8G	.	[8e	.	16cc	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16gJ)	.	.	.	.	.	.	.	.	.	.	.
+=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122
+8C'L	.	2.cc	In-	8G]	.	8e]	.	(16ccL	.	1g_	1G_	.	1r	.	1r	1r	.	1r	.
+.	.	.	.	.	.	.	.	16g)	.	.	.	.	.	.	.	.	.	.	.
+8E'	.	.	.	4G	.	4e	.	16e	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16gJ	.	.	.	.	.	.	.	.	.	.	.
+8G'	.	.	.	.	.	.	.	(16eL	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16g	.	.	.	.	.	.	.	.	.	.	.
+8E'J	.	.	.	4G	.	4e	.	16cc	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16gJ)	.	.	.	.	.	.	.	.	.	.	.
+8CL	.	.	.	.	.	.	.	(16ccL	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16g)	.	.	.	.	.	.	.	.	.	.	.
+8E	.	.	.	4G	.	4e	.	16e	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16gJ	.	.	.	.	.	.	.	.	.	.	.
+8G	.	4cc	-fe-	.	.	.	.	(16eL	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16g	.	.	.	.	.	.	.	.	.	.	.
+8EJ	.	.	.	[8G	.	[8e	.	16cc	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16gJ)	.	.	.	.	.	.	.	.	.	.	.
+=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123
+8CL	crescendo	(4.cc	li-	8G]	crescendo	8e]	crescendo	(16eeL	crescendo	1g_	1G_	crescendo	1r	.	1r	1ee	.	1gg	.
+.	.	.	.	.	.	.	.	16cc)	.	.	.	.	.	.	.	.	.	.	.
+8E	.	.	.	4e	.	4g	.	16g'	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16cc'J	.	.	.	.	.	.	.	.	.	.	.
+8G	.	.	.	.	.	.	.	(16gL	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16cc	.	.	.	.	.	.	.	.	.	.	.
+8EJ	.	8een)	.	4e	.	4g	.	16ee	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16ccJ)	.	.	.	.	.	.	.	.	.	.	.
+8CL	.	2ee	-ce!	.	.	.	.	(16eeL	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16cc)	.	.	.	.	.	.	.	.	.	.	.
+8E	.	.	.	4e	.	4g	.	16g'	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16cc'J	.	.	.	.	.	.	.	.	.	.	.
+8G	.	.	.	.	.	.	.	(16gL	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16cc	.	.	.	.	.	.	.	.	.	.	.
+8EJ	.	.	.	[8e	.	[8g	.	16ee	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16ccJ)	.	.	.	.	.	.	.	.	.	.	.
+=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124
+*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*^	*	*	*
+8CL	.	2.ee	qual	8e]	.	8g]	.	(16ggL	.	1g_	1G_	.	[1e	[1B-	cresc.	1r	1gg	1ee	cresc.	1bb-	cresc.
+.	.	.	.	.	.	.	.	16ee)	.	.	.	.	.	.	.	.	.	.	.	.	.
+8E	.	.	.	4g	.	4b-	.	16cc'	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16ee'J	.	.	.	.	.	.	.	.	.	.	.	.	.
+8G	.	.	.	.	.	.	.	(16ccL	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16ee	.	.	.	.	.	.	.	.	.	.	.	.	.
+8EJ	.	.	.	4g	.	4b-y	.	16gg	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16eeJ)	.	.	.	.	.	.	.	.	.	.	.	.	.
+8CL	.	.	.	.	.	.	.	(16ggL	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16ee)	.	.	.	.	.	.	.	.	.	.	.	.	.
+8E	.	.	.	4g	.	4b-y	.	16cc'	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16ee'J	.	.	.	.	.	.	.	.	.	.	.	.	.
+8G	.	4ee	or-	.	.	.	.	(16ccL	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16ee	.	.	.	.	.	.	.	.	.	.	.	.	.
+8EJ	.	.	.	8g	.	8b-y	.	16gg	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16eeJ)	.	.	.	.	.	.	.	.	.	.	.	.	.
+!!LO:LB
+=125	=125	=125	=125	=125	=125	=125	=125	=125	=125	=125	=125	=125	=125	=125	=125	=125	=125	=125	=125	=125	=125
+4C	.	2.gg;	ro-	4c	.	4b-y 4g	.	4bb- 4cc 4e	.	4g_	4G]	.	4e_	4B-y]	.	1r	4bb-	4gg	.	4eee	.
+4r	.	.	.	4r	.	4r	.	4r	.	4r	1%0r	.	4r	1%0r	.	.	4r	1%0r	.	4r	.
+*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*v	*v	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*
+2r;	.	.	.	2r;	.	2r;	.	2r;	.	2r;	.	2r;	.	.	2r;	.	2r;	.
+.	.	(8ffL	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8eeJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=126	=126	=126	=126	=126	=126	=126	=126	=126	=126	=126	=126	=126	=126	=126	=126	=126	=126	=126
+1r	.	4ee	re!	1r	.	1r	.	1r	.	1r	.	1r	.	1r	1r	.	1r	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*clefF4	*	*	*	*
+.	.	4r;	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	(8ccL	Chi	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8b-yJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	(8anL	ve-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8gJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127
+4F	.	4.f	des-	1r	.	4r	.	4r	.	1r	.	1r	.	12CL	1r	.	1r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	12E	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	12GJ	.	.	.	.
+4r	.	.	.	.	.	4cc'	.	4ccc'	.	.	.	.	.	12CL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	12E	.	.	.	.
+.	.	8f#	-se il	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	12GJ	.	.	.	.
+2r	.	(8gL	mio	.	.	4cc'	.	4ccc'	.	.	.	.	.	12CL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	12E	.	.	.	.
+.	.	8fnJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	12GJ	.	.	.	.
+.	.	(8eL	do-	.	.	4cc'	.	4ccc'	.	.	.	.	.	12CL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	12E	.	.	.	.
+.	.	8dJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	12GJ	.	.	.	.
+=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128
+4C	.	4.c	lo-	1r	.	4r	.	4r	.	1r	.	1r	.	12BBL	1r	.	1r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	12D	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	12GJ	.	.	.	.
+4r	.	.	.	.	.	4cc'	.	4ccc'	.	.	.	.	.	12BBL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	12D	.	.	.	.
+.	.	8d	-re,	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	12GJ	.	.	.	.
+2r	.	(8eL	pur	.	.	4cc'	.	4ccc'	.	.	.	.	.	12DL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	12F	.	.	.	.
+.	.	8fJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	12GJ	.	.	.	.
+.	.	(8gL	a-	.	.	4cc'	.	4ccc'	.	.	.	.	.	12DL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	12F	.	.	.	.
+.	.	8aJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	12GJ	.	.	.	.
+=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129
+4C	.	(8b-yL	vria	1r	.	4r	.	4r	.	1r	.	1r	.	12BBL	1r	.	1r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	12D	.	.	.	.
+.	.	8bnJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	12GJ	.	.	.	.
+4r	.	(8ccL	di	.	.	4cc'	.	4ccc'	.	.	.	.	.	12BBL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	12D	.	.	.	.
+.	.	8cc#J)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	12GJ	.	.	.	.
+2r	.	(8ddL	me	.	.	4cc'	.	4ccc'	.	.	.	.	.	12GGL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	12BB	.	.	.	.
+.	.	8ccnJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	12DJ	.	.	.	.
+.	.	(8bnL	pie-	.	.	4cc'	.	4ccc'	.	.	.	.	.	12GGL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	12BB	.	.	.	.
+.	.	8b-J)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	12DJ	.	.	.	.
+=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130
+*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*
+4F	.	4a	tà.	1r	.	4cc	.	4ccc	.	1r	.	2r	1r	.	4C	1r	.	2r	.
+4r	.	4r	.	.	.	4r	.	4r	.	.	.	.	.	.	4r	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*clefG2	*	*	*	*
+2r	.	2r	.	.	.	2r	.	2r	.	.	.	(8cL	.	.	(8ggL	.	.	(8cccL	.
+.	.	.	.	.	.	.	.	.	.	.	.	8B-y	.	.	8ff	.	.	8bb-y	.
+.	.	.	.	.	.	.	.	.	.	.	.	8A	.	.	8ee	.	.	8aa	.
+.	.	.	.	.	.	.	.	.	.	.	.	8GJ)	.	.	8ddJ)	.	.	8ggJ)	.
+=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131
+*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+4F	.	[2cc	In-	4r	4A	.	4r	.	4r	.	1r	.	(4.F	1r	.	(4.cc	1r	.	(4.ff	.
+4r	.	.	.	4c'	4A	.	4a'	.	4cc'	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	8F#	.	.	8cc#	.	.	8ff#	.
+2r	.	4.cc]	.	4c'	4A	.	4a'	.	4cc'	.	.	.	8GL	.	.	8ddL	.	.	8ggL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	8Fn	.	.	8ccn	.	.	8ffn	.
+*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	.	.	4c'	.	4a'	.	4cc'	.	.	.	8E	.	.	8b	.	.	8ee	.
+.	.	8ff	-fe-	.	.	.	.	.	.	.	.	8DJ)	.	.	8aJ)	.	.	8ddJ)	.
+=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132	=132
+*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+4C	.	4ee	li-	4r	4B-y	.	4r	.	4r	.	1r	.	(4.C	1r	.	(4.g	1r	.	(4.cc	.
+4r	.	4ee	-ce!	4c'	4B-y	.	4b-y'	.	4cc'	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	8D	.	.	8a	.	.	8dd	.
+2r	.	2r	.	4c'	4B-y	.	4b-y'	.	4cc'	.	.	.	8EL	.	.	8bL	.	.	8eeL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	8F	.	.	8cc	.	.	8ff	.
+*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	.	.	4c'	.	4b-y'	.	4cc'	.	.	.	8G	.	.	8dd	.	.	8gg	.
+.	.	.	.	.	.	.	.	.	.	.	.	8AJ	.	.	8eeJ	.	.	8aaJ	.
+=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133	=133
+*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+4C	.	[2ee	qual	4r	4G	.	4r	.	4r	.	1r	.	8B-yL	1r	.	8ffL	1r	.	8bb-yL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	8Bn	.	.	8ff#	.	.	8bbn	.
+4r	.	.	.	4c'	4G	.	4g'	.	4cc'	.	.	.	8c	.	.	8gg	.	.	8ccc	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	8c#J	.	.	8gg#J	.	.	8ccc#J	.
+2r	.	4.ee]	.	4c'	4G	.	4g'	.	4cc'	.	.	.	8dL	.	.	8aaL	.	.	8dddL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	8cn	.	.	8ggn	.	.	8cccn	.
+*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+.	.	.	.	4c'	.	4g'	.	4cc'	.	.	.	8Bn	.	.	8ff#	.	.	8bbn	.
+.	.	8ee	or-	.	.	.	.	.	.	.	.	8B-J	.	.	8ffnJ	.	.	8bb-J	.
+=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134	=134
+*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+4r	.	4ff	ro-	4c	4F	.	4f	.	4cc	.	1r	.	4A)	1r	.	4ee)	1r	.	4aa)	.
+4F'	.	4ff	-re!	4f'	1%0r	.	4a'	.	4cc'	.	.	.	4r	.	.	4r	.	.	4r	.
+*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+4B-y'	.	8r	.	4f'	.	4b-y'	.	4dd'	.	.	.	2r	.	.	2r	.	.	2r	.
+.	.	8ff	Non	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4r	.	8ee	più	4r	.	4r	.	4r	.	.	.	.	.	.	.	.	.	.	.
+.	.	8dd	di	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*
+=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135	=135
+4r	.	4bn	fio-	4r	.	4r	.	4r	.	1r	.	1r	.	1r	1r	.	1r	.
+4A'	.	4cc	-ri	4c'	.	4f'	.	4cc'	.	.	.	.	.	.	.	.	.	.
+4E'	.	8r	.	4c'	.	4g'	.	4cc'	.	.	.	.	.	.	.	.	.	.
+.	.	8cc	va-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4r	.	8b	-ghe	4r	.	4r	.	4r	.	.	.	.	.	.	.	.	.	.
+.	.	8b-	ca-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!!LO:LB
+=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136	=136
+4r	.	4g#	te-	4r	.	4r	.	4r	.	1r	.	1r	.	1r	1r	.	1r	.
+4F'	.	4a	-ne	4f'	.	4a'	.	4cc'	.	.	.	.	.	.	.	.	.	.
+4B-y'	.	8r	.	4f'	.	4b-y'	.	4dd'	.	.	.	.	.	.	.	.	.	.
+.	.	8ff	di-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4r	.	8ee	-scen-	4r	.	4r	.	4r	.	.	.	.	.	.	.	.	.	.
+.	.	8dd	-da I-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137	=137
+4r	.	4bn	me-	4r	.	4r	.	4r	.	1r	.	1r	.	1r	1r	.	1r	.
+4A'	.	4cc	-ne	4c'	.	4f'	.	4cc'	.	.	.	.	.	.	.	.	.	.
+4E'	.	8r	.	4c'	.	4g'	.	4cc'	.	.	.	.	.	.	.	.	.	.
+.	.	8cc	ad	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4r	.	8b	in-	4r	.	4r	.	4r	.	.	.	.	.	.	.	.	.	.
+.	.	8b-	-trec-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138	=138
+*	*	*	*	*	*	*	*	*	*	*^	*	*^	*	*	*^	*	*	*
+!!Error: measure 138, staff 10 is underfilled: adding token 1ryy at end of measure to complete its duration.
+!!Error: measure 138, staff 8 is underfilled: adding token 1ryy at end of measure to complete its duration.
+!!Error: measure 138, staff 7 is underfilled: adding token 2ryy at end of measure to complete its duration.
+!!Error: measure 138, staff 6 is underfilled: adding token 2ryy at end of measure to complete its duration.
+1ryy	.	4a	ciar.	1ryy	.	16fL	.	16aL	.	[1cc	[1c	.	1A	1F	.	1r	1a	1f	.	1r	.
+.	.	.	.	.	.	16A	.	16f	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	16A	.	16f	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	16AJ	.	16fJ	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	4r	.	.	.	16fL	.	16aL	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	16A	.	16f	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	16A	.	16f	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	16AJ	.	16fJ	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	4a	Stret-	.	.	2ryy	.	2ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8f	-ta	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8f	fra	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139	=139
+!!Error: measure 139, staff 10 is underfilled: adding token 1ryy at end of measure to complete its duration.
+!!Error: measure 139, staff 8 is underfilled: adding token 1ryy at end of measure to complete its duration.
+!!Error: measure 139, staff 7 is underfilled: adding token 2ryy at end of measure to complete its duration.
+!!Error: measure 139, staff 6 is underfilled: adding token 2ryy at end of measure to complete its duration.
+1ryy	.	8.b-y	bar-	1ryy	.	16gL	.	16b-yL	.	1cc_	1c_	.	1B-y	1G	.	1r	1b-y	1g	.	1r	.
+.	.	.	.	.	.	16B-y	.	16g	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	16B-y	.	16g	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16g	-ba-	.	.	16B-yJ	.	16gJ	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	4g	-re	.	.	16gL	.	16b-yL	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	16B-y	.	16g	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	16B-y	.	16g	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	16B-yJ	.	16gJ	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	4b-y	a-	.	.	2ryy	.	2ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8g	-spre	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8g	ri-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140	=140
+!!Error: measure 140, staff 10 is underfilled: adding token 1ryy at end of measure to complete its duration.
+!!Error: measure 140, staff 8 is underfilled: adding token 1ryy at end of measure to complete its duration.
+!!Error: measure 140, staff 7 is underfilled: adding token 2ryy at end of measure to complete its duration.
+!!Error: measure 140, staff 6 is underfilled: adding token 2ryy at end of measure to complete its duration.
+1ryy	.	4cc	tor-	1ryy	.	16aL	.	16ccL	.	1cc_	1c_	.	1c	1A	.	1r	1cc	1a	.	1r	.
+.	.	.	.	.	.	16c	.	16a	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	16c	.	16a	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	16cJ	.	16aJ	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	4a	-te	.	.	16aL	.	16ccL	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	16c	.	16a	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	16c	.	16a	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	16cJ	.	16aJ	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	4cc	veg-	.	.	2ryy	.	2ryy	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8.a	-go	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16a	la	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141	=141
+!!Error: measure 141, staff 10 is underfilled: adding token 1ryy at end of measure to complete its duration.
+!!Error: measure 141, staff 8 is underfilled: adding token 1ryy at end of measure to complete its duration.
+!!Error: measure 141, staff 7 is underfilled: adding token 1ryy at end of measure to complete its duration.
+!!Error: measure 141, staff 6 is underfilled: adding token 1ryy at end of measure to complete its duration.
+1ryy	cresc.	4dd	mor-	1ryy	cresc.	1ryy	cresc.	1ryy	cresc.	4cc]	4c]	cresc.	4d	4B-y	cresc.	1r	4dd	4b-y	cresc.	1r	.
+.	.	4cc	-te	.	.	.	.	.	.	4cc	4c	.	4c	4A	.	.	4cc	4a	.	.	.
+.	.	4dd	ver	.	.	.	.	.	.	4cc	4c	.	4d	4B-y	.	.	4dd	4b-y	.	.	.
+.	.	8.ee	me a-	.	.	.	.	.	.	4cc	4c	.	4B-y	4G	.	.	4ee	4b-y	.	.	.
+.	.	16ee	-van-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142	=142
+4F	.	2ff;	zar.	4f	.	4a	.	4ff	.	4cc	4c	.	4A	4F	.	2r;	4ff	4a	.	2r;	.
+4r;	.	.	.	4r;	.	4r;	.	4r;	.	4r;	1%0r	.	4r;	2r	.	.	4r;	1%0r	.	.	.
+*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*v	*v	*	*	*
+2r	.	2r	.	2r	.	2r	.	2r	.	2r	.	4C	.	.	4g	2r	.	4cc	.
+*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*
+.	.	.	.	.	.	.	.	.	.	.	.	4C	.	4g	.	.	4cc	.
+=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143	=143
+*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*
+1r	.	1r	.	1r	.	1r	.	1r	.	1r	.	(4.F	1r	.	(4.cc	1r	.	(4.ff	.
+.	.	.	.	.	.	.	.	.	.	.	.	8A	.	.	8ee	.	.	8aa	.
+.	.	.	.	.	.	.	.	.	.	.	.	4c	.	.	4gg	.	.	4ccc	.
+.	.	.	.	.	.	.	.	.	.	.	.	4C)	.	.	4g)	.	.	4cc)	.
+=144	=144	=144	=144	=144	=144	=144	=144	=144	=144	=144	=144	=144	=144	=144	=144	=144	=144	=144	=144
+1r	.	1r	.	1r	.	1r	.	1r	.	1r	.	(4.D	1r	.	(4.a	1r	.	(4.dd	.
+.	.	.	.	.	.	.	.	.	.	.	.	8F	.	.	8cc	.	.	8ff	.
+.	.	.	.	.	.	.	.	.	.	.	.	4A	.	.	4ee	.	.	4aa	.
+.	.	.	.	.	.	.	.	.	.	.	.	4AA)	.	.	4e)	.	.	4a)	.
+=145	=145	=145	=145	=145	=145	=145	=145	=145	=145	=145	=145	=145	=145	=145	=145	=145	=145	=145	=145
+1r	.	1r	.	1r	.	1r	.	1r	.	1r	.	8BB-y'	1r	.	8f'	1r	.	8b-y'	.
+.	.	.	.	.	.	.	.	.	.	.	.	8r	.	.	8r	.	.	8r	.
+.	.	.	.	.	.	.	.	.	.	.	.	8D'	.	.	8a'	.	.	8dd'	.
+.	.	.	.	.	.	.	.	.	.	.	.	8r	.	.	8r	.	.	8r	.
+.	.	.	.	.	.	.	.	.	.	.	.	8C'	.	.	8g'	.	.	8cc'	.
+.	.	.	.	.	.	.	.	.	.	.	.	8r	.	.	8r	.	.	8r	.
+.	.	.	.	.	.	.	.	.	.	.	.	8E'	.	.	8b'	.	.	8ee'	.
+.	.	.	.	.	.	.	.	.	.	.	.	8r	.	.	8r	.	.	8r	.
+=146	=146	=146	=146	=146	=146	=146	=146	=146	=146	=146	=146	=146	=146	=146	=146	=146	=146	=146	=146
+1r	.	2r	.	1r	.	1r	.	1r	.	1r	.	4F	1r	.	4cc	1r	.	4ff	.
+.	.	.	.	.	.	.	.	.	.	.	.	4r	.	.	4r	.	.	4r	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*clefF4	*	*	*	*
+.	.	(8bnL	Chi	.	.	.	.	.	.	.	.	2r	.	.	4GG	.	.	2r	.
+.	.	8ccJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	(8bL	ve-	.	.	.	.	.	.	.	.	.	.	.	4GG	.	.	.	.
+.	.	8ccJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*
+!!LO:LB
+=147	=147	=147	=147	=147	=147	=147	=147	=147	=147	=147	=147	=147	=147	=147	=147	=147	=147	=147
+1r	.	(8ddL	des-	1r	.	1r	.	1r	.	1r	.	1r	.	(4.C	1r	.	1r	.
+.	.	8ccJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	(8b-L	-se il	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8aJ)	.	.	.	.	.	.	.	.	.	.	.	8E	.	.	.	.
+.	.	4.a	mio	.	.	.	.	.	.	.	.	.	.	4G	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	4GG)	.	.	.	.
+.	.	8a	do-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=148	=148	=148	=148	=148	=148	=148	=148	=148	=148	=148	=148	=148	=148	=148	=148	=148	=148	=148
+1r	.	(8b-yL	lo-	1r	.	1r	.	1r	.	1r	.	1r	.	(4.AA	1r	.	1r	.
+.	.	8aJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	(8gL	-re,	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8fJ)	.	.	.	.	.	.	.	.	.	.	.	8C	.	.	.	.
+.	.	4.f	pur	.	.	.	.	.	.	.	.	.	.	4E	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	4EE)	.	.	.	.
+.	.	8f	a-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=149	=149	=149	=149	=149	=149	=149	=149	=149	=149	=149	=149	=149	=149	=149	=149	=149	=149	=149
+1r	.	(8gL	vria	1r	.	1r	.	1r	.	1r	.	1r	.	4FF	1r	.	1r	.
+.	.	8aJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	(8b-yL	di	.	.	.	.	.	.	.	.	.	.	4AA	.	.	.	.
+.	.	8gJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	(8eL	me	.	.	.	.	.	.	.	.	.	.	4GG	.	.	.	.
+.	.	8fJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	(8gL	pie-	.	.	.	.	.	.	.	.	.	.	4BB	.	.	.	.
+.	.	8aJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=150	=150	=150	=150	=150	=150	=150	=150	=150	=150	=150	=150	=150	=150	=150	=150	=150	=150	=150
+1r	.	4f	tà.	1r	.	1r	.	2r	.	1r	.	1r	.	4C	1r	.	2r	.
+.	.	4r	.	.	.	.	.	.	.	.	.	.	.	4r	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*clefG2	*	*	*	*
+.	.	4c	Chi	.	.	.	.	4c	.	.	.	.	.	(8ff#L	.	.	(8bbnL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8gg	.	.	8ccc	.
+.	.	4c	ve-	.	.	.	.	4c	.	.	.	.	.	8ff#y	.	.	8bb	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ggJ)	.	.	8cccJ)	.
+=151	=151	=151	=151	=151	=151	=151	=151	=151	=151	=151	=151	=151	=151	=151	=151	=151	=151	=151
+1r	.	4.f	des-	1r	.	1r	.	(4.f	.	1r	.	1r	.	(8aaL	1r	.	(8dddL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8gg	.	.	8ccc	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ffn	.	.	8bb-	.
+.	.	8a	-se il	.	.	.	.	8a	.	.	.	.	.	8eeJ)	.	.	8aaJ)	.
+.	.	4cc	mio	.	.	.	.	4cc	.	.	.	.	.	4.ee	.	.	4.aa	.
+.	.	4c	do-	.	.	.	.	4c)	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ee	.	.	8aa	.
+=152	=152	=152	=152	=152	=152	=152	=152	=152	=152	=152	=152	=152	=152	=152	=152	=152	=152	=152
+1r	.	4.d	lo-	1r	.	1r	.	(4.d	.	1r	.	1r	.	(8ffL	1r	.	(8bb-yL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ee	.	.	8aa	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8dd	.	.	8gg	.
+.	.	8f	-re,	.	.	.	.	8f	.	.	.	.	.	8ccJ)	.	.	8ffJ)	.
+.	.	4a	pur	.	.	.	.	4a	.	.	.	.	.	4.cc	.	.	4.ff	.
+.	.	4A	a-	.	.	.	.	4A)	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8cc	.	.	8ff	.
+=153	=153	=153	=153	=153	=153	=153	=153	=153	=153	=153	=153	=153	=153	=153	=153	=153	=153	=153
+1r	.	4.B-y	vria	1r	.	1r	.	8B-y'	.	1r	.	1r	.	(8ddL	1r	.	(8ggL	.
+.	.	.	.	.	.	.	.	8r	.	.	.	.	.	8ee	.	.	8aa	.
+.	.	.	.	.	.	.	.	8d'	.	.	.	.	.	8ff	.	.	8bb-y	.
+.	.	8d	di	.	.	.	.	8r	.	.	.	.	.	8ddJ	.	.	8ggJ	.
+.	.	4.c	me	.	.	.	.	8c'	.	.	.	.	.	8bL	.	.	(8eeL	.
+.	.	.	.	.	.	.	.	8r	.	.	.	.	.	8cc	.	.	8ff	.
+.	.	.	.	.	.	.	.	8e'	.	.	.	.	.	8dd	.	.	8gg	.
+.	.	8e	pie-	.	.	.	.	8r	.	.	.	.	.	8eeJ)	.	.	8aaJ))	.
+=154	=154	=154	=154	=154	=154	=154	=154	=154	=154	=154	=154	=154	=154	=154	=154	=154	=154	=154
+8FL	.	[2f	tà,	8r	.	8r	.	8fL	.	1r	.	1r	.	4cc	1r	.	4ff	.
+8F	.	.	.	8cL	.	8AL	.	8f	.	.	.	.	.	.	.	.	.	.
+8F	.	.	.	8c	.	8A	.	8f	.	.	.	.	.	4r	.	.	4r	.
+8FJ	.	.	.	8cJ	.	8AJ	.	8fJ	.	.	.	.	.	.	.	.	.	.
+4F	.	(8fL_	.	4c	.	8A	.	8f	.	.	.	.	.	2r	.	.	2r	.
+.	.	24g	.	.	.	8r	.	8r	.	.	.	.	.	.	.	.	.	.
+.	.	24f	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	24eJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4r	.	8fL	.	4r	.	8A'L	.	8f'L	.	.	.	.	.	.	.	.	.	.
+.	.	8gJ)	.	.	.	8c'J	.	8g'J	.	.	.	.	.	.	.	.	.	.
+=155	=155	=155	=155	=155	=155	=155	=155	=155	=155	=155	=155	=155	=155	=155	=155	=155	=155	=155
+4F	.	(8aL	.	4c	.	8f	.	8a	.	1r	.	1r	.	1r	1r	.	1r	.
+.	.	24b-y	.	.	.	8r	.	8r	.	.	.	.	.	.	.	.	.	.
+.	.	24a	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	24gJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4r	.	8aL	.	4r	.	8f'L	.	8a'L	.	.	.	.	.	.	.	.	.	.
+.	.	8b-yJ	.	.	.	8g'J	.	8b-y'J	.	.	.	.	.	.	.	.	.	.
+4FF	.	8ccL	.	4f	.	4a'	.	4cc'	.	.	.	.	.	.	.	.	.	.
+.	.	8ddJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4r	.	(8eeL	pie-	4r	.	4r	.	4r	.	.	.	.	.	.	.	.	.	.
+.	.	8ffJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=156	=156	=156	=156	=156	=156	=156	=156	=156	=156	=156	=156	=156	=156	=156	=156	=156	=156	=156
+4BB-y	.	[2ff	tà,	8r	.	8r	.	8r	.	1r	.	1r	.	1r	1r	.	1r	.
+.	.	.	.	4G	.	4d	.	4f	.	.	.	.	.	.	.	.	.	.
+4BB-y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	4G	.	4d	.	4f	.	.	.	.	.	.	.	.	.	.
+4BB-y	.	(8ffL_	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8ddJ)	.	4G	.	4d	.	4f	.	.	.	.	.	.	.	.	.	.
+4BB-y	.	(8b-yL	di	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8gJ)	.	8G	.	8d	.	8f	.	.	.	.	.	.	.	.	.	.
+=157	=157	=157	=157	=157	=157	=157	=157	=157	=157	=157	=157	=157	=157	=157	=157	=157	=157	=157
+4C	.	2.f	me	4r	.	(8AL	.	4r	.	1r	.	1r	.	1r	1r	.	1r	.
+.	.	.	.	.	.	8c	.	.	.	.	.	.	.	.	.	.	.	.
+4C	.	.	.	(2c	.	8A	.	(2f	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	8cJ	.	.	.	.	.	.	.	.	.	.	.	.
+4C	.	.	.	.	.	8AL	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	8c	.	.	.	.	.	.	.	.	.	.	.	.
+4C	.	(8aL	pie-	4e)	.	8B-y	.	8aL	.	.	.	.	.	.	.	.	.	.
+.	.	8gJ)	.	.	.	8cJ)	.	8gJ)	.	.	.	.	.	.	.	.	.	.
+!!LO:LB
+=158	=158	=158	=158	=158	=158	=158	=158	=158	=158	=158	=158	=158	=158	=158	=158	=158	=158	=158
+8FL	.	[2f	tà,	8fL	.	8AL	.	8fL	.	1r	.	1r	.	1r	1r	.	1r	.
+8F	.	.	.	8c	.	8A	.	8f	.	.	.	.	.	.	.	.	.	.
+8F	.	.	.	8c	.	8A	.	8f	.	.	.	.	.	.	.	.	.	.
+8FJ	.	.	.	8cJ	.	8AJ	.	8fJ	.	.	.	.	.	.	.	.	.	.
+4F	.	(8fL_	.	8c	.	8A	.	8f	.	.	.	.	.	.	.	.	.	.
+.	.	24g	.	8r	.	8r	.	8r	.	.	.	.	.	.	.	.	.	.
+.	.	24f	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	24eJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4r	.	8fL	.	4r	.	8A'L	.	8f'L	.	.	.	.	.	.	.	.	.	.
+.	.	8gJ)	.	.	.	8c'J	.	8g'J	.	.	.	.	.	.	.	.	.	.
+=159	=159	=159	=159	=159	=159	=159	=159	=159	=159	=159	=159	=159	=159	=159	=159	=159	=159	=159
+4F	.	(8aL	.	4c	.	8f'	.	8a'	.	1r	.	1r	.	1r	1r	.	1r	.
+.	.	24b-y	.	.	.	8r	.	8r	.	.	.	.	.	.	.	.	.	.
+.	.	24a	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	24gJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4r	.	8aL	.	4r	.	8f'L	.	8a'L	.	.	.	.	.	.	.	.	.	.
+.	.	8b-yJ	.	.	.	8g'J	.	8b-y'J	.	.	.	.	.	.	.	.	.	.
+4FF	.	8ccL	.	4f	.	4a'	.	4cc'	.	.	.	.	.	.	.	.	.	.
+.	.	8ddJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4r	.	(8eeL	pie-	4r	.	4r	.	4r	.	.	.	.	.	.	.	.	.	.
+.	.	8ffJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=160	=160	=160	=160	=160	=160	=160	=160	=160	=160	=160	=160	=160	=160	=160	=160	=160	=160	=160
+4BB-y	.	[2ff	tà,	8r	.	8r	.	8r	.	1r	.	1r	.	1r	1r	.	1r	.
+.	.	.	.	4G	.	4d	.	4f	.	.	.	.	.	.	.	.	.	.
+4BB-y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	4G	.	4d	.	4f	.	.	.	.	.	.	.	.	.	.
+4BB-y	.	(8ffL_	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8ddJ)	.	4G	.	4d	.	4f	.	.	.	.	.	.	.	.	.	.
+4BB-y	.	(8b-yL	di	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8gJ)	.	8G	.	8d	.	8f	.	.	.	.	.	.	.	.	.	.
+=161	=161	=161	=161	=161	=161	=161	=161	=161	=161	=161	=161	=161	=161	=161	=161	=161	=161	=161
+4C	.	2.f	me	4r	.	(8AL	.	4r	.	1r	.	1r	.	1r	1r	.	1r	.
+.	.	.	.	.	.	8c	.	.	.	.	.	.	.	.	.	.	.	.
+4C	.	.	.	(2c	.	8A	.	(4.f	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	8cJ	.	.	.	.	.	.	.	.	.	.	.	.
+4C	.	.	.	.	.	8AL	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	8c	.	8aL	.	.	.	.	.	.	.	.	.	.
+4BB-y	.	4g	pie-	8eL	.	8G	.	8g	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	8cJ)	.	8cJ)	.	8eJ)	.	.	.	.	.	.	.	.	.	.
+=162	=162	=162	=162	=162	=162	=162	=162	=162	=162	=162	=162	=162	=162	=162	=162	=162	=162	=162
+!!Error: measure 162, staff 7 is underfilled: adding token 2ryy at end of measure to complete its duration.
+!!Error: measure 162, staff 6 is underfilled: adding token 2ryy at end of measure to complete its duration.
+4AA	.	1cc	tà,	4c	.	8r	.	8r	.	1r	.	1r	.	1r	1r	.	1r	.
+.	.	.	.	.	.	8AL	.	8fL	.	.	.	.	.	.	.	.	.	.
+4r	.	.	.	4r	.	8A	.	8f	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	8AJ	.	8fJ	.	.	.	.	.	.	.	.	.	.
+2r	.	.	.	2r	.	2ryy	.	2ryy	.	.	.	.	.	.	.	.	.	.
+=163	=163	=163	=163	=163	=163	=163	=163	=163	=163	=163	=163	=163	=163	=163	=163	=163	=163	=163
+!!Error: measure 163, staff 7 is underfilled: adding token 2ryy at end of measure to complete its duration.
+!!Error: measure 163, staff 6 is underfilled: adding token 2ryy at end of measure to complete its duration.
+4D	.	1A	di	1r	.	8r	.	8r	.	1r	.	1r	.	1r	1r	.	1r	.
+.	.	.	.	.	.	8fL	.	8aL	.	.	.	.	.	.	.	.	.	.
+4r	.	.	.	.	.	8f	.	8a	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	8fJ	.	8aJ	.	.	.	.	.	.	.	.	.	.
+2r	.	.	.	.	.	2ryy	.	2ryy	.	.	.	.	.	.	.	.	.	.
+=164	=164	=164	=164	=164	=164	=164	=164	=164	=164	=164	=164	=164	=164	=164	=164	=164	=164	=164
+!!Error: measure 164, staff 7 is underfilled: adding token 2ryy at end of measure to complete its duration.
+!!Error: measure 164, staff 6 is underfilled: adding token 2ryy at end of measure to complete its duration.
+4BB-y	.	1G	me,	1r	.	8r	.	8r	.	1r	.	1r	.	1r	1r	.	1r	.
+.	.	.	.	.	.	8fL	.	8gL	.	.	.	.	.	.	.	.	.	.
+4r	.	.	.	.	.	8f	.	8g	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	8fJ	.	8gJ	.	.	.	.	.	.	.	.	.	.
+2r	.	.	.	.	.	2ryy	.	2ryy	.	.	.	.	.	.	.	.	.	.
+=165	=165	=165	=165	=165	=165	=165	=165	=165	=165	=165	=165	=165	=165	=165	=165	=165	=165	=165
+*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*^	*	*	*
+!!Error: measure 165, staff 7 is underfilled: adding token 2ryy at end of measure to complete its duration.
+!!Error: measure 165, staff 6 is underfilled: adding token 2ryy at end of measure to complete its duration.
+4BBn	.	1dd	di	1r	.	8r	.	8r	.	1r	.	1Bn	1Bn	.	1r	1aa-	[1ff	.	(1ddd	.
+.	.	.	.	.	.	8fL	.	8a-L	.	.	.	.	.	.	.	.	.	.	.	.
+4r	.	.	.	.	.	8f	.	8a-y	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	8fJ	.	8a-yJ	.	.	.	.	.	.	.	.	.	.	.	.
+2r	.	.	.	.	.	2ryy	.	2ryy	.	.	.	.	.	.	.	.	.	.	.	.
+=166	=166	=166	=166	=166	=166	=166	=166	=166	=166	=166	=166	=166	=166	=166	=166	=166	=166	=166	=166	=166
+!!Error: measure 166, staff 8 is underfilled: adding token 1ryy at end of measure to complete its duration.
+!!Error: measure 166, staff 7 is underfilled: adding token 1ryy at end of measure to complete its duration.
+!!Error: measure 166, staff 6 is underfilled: adding token 1ryy at end of measure to complete its duration.
+4C	.	[2cc	me	1ryy	.	1ryy	.	1ryy	.	1r	.	[1c	1c	.	1r	1aan	1ff_	.	4ccc)	.
+4C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4r	.
+4C	.	(8ccL_	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	2r	.
+.	.	8ff)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4C	.	(8cc	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	8aJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=167	=167	=167	=167	=167	=167	=167	=167	=167	=167	=167	=167	=167	=167	=167	=167	=167	=167	=167	=167	=167
+!!Error: measure 167, staff 10 is underfilled: adding token 1ryy at end of measure to complete its duration.
+!!Error: measure 167, staff 8 is underfilled: adding token 1ryy at end of measure to complete its duration.
+!!Error: measure 167, staff 7 is underfilled: adding token 1ryy at end of measure to complete its duration.
+!!Error: measure 167, staff 6 is underfilled: adding token 1ryy at end of measure to complete its duration.
+1ryy	cresc.	1gT	pie-	1ryy	cresc.	1ryy	cresc.	1ryy	cresc.	1r	.	1c_	1C	cresc.	1r	1gg	2ff]	cresc.	1r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	2ee	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*clefF4	*	*	*	*	*
+=168	=168	=168	=168	=168	=168	=168	=168	=168	=168	=168	=168	=168	=168	=168	=168	=168	=168	=168	=168	=168
+4F	.	4f	tà,	4A	.	4f	.	4f	.	1r	.	4c]	4F	.	16r	4ff	4ff	.	1r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16CCL	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16EE	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16GGJ	.	.	.	.	.
+4r	.	4r	.	4r	.	4a'	.	4cc'	.	.	.	4r	1%0r	.	16CL	4r	1%0r	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*v	*v	*	*	*
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16E	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16G	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16CJ	.	.	.	.
+4BB-y	.	4.ff	pur	4B-y	.	4r	.	4r	.	.	.	2r	.	16FL	2r	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16FF	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16AA	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16CJ	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*clefG2	*	*	*	*
+4r	.	.	.	4r	.	4b-y	.	4dd'	.	.	.	.	.	16fL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16a	.	.	.	.
+.	.	8dd	a-	.	.	.	.	.	.	.	.	.	.	16cc	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ffJ	.	.	.	.
+=169	=169	=169	=169	=169	=169	=169	=169	=169	=169	=169	=169	=169	=169	=169	=169	=169	=169	=169
+8C	.	(8ddL	vria	8c	.	8r	.	8r	.	1r	.	1r	.	16eeL	1r	.	1r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ff	.	.	.	.
+8r	.	8ccJ)	.	8r	.	8a	.	8cc	.	.	.	.	.	16gg	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16eeJ	.	.	.	.
+8C	.	8r	.	8c	.	8r	.	8r	.	.	.	.	.	16ddL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ee	.	.	.	.
+8r	.	8b-y	di	8r	.	8g	.	8b-y	.	.	.	.	.	16ff	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ddJ	.	.	.	.
+8C	.	(8b-yL	me	8c	.	8r	.	8r	.	.	.	.	.	16ccL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16dd	.	.	.	.
+8r	.	8aJ)	.	8r	.	8f	.	8a	.	.	.	.	.	16ee	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ccJ	.	.	.	.
+8BB-y	.	8r	.	8B-y	.	8r	.	8r	.	.	.	.	.	16bL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16cc	.	.	.	.
+8r	.	8g	pie-	8r	.	8e	.	8g	.	.	.	.	.	16dd	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16bJ	.	.	.	.
+!!LO:LB
+=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170	=170
+4AA	.	4cc	tà,	4A	.	4r	.	4r	.	1r	.	1r	.	16cc	1r	.	1r	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*clefF4	*	*	*	*
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16CCL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16EE	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16GGJ	.	.	.	.
+4r	.	4r	.	4r	.	4f	.	4cc'	.	.	.	.	.	16CL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16E	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16G	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16CJ	.	.	.	.
+4BB-y	.	4.ff	pur	4B-y	.	4r	.	4r	.	.	.	.	.	16FL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16FF	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16AA	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16CJ	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*clefG2	*	*	*	*
+4r	.	.	.	4r	.	4b-y	.	4dd'	.	.	.	.	.	16fL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16a	.	.	.	.
+.	.	8dd	a-	.	.	.	.	.	.	.	.	.	.	16cc	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ffJ	.	.	.	.
+=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171	=171
+8C	.	(8ddL	vria	8c	.	8r	.	8r	.	1r	.	1r	.	16eeL	1r	.	1r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ff	.	.	.	.
+8r	.	8ccJ)	.	8r	.	8a	.	8cc	.	.	.	.	.	16gg	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16eeJ	.	.	.	.
+8C	.	8r	.	8c	.	8r	.	8r	.	.	.	.	.	16ddL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ee	.	.	.	.
+8r	.	8b-y	di	8r	.	8g	.	8b-y	.	.	.	.	.	16ff	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ddJ	.	.	.	.
+8C	.	(8b-yL	me	8c	.	8r	.	8r	.	.	.	.	.	16ccL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16dd	.	.	.	.
+8r	.	8aJ)	.	8r	.	8f	.	8a	.	.	.	.	.	16ee	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ccJ	.	.	.	.
+8BB-y	.	8r	.	8B-y	.	8r	.	8r	.	.	.	.	.	16bL	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16cc	.	.	.	.
+8r	.	8g	pie-	8r	.	8e	.	8g	.	.	.	.	.	16dd	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16bJ	.	.	.	.
+=172	=172	=172	=172	=172	=172	=172	=172	=172	=172	=172	=172	=172	=172	=172	=172	=172	=172	=172
+*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*
+!!Error: measure 172, staff 8 is underfilled: adding token 1ryy at end of measure to complete its duration.
+!!Error: measure 172, staff 7 is underfilled: adding token 1ryy at end of measure to complete its duration.
+!!Error: measure 172, staff 6 is underfilled: adding token 1ryy at end of measure to complete its duration.
+8AAL	.	2ff	tà,	1ryy	.	1ryy	.	1ryy	.	1r	.	2r	2A	.	4cc	1r	.	1r	.
+8A	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8A	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4r	.	.	.	.
+8AJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*
+8AAL	.	2ff#	a-	.	.	.	.	.	.	.	.	2A	.	2r	.	.	.	.
+8A	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8A	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8AJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=173	=173	=173	=173	=173	=173	=173	=173	=173	=173	=173	=173	=173	=173	=173	=173	=173	=173	=173
+*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*
+!!Error: measure 173, staff 8 is underfilled: adding token 1ryy at end of measure to complete its duration.
+!!Error: measure 173, staff 7 is underfilled: adding token 1ryy at end of measure to complete its duration.
+!!Error: measure 173, staff 6 is underfilled: adding token 1ryy at end of measure to complete its duration.
+8BB-yL	.	2gg	vria	1ryy	.	1ryy	.	1ryy	.	1r	.	2B-y	2B-y	.	1r	1r	.	1r	.
+8B-y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8B-y	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8B-yJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8BBnL	.	2aa-	di	.	.	.	.	.	.	.	.	2Bn	2Bn	.	.	.	.	.	.
+8Bn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8B	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8BJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=174	=174	=174	=174	=174	=174	=174	=174	=174	=174	=174	=174	=174	=174	=174	=174	=174	=174	=174	=174
+*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*^	*	*	*
+4c	.	[1aan	me	4c	.	4f	.	4an	.	8r	8gL	.	2c	4c	.	16r	[1aan	[1ff	.	[1ccc	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16gL	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	8ggL	8g	.	.	.	.	16cc	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16eeJ	.	.	.	.	.
+4r	.	.	.	4r	.	4r	.	4r	.	8gg	8eJ	.	.	4C	.	16ggL	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ee	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	8eeJ	8eL	.	.	.	.	16cc	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16gJ	.	.	.	.	.
+2r	.	.	.	2r	.	2r	.	2r	.	8eeL	8c	.	4A	4AA	.	16eeL	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16cc	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	8cc	8c	.	.	.	.	16g	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16eJ	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	8cc	8GJ	.	4F	4FF	.	16ccL	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16g	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*	*	*
+.	.	.	.	.	.	.	.	.	.	8gJ	.	.	.	.	16e	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16cJ	.	.	.	.	.
+=175	=175	=175	=175	=175	=175	=175	=175	=175	=175	=175	=175	=175	=175	=175	=175	=175	=175	=175	=175	=175
+*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*	*	*	*	*	*
+4C	.	(4.aa_	.	4c 4C	.	4r	.	4r	.	4g	4G	.	4C	4CC	.	4G	4aa]	4ff]	.	4ccc]	.
+4r	.	.	.	4r	.	4aa 4cc 4f	.	4aa 4cc 4f	.	8.eeL	8.ccL	.	8.AL	8.FL	.	4r	8.aaL	8.ffL	.	8.fffL	.
+.	.	8ff)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	16eeJ	16ccJ	.	16AJ	16FJ	.	.	16aaJ	16ffJ	.	16fffJ	.
+4C	.	(4.ee	pie-	4c 4C	.	4r	.	4r	.	4dd	4g	.	4G	4E	.	4G	4gg	4ee	.	4eee	.
+4r	.	.	.	4r	.	4ccc 4ee 4g	.	4ccc 4ee 4g	.	8.ddL	8.gL	.	8.GL	8.EL	.	4r	8.ggL	8.eeL	.	8.eeeL	.
+.	.	8gg)	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	16ddJ	16gJ	.	16GJ	16EJ	.	.	16ggJ	16eeJ	.	16eeeJ	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*clefF4	*	*	*	*	*
+=176	=176	=176	=176	=176	=176	=176	=176	=176	=176	=176	=176	=176	=176	=176	=176	=176	=176	=176	=176	=176	=176
+!!Error: measure 176, staff 10 is underfilled: adding token 2ryy at end of measure to complete its duration.
+8FL	.	4ff	tà.	8c	.	8f 8A	.	4ff 4cc 4f	.	4cc	4e	.	4F	4F	.	4CC	4ff	4ff	.	4fff	.
+8F	.	.	.	4c	.	4f 4A	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!LO:TX:a:t=(parte)	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8F	.	4r	.	.	.	.	.	16r	.	8.gL	8.cL	.	4A	4F	.	4r	(4aa	(4ff	.	2ccc	.
+.	.	.	.	.	.	.	.	16ccL	.	.	.	.	.	.	.	.	.	.	.	.	.
+8FJ	.	.	.	4c	.	(8f (8A	.	16ff	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16aaJ	.	16gJ	16cJ	.	.	.	.	.	.	.	.	.	.
+2ryy	.	2r	.	.	.	8e) 8B-y)	.	(16cccL	.	[2g	[2c	.	2B-y	2G	.	2r	4gg	4ee	.	.	.
+.	.	.	.	.	.	.	.	16bb-y)	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	4c	.	4e 4B-y	.	16aa'	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16gg'J	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	(16aaL	.	.	.	.	.	.	.	.	4bb-y)	4gg)	.	4eee	.
+*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*v	*v	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*clefG2	*	*	*	*
+.	.	.	.	.	.	.	.	16gg)	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	[8c	.	(8g (8B-y	.	16ff'	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16ee'J	.	.	.	.	.	.	.	.	.	.
+=177	=177	=177	=177	=177	=177	=177	=177	=177	=177	=177	=177	=177	=177	=177	=177	=177	=177	=177
+*	*	*	*	*	*	*	*	*	*	*^	*	*^	*	*	*^	*	*	*
+!!Error: measure 177, staff 10 is underfilled: adding token 1ryy at end of measure to complete its duration.
+1ryy	.	1r	.	8c]	.	8f) 8A)	.	(16ffL	.	4g]	4c]	.	2A	2F	.	1r	(2aa	(2ff	.	4fff	.
+.	.	.	.	.	.	.	.	16cc)	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	4c	.	4f 4A	.	16a'	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16cc'J	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16ffL	.	8.gL	8.cL	.	.	.	.	.	.	.	.	2ccc	.
+.	.	.	.	.	.	.	.	16cc	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	4c	.	(8f (8A	.	16ff	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16aaJ	.	16gJ	16cJ	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	8e) 8B-y)	.	(16cccL	.	[2g	[2c	.	2B-y	2G	.	.	4gg	4ee	.	.	.
+.	.	.	.	.	.	.	.	16bb-y)	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	4c	.	4e 4B-y	.	16aa'	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16gg'J	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	(16aaL	.	.	.	.	.	.	.	.	4bb-y)	4gg)	.	4eee	.
+.	.	.	.	.	.	.	.	16gg)	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	8c	.	8g 8B-y	.	16ff'	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16ee'J	.	.	.	.	.	.	.	.	.	.	.	.	.
+!!LO:LB
+=178	=178	=178	=178	=178	=178	=178	=178	=178	=178	=178	=178	=178	=178	=178	=178	=178	=178	=178	=178	=178	=178
+8F	.	1r	.	8c	.	8f 8A	.	16ffL	.	4g]	4c]	.	8A	8F	.	1r	8aa	8ff	.	8fff	.
+.	.	.	.	.	.	.	.	16ff	.	.	.	.	.	.	.	.	.	.	.	.	.
+8r	.	.	.	8r	.	8r	.	16aa	.	.	.	.	8r	1%0x	.	.	8r	1%0x	.	8r	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*v	*v	*	*	*
+.	.	.	.	.	.	.	.	16aaJ	.	.	.	.	.	.	.	.	.	.	.
+8dL	.	.	.	8dL	.	16ddL	.	16ddL	.	4r	8ddL	.	8dL	.	.	8ddL	.	8dddL	.
+.	.	.	.	.	.	16dd	.	16dd	.	.	.	.	.	.	.	.	.	.	.
+8fJ	.	.	.	8fJ	.	16ff	.	16ff	.	.	8gJ	.	8fJ	.	.	8ffJ	.	8fffJ	.
+.	.	.	.	.	.	16ffJ	.	16ffJ	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*
+8B-yL	.	.	.	8B-yL	.	16b-yL	.	16b-yL	.	4r	.	8B-yL	.	.	8b-yL	.	8bb-yL	.
+.	.	.	.	.	.	16b-y	.	16b-y	.	.	.	.	.	.	.	.	.	.
+8d	.	.	.	8d	.	16dd	.	16dd	.	.	.	8d	.	.	8dd	.	8ddd	.
+.	.	.	.	.	.	16ddJ	.	16ddJ	.	.	.	.	.	.	.	.	.	.
+8G	.	.	.	8G	.	16gL	.	16gL	.	8ddL	.	8G	.	.	8g	.	8gg	.
+.	.	.	.	.	.	16g	.	16g	.	.	.	.	.	.	.	.	.	.
+8cJ	.	.	.	8ccJ	.	16cc	.	16cc	.	8ggJ	.	8cJ	.	.	8ccJ	.	8cccJ	.
+.	.	.	.	.	.	16ccJ	.	16ccJ	.	.	.	.	.	.	.	.	.	.
+=179	=179	=179	=179	=179	=179	=179	=179	=179	=179	=179	=179	=179	=179	=179	=179	=179	=179	=179
+*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*^	*	*	*
+8FL	.	1r	.	8fL	.	16fL	.	16fL	.	4cc	4e	.	8FL	.	1r	8f	8ccL	.	8ff	.
+.	.	.	.	.	.	16f	.	16f	.	.	.	.	.	.	.	.	.	.	.	.
+8A	.	.	.	8a	.	16a	.	16a	.	.	.	.	8A	.	.	8r	8ccJ	.	8r	.
+.	.	.	.	.	.	16aJ	.	16aJ	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*
+8D	.	.	.	8d	.	16dL	.	16dL	.	4r	8gL	.	8D	.	.	8ddL	.	8dddL	.
+.	.	.	.	.	.	16d	.	16d	.	.	.	.	.	.	.	.	.	.	.
+8FJ	.	.	.	8fJ	.	16f	.	16f	.	.	8gJ	.	8FJ	.	.	8ffJ	.	8fffJ	.
+.	.	.	.	.	.	16fJ	.	16fJ	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*
+8BB-yL	.	.	.	8B-yL	.	16B-yL	.	16B-yL	.	4r	.	8BB-yL	.	.	8b-yL	.	8bb-yL	.
+.	.	.	.	.	.	16B-y	.	16B-y	.	.	.	.	.	.	.	.	.	.
+8D	.	.	.	8d	.	16d	.	16d	.	.	.	8D	.	.	8ddJ	.	8ddd	.
+.	.	.	.	.	.	16dJ	.	16dJ	.	.	.	.	.	.	.	.	.	.
+8C	.	.	.	8c	.	8cL	.	8cL	.	8gL	.	8C	.	.	8ccL	.	8ccc	.
+8CJ	.	.	.	8cJ	.	8eeJ 8cc 8g	.	8eeJ 8cc 8g	.	8gJ	.	8CJ	.	.	8eeJ	.	8cccJ	.
+=180	=180	=180	=180	=180	=180	=180	=180	=180	=180	=180	=180	=180	=180	=180	=180	=180	=180	=180
+*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*	*^	*	*	*
+!!Error: measure 180, staff 4 is underfilled: adding token 2.ryy at end of measure to complete its duration.
+4F	.	1r	.	4f	.	4ff 4a	.	4ff 4cc 4f	.	4cc	4e	.	4F	.	1r	4ff	4a	.	4ff	.
+8.r	.	.	.	8.r	.	8.r	.	8.r	.	8.r	16e	.	2.ryy	.	.	4r	1%0r	.	4r	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*
+.	.	.	.	.	.	.	.	.	.	.	8.eL	.	.	.	.	.	.	.	.
+16F	.	.	.	16f	.	16a	.	16ff	.	16cc	.	.	.	.	.	.	.	.	.
+8.FL	.	.	.	8.fL	.	8.aL	.	8.ffL	.	8.ccL	16cc	.	.	.	.	2r	.	2r	.
+.	.	.	.	.	.	.	.	.	.	.	8.cc	.	.	.	.	.	.	.	.
+16D	.	.	.	16f	.	16ff	.	16aa	.	16ee	.	.	.	.	.	.	.	.	.
+8.D	.	.	.	8.f	.	8.ff	.	8.aa	.	8.ee	16ccJ	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*	*	*	*
+16BBnJ	.	.	.	16gJ	.	16ffJ	.	16dddJ	.	16ddJ	.	.	.	.	.	.	.	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!RDF**kern: < = below

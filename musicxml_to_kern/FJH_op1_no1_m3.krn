@@ -1,0 +1,798 @@
+**kern	**kern	**kern	**kern	**dynam
+*part4	*part3	*part2	*part1	*part1
+*staff4	*staff3	*staff2	*staff1	*
+*I"Cello	*I"Viola	*I"Violin II	*I"Violin I	*
+*I'Vc.	*I'Vla.	*I'Vln. II	*I'Vln. I	*
+*clefF4	*clefC3	*clefG2	*clefG2	*
+*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]	*
+*E-:	*E-:	*E-:	*E-:	*
+*M4/4	*M4/4	*M4/4	*M4/4	*
+*met(c)	*met(c)	*met(c)	*met(c)	*
+=1	=1	=1	=1	=1
+!	!	!	!LO:TX:a:t=Adagio	!
+[1E-	1r	2r	2rdd	.
+.	.	2c	[2a-	.
+=2	=2	=2	=2	=2
+1E-_	2r	2.B-	4a-]	.
+.	.	.	4g	.
+.	[2e-	.	2cc	.
+.	.	(<4A-	.	.
+=3	=3	=3	=3	=3
+*	*	*	*^	*
+1E-_	2.e-]	4A-)	[2b-	2.ryy	.
+.	.	4G	.	.	.
+.	.	4c	4b-]	.	.
+.	4f	4d	4a-T	36...a-yy	.
+.	.	.	.	32b-LLLyy	.
+.	.	.	.	32a-yy	.
+.	.	.	.	32b-yy	.
+.	.	.	.	32a-yy	.
+.	.	.	.	32b-yy	.
+.	.	.	.	32a-JJJyy	.
+.	.	.	.	96ryy	.
+*	*	*	*v	*v	*
+=4	=4	=4	=4	=4
+2E-]	2B-	2e-	2g	.
+2r;	2r	2r;	2r;	.
+=5	=5	=5	=5	=5
+*^	*	*^	*	*
+(>16E-'LL	2ryy	(>16e-'LL	(16g'LL	4ryy	4bb-	.
+16E-'	.	16e-'	16g'	.	.	.
+16E-'	.	16e-'	16g'	.	.	.
+16E-'JJ)	.	16e-'JJ)	16g'JJ)	.	.	.
+.	.	.	.	.	8qqaa-/	f
+16E-'LL	.	16e-LL	4g	16gLLyy	(<8ggL	.
+16E-'	.	16e-	.	16gyy	.	.
+.	.	.	.	.	8qqff/	.
+16E-'	.	16e-	.	16gyy	8ee-J)	.
+16E-'JJ)	.	16e-JJ	.	16gyy	.	.
+4BB-	16BB-LLyy	16fLL	4a-	16a-yy	(>8.ddL	.
+.	16BB-yy	16f	.	16a-yy	.	.
+.	16BB-yy	16f	.	16a-yy	.	.
+.	16BB-yy	16dJJ	.	16a-yy	32ee-LL	.
+.	.	.	.	.	32ffJJJ)	.
+4E-	16E-yy	16e-LL	4g	16gyy	4ee-	.
+.	16E-yy	16e-	.	16gyy	.	.
+.	16E-yy	16e-	.	16gyy	.	.
+.	[16E-JJyy	16e-JJ	.	[16gJJyy	.	.
+=6	=6	=6	=6	=6	=6	=6
+*	*	*^	*	*	*	*
+!!linebreak:original
+2A-	16A-LL]	16e-LL	2ryy	2cc	16ccLL]	4ccc	.
+.	16A-yy	16e-	.	.	16ccyy	.	.
+.	16A-yy	16e-	.	.	16ccyy	.	.
+.	16A-yy	16e-JJ	.	.	16ccyy	.	.
+.	16A-yy	16fLL	.	.	16ccyy	(>16bb-LL	.
+.	16A-yy	16f	.	.	16ccyy	16aa-)	.
+.	16A-yy	16f	.	.	16ccyy	(>16gg	.
+.	16A-JJyy	16fJJ	.	.	16ccyy	16ffJJ)	.
+4G	2ryy	4f	16fLLyy	2b-	16b-yy	(>4bb-	.
+.	.	.	16fyy	.	16b-yy	.	.
+.	.	.	16fyy	.	16b-yy	.	.
+.	.	.	16fyy	.	16b-yy	.	.
+16GLL	.	4e-	16e-yy	.	16b-yy	8eee-L)	.
+16G	.	.	16e-yy	.	16b-yy	.	.
+16E-	.	.	16e-yy	.	16b-yy	8gJ	.
+16E-JJ	.	.	[16e-JJyy	.	16b-JJyy	.	.
+=7	=7	=7	=7	=7	=7	=7	=7
+*	*	*	*	*	*	*^	*
+2BB-	16BB-LLyy	2B-	16B-LL]	4g	4ryy	4b-	4ryy	.
+.	16BB-yy	.	16B-yy	.	.	.	.	.
+.	16BB-yy	.	16B-yy	.	.	.	.	.
+.	16BB-yy	.	16B-yy	.	.	.	.	.
+.	16BB-yy	.	16B-yy	4f	16fLLyy	4a-T	36...a-yy	.
+.	.	.	.	.	.	.	32b-LLLyy	.
+.	16BB-yy	.	16B-yy	.	16fyy	.	.	.
+.	.	.	.	.	.	.	32a-yy	.
+.	.	.	.	.	.	.	32b-yy	.
+.	16BB-yy	.	16B-yy	.	16fyy	.	.	.
+.	.	.	.	.	.	.	32a-yy	.
+.	.	.	.	.	.	.	32b-yy	.
+.	16BB-yy	.	16B-yy	.	16fyy	.	.	.
+.	.	.	.	.	.	.	32a-JJJyy	.
+.	.	.	.	.	.	.	96ryy	.
+2E-	16E-yy	2e-	16e-yy	4e-	16e-yy	4g	2ryy	.
+.	16E-yy	.	16e-yy	.	16e-yy	.	.	.
+.	16E-yy	.	16e-yy	.	16e-yy	.	.	.
+.	16E-yy	.	16e-yy	.	16e-yy	.	.	.
+.	16E-yy	.	16e-yy	4g	16gyy	4r	.	.
+.	16E-yy	.	16e-yy	.	16gyy	.	.	.
+.	16E-yy	.	16e-yy	.	16gyy	.	.	.
+.	[16E-JJyy	.	[16e-JJyy	.	[16gJJyy	.	.	.
+*	*	*	*	*	*	*v	*v	*
+=8	=8	=8	=8	=8	=8	=8	=8
+2E-	16E-LL]	2g	16gLL]	2b-	16b-LL]	4ee-	.
+.	16E-yy	.	16gyy	.	16b-yy	.	.
+.	16E-yy	.	16gyy	.	16b-yy	.	.
+.	16E-yy	.	16gyy	.	16b-yy	.	.
+.	16E-yy	.	16gyy	.	16b-yy	(>8ggL	.
+.	16E-yy	.	16gyy	.	16b-yy	.	.
+.	16E-yy	.	16gyy	.	16b-yy	8bb-J)	.
+.	16E-yy	.	16gyy	.	16b-yy	.	.
+2D	16Dyy	2f	16fyy	2b-	16b-yy	8bb-L	.
+.	16Dyy	.	16fyy	.	16b-yy	.	.
+.	16Dyy	.	16fyy	.	16b-yy	(>32cccLL	.
+.	.	.	.	.	.	32aan	.
+.	16Dyy	.	16fyy	.	16b-yy	32bb-	.
+.	.	.	.	.	.	32cccJJJ)	.
+.	16Dyy	.	16fyy	.	16b-yy	8ddd	.
+.	16Dyy	.	16fyy	.	16b-yy	.	.
+.	16Dyy	.	16fyy	.	16b-yy	8r	.
+.	16DJJyy	.	[16fJJyy	.	[16b-JJyy	.	.
+*v	*v	*	*	*	*	*	*
+=9	=9	=9	=9	=9	=9	=9
+*	*	*	*	*	*^	*
+16CLL	4e-	16e-LL]	4b-	16b-LL]	4ee-	4..ryy	.
+16C	.	16e-yy	.	16b-yy	.	.	.
+16C	.	16e-yy	.	16b-yy	.	.	.
+16CJJ	.	16e-JJyy	.	16b-JJyy	.	.	.
+16FLL	16e-LL	4ryy	16anLL	4ryy	16eee-LL	.	.
+16F	16e-	.	16a	.	(>16ccc	.	.
+16F	16e-	.	16c	.	16aan	.	.
+16FJJ	16anJJ	.	16cJJ	.	16ee-JJ)	36...ee-yy	.
+.	.	.	.	.	.	32ffLLLyy	.
+16B-LL	4b-	16b-LLyy	4c	16cLLyy	4ee-T	.	.
+.	.	.	.	.	.	32ee-yy	.
+.	.	.	.	.	.	32ffyy	.
+16B-	.	16b-yy	.	16cyy	.	.	.
+.	.	.	.	.	.	32ee-yy	.
+.	.	.	.	.	.	32ffyy	.
+16B-	.	16b-yy	.	16cyy	.	.	.
+.	.	.	.	.	.	32ee-JJJyy	.
+.	.	.	.	.	.	96ryy	.
+16B-JJ	.	16b-yy	.	16cyy	.	16ryy	.
+16BB-LL	4B-	16B-yy	4B-	16B-yy	4dd	4ryy	.
+16BB-	.	16B-yy	.	16B-yy	.	.	.
+16BB-	.	16B-yy	.	16B-yy	.	.	.
+16BB-JJ	.	[16B-JJyy	.	[16B-JJyy	.	.	.
+*	*	*	*	*	*v	*v	*
+=10	=10	=10	=10	=10	=10	=10
+*^	*	*	*	*	*	*
+2D	16DLLyy	2f	16fLL]	2b-	16b-LL]	4ff	.
+.	16Dyy	.	16fyy	.	16b-yy	.	.
+.	16Dyy	.	16fyy	.	16b-yy	.	.
+.	16Dyy	.	16fyy	.	16b-yy	.	.
+.	16Dyy	.	16fyy	.	16b-yy	8bb-L	.
+.	16Dyy	.	16fyy	.	16b-yy	.	.
+.	16Dyy	.	16fyy	.	16b-yy	8aa-XJ	.
+.	16Dyy	.	16fyy	.	16b-yy	.	.
+2E-	16E-yy	2g	16gyy	2b-	16b-yy	16gg'LL	.
+.	16E-yy	.	16gyy	.	16b-yy	16gg'	.
+.	16E-yy	.	16gyy	.	16b-yy	(16ff#X	.
+.	16E-yy	.	16gyy	.	16b-yy	16ggJJ)	.
+.	16E-yy	.	16gyy	.	16b-yy	16r	.
+.	16E-yy	.	16gyy	.	16b-yy	16ccc'LL	.
+.	16E-yy	.	16gyy	.	16b-yy	(>16aan	.
+.	[16E-JJyy	.	[16gJJyy	.	[16b-JJyy	16bb-JJ)	.
+=11	=11	=11	=11	=11	=11	=11	=11
+!!linebreak:original
+2E-	16E-LL]	4g	16gLL]	2b-	16b-LL]	16r	.
+.	16E-yy	.	16gyy	.	16b-yy	16eee-'LL	.
+.	16E-yy	.	16gyy	.	16b-yy	(16ddd	.
+.	16E-yy	.	16gJJyy	.	16b-yy	16eee-JJ)	.
+.	16E-yy	16gLL	4ryy	.	16b-yy	4ggg	.
+.	16E-yy	16g	.	.	16b-yy	.	.
+.	16E-yy	16g	.	.	16b-yy	.	.
+.	16E-yy	16e-JJ	.	.	16b-yy	.	.
+2D	16Dyy	2f	16fLLyy	2b-	16b-yy	16r	.
+.	16Dyy	.	16fyy	.	16b-yy	16ff'LL	.
+.	16Dyy	.	16fyy	.	16b-yy	(>16een	.
+.	16Dyy	.	16fyy	.	16b-yy	16ffJJ)	.
+.	16Dyy	.	16fyy	.	16b-yy	16r	.
+.	16Dyy	.	16fyy	.	16b-yy	16bb-'LL	.
+.	16Dyy	.	16fyy	.	16b-yy	(>16aan	.
+.	[16DJJyy	.	16fJJyy	.	[16b-JJyy	16bb-JJ)	.
+*	*	*v	*v	*	*	*	*
+=12	=12	=12	=12	=12	=12	=12
+2D	16DLL]	16fLL	2.b-	16b-LL]	16r	.
+.	16Dyy	16f	.	16b-yy	16ddd'LL	.
+.	16Dyy	16f	.	16b-yy	(>16ccc	.
+.	16Dyy	16fJJ	.	16b-yy	16dddJJ)	.
+.	16Dyy	16fLL	.	16b-yy	4fff'	.
+.	16Dyy	16f	.	16b-yy	.	.
+.	16Dyy	16f	.	16b-yy	.	.
+.	16Dyy	16dJJ	.	16b-yy	.	.
+4C	16Cyy	16e-LL	.	16b-yy	16rg	.
+.	16Cyy	16e-	.	16b-yy	16ee-'LL	.
+.	16Cyy	16e-	.	16b-yy	(>16dd	.
+.	16Cyy	16e-JJ	.	16b-yy	16ee-JJ)	.
+4FF	16FFyy	16e-LL	4an	16anyy	16r	.
+.	16FFyy	16e-	.	16anyy	16gg'LL	.
+.	16FFyy	16d	.	16anyy	(16ff	.
+.	[16FFJJyy	16cJJ	.	[16anJJyy	16ee-JJ)	.
+=13	=13	=13	=13	=13	=13	=13
+*	*	*^	*	*	*	*
+2BB-	16BB-LL]	2d	16dLLyy	2b-	16b-LL]	16r	.
+.	16BB-yy	.	16dyy	.	16b-yy	16dd'LL	.
+.	16BB-yy	.	16dyy	.	16b-yy	(>16cc#X	.
+.	16BB-yy	.	16dyy	.	16b-yy	16ddJJ)	.
+.	16BB-yy	.	16dyy	.	16b-yy	16r	.
+.	16BB-yy	.	16dyy	.	16b-yy	16ff'LL	.
+.	16BB-yy	.	16dyy	.	16b-yy	(>16ee-	.
+.	16BB-yy	.	16dyy	.	16b-yy	16ddJJ)	.
+4E-	16E-yy	4g	16gyy	4cc	16ccyy	16rg	.
+.	16E-yy	.	16gyy	.	16ccyy	16ccn'LL	.
+.	16E-yy	.	16gyy	.	16ccyy	(>16bn	.
+.	16E-yy	.	16gyy	.	16ccyy	16ccJJ)	.
+4En	16Enyy	4en	16enyy	4c	16cyy	8.ggL	.
+.	16Enyy	.	16enyy	.	16cyy	.	.
+.	16Enyy	.	16enyy	.	16cyy	.	.
+.	[16EnJJyy	.	[16enJJyy	.	[16cJJyy	16b-XJk	.
+=14	=14	=14	=14	=14	=14	=14	=14
+4F	16FLL]	4f	16fLL]	2c	16cLL]	4b-M	.
+.	16Fyy	.	16fyy	.	16cyy	.	.
+.	16Fyy	.	16fyy	.	16cyy	.	.
+.	16Fyy	.	16fyy	.	16cyy	.	.
+4FF	16FFyy	4F	16Fyy	.	16cyy	4an	.
+.	16FFyy	.	16Fyy	.	16cyy	.	.
+.	16FFyy	.	16Fyy	.	16cyy	.	.
+.	16FFyy	.	16Fyy	.	16cyy	.	.
+2F	16Fyy	2An	16Anyy	2c	16cyy	2e-	.
+.	16Fyy	.	16Anyy	.	16cyy	.	.
+.	16Fyy	.	16Anyy	.	16cyy	.	.
+.	16Fyy	.	16Anyy	.	16cyy	.	.
+.	16Fyy	.	16Anyy	.	16cyy	.	.
+.	16Fyy	.	16Anyy	.	16cyy	.	.
+.	16Fyy	.	16Anyy	.	16cyy	.	.
+.	16FJJyy	.	[16AnJJyy	.	[16cJJyy	.	.
+*v	*v	*	*	*	*	*	*
+=15	=15	=15	=15	=15	=15	=15
+*	*	*	*	*	*^	*
+16B-LL	4B-	16B-LL]	4B-	16B-LL]	4d	4ryy	.
+16B-	.	16B-yy	.	16B-yy	.	.	.
+16B-	.	16B-yy	.	16B-yy	.	.	.
+16B-JJ	.	16B-yy	.	16B-yy	.	.	.
+16DLL	4f	16fyy	4b-	16b-yy	4bb-T	36...bb-yy	.
+.	.	.	.	.	.	32cccLLLyy	.
+16D	.	16fyy	.	16b-yy	.	.	.
+.	.	.	.	.	.	32bb-yy	.
+.	.	.	.	.	.	32cccyy	.
+16D	.	16fyy	.	16b-yy	.	.	.
+.	.	.	.	.	.	32bb-yy	.
+.	.	.	.	.	.	32cccyy	.
+16DJJ	.	16fyy	.	16b-yy	.	.	.
+.	.	.	.	.	.	32bb-JJJyy	.
+.	.	.	.	.	.	96ryy	.
+.	.	.	.	.	16qqaa-/LL	.	.
+.	.	.	.	.	16qqbb-/JJ	.	.
+16E-LL	4g	16gyy	4b-	16b-yy	4c	2ryy	.
+16E-	.	16gyy	.	16b-yy	.	.	.
+16E-	.	16gyy	.	16b-yy	.	.	.
+16E-JJ	.	16gyy	.	16b-yy	.	.	.
+16FLL	4c	16cyy	4an	16anyy	4eee-	.	.
+16F	.	16cyy	.	16anyy	.	.	.
+16F	.	16cyy	.	16anyy	.	.	.
+16FJJ	.	[16cJJyy	.	[16anJJyy	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16
+*^	*	*	*	*	*	*	*
+!!linebreak:original
+4B-	16B-LLyy	4B-	16B-LL]	4b-	16b-LL]	8dddL	4ryy	.
+.	16B-yy	.	16B-yy	.	16b-yy	.	.	.
+.	16B-yy	.	16B-yy	.	16b-yy	(>32fffLL	.	.
+.	.	.	.	.	.	32ddd	.	.
+.	16B-yy	.	16B-yy	.	16b-JJyy	32ccc	.	.
+.	.	.	.	.	.	32bb-JJJ)	.	.
+4F	16Fyy	4f	16fyy	16b-LL	4ryy	4cccT	36...cccyy	.
+.	.	.	.	.	.	.	32dddLLLyy	.
+.	16Fyy	.	16fyy	16b-	.	.	.	.
+.	.	.	.	.	.	.	32cccyy	.
+.	.	.	.	.	.	.	32dddyy	.
+.	16Fyy	.	16fyy	16an	.	.	.	.
+.	.	.	.	.	.	.	32cccyy	.
+.	.	.	.	.	.	.	32dddyy	.
+.	16Fyy	.	16fyy	16aJJ	.	.	.	.
+.	.	.	.	.	.	.	32cccJJJyy	.
+.	.	.	.	.	.	.	96ryy	.
+2BB-	16BB-yy	4B-	16B-yy	4b-	16b-LLyy	4bb-	2ryy	.
+.	16BB-yy	.	16B-yy	.	16b-yy	.	.	.
+.	16BB-yy	.	16B-yy	.	16b-yy	.	.	.
+.	16BB-yy	.	16B-JJyy	.	16b-JJyy	.	.	.
+.	16BB-yy	16B-LL	4ryy	16e-'LL	4ryy	8.ggL	.	.
+.	16BB-yy	16B-	.	16e-'	.	.	.	.
+.	16BB-yy	16B-	.	(<16e-	.	.	.	.
+.	[16BB-JJyy	16e-JJ	.	16cJJ)	.	16aanJk	.	.
+*	*	*	*	*v	*v	*	*	*
+=17	=17	=17	=17	=17	=17	=17	=17
+2.BB-	16BB-LL]	16dLL	2.ryy	16d'LL	16bb-'LL	2.ryy	.
+.	16BB-yy	16B-	.	(16d	(>16ff	.	.
+.	16BB-yy	16B-	.	16c	16ee-	.	.
+.	16BB-yy	16B-JJ	.	16B-JJ)	16ddJJ)	.	.
+.	16BB-yy	16B-LL	.	16e-'LL	8.ggL	.	.
+.	16BB-yy	16B-	.	16e-'	.	.	.
+.	16BB-yy	16B-	.	(16e-	.	.	.
+.	16BB-yy	16e-JJ	.	16cJJ)	16aanJk	.	.
+.	16BB-yy	16dLL	.	(16dLL	16bb-LL	.	.
+.	16BB-yy	16B-	.	16b-)	16ff	.	.
+.	.	.	.	.	8qee-/	.	.
+.	16BB-yy	16B-	.	16b-'	16dd	.	.
+.	.	.	.	.	8qcc/	.	.
+.	16BB-yy	16B-JJ	.	16b-'JJ	16b-JJ	.	.
+4FF	16FFyy	4F	16FLLyy	16b-LL	4ccT	36...ccyy	.
+.	.	.	.	.	.	32ddLLLyy	.
+.	16FFyy	.	16Fyy	16b-	.	.	.
+.	.	.	.	.	.	32ccyy	.
+.	.	.	.	.	.	32ddyy	.
+.	16FFyy	.	16Fyy	16an	.	.	.
+.	.	.	.	.	.	32ccyy	.
+.	.	.	.	.	.	32ddyy	.
+.	16FFJJyy	.	16FJJyy	16aJJ	.	.	.
+.	.	.	.	.	.	32ccJJJyy	.
+.	.	.	.	.	.	96ryy	]
+*	*	*	*	*	*v	*v	*
+=18	=18	=18	=18	=18	=18	=18
+16BB-LL	4ryy	16B-LL	4ryy	2.b-	4b-	.
+16BB-	.	16d	.	.	.	.
+16BB-	.	16d	.	.	.	.
+16BB-JJ	.	16dJJ	.	.	.	.
+4G	16GLLyy	4d	16dLLyy	.	4r	.
+.	16Gyy	.	16dyy	.	.	.
+.	16Gyy	.	16dyy	.	.	.
+.	16Gyy	.	16dyy	.	.	.
+4E-	16E-yy	2c	16cyy	.	2r	.
+.	16E-yy	.	16cyy	.	.	.
+.	16E-yy	.	16cyy	.	.	.
+.	16E-yy	.	16cyy	.	.	.
+4F	16Fyy	.	16cyy	4an	.	.
+.	16Fyy	.	16cyy	.	.	.
+.	16Fyy	.	16cyy	.	.	.
+.	[16FJJyy	.	[16cJJyy	.	.	.
+=19	=19	=19	=19	=19	=19	=19
+2BB-	16BB-LL]	2B-	16B-LL]	16b-LL	4ff	.
+.	16BB-yy	.	16B-yy	16d	.	.
+.	16BB-yy	.	16B-yy	16d	.	.
+.	16BB-yy	.	16B-yy	16dJJ	.	.
+.	.	.	.	.	8qqee-/	.
+.	16BB-yy	.	16B-yy	4d	8ddL	.
+.	16BB-yy	.	16B-yy	.	.	.
+.	.	.	.	.	8qqcc/	.
+.	16BB-yy	.	16B-yy	.	8b-J	.
+.	16BB-yy	.	16B-JJyy	.	.	.
+4F	16Fyy	16cLL	2ryy	4e-	8.anL	.
+.	16Fyy	16c	.	.	.	.
+.	16Fyy	16c	.	.	.	.
+.	16Fyy	16AnJJ	.	.	32b-LL	.
+.	.	.	.	.	32ccJJJ	.
+4BB-	16BB-yy	16B-LL	.	4d	4b-	.
+.	16BB-yy	16B-	.	.	.	.
+.	16BB-yy	16B-	.	.	.	.
+.	[16BB-JJyy	16B-JJ	.	.	.	.
+=20	=20	=20	=20	=20	=20	=20
+*	*	*	*	*	*^	*
+2BB-	16BB-LL]	2d	16dLLyy	2.f	(>16aa-XLL	2ryy	.
+.	16BB-yy	.	16dyy	.	16ff)	.	.
+.	16BB-yy	.	16dyy	.	(>16dd	.	.
+.	16BB-yy	.	16dyy	.	16b-JJ)	.	.
+.	16BB-yy	.	16dyy	.	16a-XLL	.	.
+.	16BB-yy	.	16dyy	.	16f	.	.
+.	16BB-yy	.	16dyy	.	16d	.	.
+.	16BB-yy	.	16dyy	.	16A-XJJ	.	.
+2E-	16E-yy	4e-	16e-yy	.	4A-T	36...A-yy	.
+.	.	.	.	.	.	32B-LLLyy	.
+.	16E-yy	.	16e-yy	.	.	.	.
+.	.	.	.	.	.	32A-yy	.
+.	.	.	.	.	.	32B-yy	.
+.	16E-yy	.	16e-yy	.	.	.	.
+.	.	.	.	.	.	32A-yy	.
+.	.	.	.	.	.	32B-yy	.
+.	16E-yy	.	16e-yy	.	.	.	.
+.	.	.	.	.	.	32A-JJJyy	.
+.	.	.	.	.	.	96ryy	.
+.	16E-yy	4E-	16E-yy	4e-	4G	4ryy	.
+.	16E-yy	.	16E-yy	.	.	.	.
+.	16E-yy	.	16E-yy	.	.	.	.
+.	16E-JJyy	.	[16E-JJyy	.	.	.	.
+*	*	*	*	*	*v	*v	*
+=21	=21	=21	=21	=21	=21	=21
+!!linebreak:original
+16E-LL	4ryy	2g	16gLL]	2b-	4dd-X	.
+16E-	.	.	16gyy	.	.	.
+16E-	.	.	16gyy	.	.	.
+16E-JJ	.	.	16gyy	.	.	.
+.	.	.	.	.	8qqcc/	.
+4E-	16E-LLyy	.	16gyy	.	8dd-L	.
+.	16E-yy	.	16gyy	.	.	.
+.	.	.	.	.	8qqcc/	.
+.	16E-yy	.	16gyy	.	8dd-J	.
+.	16E-yy	.	16gyy	.	.	.
+2E-	16E-yy	2g	16gyy	2b-	4bb-	.
+.	16E-yy	.	16gyy	.	.	.
+.	16E-yy	.	16gyy	.	.	.
+.	16E-yy	.	16gyy	.	.	.
+.	16E-yy	.	16gyy	.	4e-	.
+.	16E-yy	.	16gyy	.	.	.
+.	16E-yy	.	16gyy	.	.	.
+.	[16E-JJyy	.	[16gJJyy	.	.	.
+=22	=22	=22	=22	=22	=22	=22
+*	*	*	*	*	*^	*
+2E-	16E-LL]	2g	16gLL]	2.b-	8.ddd-XL	2ryy	.
+.	16E-yy	.	16gyy	.	.	.	.
+.	16E-yy	.	16gyy	.	.	.	.
+.	16E-yy	.	16gyy	.	16bb-k	.	.
+.	16E-yy	.	16gyy	.	8.fff	.	.
+.	16E-yy	.	16gyy	.	.	.	.
+.	16E-yy	.	16gyy	.	.	.	.
+.	16E-JJyy	.	16gyy	.	16ddd-Jk	.	.
+16A-LL	2ryy	2e-	16e-yy	.	4ddd-T	36...ddd-yy	.
+.	.	.	.	.	.	32eee-LLLyy	.
+16A-	.	.	16e-yy	.	.	.	.
+.	.	.	.	.	.	32ddd-yy	.
+.	.	.	.	.	.	32eee-yy	.
+16A-	.	.	16e-yy	.	.	.	.
+.	.	.	.	.	.	32ddd-yy	.
+.	.	.	.	.	.	32eee-yy	.
+16A-JJ	.	.	16e-yy	.	.	.	.
+.	.	.	.	.	.	32ddd-JJJyy	.
+.	.	.	.	.	.	96ryy	.
+16AA-LL	.	.	16e-yy	4a-	8ccc	4ryy	.
+16AA-	.	.	16e-yy	.	.	.	.
+16AA-	.	.	16e-yy	.	8r	.	.
+16AA-JJ	.	.	[16e-JJyy	.	.	.	.
+*	*	*	*	*	*v	*v	*
+=23	=23	=23	=23	=23	=23	=23
+2A-	16A-LLyy	2e-	16e-LL]	4cc	4ccc	.
+.	16A-yy	.	16e-yy	.	.	.
+.	16A-yy	.	16e-yy	.	.	.
+.	16A-yy	.	16e-yy	.	.	.
+.	16A-yy	.	16e-yy	16ccLL	8A-L	.
+.	16A-yy	.	16e-yy	16cc	.	.
+.	16A-yy	.	16e-yy	16a-	8cccJ	.
+.	16A-yy	.	16e-yy	16a-JJ	.	.
+2G	16Gyy	2e-	16e-yy	4b-	4bb-	.
+.	16Gyy	.	16e-yy	.	.	.
+.	16Gyy	.	16e-yy	.	.	.
+.	16Gyy	.	16e-yy	.	.	.
+.	16Gyy	.	16e-yy	16b-LL	8GL	.
+.	16Gyy	.	16e-yy	16b-	.	.
+.	16Gyy	.	16e-yy	16g	8bb-J	.
+.	16GJJyy	.	[16e-JJyy	16gJJ	.	.
+=24	=24	=24	=24	=24	=24	=24
+*	*	*	*	*	*^	*
+16DLL	2ryy	4f	16fLL]	4a-	8.b-L	4.ryy	.
+16D	.	.	16fyy	.	.	.	.
+16D	.	.	16fyy	.	.	.	.
+16DJJ	.	.	16fyy	.	(>48ddLL	.	.
+.	.	.	.	.	48cc'	.	.
+.	.	.	.	.	48b-'JJJ)	.	.
+16DLL	.	4B-	16B-yy	16fLL	8aa-L	.	.
+16D	.	.	16B-yy	16f	.	.	.
+16E-	.	.	16B-yy	16e-	8ggtJ	24ggyy	.
+.	.	.	.	.	.	32aa-LLLyy	.
+16E-JJ	.	.	16B-JJyy	16e-JJ	.	.	.
+.	.	.	.	.	.	32ggJJJyy	.
+.	.	.	.	.	.	48ryy	.
+4B-	16B-LLyy	16B-LL	4ryy	16dLL	8ff	2ryy	.
+.	16B-yy	16d	.	16b-	.	.	.
+.	16B-yy	16d	.	16b-	8r	.	.
+.	16B-yy	16dJJ	.	16b-JJ	.	.	.
+4BB-	16BB-yy	4d	16dLLyy	16b-LL	4r	.	.
+.	16BB-yy	.	16dyy	16b-	.	.	.
+.	16BB-yy	.	16dyy	16b-	.	.	.
+.	[16BB-JJyy	.	[16dJJyy	16b-JJ	.	.	.
+*	*	*	*	*	*v	*v	*
+=25	=25	=25	=25	=25	=25	=25
+*	*	*	*	*^	*	*
+4E-	16E-LL]	2g	16gLL]	2b-	16b-LLyy	4ee-	.
+.	16E-yy	.	16gyy	.	16b-yy	.	.
+.	16E-yy	.	16gyy	.	16b-yy	.	.
+.	16E-yy	.	16gyy	.	16b-yy	.	.
+4E-	16E-yy	.	16gyy	.	16b-yy	8ggL	.
+.	16E-yy	.	16gyy	.	16b-yy	.	.
+.	16E-yy	.	16gyy	.	16b-yy	8bb-J	.
+.	16E-yy	.	16gyy	.	16b-yy	.	.
+!	!	!	!	!	!	!	!
+4D	16Dyy	2f	16fyy	2b-	16b-yy	(>8.bb-L	.
+.	16Dyy	.	16fyy	.	16b-yy	.	.
+.	16Dyy	.	16fyy	.	16b-yy	.	.
+.	16Dyy	.	16fyy	.	16b-yy	48cccLL	.
+.	.	.	.	.	.	48bb-	.
+.	.	.	.	.	.	48aanJJJ)	.
+4D	16Dyy	.	16fyy	.	16b-yy	4bb-	.
+.	16Dyy	.	16fyy	.	16b-yy	.	.
+.	16Dyy	.	16fyy	.	16b-yy	.	.
+.	[16DJJyy	.	[16fJJyy	.	16b-JJyy	.	.
+=26	=26	=26	=26	=26	=26	=26	=26
+*	*	*	*	*	*	*^	*
+!!linebreak:original
+4C	16CLL]	2e-	16e-LL]	16b-LL	2ryy	8eee-L	2ryy	.
+.	16Cyy	.	16e-yy	16b-	.	.	.	.
+.	16Cyy	.	16e-yy	16a-	.	8aa-X'	.	.
+.	16Cyy	.	16e-yy	16a-JJ	.	.	.	.
+4c	16cyy	.	16e-yy	4e-	.	8aa-'	.	.
+.	16cyy	.	16e-yy	.	.	.	.	.
+.	16cyy	.	16e-yy	.	.	8aa-'J	.	.
+.	16cyy	.	16e-yy	.	.	.	.	.
+2B-	16B-yy	2d	16dyy	4d	16dLLyy	4aa-T	36...aa-yy	.
+.	.	.	.	.	.	.	32bb-LLLyy	.
+.	16B-yy	.	16dyy	.	16dyy	.	.	.
+.	.	.	.	.	.	.	32aa-yy	.
+.	.	.	.	.	.	.	32bb-yy	.
+.	16B-yy	.	16dyy	.	16dyy	.	.	.
+.	.	.	.	.	.	.	32aa-yy	.
+.	.	.	.	.	.	.	32bb-yy	.
+.	16B-yy	.	16dyy	.	16dyy	.	.	.
+.	.	.	.	.	.	.	32aa-JJJyy	.
+.	.	.	.	.	.	.	96ryy	.
+.	16B-yy	.	16dyy	4g	16gyy	4gg	4ryy	.
+.	16B-yy	.	16dyy	.	16gyy	.	.	.
+.	16B-yy	.	16dyy	.	16gyy	.	.	.
+.	[16B-JJyy	.	[16dJJyy	.	[16gJJyy	.	.	.
+*	*	*	*	*	*	*v	*v	*
+=27	=27	=27	=27	=27	=27	=27	=27
+2A-	16A-LL]	2c	16cLL]	4g	16gLL]	4ccc	.
+.	16A-yy	.	16cyy	.	16gyy	.	.
+.	16A-yy	.	16cyy	.	16gyy	.	.
+.	16A-yy	.	16cyy	.	16gyy	.	.
+.	.	.	.	.	.	8qbb-/	.
+.	16A-yy	.	16cyy	4f	16fyy	8aa-L	.
+.	16A-yy	.	16cyy	.	16fyy	.	.
+.	.	.	.	.	.	8qgg/	.
+.	16A-yy	.	16cyy	.	16fyy	8ffJ	.
+.	16A-yy	.	16cyy	.	16fyy	.	.
+2G	16Gyy	2B-	16B-yy	4f	16fyy	4bb-	.
+.	16Gyy	.	16B-yy	.	16fyy	.	.
+.	16Gyy	.	16B-yy	.	16fyy	.	.
+.	16Gyy	.	16B-yy	.	16fyy	.	.
+.	.	.	.	.	.	8qaa-/	.
+.	16Gyy	.	16B-yy	4e-	16e-yy	8ggL	.
+.	16Gyy	.	16B-yy	.	16e-yy	.	.
+.	.	.	.	.	.	8qff/	.
+.	16Gyy	.	16B-yy	.	16e-yy	8ee-J	.
+.	16GJJyy	.	16B-JJyy	.	[16e-JJyy	.	.
+*	*	*v	*v	*	*	*	*
+=28	=28	=28	=28	=28	=28	=28
+*	*	*	*	*	*^	*
+16FLL	2.ryy	16FLL	4d	16dLL]	(>24ddLL	4.ryy	.
+.	.	.	.	.	24ee-	.	.
+16F	.	16F	.	16dyy	.	.	.
+.	.	.	.	.	24ffJJ)	.	.
+16F	.	16f	.	16dyy	[8a-	.	.
+16FJJ	.	16fJJ	.	16dJJyy	.	.	.
+16DLL	.	16dLL	16fLL	2ryy	8a-L]	.	.
+16D	.	16d	16f	.	.	.	.
+16E-	.	16e-	16e-	.	8gtJ	24gyy	.
+.	.	.	.	.	.	32a-LLLyy	.
+16E-JJ	.	16e-JJ	16e-JJ	.	.	.	.
+.	.	.	.	.	.	32gJJJyy	.
+.	.	.	.	.	.	48ryy	.
+4BB-	.	16B-LL	16dLL	.	4f	2ryy	.
+.	.	16d	16b-	.	.	.	.
+.	.	16d	16b-	.	.	.	.
+.	.	16dJJ	16b-JJ	.	.	.	.
+4AA-	16AA-LLyy	16fLL	4dd	16ddLLyy	4r	.	.
+.	16AA-yy	16f	.	16ddyy	.	.	.
+.	16AA-yy	16f	.	16ddyy	.	.	.
+.	[16AA-JJyy	16fJJ	.	[16ddJJyy	.	.	.
+*	*	*	*	*	*v	*v	*
+=29	=29	=29	=29	=29	=29	=29
+*	*	*^	*	*	*	*
+2GG	16GGLL]	2e-	16e-LLyy	4ee-	16ee-LL]	4bb-	.
+.	16GGyy	.	16e-yy	.	16ee-yy	.	.
+.	16GGyy	.	16e-yy	.	16ee-yy	.	.
+.	16GGyy	.	16e-yy	.	16ee-JJyy	.	.
+.	16GGyy	.	16e-yy	16dd-XLL	4ryy	8ee-L	.
+.	16GGyy	.	16e-yy	16dd-	.	.	.
+.	16GGyy	.	16e-yy	16dd-	.	8ddd-XJ	.
+.	16GGyy	.	16e-yy	16b-JJ	.	.	.
+2AA-	16AA-yy	2e-	16e-yy	2cc	16ccLLyy	16ccc'LL	.
+.	16AA-yy	.	16e-yy	.	16ccyy	16ccc'	.
+.	16AA-yy	.	16e-yy	.	16ccyy	(>16bbn	.
+.	16AA-yy	.	16e-yy	.	16ccyy	16cccJJ)	.
+.	16AA-yy	.	16e-yy	.	16ccyy	16r	.
+.	16AA-yy	.	16e-yy	.	16ccyy	16aa-'LL	.
+.	16AA-yy	.	16e-yy	.	16ccyy	(>16gg	.
+.	[16AA-JJyy	.	[16e-JJyy	.	[16ccJJyy	16aa-JJ)	.
+=30	=30	=30	=30	=30	=30	=30	=30
+2AA-	16AA-LL]	2e-	16e-LL]	2cc	16ccLL]	16r	.
+.	16AA-yy	.	16e-yy	.	16ccyy	16ee-'LL	.
+.	16AA-yy	.	16e-yy	.	16ccyy	(>16ddn	.
+.	16AA-yy	.	16e-yy	.	16ccyy	16ee-JJ)	.
+.	16AA-yy	.	16e-yy	.	16ccyy	16r	.
+.	16AA-yy	.	16e-yy	.	16ccyy	16cc'LL	.
+.	16AA-yy	.	16e-yy	.	16ccyy	16b-	.
+.	16AA-yy	.	16e-yy	.	16ccyy	16a-JJ	.
+2GG	16GGyy	2e-	16e-yy	2b-	16b-yy	16r	.
+.	16GGyy	.	16e-yy	.	16b-yy	16bb-'LL	.
+.	16GGyy	.	16e-yy	.	16b-yy	(>16aan	.
+.	16GGyy	.	16e-yy	.	16b-yy	16bb-JJ)	.
+.	16GGyy	.	16e-yy	.	16b-yy	16r	.
+.	16GGyy	.	16e-yy	.	16b-yy	16gg'LL	.
+.	16GGyy	.	16e-yy	.	16b-yy	(>16ff#X	.
+.	[16GGJJyy	.	[16e-JJyy	.	[16b-JJyy	16ggJJ)	.
+=31	=31	=31	=31	=31	=31	=31	=31
+!!linebreak:original
+2GG	16GGLL]	2.e-	16e-LL]	2b-	16b-LL]	16r	.
+.	16GGyy	.	16e-yy	.	16b-yy	16ee-'LL	.
+.	16GGyy	.	16e-yy	.	16b-yy	(>16dd	.
+.	16GGyy	.	16e-yy	.	16b-yy	16ee-JJ)	.
+.	16GGyy	.	16e-yy	.	16b-yy	16r	.
+.	16GGyy	.	16e-yy	.	16b-yy	16b-'LL	.
+.	16GGyy	.	16e-yy	.	16b-yy	(16a-	.
+.	16GGyy	.	16e-yy	.	16b-JJyy	16gJJ)	.
+4FF	16FFyy	.	16e-yy	16a-LL	2ryy	16r	.
+.	16FFyy	.	16e-yy	16a-	.	16aa-'LL	.
+.	16FFyy	.	16e-yy	16a-	.	(>16gg	.
+.	16FFyy	.	16e-yy	16a-JJ	.	16aa-JJ)	.
+4BB-	16BB-yy	4d	16dyy	16a-LL	.	16r	.
+.	16BB-yy	.	16dyy	16a-	.	16ccc'LL	.
+.	16BB-yy	.	16dyy	16g	.	(>16bb-	.
+.	[16BB-JJyy	.	16dJJyy	16fJJ	.	16aa-JJ)	.
+=32	=32	=32	=32	=32	=32	=32	=32
+2E-	16E-LL]	16e-LL	4ryy	4g	16gLLyy	16rg	.
+.	16E-yy	16B-	.	.	16gyy	16gg'LL	.
+.	16E-yy	16B-	.	.	16gyy	(>16ff#X	.
+.	16E-yy	16B-JJ	.	.	16gyy	16ggJJ)	.
+.	16E-yy	4B-	16B-LLyy	4g	16gyy	16r	.
+.	16E-yy	.	16B-yy	.	16gyy	16bb-'LL	.
+.	16E-yy	.	16B-yy	.	16gyy	(>16aa-	.
+.	16E-yy	.	16B-yy	.	16gyy	16ggJJ)	.
+4AA-	16AA-yy	4f	16fyy	4c	16cyy	16r	.
+.	16AA-yy	.	16fyy	.	16cyy	16ffn'LL	.
+.	16AA-yy	.	16fyy	.	16cyy	16eenJJ	.
+.	16AA-yy	.	16fyy	.	16cyy	8.cccL	.
+4AAn	16AAnyy	4c	16cyy	4f	16fyy	.	.
+.	16AAnyy	.	16cyy	.	16fyy	.	.
+.	16AAnyy	.	16cyy	.	16fyy	16ee-XJk	.
+.	[16AAnJJyy	.	[16cJJyy	.	[16fJJyy	16r	.
+=33	=33	=33	=33	=33	=33	=33	=33
+2BB-	16BB-LL]	2B-	16B-LL]	2f	16fLL]	(>4ee-M	.
+.	16BB-yy	.	16B-yy	.	16fyy	.	.
+.	16BB-yy	.	16B-yy	.	16fyy	.	.
+.	16BB-yy	.	16B-yy	.	16fyy	.	.
+.	16BB-yy	.	16B-yy	.	16fyy	4dd)	.
+.	16BB-yy	.	16B-yy	.	16fyy	.	.
+.	16BB-yy	.	16B-yy	.	16fyy	.	.
+.	16BB-yy	.	16B-yy	.	16fyy	.	.
+2BB-	16BB-yy	2F	16Fyy	2d	16dyy	2A-	.
+.	16BB-yy	.	16Fyy	.	16dyy	.	.
+.	16BB-yy	.	16Fyy	.	16dyy	.	.
+.	16BB-yy	.	16Fyy	.	16dyy	.	.
+.	16BB-yy	.	16Fyy	.	16dyy	.	.
+.	16BB-yy	.	16Fyy	.	16dyy	.	.
+.	16BB-yy	.	16Fyy	.	16dyy	.	.
+.	[16BB-JJyy	.	[16FJJyy	.	[16dJJyy	.	.
+=34	=34	=34	=34	=34	=34	=34	=34
+4E-	16E-LL]	4e-	16e-LL]	2.e-	16e-LL]	4G	.
+.	16E-yy	.	16e-yy	.	16e-yy	.	.
+.	16E-yy	.	16e-yy	.	16e-yy	.	.
+.	16E-yy	.	16e-yy	.	16e-yy	.	.
+4GG	16GGyy	4B-	16B-yy	.	16e-yy	4ee-	.
+.	16GGyy	.	16B-yy	.	16e-yy	.	.
+.	16GGyy	.	16B-yy	.	16e-yy	.	.
+.	16GGyy	.	16B-yy	.	16e-yy	.	.
+4AA-	16AA-yy	4c	16cyy	.	16e-yy	4f	.
+.	16AA-yy	.	16cyy	.	16e-yy	.	.
+.	16AA-yy	.	16cyy	.	16e-yy	.	.
+.	16AA-yy	.	16cyy	.	16e-yy	.	.
+4BB-	16BB-yy	4F	16Fyy	4d	16dyy	4aa-	.
+.	16BB-yy	.	16Fyy	.	16dyy	.	.
+.	16BB-yy	.	16Fyy	.	16dyy	.	.
+.	16BB-JJyy	.	[16FJJyy	.	16dJJyy	.	.
+*	*	*	*	*v	*v	*	*
+=35	=35	=35	=35	=35	=35	=35
+*	*	*	*	*	*^	*
+16E-LL	2ryy	4E-	16E-LL]	16e-LL	8ggL	4ryy	.
+16E-	.	.	16E-yy	16e-	.	.	.
+16E-	.	.	16E-yy	16e-	(>32bb-LL	.	.
+.	.	.	.	.	32aa-	.	.
+16E-JJ	.	.	16E-yy	16e-JJ	32ff	.	.
+.	.	.	.	.	32ee-JJJ)	.	.
+16BB-LL	.	4B-	16B-yy	16e-LL	4ffT	36...ffyy	.
+.	.	.	.	.	.	32ggLLLyy	.
+16BB-	.	.	16B-yy	16e-	.	.	.
+.	.	.	.	.	.	32ffyy	.
+.	.	.	.	.	.	32ggyy	.
+16BB-	.	.	16B-yy	16d	.	.	.
+.	.	.	.	.	.	32ffyy	.
+.	.	.	.	.	.	32ggyy	.
+16BB-JJ	.	.	16B-yy	16dJJ	.	.	.
+.	.	.	.	.	.	32ffJJJyy	.
+.	.	.	.	.	.	96ryy	.
+2E-	16E-LLyy	4E-	16E-yy	16e-LL	4ee-	2ryy	.
+.	16E-yy	.	16E-yy	16e-	.	.	.
+.	16E-yy	.	16E-yy	16e-	.	.	.
+.	16E-yy	.	16E-JJyy	16e-JJ	.	.	.
+.	16E-yy	16e-'LL	4ryy	16a-'LL	8.cccL	.	.
+.	16E-yy	16e-'	.	16a-'	.	.	.
+.	16E-yy	(16e-	.	(16a-	.	.	.
+.	[16E-JJyy	16a-JJ)	.	16fJJ)	16dddJk	.	.
+=36	=36	=36	=36	=36	=36	=36	=36
+!!linebreak:original
+2E-	16E-LL]	(16gLL	2.ryy	16g'LL	16eee-LL	2.ryy	.
+.	16E-yy	16e-)	.	(<16g	16bb-JJ	.	.
+.	.	.	.	.	8qbb-/	.	.
+.	16E-yy	16e-'	.	16f	16aa-LL	.	.
+.	16E-yy	16e-'JJ	.	16e-JJ)	16ggJJ	.	.
+.	16E-yy	16e-'LL	.	16a-'LL	8.cccL	.	.
+.	16E-yy	16e-'	.	16a-'	.	.	.
+.	16E-yy	(16e-	.	(<16a-	.	.	.
+.	16E-yy	16a-JJ)	.	16fJJ)	16dddJk	.	.
+4E-	16E-yy	(16gLL	.	(16gLL	16eee-LL	.	.
+.	16E-yy	16e-)	.	16e-)	16bb-	.	.
+.	.	.	.	.	16qaa-/	.	.
+.	16E-yy	16e-'	.	16e-'	16gg	.	.
+.	.	.	.	.	16qff/	.	.
+.	16E-yy	16e-'JJ	.	16e-'JJ	16ee-JJ	.	.
+4BB-	16BB-yy	4B-	16B-LLyy	16e-LL	4ffT	36...ffyy	.
+.	.	.	.	.	.	32ggLLLyy	>
+.	16BB-yy	.	16B-yy	16e-	.	.	.
+.	.	.	.	.	.	32ffyy	.
+.	.	.	.	.	.	32ggyy	.
+.	16BB-yy	.	16B-yy	16d	.	.	.
+.	.	.	.	.	.	32ffyy	.
+.	.	.	.	.	.	32ggyy	.
+.	16BB-JJyy	.	16B-JJyy	16dJJ	.	.	.
+.	.	.	.	.	.	32ffJJJyy	.
+.	.	.	.	.	.	96ryy	]
+*v	*v	*	*	*	*v	*v	*
+*	*v	*v	*	*	*
+=37	=37	=37	=37	=37
+[1E-	4e-	4e-	4r	.
+.	4r	4r	[2a-	.
+.	2r	2c	.	.
+=38	=38	=38	=38	=38
+.	.	.	4a-]	.
+1E-_	2r	2.B-	4g	.
+.	.	.	2cc	.
+.	[2e-	.	.	.
+.	.	[4A-	.	.
+=39	=39	=39	=39	=39
+*	*	*	*^	*
+.	.	.	2b-	2.ryy	.
+1E-_	2.e-]	4A-]	.	.	.
+.	.	4G	(>4b-	.	.
+.	.	4c	4a-T)	36...a-yy	.
+.	.	.	.	32b-LLLyy	.
+.	.	.	.	32a-yy	.
+.	.	.	.	32b-yy	.
+.	.	.	.	32a-yy	.
+.	.	.	.	32b-yy	.
+.	.	.	.	32a-JJJyy	.
+.	.	.	.	96ryy	.
+*	*	*	*v	*v	*
+.	4f	4d	.	.
+=40	=40	=40	=40	=40
+.	.	.	16g'LL	.
+.	.	.	16g'	.
+.	.	.	16a-'	.
+.	.	.	16b-'JJ	.
+4E-]	4e-	16e-'LL	16cc'LL	.
+.	.	16e-'	16dd'	.
+.	.	16f'	16ee-'	.
+.	.	16g'JJ	16ff'JJ	.
+4r	4r	16a-'LL	8gg	.
+.	.	16b-'	.	.
+.	.	16cc'	8r	.
+.	.	16dd'JJ	.	.
+2r	2r	8ee-	(32ffKLL	.
+.	.	.	16.ee-)	.
+.	.	8r	(>32ddk	.
+.	.	.	16.ccJJ)	.
+.	.	(32ddKLL	.	.
+.	.	16.cc)	.	.
+.	.	(>32b-k	.	.
+.	.	16.a-JJ)	.	.
+=41	=41	=41	=41	=41
+!!linebreak:original
+.	.	.	(>4b-	.
+!!linebreak:original
+2BB-	2B-	(<4g	4a-)	.
+.	.	4f)	(<8gL	.
+.	.	.	8e-	.
+8EE-L	(8E-L	8e-L	8f	.
+8C	8G	(<8e-	8dJ)	.
+8AA-	8A-	8f	.	.
+8BB-J	8FJ)	8dJ)	.	.
+=42	=42	=42	=42	=42
+.	.	.	8e-	.
+.	.	.	8r	.
+8E-	8E-	8e-	8G 8e-	.
+8r	8r	8r	8r	.
+8EE-	8E-	8G 8e-	4G 4e-	.
+8r	8r	8r	.	.
+4EE-	4E-	4G 4e-	4r	.
+4r	4r	4r	.	.
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below

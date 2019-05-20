@@ -1,0 +1,98 @@
+!!!COM: Johann Rudolf Ahle
+!!!LYR: Johann Filtner
+!!!OTL: Jesu, meines Herzens Freud
+**kern	**kern	**text	**text	**text
+*part2	*part1	*part1	*part1	*part1
+*staff2	*staff1	*staff1	*staff1	*staff1
+*clefF4	*clefG2	*	*	*
+*M4/4	*M4/4	*	*	*
+*^	*^	*	*	*
+4c	4A	4a	4e	Je	Tau	Wei
+4B	4G#	4b	4e	su,	send	de
+4A	4A	4cc	4e	mei	mal	mich
+4d	4D	8bL	4f	nes	ge	und
+.	.	8aJ	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2
+4B	4E	4.g#	4.e	Her	denk	mach
+4c	4AA	.	.	.	.	.
+.	.	8a	8f#	zens	ich	mich
+!	!	!LO:TX:a:i:t=Jesu, meines Herzens Freud	!	!	!	!
+!	!	!LO:TX:a:iB:t=Johann Flitner	!	!	!	!
+2B	2E	2b	2g#	Freud	dein,	satt,
+=3	=3	=3	=3	=3	=3	=3
+!	!	!LO:TX:a:iB:t=Johann R. Ahle	!	!	!	!
+4e	4AA	4cc	4a	sü	mein	Him
+4f	4D	8bL	4a	ßer	Er	mels
+.	.	16cc	.	.	.	.
+.	.	16ddJ	.	.	.	.
+(>4e	2E	2b	(<8aL	Je	lö	spei
+.	.	.	16g#	.	.	.
+.	.	.	16f#J	.	.	.
+!	!	!LO:TX:a:iB:t=Satz&colon; J. Knuth	!	!	!	!
+4B)	.	.	4g#y)	.	.	.
+=4	=4	=4	=4	=4	=4	=4
+1c	1A	1a	1e	su,	ser,	se,
+!!LO:LB
+=5	=5	=5	=5	=5	=5	=5
+4A	4A	4e	4c	mei	und	trän
+4A	4D#	4f#	4B	ner	be	ke
+4G	4E	4g	4B	See	geh	mich,
+4A	4AA	8f#yL	4c	len	re	mein
+.	.	8eJ	.	.	.	.
+=6	=6	=6	=6	=6	=6	=6
+4F#	4BB	4d#	4.B	Se	dich	Herz
+4G	4E	4e	.	.	.	.
+.	.	.	8c#	lig	al	ist
+2B	2BB	2f#	2d#	keit,	lein,	matt,
+=7	=7	=7	=7	=7	=7	=7
+4B	4E	4g	4e	sü	mein	See
+4c	4A	8gL	4e	ßer	Er	len
+.	.	8f#J	.	.	.	.
+[4B	(<4B	2f#y	(<8eL	Je	lö	wei
+.	.	.	16d#	.	.	.
+.	.	.	16c#J	.	.	.
+4B]	4BB)	.	4d#y)	.	.	.
+=8	=8	=8	=8	=8	=8	=8
+1G#	1E	1e	1B	su,	ser,	de,
+!!LO:LB
+=9	=9	=9	=9	=9	=9	=9
+4A	4AA	4cc	4e	des	seh	sei
+4G#	4BB	4dd	4e	Ge	ne	du
+4A	4C	4ee	4e	mü	mich	mei
+4A	4D	8ddL	4f	tes	bei	ne
+.	.	8ccJ	.	.	.	.
+=10	=10	=10	=10	=10	=10	=10
+4G#	4E	4.b	(<8d	Si	dir	Ru
+.	.	.	4e)	.	.	.
+4c	4AA	.	.	.	.	.
+.	.	8a	8f#	cher	zu	he
+2B	2E	2b	2g#	heit,	sein,	statt,
+=11	=11	=11	=11	=11	=11	=11
+4e	4AA	4cc	4a	sü	mein	Ruh
+4f	4D	8ccL	4a	ßer	Er	der
+.	.	8bJ	.	.	.	.
+(>4e	2E	2b	(<8aL	Je	lö	See
+.	.	.	16g#	.	.	.
+.	.	.	16f#J	.	.	.
+4B)	.	.	4g#y)	.	.	.
+=12	=12	=12	=12	=12	=12	=12
+1c	1A	1a	1e	su,	ser,	len,
+!!LO:LB
+=13	=13	=13	=13	=13	=13	=13
+4A	4F	4.dd	4f	Je	Je	Je
+4B	4G#	.	4e	su,	su,	su,
+.	.	8ee	.	.	.	.
+4c	4A	8aL	4e	sü	mein	Ruh
+.	.	8bJ	.	.	.	.
+4f	4D	4cc	4a	ßer	Er	der
+=14	=14	=14	=14	=14	=14	=14
+(>4B	2E	2b	(<8aL	Je	lö	See
+.	.	.	8f#J	.	.	.
+4d)	.	.	4g#)	.	.	.
+2c	2AA	2a	2e	su!	ser!	len!
+*v	*v	*	*	*	*	*
+*	*v	*v	*	*	*
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below

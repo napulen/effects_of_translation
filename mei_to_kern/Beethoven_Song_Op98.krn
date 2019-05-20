@@ -1,0 +1,120 @@
+!!!COM: Ludwig van Beethoven
+!!!OTL: Auf dem Hügel sitz ich spähend
+**kern	**kern	**dynam	**kern	**kern	**kern	**text
+*part3	*part2	*part2	*part1	*part1	*part1	*part1
+*staff5	*staff4	*	*staff3	*staff2	*staff1	*staff1
+*	*	*	*I"Voice	*	*	*
+*clefF4	*clefG2	*	*clefG2	*
+*k[b-e-a-]	*k[b-e-a-]	*	*k[b-e-a-]	*
+*M3/4	*M3/4	*	*M3/4	*
+!	!	!	!LO:TX:a:iB:t=Ziemlich langsam und mit Ausdruck	!
+!	!	!	!LO:TX:a:iB:t=No. 1	!
+4EE-y 4E-y	4B-y 4e-y 4g 4b-y	p	4r	.
+*clefG2	*	*	*	*
+(<4g	(>4b-y	.	4b-y	Auf
+4f)	4a-y)	.	4b-y	dem
+=2	=2	=2	=2	=2
+4e-y	4g	.	4.b-y	Hü-
+*clefF4	*	*	*	*
+4EE-y 4E-y	4G 4e-y 4g	.	.	.
+.	.	.	8cc	gel
+4r	4r	.	8ddL	sitz’
+.	.	.	8ee-yJ	ich
+=3	=3	=3	=3	=3
+4r	4r	.	4ee-y	spä-
+4CC 4C	4G 4c 4e-y 4g	.	8g	hend
+.	.	.	8r	.
+8r	8r	.	8a-yL	in
+8BBB-y 8BB-y	8G 8e-y 8g	.	8gJ	das
+=4	=4	=4	=4	=4
+*	*^	*	*	*
+4AAA-y 4AA-y	(>8fL	4c	.	8fL	blau-
+.	8a-yJ	.	.	8a-yJ	e
+(<4AAA-y 4AA-y	4cc)	4c 4f	.	4cc	Ne-
+4AAAn 4AAn	4cc	(<4c 4e-y [4f	.	4cc	bel-
+!!LO:LB
+=5	=5	=5	=5	=5	=5
+!!Error: measure 5, staff 2 is underfilled: adding token 4ryy at end of measure to complete its duration.
+(>4BBB-y)) 4BB-y	(>4.b-y	(>4d)) 4f]	.	4f	land,
+(>4D	.	4f	.	4.b-y	nach
+.	8cc	.	.	.	.
+4E-y	4ryy	4g	.	.	.
+.	.	.	.	8cc	den
+=6	=6	=6	=6	=6	=6
+*^	*	*	*	*	*
+!!Error: measure 6, staff 3 is underfilled: adding token 4ryy at end of measure to complete its duration.
+4C	2C	4b-y	2e-y 2g-	.	4b-y	fer-
+4c)	.	4an)	.	.	4an	nen
+4ryy	4D 4B-y 4d	(>8a-L	4f	.	8a-L	Trif-
+.	.	8b-yJ)	.	.	8b-yJ	ten
+*	*	*v	*v	*	*	*
+=7	=7	=7	=7	=7	=7
+!!Error: measure 7, staff 3 is underfilled: adding token 4ryy at end of measure to complete its duration.
+(>4B-y	2E-y	(<4f 4a-y	.	4a-y	se-
+4e-y)	.	4gn)	.	4g	hend,
+4ryy	4GG 4E-y 4G	8e-yL 8b-y 8ee-y	<	8ee-yL	wo
+.	.	8e-yJ 8b-y 8dd	[	8ddJ	ich
+*v	*v	*	*	*	*
+=8	=8	=8	=8	=8
+4AA-y 4E-y 4A-y	(>4e-y 4b-y 4dd	>	(>4dd	dich, 
+8AA-yL 8E-y 8A-y	8e-yL) 8a-y 8cc	.	8ccL)	.
+8BB-y 8E-y 8B-y	8e-y 8g 8b-y	]	8b-yJ	Ge-
+8BB-y 8B-y	8d 8f 8a-y	.	8a-yL	lieb-
+8BBB-yJ 8BB-y	8A-yJ 8d 8f	.	8fJ	te,
+=9	=9	=9	=9	=9
+4EE-y 4E-y	4G 4e-y	.	4e-y	fand.
+!	!LO:TX:a:iB:t=Ausdrucksvoll	!	!	!
+!	!LO:TX:i:t=espressivo	!	!	!
+.	(>8qb-y	>	.	.
+2E-y 2G 2B-y 2e-y	4.bb-y)	.	4r	.
+.	.	.	4r	.
+.	8ee-y	]	.	.
+=10	=10	=10	=10	=10
+4E-y 4F 4A-y 4d	4dd	.	2.r	.
+.	(>8qb-y	>	.	.
+4.E-y 4.F 4.A-y 4.B-y 4.d	4.bb-y)	.	.	.
+!	!LO:TX:i:t=dim.	!	!	!
+(>8d	(>8dd	]	.	.
+!!LO:LB
+=11	=11	=11	=11	=11
+8fL	8ffL	.	4r	.
+(>8F)) 8A-y	(>8f)) 8a-y	.	.	.
+(>8F 8A-y	(<8f 8a-y	.	4b-y	Weit
+8En 8G	8en 8g	.	.	.
+8G 8B-y	8g 8b-y	.	4b-y	bin
+8FJ) 8A-y	8fJ) 8a-y	.	.	.
+=12	=12	=12	=12	=12
+8E- 8G	8e- 8g	.	4.b-y	ich
+8r	8r	.	.	.
+8E-yL	8B-yL 8g	.	.	.
+16r	16r	.	8cc	von
+16E-yJ	16B-yJ 16g	.	.	.
+8EE-y	8B-y 8g	.	8ddL	dir
+8r	8r	.	8ee-yJ	ge-
+=13	=13	=13	=13	=13
+4r	4r	.	4ee-y	schie-
+8cL	8e-yL 8g	.	8g	den,
+16r	16r	.	8r	.
+16cJ	16e-yJ 16g	.	.	.
+8CL	8e-yL 8a-y 8ee-y	.	8a-yL	tren-
+8BB-yJ	8e-yJ 8g	.	8gJ	nend
+=14	=14	=14	=14	=14
+8AA-y	8c 8f	.	8fL	lie-
+8r	8r	.	8a-yJ	gen
+8A-yL	8cL 8f	.	4cc	Berg
+16r	16r	.	.	.
+16AA-yJ 16A-y	16cJ 16f	.	.	.
+4AAn 4An	8c 8e-y 8f 8cc	.	4cc	und
+.	8r	.	.	.
+=15	=15	=15	=15	=15
+8BB-y 8B-y	8d 8f	.	4f	Thal
+8r	8r	.	.	.
+8DL 8B-y	8fL 8b-y	.	4.b-y	zwi-
+16r	16r	.	.	.
+16DJ 16B-y	16fJ 16b-y	.	.	.
+8E-y 8B-y	8g 8b-y	.	.	.
+8r	8r	.	8cc	schen
+=	=	=	=	=
+*-	*-	*-	*-	*-
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below

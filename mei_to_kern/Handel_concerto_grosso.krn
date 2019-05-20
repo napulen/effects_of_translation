@@ -1,0 +1,81 @@
+!!!COM: Georg Friedrich Händel
+!!!OTL: Concerto grosso in B minor
+!!!system-decoration: ([(s1,s2)][(s3,s4)]s5,s6,s7)
+**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam	**kern	**dynam
+*part7	*part7	*part6	*part6	*part5	*part5	*part4	*part4	*part3	*part3	*part2	*part2	*part1	*part1
+*staff7	*	*staff6	*	*staff5	*	*staff4	*	*staff3	*	*staff2	*	*staff1	*
+*clefF4	*	*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*	*k[f#c#]	*
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+!LO:TX:i:t=6 5	!	!	!	!	!	!	!	!	!	!	!	!	!
+8E#L	.	8E#L	.	(>8g#L	.	(<8bL	.	4cc	.	(<8bL	.	4cc	.
+8F	.	8F	.	8f)	.	8aJ)	.	.	.	8aJ)	.	.	.
+!LO:TX:i:t=6 5	!	!	!	!	!	!	!	!	!	!	!	!	!
+8D	.	8D	.	8f	.	8aL]	.	8.bL	.	8aL]	.	8.bL	.
+!LO:TX:i:t=6	!	!	!	!	!	!	!	!	!	!	!	!	!
+8BBJ	.	8BBJ	.	8dJ	.	16g#	.	.	.	16g#	.	.	.
+.	.	.	.	.	.	16fJ	.	16bJ	.	16fJ	.	16bJ	.
+!LO:TX:i:t=6	!	!	!	!	!	!	!	!	!	!	!	!	!
+4GG#	.	4GG#	.	4B	.	4e#	.	4b	.	4e#	.	4b	.
+8r	.	8r	.	8r	.	8r	.	8r	.	8r	.	8r	.
+!LO:TX:i:t=6 4	!	!	!	!	!	!	!	!	!	!	!	!	!
+8FF	.	8F	.	8f	.	8f	.	8dd	.	8f	.	8dd	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+!LO:TX:i:t=6	!	!	!	!	!	!	!	!	!	!	!	!	!
+8EE#L	.	8E#L	.	8cL	.	8g#L	.	8cc#L	.	8g#L	.	8ccL	.
+8FF	.	8F	.	8c	.	8f	.	16.a	.	8f	.	16.a	.
+.	.	.	.	.	.	.	.	32g#J	.	.	.	32g#J	.
+!LO:TX:i:t=5 4	!	!	!	!	!	!	!	!	!	!	!	!	!
+8C	.	8C	.	8c	.	8f	.	8.gL	.	8f	.	8.gL	.
+8CJ	.	8CCJ	.	8cJ	.	8e#J	.	.	.	8e#J	.	.	.
+.	.	.	.	.	.	.	.	16fJ	.	.	.	16fJ	.
+4FF	.	4FF	.	4c	.	4f	.	4f	.	4f	.	4f	.
+4r	.	4r	.	4r	.	4r	.	4r	.	4r	.	4r	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+4BB	.	4BB`<	.	4F`<	.	4A`<	.	4d#`<	.	4A`<	.	4d#`<	.
+*	*	*clefC4	*	*	*	*	*	*	*	*	*	*	*
+4r	.	16r	.	4r	.	4r	.	4r	.	16r	.	16r	.
+.	.	16BL	.	.	.	.	.	.	.	16dd#L	.	16bL	.
+.	.	16.d#	.	.	.	.	.	.	.	16.b	.	16.ff	.
+.	.	32BJ	.	.	.	.	.	.	.	32ddJ	.	32aaJ	.
+2r	.	8eL	.	2r	.	2r	.	2r	.	8eeL	.	16.ggL	.
+.	.	.	.	.	.	.	.	.	.	.	.	32ff	.
+.	.	8EJ	.	.	.	.	.	.	.	8bJ	.	8eeJ	.
+.	.	4r	.	.	.	.	.	.	.	4r	.	4r	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+4AA	f	4AA`<	f	4G`<	f	4c`<	f	4e`<	f	4G`<	f	4c`<	f
+4r	.	16r	.	4r	.	4r	.	4r	.	16r	.	16r	.
+.	.	16AL	.	.	.	.	.	.	.	16ccL	.	16aL	.
+.	.	16.c	.	.	.	.	.	.	.	16.a	.	16.ee	.
+.	.	32AJ	.	.	.	.	.	.	.	32ccJ	.	32ggJ	.
+4r	.	8dL	.	4r	.	4r	.	4r	.	8ddL	.	16.ffL	.
+.	.	.	.	.	.	.	.	.	.	.	.	32ee	.
+.	.	8DJ	.	.	.	.	.	.	.	8aJ	.	8ddJ	.
+16r	.	16r	.	8r	.	16r	.	16r	.	16r	.	16r	.
+16DL	.	16DL	.	.	.	16fL	.	16dL	.	16fL	.	16dL	.
+!LO:TX:i:t=6 5	!	!	!	!	!	!	!	!	!	!	!	!	!
+16.F	.	16.F	.	8d	.	16.d	.	16.a	.	16.d	.	16.a	.
+32DJ	.	32DJ	.	.	.	32aJ	.	32ccnJ	.	32aJ	.	32ccnJ	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+!LO:TX:i:t=9 4	!	!	!	!	!	!	!	!	!	!	!	!	!
+8GL	p	8GL	f	8dL	.	8aL	.	8ccnL	f	8aL	f	8ccnL	f
+!LO:TX:i:t=8 3	!	!	!	!	!	!	!	!	!	!	!	!	!
+8GGJ	.	8GGJ	.	8dJ	.	8gJ	.	8bJ	.	8gJ	.	8bJ	.
+16r	.	16r	.	16r	.	16r	.	16r	.	16r	.	16r	.
+16G#L	.	16G#L	.	16eL	.	16BL	.	16eL	.	16BL	.	16eL	.
+!LO:TX:i:t=6 5	!	!	!	!	!	!	!	!	!	!	!	!	!
+16.G	.	16.G	.	16.e	.	16.e	.	16.b	.	16.e	.	16.b	.
+32EJ	.	32EJ	.	32g#J	.	32bJ	.	32ddJ	.	32bJ	.	32ddJ	.
+!LO:TX:i:t=9 4	!	!	!	!	!	!	!	!	!	!	!	!	!
+8AL	.	8AL	.	8eL	.	8bL	.	8ddL	.	8bL	.	8ddL	.
+!LO:TX:i:t=8 3	!	!	!	!	!	!	!	!	!	!	!	!	!
+8AAJ	.	8AAJ	.	8eJ	.	8aJ	.	8cc#J	.	8aJ	.	8cc#J	.
+16r	.	16r	.	16r	.	16r	.	16r	.	16r	.	16r	.
+16A#L	.	16A#L	.	16fL	.	16cL	.	16fL	.	16cL	.	16fL	.
+!LO:TX:i:t=6 5	!	!	!	!	!	!	!	!	!	!	!	!	!
+16.A	.	16.A	.	16.f	.	16.f	.	16.cc	.	16.f	.	16.cc	.
+32FJ	.	32FJ	.	32a#J	.	32ccJ	.	32eeJ	.	32ccJ	.	32eeJ	.
+=	=	=	=	=	=	=	=	=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below

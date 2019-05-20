@@ -1,0 +1,170 @@
+!!!OTL: Der Lindenbaum
+**kern	**kern	**dynam	**kern	**text	**text	**text
+*part3	*part2	*part2	*part1	*part1	*part1	*part1
+*staff3	*staff2	*	*staff1	*staff1	*staff1	*staff1
+*clefF4	*clefG2	*	*clefG2	*	*	*
+*k[b-]	*k[b-]	*	*k[b-]	*	*	*
+*M3/4	*M3/4	*	*M3/4	*	*	*
+8F 8FF	8cc 8a 8c	p	8cc	Am	Ich	Die
+=1	=1	=1	=1	=1	=1	=1
+4.F 4.FF	4.cc 4.a 4.c	.	4.cc	Brun-	musst'	kal-
+(<8FFL	8a'L 8f' (<8c'	.	8a	-nen	auch	-ten
+8AA	8a' 8f' 8c'	.	8a	vor	heu-	Win-
+8CJ)	8a'J 8f' 8c')	.	8a	dem	-te	-de
+=2	=2	=2	=2	=2	=2	=2
+2F	4a 4f (<4c	.	4a	Tho-	wan-	blie-
+.	4f 4c 4A)	.	4f	-re,	-dern	-sen
+8r	8r	.	8r	.	.	.
+(<8AA	8f 8c	.	8f	da	vor-	mir
+=3	=3	=3	=3	=3	=3	=3
+!!Error: measure 4, staff 1 is underfilled: adding token 12ryy at end of measure to complete its duration.
+2C)	2g 2f 2c	.	4.g	steht	-bei	grad
+.	.	.	8a	ein	in	in's
+4C	4g 4e 4c	.	(<18b-yL	Lin-	tie-	An-
+.	.	.	18aJ)	.	.	.
+.	.	.	18g	-den-	-fer	-ge-
+.	.	.	12ryy	.	.	.
+=4	=4	=4	=4	=4	=4	=4
+8FF	8a 8f 8c	.	2a	-baum;	Nacht,	-sicht,
+(>8cL 8A	8ccL (<8a	.	.	.	.	.
+8A 8F	8a 8f	.	.	.	.	.
+8c 8A	8cc 8a	.	.	.	.	.
+8B-y 8G	8b-y 8g	.	8r	.	.	.
+8GJ) 8C	8gJ 8c)	.	8cc	ich	da	der
+!!LO:LB
+=5	=5	=5	=5	=5	=5	=5
+8F 8FF	8f 8A	.	4.cc	träumt'	hab'	Hut
+4F	4cc 4a 4c	.	.	.	.	.
+(<8FFL	8a'L 8f' (<8c'	.	8a	in	ich	flog
+8AA	8a' 8f' 8c'	.	8a	sei-	noch	mir
+8CCJ)	8a'J 8f' 8c')	.	8a	-nem	im	vom
+=6	=6	=6	=6	=6	=6	=6
+2F	4a 4f (<4c	.	4a	Schat-	Dun-	Ko-
+.	4f 4c 4A)	.	4f	-ten	-kel	-pfe,
+8r	8r	.	8r	.	.	.
+(<8AA	8f 8c	.	8f	so	die	ich
+=7	=7	=7	=7	=7	=7	=7
+!!Error: measure 8, staff 1 is underfilled: adding token 18ryy at end of measure to complete its duration.
+2C)	2g 2f 2c	.	4.g	man-	Au-	wen-
+.	.	.	8a	-chen	-gen	-de-
+4C	4g 4e 4c	.	18b-yL	sü-	zu-	-te
+.	.	.	18aJ	.	.	.
+.	.	.	12g	-ssen	-ge-	mich
+.	.	.	18ryy	.	.	.
+=8	=8	=8	=8	=8	=8	=8
+8FF	8f 8c 8A	.	2f	Traum.	-macht;	nicht.
+(>8cL 8A	8ccL (<8a	.	.	.	.	.
+8A 8F	8a 8f	.	.	.	.	.
+8c 8A	8cc 8a	.	.	.	.	.
+8B-y 8G	8b-y 8g	.	8r	.	.	.
+8AJ) 8F	8aJ 8f)	.	8f	Ich	Und	Nun
+=9	=9	=9	=9	=9	=9	=9
+4.G 4.BBn	4.g 4.f 4.d	.	4.g	schnitt	sei-	bin
+8GL 8BB	8g'L 8f' (<8d'	<	8g	in	-ne	ich
+8G 8BB-	8g' 8e' 8c'	.	8g	sei-	Zwei--	man-
+8GJ 8BB-y	8g'J 8e' 8c')	[	8g	-ne	-ge	-che
+!!LO:LB
+=10	=10	=10	=10	=10	=10	=10
+*^	*^	*	*	*	*	*
+4F	(<8.AAL	(>8.aL 8.f	4c	>	(<8.aL	Rin--	rausch-	Stun--
+.	16GGJ	16b-yJ 16g	.	.	16b-yJ)	.	.	.
+4.F	4.FF)	4.cc) 4.a	4.c	]	4.cc	-de	ten,	-de
+*v	*v	*	*	*	*	*	*	*
+*	*v	*v	*	*	*	*	*
+(>8c 8A	(>8cc 8a	.	8cc	so	als	ent-
+=11	=11	=11	=11	=11	=11	=11
+4.d^ 4.B-y^	4.dd^ 4.b-y^	.	4.dd	man-	rie-	-fernt
+8cL 8A	8ccL 8a	.	8cc	-ches	-fen	von
+8A 8F	8a 8f	.	8a	lie-	sie	je-
+8FJ) 8AA	8fJ) 8c	.	8f	-be	mir	-nem
+=12	=12	=12	=12	=12	=12	=12
+8.GL 8.C	8.gL 8.e 8.c	pp	2g	Wort;	zu:	Ort,
+(>32c	(<32cc	.	.	.	.	.
+32dJ	32ddJ	.	.	.	.	.
+8.cL)	8.ccL)	.	.	.	.	.
+(>16AJ 16F	16aJ (<16f	.	.	.	.	.
+4G) 4C	4cc 4e)	.	8r	.	.	.
+.	.	.	8g	es	Komm	und
+=13	=13	=13	=13	=13	=13	=13
+4.G 4.BBn	4.g 4.f 4.d	.	4.g	zog	her	im-
+8GL 8BB	8g'L 8f' (<8d'	<	8g	in	zu	-mer
+8G 8BB-	8g' 8e' 8c'	.	8g	Freud'	mir	hör'
+8GJ 8BB-y	8g'J 8e' 8c')	[	8g	und	Ge-	ich's
+=14	=14	=14	=14	=14	=14	=14
+*^	*^	*	*	*	*	*
+!!Warning: measure 15, staff 3 padded. adding token 8.ryy at end ot measure to extend its duration.
+!!Warning: measure 15, staff 1 padded. adding token 16ryy at end ot measure to extend its duration.
+!!Error: measure 15, staff 3 is underfilled: adding token 8ryy at end of measure to complete its duration.
+!!Error: measure 15 staff 2 is overfilled: 3.25 quarter notes instead of 3.
+(<4F	(<8.AAL	(>8.aL 8.f	4c	>	8.aL	Lei-	-sel-	rau-
+.	16GGJ	8b-yJ 8g	.	.	16b-yJ)	.	.	.
+4.F	4.FF)	.	4.c	]	4cc	-de	-le,	-schen:
+.	.	4.cc) 4.a	.	.	.	.	.	.
+.	.	.	.	.	8r	.	.	.
+*	*	*v	*v	*	*	*	*	*
+8.ryy	8c 8A	.	.	8cc	zu	hier	du
+.	.	8cc 8a	.	.	.	.	.
+*v	*v	*	*	*	*	*	*
+.	.	.	16ryy	.	.	.
+!!LO:LB
+=15	=15	=15	=15	=15	=15	=15
+8qc	.	.	.	.	.	.
+.	8qcc	.	.	.	.	.
+(>4f 4A	(>4ff 4a	.	(>4ff	ihm	find'st	fän-
+8cL) 8A	8ccL) 8a	.	8cc)	.	.	.
+(>8A 8F	8a (<8f	.	8a	mich	du	-dest
+8B-y 8G	8b-y 8g	.	8b-y	im-	dei-	Ru-
+8GJ) 8BB-y	8gJ 8e 8c)	.	8g	-mer	-ne	-he
+=16	=16	=16	=16	=16	=16	=16
+!!Error: measure 17, staff 3 is underfilled: adding token 36%5ryy at end of measure to complete its duration.
+!!Error: measure 17, staff 2 is underfilled: adding token 36..ryy at end of measure to complete its duration.
+[4A [4F [4AA	[4cc [4f [4c	fp	2cc	fort,	Ruh,	dort,
+18AL_ 18F] 18AA]	18.ccL_ 18.f] 18.c]	.	.	.	.	.
+18c	.	.	.	.	.	.
+.	(>18cc	.	.	.	.	.
+18fJ	.	.	.	.	.	.
+.	18ffJ	.	.	.	.	.
+18aL	.	.	.	.	.	.
+.	18aaL	.	.	.	.	.
+18f	.	.	8r	.	.	.
+.	18ff	.	.	.	.	.
+18cJ	.	.	.	.	.	.
+.	18ccJ)	.	.	.	.	.
+36%5ryy	.	.	.	.	.	.
+.	.	.	8cc	zu	hier	du
+.	36..ryy	.	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17
+!!Error: measure 18, staff 3 is underfilled: adding token 18ryy at end of measure to complete its duration.
+!!Error: measure 18, staff 2 is underfilled: adding token 18ryy at end of measure to complete its duration.
+!!Error: measure 18, staff 1 is underfilled: adding token 12ryy at end of measure to complete its duration.
+18AL 18F	(>18aL 18f	<	(>4ff	ihm	find'st	fän-
+18c 18A	18cc 18a	.	.	.	.	.
+18fJ 12c	18ffJ 12cc	.	.	.	.	.
+8cL 8A	8ccL 8a	[	.	.	.	.
+.	.	>	8cc)	.	.	.
+8A 8F	8a 8f	.	.	.	.	.
+.	.	.	8a	mich	da	-dest
+8.B-y 8.G	8.b-y 8.g	.	.	.	.	.
+.	.	.	(>18ccL	im-	dei-	Ru-
+.	.	.	18b-yJ)	.	.	.
+.	.	]	18g	-mer	-ne	-he
+16GJ 16C	16gJ) 16c	.	.	.	.	.
+.	.	.	12ryy	.	.	.
+18ryy	18ryy	.	.	.	.	.
+=18	=18	=18	=18	=18	=18	=18
+!!Error: measure 19, staff 3 is underfilled: adding token 16ryy at end of measure to complete its duration.
+!!Error: measure 19, staff 2 is underfilled: adding token 8ryy at end of measure to complete its duration.
+!!Error: measure 19, staff 1 is underfilled: adding token 8ryy at end of measure to complete its duration.
+8.FL 8.FF	8.fL 8.A	.	2f	fort.	Ruh!	dort!
+(>32A	(<32a	.	.	.	.	.
+32dJ	32ddJ	.	.	.	.	.
+8.cL)	8.ccL)	.	.	.	.	.
+(>8B-yJ 8C	(>16eeJ 16g	.	.	.	.	.
+.	8ff) 8f	.	8r	.	.	.
+8A) 8F	.	.	.	.	.	.
+.	8ryy	.	8ryy	.	.	.
+16ryy	.	.	.	.	.	.
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below

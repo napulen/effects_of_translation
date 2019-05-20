@@ -1,0 +1,625 @@
+!!!COM: Frédéric Chopin
+!!!OTL: Mazurka in F-sharp Minor op. 6,1
+**kern	**kern	**dynam	**kern	**kern	**dynam
+*part2	*part2	*part2	*part1	*part1	*part1
+*staff4	*staff3	*	*staff2	*staff1	*
+*I"piano	*	*	*I"piano	*	*
+*clefF4	*	*clefG2	*
+*k[f#c#g#]	*	*k[f#c#g#]	*
+*M3/4	*	*M3/4	*
+4r	.	(<[4f#y^<	p
+=1	=1	=1	=1
+!!Error: measure 2, staff 1 is underfilled: adding token 8.ryy at end of measure to complete its duration.
+4CC#y	.	48f#yL_	.
+.	.	48g#y	.
+.	.	48f#yJ	.
+.	.	8e#yL	.
+.	.	8f#y	[
+4C#y 4G#y 4B	.	.	<
+.	.	8.g#y	.
+4C#y 4E#y 4B	.	16dJ	.
+.	.	8.ryy	.
+=2	=2	=2	=2
+*	*	*^	*
+4FF#y	.	8c#yL)	4r	.
+.	.	16r	.	.
+.	.	16f#yJ	.	.
+!	!	!LO:TX:i:t=cresc.	!	!
+4F#y 4c#y	.	4a	4r	.
+4F#y 4c#y	.	[4a^>	[4f#y	.
+=3	=3	=3	=3	=3
+!!Error: measure 4, staff 1 is underfilled: adding token 16ryy at end of measure to complete its duration.
+4EE	.	16aL]	4f#y]	<
+.	.	16b	.	.
+.	.	16aJ	.	.
+.	.	8g#yL	.	.
+4E 4B	.	.	4e	.
+.	.	8a	.	.
+.	.	8.b	.	.
+[4E	.	.	[4d^>	.
+.	.	16f#yJ	.	[
+.	.	16ryy	.	.
+=4	=4	=4	=4	=4
+4AA 4E]	.	8eL	4d]	.
+.	.	16r	.	.
+.	.	16aJ	.	.
+4A	.	4cc#y	4c#y	<
+4A 4e	.	4r	[4cc#y^>	[
+*	*	*v	*v	*
+=5	=5	=5	=5
+!!Error: measure 6, staff 1 is underfilled: adding token 16ryy at end of measure to complete its duration.
+!LO:TX:i:t=legato	!	!	!
+*^	*	*	*
+2d#y 2f#y	4A	.	16cc#yL]	.
+.	.	.	16dd#y	.
+.	.	.	16cc#yJ	.
+.	.	.	8b#yL	.
+!	!	!	!LO:TX:i:t=decresc.	!
+.	2G#y	.	.	.
+.	.	.	16r	.
+.	.	.	16g#yJ	.
+.	.	.	[4bn^>	.
+4c#y 4e#y	.	.	.	.
+.	.	.	16ryy	.
+=6	=6	=6	=6	=6
+!!Error: measure 7, staff 1 is underfilled: adding token 16ryy at end of measure to complete its duration.
+2c#y 2en	4Gn	.	16bL]	.
+.	.	.	16cc#y	.
+.	.	.	16bJ	.
+.	.	.	8a#yL	.
+.	2F#y	.	.	.
+.	.	.	16r	.
+.	.	.	16f#yJ	.
+.	.	.	[4an^>	.
+4cn 4d#y	.	.	.	.
+.	.	.	16ryy	.
+=7	=7	=7	=7	=7
+!!Error: measure 8, staff 1 is underfilled: adding token 16ryy at end of measure to complete its duration.
+2B 2dn	4Fn	.	16aL]	.
+.	.	.	16b	.
+.	.	.	16aJ	.
+.	.	.	8g#yL	.
+.	2E	.	.	.
+.	.	.	16r	.
+.	.	.	16eJ	.
+.	.	.	[4gn	.
+4B-y 4c#y	.	.	.	.
+.	.	.	16ryy	.
+=8	=8	=8	=8	=8
+!!Error: measure 9, staff 1 is underfilled: adding token 16ryy at end of measure to complete its duration.
+2A 2cn	4E-y	.	16gnL]	.
+.	.	.	16a	.
+.	.	.	16gnJ	.
+.	.	.	8f#yL	.
+.	2D	.	.	.
+.	.	.	8dJ	.
+.	.	.	[4f#y	.
+4G#y 4Bn	.	.	.	.
+.	.	.	16ryy	.
+*v	*v	*	*	*
+=9	=9	=9	=9
+!!Error: measure 10, staff 1 is underfilled: adding token 16ryy at end of measure to complete its duration.
+4CC#y 4C#y	.	16f#yL]	.
+.	.	16g#y	.
+.	.	16f#yJ	.
+.	.	8e#yL	.
+!	!	!LO:TX:i:t=rubato	!
+4C#y 4G#y 4B	[	.	.
+.	.	8f#y	.
+.	.	8.g#y	.
+4C#y 4E#y 4B	.	.	.
+.	.	16dJ	.
+.	.	16ryy	.
+=10	=10	=10	=10
+!	!	!LO:TX:i:t=cresc.	!
+*	*	*^	*
+4FF#y	.	8c#yL	4r	.
+.	.	16r	.	.
+.	.	16f#yJ	.	.
+4F#y 4c#y	.	4a	4r	.
+4F#y 4c#y	.	(>[4a^>	[4f#y^>	.
+=11	=11	=11	=11	=11
+!!Error: measure 12, staff 1 is underfilled: adding token 16ryy at end of measure to complete its duration.
+4EE	.	16aL]	4f#y]	<
+.	.	16b	.	.
+.	.	16aJ	.	.
+.	.	8g#yL	.	.
+4E 4B	.	.	4e	]
+.	.	8a	.	.
+.	.	8.b	.	.
+[4E^>	.	.	[4d^>	>
+.	.	16f#yJ	.	.
+.	.	16ryy	.	.
+=12	=12	=12	=12	=12
+4AA 4E]	p	8eL)	4d]	.
+!LO:TX:a:i:t=riten.	!	!	!	!
+.	.	16r	.	.
+.	.	16aJ	.	.
+4A	.	4cc#y	4c#y	.
+[4A	.	4cc#y	4e	.
+=13	=13	=13	=13	=13
+4D 4A]	.	8eeL	4fn	.
+.	.	16dd	.	.
+.	.	16cc#yJ	.	.
+4D 4A	.	4b	4f	.
+4AA [4A	.	4cc#y	4e^>	.
+=14	=14	=14	=14	=14
+4D 4A]	.	8eeL	4fn	.
+.	.	16dd	.	.
+.	.	16cc#yJ	.	.
+4D 4A	.	4b	4f	.
+4AA [4A	.	4cc#y	4e	.
+=15	=15	=15	=15	=15
+*^	*	*	*	*
+4A]	2D	.	8eeL	2f#y	.
+.	.	.	16dd	.	.
+.	.	.	16cc#yJ	.	.
+2G#y	.	.	4b	.	.
+.	4C#y 4c#y	.	4cc#y	4e#y^>	.
+=16	=16	=16	=16	=16	=16
+16dL	2F#y	.	16bL	2f#y	.
+16c#y	.	.	16a	.	.
+16BJ	.	.	16g#yJ	.	.
+4A	.	.	4f#y	.	.
+=17:|!	=17:|!	=17:|!	=17:|!	=17:|!	=17:|!
+4r	.	.	4cc#y	.	.
+*	*	*	*v	*v	*
+=18	=18	=18	=18	=18
+4CC#y'> 4C#y'>	4r	.	4cc#y'>` (>4ccc#y'>`	ff
+8G#yL	[2G#y	.	8cc#yL	<
+8c#y	.	.	8g#y	.
+8d#y	.	.	8b#y	[
+8f#yJ	.	.	8ddnJ	.
+=19	=19	=19	=19	=19
+8.e#yL	2G#y]	.	8.cc#y'>L	.
+16d#yJ	.	.	16b#y'>J	.
+4dn	.	.	4bn'>	.
+4r	4B'>	.	4b'>)	.
+=20	=20	=20	=20	=20
+4CC#y'> 4C#y'>	4r	.	4cc#y'> (>4ccc#y'>	ff
+8G#yL	2G#y	.	8cc#yL	.
+8c#y	.	.	8g#y	.
+8d#y	.	.	8b#y	.
+8f#yJ	.	.	8ddnJ	.
+=21	=21	=21	=21	=21
+*	*	*	*^	*
+8e#yL	2G#y	.	8cc#yL	4r	.
+8d#yJ	.	.	8b#yJ	.	.
+4dn	.	.	4.gg#y^>	2bn	.
+4r	4B	.	.	.	.
+.	.	.	8ff#y	.	.
+*	*	*	*v	*v	*
+=22	=22	=22	=22	=22
+4CC#y'> 4C#y'>	4r	.	4cc#y'> 4ee#y'>) 4ccc#y'>	.
+8G#yL	2G#y	.	8cc#yL	.
+8c#y	.	.	8g#y	.
+8d#y	.	.	8b#y	.
+8f#yJ	.	.	8ddnJ	.
+=23	=23	=23	=23	=23
+8.e#yL	2G#y	.	8.cc#y'>L	.
+16d#yJ	.	.	16b#y'>J	.
+4dn	.	.	4bn'>	.
+4r	4B'>	.	4b'>	.
+=24	=24	=24	=24	=24
+4CC#y 4C#y	4r	.	4cc#y'> 4ccc#y'>	.
+8G#yL	[2G#y	.	8cc#yL	.
+8c#y	.	.	8g#y	.
+8d#y	.	.	8b#y	.
+8f#yJ	.	.	8ddnJ	.
+=25	=25	=25	=25	=25
+!	!	!	!LO:TX:i:t=rallent.	!
+(>16.e#y	2G#y]	.	16.cc#y'>	.
+16.d#y	.	.	16.b#y'>	.
+16.dn	.	.	16.bn'>	.
+16.c#y	.	.	16.a'>	]
+16.B	.	.	16.g#y'>	.
+.	4r	.	.	>
+=26	=26	=26	=26	=26
+!!Error: measure 27, staff 1 is underfilled: adding token 16ryy at end of measure to complete its duration.
+!	!	!	!LO:TX:a:i:t=Tempo I.	!
+4A	.	f	16f#yL	.
+.	.	.	16g#y	.
+.	.	.	16f#yJ	.
+.	.	.	8e#yL	.
+4G#y)	.	.	.	.
+*v	*v	*	*	*
+.	.	8f#y	.
+.	.	8.g#y^>	.
+4C#y 4E#y 4B	.	.	.
+.	.	16dJ	.
+.	.	16ryy	.
+=27	=27	=27	=27
+*	*	*^	*
+4FF#y	.	8c#yL	4r	.
+.	.	16r	.	.
+.	.	16f#yJ	.	.
+4F#y 4c#y	.	4a	4r	.
+4F#y 4c#y	.	[4a	[4f#y'>^>	.
+=28	=28	=28	=28	=28
+!!Error: measure 29, staff 1 is underfilled: adding token 16ryy at end of measure to complete its duration.
+4EE	.	16aL]	4f#y]	.
+.	.	16b	.	.
+.	.	16aJ	.	.
+.	.	8g#yL	.	.
+4E 4B	.	.	4e	.
+.	.	8a	.	.
+.	.	8.b	.	.
+[4E	.	.	[4d^>	.
+.	.	16f#yJ	.	.
+.	.	16ryy	.	.
+=29	=29	=29	=29	=29
+4AA 4E]	.	8eL	4d]	.
+.	.	16r	.	.
+.	.	16aJ	.	.
+4A	.	4cc#y	4c#y	.
+4A 4e	.	4r	[4cc#y^>	.
+*	*	*v	*v	*
+=30	=30	=30	=30
+!!Error: measure 31, staff 1 is underfilled: adding token 16ryy at end of measure to complete its duration.
+!LO:TX:i:t=legato.	!	!	!
+*^	*	*	*
+2d#y 2f#y	4A	.	16cc#yL]	.
+.	.	.	16dd#y	.
+.	.	.	16cc#yJ	.
+.	.	.	8b#yL	.
+!	!	!	!LO:TX:i:t=dim.	!
+.	2G#y	.	.	.
+.	.	.	16r	.
+.	.	.	16g#yJ	.
+.	.	.	[4bn^>	.
+4c#y 4e#y	.	.	.	.
+.	.	.	16ryy	.
+=31	=31	=31	=31	=31
+!!Error: measure 32, staff 1 is underfilled: adding token 16ryy at end of measure to complete its duration.
+2c#y 2en	4Gn	.	16bL]	.
+.	.	.	16cc#y	.
+.	.	.	16bJ	.
+.	.	.	8a#yL	.
+.	2F#y	.	.	.
+.	.	.	16r	.
+.	.	.	16f#yJ	.
+.	.	.	[4an^>	.
+4cn 4d#y	.	.	.	.
+.	.	.	16ryy	.
+=32	=32	=32	=32	=32
+!!Error: measure 33, staff 1 is underfilled: adding token 16ryy at end of measure to complete its duration.
+2B 2dn	4Fn	.	16aL]	.
+.	.	.	16b	.
+.	.	.	16aJ	.
+.	.	.	8g#yL	.
+.	2E	.	.	.
+.	.	.	16r	.
+.	.	.	16eJ	.
+.	.	.	[4g#y	.
+4B-y 4c#y	.	.	.	.
+.	.	.	16ryy	.
+=33	=33	=33	=33	=33
+!!Error: measure 34, staff 1 is underfilled: adding token 16ryy at end of measure to complete its duration.
+2A 2cn	4E-y	.	16g#yL]	.
+.	.	.	16a	.
+.	.	.	16gnJ	.
+.	.	.	8f#yL	.
+.	2D	.	.	.
+.	.	.	8dJ	.
+.	.	.	[4f#y	.
+4G#y 4Bn	.	.	.	.
+.	.	.	16ryy	.
+*v	*v	*	*	*
+=34	=34	=34	=34
+!!Error: measure 35, staff 1 is underfilled: adding token 16ryy at end of measure to complete its duration.
+4CC#y 4C#y	.	16f#yL]	.
+.	.	16g#y	.
+.	.	16f#yJ	.
+.	.	8e#yL	.
+4C#y 4G#y 4B	.	.	.
+.	.	8f#y	.
+.	.	8.g#y	.
+4C#y 4E#y 4B	.	.	.
+.	.	16dJ	.
+.	.	16ryy	.
+=35	=35	=35	=35
+*	*	*^	*
+4FF#y	.	8c#yL	4r	.
+.	.	16r	.	.
+.	.	16f#yJ	.	.
+4F#y 4c#y	.	4a	4r	.
+4F#y 4c#y	.	[4a^>	[4f#y	.
+=36	=36	=36	=36	=36
+!!Error: measure 37, staff 1 is underfilled: adding token 16ryy at end of measure to complete its duration.
+4EE	.	16aL]	4f#y]	.
+.	.	16b	.	.
+.	.	16aJ	.	.
+.	.	8g#yL	.	.
+4E 4B	.	.	4e	.
+.	.	8a	.	.
+.	.	8.b	.	.
+[4E^>	.	.	[4d	.
+.	.	16f#yJ	.	.
+.	.	16ryy	.	.
+=37	=37	=37	=37	=37
+4AA 4E]	.	8eL	4d]	.
+.	.	16r	.	.
+.	.	16aJ	.	.
+4A	.	4cc#y'>	4c#y	.
+[4A	.	4cc#y	4e	.
+=38	=38	=38	=38	=38
+4D 4A]	.	8eeL	4fn	.
+.	.	16dd	.	.
+.	.	16cc#yJ	.	.
+4D 4A	.	4b	4f	.
+4AA [4A	.	4cc#y	4e	.
+=39	=39	=39	=39	=39
+4D 4A]	.	8eeL	4fn	.
+.	.	16dd	.	.
+.	.	16cc#yJ	.	.
+4D 4A	.	4b	4f	.
+4AA [4A	.	4cc#y	4e^>	.
+=40	=40	=40	=40	=40
+*^	*	*	*	*
+4A]	2D	.	8eeL	2f#y	.
+.	.	.	16dd	.	.
+.	.	.	16cc#yJ	.	.
+2G#y	.	.	4b	.	.
+.	4C#y 4c#y	.	4cc#y	4e#y	.
+=41	=41	=41	=41	=41	=41
+16dL	2F#y	.	16bL	2f#y	.
+16c#y	.	.	16a	.	.
+16BJ	.	.	16g#yJ	.	.
+4A	.	.	4f#y	.	.
+=42:|!	=42:|!	=42:|!	=42:|!	=42:|!	=42:|!
+.	.	.	8qx	.	.
+4r	.	.	4ff#y 4ccc#y	.	.
+*	*	*	*v	*v	*
+=43	=43	=43	=43	=43
+8FF#y'>L	4r	.	8ff#y 8ddd	.
+8F#y'>J	.	.	8ff#y 8ccc#y	.
+*clefG2	*	*	*	*
+4r	2d [2f#y	.	4ff#y 4bb	.
+4b^>	.	.	4ff#y 4ddd	.
+=44	=44	=44	=44	=44
+2f#y]	8c#y 8a	.	8ff#y 8ccc#y	.
+.	8B 8g#y	.	8ff#y 8ddd	.
+.	4c#y 4a	.	4ff#y 4ccc#y	.
+*clefF4	*	*	*	*
+4F#y^>	4r	.	4ff#y^> 4fff#y^>	.
+=45	=45	=45	=45	=45
+8FF#y'>L	4r	.	8ff#y 8ddd	.
+8F#y'>J	.	.	8ff#y 8ccc#y	.
+*clefG2	*	*	*	*
+4r	2d [2f#y	.	4ff#y 4bb	.
+4b^>	.	.	4ff#y 4ddd	.
+=46	=46	=46	=46	=46
+8c#y 8a	2f#y]	.	8cccc#y'>	.
+8B 8g#y	.	.	8r	.
+4c#y 4a	.	.	2cc#y^>	.
+*clefF4	*	*	*	*
+4C#y^>	4r	.	.	.
+=47	=47	=47	=47	=47
+8CC#y'>L	4r	.	8cc#y 8gg#y	.
+8C#y'>J	.	.	8cc#y 8bb	.
+*clefG2	*	*	*	*
+4r	2B [2c#y	.	4cc#y 4aa	.
+4g#y	.	.	4cc#y^> 4gg#y^>	.
+=48	=48	=48	=48	=48
+2c#y]	8A 8f#y	.	8cc#y 8ff#y	.
+.	8G#y 8e#y	.	8cc#y 8gg#y	.
+.	4A 4f#y	.	4cc#y 4ff#y	.
+*clefF4	*	*	*	*
+4C#y^>	4r	.	4cc#y^> 4ccc#y^>	.
+=49	=49	=49	=49	=49
+8CC#y'>L	4r	.	8cc#y 8gg#y	.
+8C#y'>J	.	.	8cc#y 8bb	.
+*clefG2	*	*	*	*
+4r	2B [2c#y	.	4cc#y 4aa	.
+4g#y^>	.	.	4cc#y 4gg#y	.
+=50	=50	=50	=50	=50
+8A 8f#y	2c#y]	.	8fff#y	.
+8G#y 8e#y	.	.	8r	.
+*	*	*	*clefF4	*
+4A 4f#y	.	.	4FF#y^>	.
+*clefF4	*	*	*	*
+4FF#y^>	4r	.	4r	.
+*	*	*	*clefG2	*
+=51	=51	=51	=51	=51
+8FFF#y'>L	4r	.	8ff#y 8ddd	.
+8F#y'>J	.	.	8ff#y 8ccc#y	.
+*clefG2	*	*	*	*
+4r	2d [2f#y	.	4ff#y 4bb	.
+4b^>	.	.	4ff#y 4ddd	.
+=52	=52	=52	=52	=52
+2f#y]	4c#y 4a	.	8ff#y 8ccc#y	.
+.	.	.	8ff#y 8ddd	.
+.	4B 4g#y	.	4ff#y 4ccc#y	.
+*clefF4	*	*	*	*
+4F#y^>	4c#y 4a	.	4ff#y^> 4fff#y^>	.
+=53	=53	=53	=53	=53
+8FF#y'>L	4r	.	8ff#y 8ddd	.
+8F#y'>J	.	.	8ff#y 8ccc#y	.
+*clefG2	*	*	*	*
+4r	2d [2f#y	.	4ff#y 4bb	.
+4b^>	.	.	4ff#y 4ddd	.
+=54	=54	=54	=54	=54
+8c#y 8a	2f#y]	.	8ccc#y'>	.
+8B 8g#y	.	.	8r	.
+4c#y 4a	.	.	2cc#y^>	.
+*clefF4	*	*	*	*
+4C#y^>	4r	.	.	.
+=55	=55	=55	=55	=55
+8CC#y'>L	4r	.	8cc#y 8gg#y	.
+8C#y'>J	.	.	8cc#y 8bb	.
+*clefG2	*	*	*	*
+4r	2B [2c#y	.	4cc#y 4aa	.
+4g#y^>	.	.	4cc#y 4gg#y	.
+=56	=56	=56	=56	=56
+2c#y]	8A 8f#y	.	8cc#y 8ff#y	.
+.	8G#y 8e#y	.	8cc#y 8gg#y	.
+.	4A 4f#y	.	4cc#y 4ff#y	.
+*clefF4	*	*	*	*
+4C#y^>	4r	.	4cc#y^> 4ccc#y^>	.
+=57	=57	=57	=57	=57
+8CC#y'>L	4r	.	8cc#y 8gg#y	.
+8C#y'>J	.	.	8cc#y 8bb	.
+*clefG2	*	*	*	*
+4r	2c#y	.	4cc#y 4aa	.
+4g#y^>	.	.	4cc#y 4gg#y	.
+*v	*v	*	*	*
+=58	=58	=58	=58
+4G#y 4d#y 4f#y	.	8b 8gg#y	.
+.	.	8b 8gg#y	.
+4c#y 4e#y	.	4bn^> 4gg#y^>	.
+4r	.	4g#y 4cc#y	.
+*clefF4	*	*	*
+=59	=59	=59	=59
+!!Error: measure 60, staff 1 is underfilled: adding token 16ryy at end of measure to complete its duration.
+4CC#y	.	16f#yL	.
+.	.	16g#y	.
+.	.	16f#yJ	.
+.	.	8e#yL	.
+4C#y 4G#y 4B	.	.	.
+.	.	8f#y	.
+.	.	8.g#y	.
+4C#y 4E#y 4B	.	.	.
+.	.	16dJ	.
+.	.	16ryy	.
+=60	=60	=60	=60
+*	*	*^	*
+4FF#y	.	8c#yL	2r	.
+.	.	16r	.	.
+.	.	16f#yJ	.	.
+4F#y 4c#y	.	4a	.	.
+4F#y 4c#y	.	[4a^>	[4f#y	.
+=61	=61	=61	=61	=61
+!!Error: measure 62, staff 1 is underfilled: adding token 16ryy at end of measure to complete its duration.
+4EE	.	16aL]	4f#y]	.
+.	.	16b	.	.
+.	.	16aJ	.	.
+.	.	8g#yL	.	.
+4E 4B	.	.	4e	.
+.	.	8a	.	.
+.	.	8.b	.	.
+[4E	.	.	[4d^>	.
+.	.	16f#yJ	.	.
+.	.	16ryy	.	.
+=62	=62	=62	=62	=62
+4AA 4E]	.	8eL	4d]	.
+.	.	16r	.	.
+.	.	16aJ	.	.
+4A	.	4cc#y	4c#y	.
+4A 4e	.	4cc#y^>	[4cc#y^>	.
+*	*	*v	*v	*
+=63	=63	=63	=63
+*^	*	*	*
+!!Error: measure 64, staff 1 is underfilled: adding token 16ryy at end of measure to complete its duration.
+2d#y 2f#y	4A	.	16cc#yL]	.
+.	.	.	16dd#y	.
+.	.	.	16cc#yJ	.
+.	.	.	8b#yL	.
+.	2G#y	.	.	.
+.	.	.	16r	.
+.	.	.	16g#yJ	.
+.	.	.	[4bn^>	.
+4c#y 4e#y	.	.	.	.
+.	.	.	16ryy	.
+=64	=64	=64	=64	=64
+!!Error: measure 65, staff 1 is underfilled: adding token 16ryy at end of measure to complete its duration.
+2c#y 2en	4Gn	.	16bL]	.
+.	.	.	16cc#y	.
+.	.	.	16bJ	.
+.	.	.	8a#yL	.
+.	2F#y	.	.	.
+.	.	.	16r	.
+.	.	.	16f#yJ	.
+.	.	.	[4an^>	.
+4cn 4d#y	.	.	.	.
+.	.	.	16ryy	.
+=65	=65	=65	=65	=65
+!!Error: measure 66, staff 1 is underfilled: adding token 16ryy at end of measure to complete its duration.
+2B 2dn	4Fn	.	16aL]	.
+.	.	.	16b	.
+.	.	.	16aJ	.
+.	.	.	8g#yL	.
+.	2E	.	.	.
+.	.	.	16r	.
+.	.	.	16eJ	.
+.	.	.	[4gn^>	.
+4B-y 4c#y	.	.	.	.
+.	.	.	16ryy	.
+=66	=66	=66	=66	=66
+!!Error: measure 67, staff 1 is underfilled: adding token 16ryy at end of measure to complete its duration.
+2A 2cn	4E-y	.	16gnL]	.
+.	.	.	16a	.
+.	.	.	16gnJ	.
+.	.	.	8f#yL	.
+.	2D	.	.	.
+.	.	.	8dJ	.
+.	.	.	[4f#y	.
+4G#y 4Bn	.	.	.	.
+.	.	.	16ryy	.
+*v	*v	*	*	*
+=67	=67	=67	=67
+!!Error: measure 68, staff 1 is underfilled: adding token 16ryy at end of measure to complete its duration.
+4CC#y 4C#y	.	16f#yL]	.
+.	.	16g#y	.
+.	.	16f#yJ	.
+.	.	8e#yL	.
+4C#y 4G#y 4B	.	.	.
+.	.	8f#y	.
+.	.	8.g#y	.
+4C#y 4E#y 4B	.	.	.
+.	.	16dJ	.
+.	.	16ryy	.
+=68	=68	=68	=68
+*	*	*^	*
+4FF#y	.	8c#yL	2r	.
+.	.	16r	.	.
+.	.	16f#yJ	.	.
+4F#y 4c#y	.	4a	.	.
+4F#y 4c#y	.	[4a^>	[4f#y	.
+=69	=69	=69	=69	=69
+!!Error: measure 70, staff 1 is underfilled: adding token 16ryy at end of measure to complete its duration.
+4EE	.	16aL]	4f#y]	.
+.	.	16b	.	.
+.	.	16aJ	.	.
+.	.	8g#yL	.	.
+4E 4B	.	.	4e	.
+.	.	8a	.	.
+.	.	8.b	.	.
+[4E	.	.	4d^>	.
+.	.	16f#yJ	.	.
+.	.	16ryy	.	.
+=70	=70	=70	=70	=70
+4AA 4E]	.	8eL	4d	.
+.	.	16r	.	.
+.	.	16aJ	.	.
+4A	.	4cc#y'>	4c#y	.
+[4A	.	4cc#y	4e	.
+=71	=71	=71	=71	=71
+4D 4A]	.	8eeL	4fn	.
+.	.	16dd	.	.
+.	.	16cc#yJ	.	.
+4D 4A	.	4b	4f	.
+4AA [4A	.	4cc#y	4e	.
+=72	=72	=72	=72	=72
+4D 4A]	.	8eeL	4fn	.
+.	.	16dd	.	.
+.	.	16cc#yJ	.	.
+4D 4A	.	4b	4f	.
+4AA [4A	.	4cc#y	4e	.
+=73	=73	=73	=73	=73
+*^	*	*	*	*
+4A]	2D	.	8eeL	2f#y	.
+.	.	.	16dd	.	.
+.	.	.	16cc#yJ	.	.
+2G#y	.	.	4b	.	.
+.	4C#y 4c#y	.	4cc#y	4e#y	.
+=74	=74	=74	=74	=74	=74
+16dL	2.F#y;	.	16bL	2.f#y	.
+16c#y	.	.	16a	.	.
+16BJ	.	.	16g#yJ	.	.
+2A;	.	.	2f#y;	.	.
+*v	*v	*	*	*	*
+*	*	*v	*v	*
+==	==	==	==
+*-	*-	*-	*-
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below

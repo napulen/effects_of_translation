@@ -1,0 +1,1554 @@
+!!!COM: Johann Ernst Altenburg
+!!!OTL: Concerto à 7 Trompeten und Pauken aus "Versuch einer Anleitung zur           heroisch-musikalischen Trompeter - und Pauker - Kunst"
+!!!system-decoration: (s1[s2,s3,s4][s5,s6,s7]s8)
+**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**dynam
+*part8	*part8	*part8	*part8	*part8	*part8	*part8	*part8	*part8	*part7	*part7	*part7	*part7	*part7	*part7	*part7	*part7	*part7	*part6	*part6	*part6	*part6	*part6	*part6	*part6	*part6	*part6	*part5	*part5	*part5	*part5	*part5	*part5	*part5	*part5	*part5	*part4	*part4	*part4	*part4	*part4	*part4	*part4	*part4	*part4	*part3	*part3	*part3	*part3	*part3	*part3	*part3	*part3	*part3	*part2	*part2	*part2	*part2	*part2	*part2	*part2	*part2	*part2	*part1	*part1	*part1	*part1	*part1	*part1	*part1	*part1	*part1
+*staff64	*staff63	*staff62	*staff61	*staff60	*staff59	*staff58	*staff57	*	*staff56	*staff55	*staff54	*staff53	*staff52	*staff51	*staff50	*staff49	*	*staff48	*staff47	*staff46	*staff45	*staff44	*staff43	*staff42	*staff41	*	*staff40	*staff39	*staff38	*staff37	*staff36	*staff35	*staff34	*staff33	*	*staff32	*staff31	*staff30	*staff29	*staff28	*staff27	*staff26	*staff25	*	*staff24	*staff23	*staff22	*staff21	*staff20	*staff19	*staff18	*staff17	*	*staff16	*staff15	*staff14	*staff13	*staff12	*staff11	*staff10	*staff9	*	*staff8	*staff7	*staff6	*staff5	*staff4	*staff3	*staff2	*staff1	*
+*I'Timp.	*	*	*	*	*	*	*	*	*I'Pr.-2.Ch	*	*	*	*	*	*	*	*	*I'Cl 2-2.Ch	*	*	*	*	*	*	*	*	*I'Cl.1-2.Ch.	*	*	*	*	*	*	*	*	*I'Pr.-1Ch	*	*	*	*	*	*	*	*	*I'Cl 2-1.Ch	*	*	*	*	*	*	*	*	*I'Cl.1-1.Ch.	*	*	*	*	*	*	*	*	*I'Cl.-Solo	*	*	*	*	*	*	*	*
+*I"Timpani in C-G	*	*	*	*	*	*	*	*	*I"Prinzipal-2.Chor	*	*	*	*	*	*	*	*	*I"Clarino 2-2.Chor	*	*	*	*	*	*	*	*	*I"Clarino 1-2.Chor	*	*	*	*	*	*	*	*	*I"Prinzipal-Chor 1	*	*	*	*	*	*	*	*	*I"Clarino 2-1.Chor	*	*	*	*	*	*	*	*	*I"Clarino 1-1.Chor	*	*	*	*	*	*	*	*	*I"Clarinop_Solo	*	*	*	*	*	*	*	*
+*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*	*clefG2	*
+*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*	*M4/4	*
+!LO:TX:iB:t=Allegro	!	!LO:TX:iB:t=Allegro	!	!LO:TX:a:iB:t=Allegro	!	!	!	!LO:TX:iB:t=Allegro	!	!	!	!LO:TX:a:iB:t=Allegro	!	!LO:TX:iB:t=Allegro	!
+8CL	f	1r	.	1r	f	1r	f	8cL	f	8eL	.	8gL	.	1r	.
+16C	.	.	.	.	.	.	.	8e	.	8g	.	8cc	.	.	.
+16CJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8CL	.	.	.	.	.	.	.	8e	.	8g	.	8cc	.	.	.
+8CJ	.	.	.	.	.	.	.	8gJ	.	8ccJ	.	8eeJ	.	.	.
+8CL	.	.	.	.	.	.	.	8gL	.	8ccL	.	8eeL	.	.	.
+16C	.	.	.	.	.	.	.	8cc	.	8ee	.	8gg	.	.	.
+16CJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8CL	.	.	.	.	.	.	.	8cc	.	8ee	.	8gg	.	.	.
+!	!	!	!	!	!	!	!	!LO:TX:a:i:t=Concerto à 7 Trompeten und Pauken aus "Versuch einer Anleitung zur heroisch-musikalischen Trompeter - und Pauker - Kunst", Halle 1795	!	!	!	!	!	!	!
+8CJ	.	.	.	.	.	.	.	8ccJ	.	8eeJ	.	8cccJ	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:iB:t=Johann - Ernst Altenburg (1734 - 1801)	!
+.	.	.	.	.	.	.	.	.	.	(>16qff	.	.	.	.	.
+8CL	.	1r	.	1r	.	1r	.	8ccL	.	8eeL)	.	8cccL	.	1r	.
+!	!	!	!	!	!	!	!	!LO:TX:a:i:t=Concerto à 7 Trompeten und Pauken aus der Ausgabe "Versuch zur Anleitung der heroisch - musikalischen Trompeter - und Pauker - Kunst" (1795)	!	!	!	!	!	!	!
+16C	.	.	.	.	.	.	.	16cc	.	16dd	.	8gg	.	.	.
+16CJ	.	.	.	.	.	.	.	16ccJ	.	16eeJ	.	.	.	.	.
+8CL	.	.	.	.	.	.	.	8ccL	.	8ffL	.	8aa	.	.	.
+8CJ	.	.	.	.	.	.	.	8ccJ	.	8eeJ	.	8ggJ	.	.	.
+.	.	.	.	.	.	.	.	.	.	(>16qff	.	.	.	.	.
+8CL	.	.	.	.	.	.	.	8r	.	8eeL)	.	8cccL	.	.	.
+!	!	!	!	!	!	!	!	!LO:TX:a:iB:t=Johann Ernst Altenburg	!	!	!	!	!	!	!
+16C	.	.	.	.	.	.	.	16ccL	.	16dd	.	8gg	.	.	.
+16CJ	.	.	.	.	.	.	.	16ccJ	.	16eeJ	.	.	.	.	.
+8CL	.	.	.	.	.	.	.	8ccL	.	8ffL	.	8aa	.	.	.
+8CJ	.	.	.	.	.	.	.	8ccJ	.	8eeJ	.	8ggJ	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+.	.	.	.	.	.	.	.	.	.	(>16qff	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	(>8qaa	.	.	.
+4C	.	1r	.	1r	.	1r	.	4cc	.	8eeL)	.	8ggL)	.	1r	.
+.	.	.	.	.	.	.	.	.	.	16dd	.	16ff	.	.	.
+.	.	.	.	.	.	.	.	.	.	16ccJ	.	16eeJ	.	.	.
+8r	.	.	.	.	.	.	.	8r	.	8ddL	.	8ffL	.	.	.
+8C	.	.	.	.	.	.	.	8cc	.	8ccJ	.	8eeJ	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	(>8qee	.	.	.
+8GGL	.	.	.	.	.	.	.	8g	.	4g	.	4dd)	.	.	.
+16GG	.	.	.	.	.	.	.	16gL	.	.	.	.	.	.	.
+16GGJ	.	.	.	.	.	.	.	16gJ	.	.	.	.	.	.	.
+8GG	.	.	.	.	.	.	.	4g	.	8r	.	8r	.	.	.
+8r	.	.	.	.	.	.	.	.	.	8gg	.	8gg	.	.	.
+!!LO:LB
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+4GG	.	1r	.	1r	.	1r	.	8gL	.	8ggL	.	8ggL	.	1r	.
+.	.	.	.	.	.	.	.	16g	.	16ee	.	16ee	.	.	.
+.	.	.	.	.	.	.	.	16gJ	.	16ffJ	.	16ffJ	.	.	.
+4GG	.	.	.	.	.	.	.	8gL	.	8ggL	.	8ggL	.	.	.
+.	.	.	.	.	.	.	.	8gJ	.	8eeJ	.	8eeJ	.	.	.
+4GG	.	.	.	.	.	.	.	8gL	.	8ggL	.	8ggL	.	.	.
+.	.	.	.	.	.	.	.	8g	.	8dd	.	8dd	.	.	.
+4GG	.	.	.	.	.	.	.	8g	.	8gg	.	8gg	.	.	.
+.	.	.	.	.	.	.	.	8gJ	.	8ccJ	.	8ccJ	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+4GG	.	1r	.	1r	.	1r	.	8gL	.	8ggL	.	8ggL	.	1r	.
+.	.	.	.	.	.	.	.	16g	.	8ff	.	8ff	.	.	.
+.	.	.	.	.	.	.	.	16gJ	.	.	.	.	.	.	.
+4GG	.	.	.	.	.	.	.	8gL	.	8gg	.	8gg	.	.	.
+.	.	.	.	.	.	.	.	8gJ	.	8eeJ	.	8eeJ	.	.	.
+4GG	.	.	.	.	.	.	.	8gL	.	8ggL	.	8ggL	.	.	.
+.	.	.	.	.	.	.	.	8g	.	8dd	.	8dd	.	.	.
+4GG	.	.	.	.	.	.	.	8g	.	8gg	.	8gg	.	.	.
+.	.	.	.	.	.	.	.	8gJ	.	8ccJ	.	8ccJ	.	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+.	.	.	.	.	.	.	.	.	.	(>16qff	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	(>16qff	.	.	.
+4C	.	1r	.	1r	.	1r	.	8eL	.	8eeL)	.	8eeL)	.	1r	.
+.	.	.	.	.	.	.	.	8cJ	.	16dd	.	16dd	.	.	.
+.	.	.	.	.	.	.	.	.	.	16ccJ	.	16ccJ	.	.	.
+4GG	.	.	.	.	.	.	.	8gL	.	8ggL	.	8ggL	.	.	.
+.	.	.	.	.	.	.	.	8GJ	.	8gJ	.	8gJ	.	.	.
+8CL	.	.	.	.	.	.	.	8cL	.	8ccL	.	8ccL	.	.	.
+16C	.	.	.	.	.	.	.	16c	.	16cc	.	16cc	.	.	.
+16CJ	.	.	.	.	.	.	.	16cJ	.	16ccJ	.	16ccJ	.	.	.
+4C	.	.	.	.	.	.	.	4c	.	4cc	.	4cc	.	.	.
+!!LO:LB
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+8CL	.	8cL	.	8eL	.	8gL	.	1r	.	1r	.	1r	.	1r	.
+16C	.	8e	.	8g	.	8cc	.	.	.	.	.	.	.	.	.
+16CJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8CL	.	8e	.	8g	.	8cc	.	.	.	.	.	.	.	.	.
+8CJ	.	8gJ	.	8ccJ	.	8eeJ	.	.	.	.	.	.	.	.	.
+8CL	.	8gL	.	8ccL	.	8eeL	.	.	.	.	.	.	.	.	.
+16C	.	8cc	.	8ee	.	8gg	.	.	.	.	.	.	.	.	.
+16CJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8CL	.	8cc	.	8ee	.	8gg	.	.	.	.	.	.	.	.	.
+8CJ	.	8ccJ	.	8eeJ	.	8cccJ	.	.	.	.	.	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+.	.	.	.	(>16qff	.	.	.	.	.	.	.	.	.	.	.
+8CL	.	8ccL	.	8eeL)	.	8cccL	.	1r	.	1r	.	1r	.	1r	.
+16C	.	16cc	.	16dd	.	8gg	.	.	.	.	.	.	.	.	.
+16CJ	.	16cc	.	16ccJ	.	.	.	.	.	.	.	.	.	.	.
+8CL	.	8cc	.	8ffL	.	8aa	.	.	.	.	.	.	.	.	.
+8CJ	.	8ccJ	.	8eeJ	.	8ggJ	.	.	.	.	.	.	.	.	.
+.	.	.	.	(>8qff	.	.	.	.	.	.	.	.	.	.	.
+8CL	.	8r	.	8eeL)	.	8cccL	.	.	.	.	.	.	.	.	.
+16C	.	16ccL	.	16dd	.	8gg	.	.	.	.	.	.	.	.	.
+16CJ	.	16cc	.	16ccJ	.	.	.	.	.	.	.	.	.	.	.
+8CL	.	8cc	.	8ffL	.	8aa	.	.	.	.	.	.	.	.	.
+8CJ	.	8ccJ	.	8eeJ	.	8ggJ	.	.	.	.	.	.	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+.	.	.	.	(>16qff	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	(>16qaa	.	.	.	.	.	.	.	.	.
+4C	.	4cc	.	8eeL)	.	8ggL)	.	1r	.	1r	.	1r	.	1r	.
+.	.	.	.	16dd	.	16ff	.	.	.	.	.	.	.	.	.
+.	.	.	.	16ccJ	.	16eeJ	.	.	.	.	.	.	.	.	.
+8r	.	8r	.	8ddL	.	8ffL	.	.	.	.	.	.	.	.	.
+8C	.	8cc	.	8ccJ	.	8eeJ	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	(>(>8qee	.	.	.	.	.	.	.	.	.
+8GGL	.	8gL	.	4g	.	4dd))	.	.	.	.	.	.	.	.	.
+16GG	.	16g	.	.	.	.	.	.	.	.	.	.	.	.	.
+16GGJ	.	16gJ	.	.	.	.	.	.	.	.	.	.	.	.	.
+8GG	.	4g	.	8r	.	8r	.	.	.	.	.	.	.	.	.
+8r	.	.	.	8gg	.	8gg	.	.	.	.	.	.	.	.	.
+!!LO:LB
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+4GG	.	8gL	.	8ggL	.	8ggL	.	1r	.	1r	.	1r	.	1r	.
+.	.	16g	.	16ee	.	16ee	.	.	.	.	.	.	.	.	.
+.	.	16gJ	.	16ffJ	.	16ffJ	.	.	.	.	.	.	.	.	.
+4GG	.	8gL	.	8ggL	.	8ggL	.	.	.	.	.	.	.	.	.
+.	.	8gJ	.	8eeJ	.	8eeJ	.	.	.	.	.	.	.	.	.
+4GG	.	8gL	.	8ggL	.	8ggL	.	.	.	.	.	.	.	.	.
+.	.	8g	.	8dd	.	8dd	.	.	.	.	.	.	.	.	.
+4GG	.	8g	.	8gg	.	8gg	.	.	.	.	.	.	.	.	.
+.	.	8gJ	.	8ccJ	.	8ccJ	.	.	.	.	.	.	.	.	.
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+4GG	.	8gL	.	8ggL	.	8ggL	.	1r	.	1r	.	1r	.	1r	.
+.	.	16g	.	8ff	.	8ff	.	.	.	.	.	.	.	.	.
+.	.	16gJ	.	.	.	.	.	.	.	.	.	.	.	.	.
+4GG	.	8gL	.	8gg	.	8gg	.	.	.	.	.	.	.	.	.
+.	.	8gJ	.	8eeJ	.	8eeJ	.	.	.	.	.	.	.	.	.
+4GG	.	8gL	.	8ggL	.	8ggL	.	.	.	.	.	.	.	.	.
+.	.	8g	.	8dd	.	8dd	.	.	.	.	.	.	.	.	.
+4GG	.	8g	.	8gg	.	8gg	.	.	.	.	.	.	.	.	.
+.	.	8gJ	.	8ccJ	.	8ccJ	.	.	.	.	.	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+.	.	.	.	(>16qff	.	.	.	.	.	.	.	.	.	.	f
+.	.	.	.	.	.	(>16qff	.	.	.	.	.	.	.	.	.
+8CL	.	8eL	.	8eeL)	.	8eeL)	.	1r	.	1r	.	1r	.	2r	.
+16C	.	16c	.	16dd	.	16dd	.	.	.	.	.	.	.	.	.
+16CJ	.	16cJ	.	16ccJ	.	16ccJ	.	.	.	.	.	.	.	.	.
+8GGL	.	8gL	.	8ggL	.	8ggL	.	.	.	.	.	.	.	.	.
+8GGJ	.	8GJ	.	8gJ	.	8gJ	.	.	.	.	.	.	.	.	.
+4C	.	4c	.	4cc	.	4cc	.	.	.	.	.	.	.	4r	.
+4r	.	4r	.	4r	.	4r	.	.	.	.	.	.	.	8r	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:iB:t=Solo	!
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8g	.
+!!LO:LB
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+1r	.	1r	.	1r	.	1r	.	1r	mf	1r	.	2r	.	8ccL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8g	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8cc	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8gJ	.
+.	.	.	.	.	.	.	.	.	.	.	.	4r	.	8ccL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ee	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ddJ	.
+.	.	.	.	.	.	.	.	.	.	.	.	8r	.	8ccL	.
+.	.	.	.	.	.	.	.	.	.	.	.	8g	.	8ddJ	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+1r	.	1r	.	1r	mf	1r	.	2r	.	1r	.	8ccL	.	16eeL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ff	.
+.	.	.	.	.	.	.	.	.	.	.	.	8gJ	.	16dd	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ffJ	.
+.	.	.	.	.	.	.	.	.	.	.	.	8ccL	.	16eeL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ff	.
+.	.	.	.	.	.	.	.	.	.	.	.	8gJ	.	16dd	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ffJ	.
+.	.	.	.	.	.	.	.	4r	.	.	.	8ccL	.	8eeL	.
+.	.	.	.	.	.	.	.	.	.	.	.	16ee	.	16gg	.
+.	.	.	.	.	.	.	.	.	.	.	.	16ddJ	.	16ffJ	.
+.	.	.	.	.	.	.	.	8r	.	.	.	8ccL	.	8eeL	.
+.	.	.	.	.	.	.	.	16gL	.	.	.	8gJ	.	8ddJ	.
+.	.	.	.	.	.	.	.	16gJ	.	.	.	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+1r	.	1r	.	1r	.	1r	.	4g	.	1r	.	8ccL	.	16eeL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16gg	.
+.	.	.	.	.	.	.	.	.	.	.	.	8gJ	.	16dd	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ggJ	.
+.	.	.	.	.	.	.	.	8r	.	.	.	8eL	.	16ccL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16gg	.
+.	.	.	.	.	.	.	.	16gL	.	.	.	8gJ	.	16dd	.
+.	.	.	.	.	.	.	.	16gJ	.	.	.	.	.	16ggJ	.
+.	.	.	.	.	.	.	.	4g	.	.	.	8ccL	.	16eeL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16gg	.
+.	.	.	.	.	.	.	.	.	.	.	.	8gJ	.	16dd	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ggJ	.
+.	.	.	.	.	.	.	.	8r	.	.	.	8eL	.	16ccL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16gg	.
+.	.	.	.	.	.	.	.	16gL	.	.	.	8gJ	.	16dd	.
+.	.	.	.	.	.	.	.	16gJ	.	.	.	.	.	16ggJ	.
+!!LO:LB
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+1r	.	1r	.	1r	.	1r	.	4g	.	1r	.	4cc	.	8eeL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ff	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ggJ	.
+.	.	.	.	.	.	.	.	8r	.	.	.	8ddL	.	8ffL	.
+.	.	.	.	.	.	.	.	16gL	.	.	.	8ggJ	.	8eeJ	.
+.	.	.	.	.	.	.	.	16gJ	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	(>8qee	.
+.	.	.	.	.	.	.	.	4g	.	.	.	4bb	.	4dd)	.
+.	.	.	.	.	.	.	.	4r	.	.	.	4r	.	8r	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8gg	.
+=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17	=17
+1r	.	1r	.	1r	.	1r	mf	1r	.	8r	.	2r	.	(>4gg	.
+.	.	.	.	.	.	.	.	.	.	8ddL	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	8dd	.	.	.	8ff#L)	.
+.	.	.	.	.	.	.	.	.	.	8ddJ	.	.	.	8aaJ	.
+.	.	.	.	.	.	.	.	.	.	8ddL	.	4r	.	(>4aa	.
+.	.	.	.	.	.	.	.	.	.	8dd	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	8dd	.	8r	.	8ggL)	.
+.	.	.	.	.	.	.	.	.	.	8ddJ	.	8gg	.	8bbJ	.
+=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18	=18
+1r	.	1r	.	2r	.	2r	.	1r	.	8ddL	.	(>4gg	.	(>4bb	.
+.	.	.	.	.	.	.	.	.	.	8dd	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	8dd	.	8ff#L)	.	8aaL)	.
+.	.	.	.	.	.	.	.	.	.	8ddJ	.	8aaJ	.	8cccJ	.
+.	.	.	.	4r	.	4r	.	.	.	8ggL	.	16ggL	.	16bbL	.
+.	.	.	.	.	.	.	.	.	.	.	.	16aa	.	16ccc	.
+.	.	.	.	.	.	.	.	.	.	8gJ	.	8bbJ	.	8dddJ	.
+.	.	.	.	8r	.	8r	.	.	.	4r	.	4r	.	4r	.
+.	.	.	.	8gg	.	8gg	.	.	.	.	.	.	.	.	.
+!!LO:LB
+=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19	=19
+1r	.	1r	.	4.aa	.	(>4gg	.	1r	.	8r	.	1r	.	1r	.
+.	.	.	.	.	.	.	.	.	.	8ddL	.	.	.	.	.
+.	.	.	.	.	.	8ff#L)	.	.	.	8dd	.	.	.	.	.
+.	.	.	.	8ff#	.	8aaJ	.	.	.	8ddJ	.	.	.	.	.
+.	.	.	.	4.bb	.	(>4aa	.	.	.	8ddL	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	8dd	.	.	.	.	.
+.	.	.	.	.	.	8ggL)	.	.	.	8dd	.	.	.	.	.
+.	.	.	.	8gg	.	8bbJ	.	.	.	8ddJ	.	.	.	.	.
+=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20	=20
+1r	.	1r	.	4.ccc	.	(>4bb	.	1r	.	8ddL	.	1r	.	1r	.
+.	.	.	.	.	.	.	.	.	.	8dd	.	.	.	.	.
+.	.	.	.	.	.	8aaL)	.	.	.	8dd	.	.	.	.	.
+.	.	.	.	8aa	.	8cccJ	.	.	.	8ddJ	.	.	.	.	.
+.	.	.	.	16ggL	.	16bbL	.	.	.	8ggL	.	.	.	.	.
+.	.	.	.	16aa	.	16aa	.	.	.	.	.	.	.	.	.
+.	.	.	.	8bb	.	8gg	.	.	.	8g	.	.	.	.	.
+.	.	.	.	8r	.	8r	.	.	.	8r	.	.	.	.	.
+.	.	.	.	8dd'J	.	8dd'J	.	.	.	8g'J	.	.	.	.	.
+=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21	=21
+1r	.	1r	.	8ee'L	.	8ee'L	.	1r	.	8cc'L	.	1r	.	1r	.
+.	.	.	.	8ff#'	.	8ff#'	.	.	.	8dd'	.	.	.	.	.
+.	.	.	.	8gg'	.	8gg'	.	.	.	8ee'	.	.	.	.	.
+.	.	.	.	8aa'J	.	8aa'J	.	.	.	8ff#'J	.	.	.	.	.
+.	.	.	.	(>16bbL	.	(>16bbL	.	.	.	(>16ggL	.	.	.	.	.
+.	.	.	.	16ccc	.	16ccc	.	.	.	16aa	.	.	.	.	.
+.	.	.	.	8ddd)	.	8ddd)	.	.	.	8bbJ)	.	.	.	.	.
+.	.	.	.	8r	.	8r	.	.	.	4gg	.	.	.	.	.
+.	.	.	.	8ddJ	.	8ddJ	.	.	.	.	.	.	.	.	.
+!!LO:LB
+=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22	=22
+1r	.	1r	.	4cc	.	8eeL	.	1r	.	4cc	.	1r	.	1r	.
+.	.	.	.	.	.	8cccJ	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	(>16qbb	.	.	.	.	.	.	.	.	.
+.	.	.	.	4dd	.	8aa)	.	.	.	4dd	.	.	.	.	.
+.	.	.	.	.	.	(>16qgg	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	8ff#)	.	.	.	.	.	.	.	.	.
+.	.	.	.	8gL	.	2gg	.	.	.	8gL	.	.	.	.	.
+.	.	.	.	16dd	.	.	.	.	.	16g	.	.	.	.	.
+.	.	.	.	16ddJ	.	.	.	.	.	16gJ	.	.	.	.	.
+.	.	.	.	4dd	.	.	.	.	.	4g	.	.	.	.	.
+=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
+8GGL	.	8gL	.	1r	.	1r	.	8gL	f	8gL	f	8ddL	f	1r	.
+16GG	.	16g	.	.	.	.	.	16g	.	8dd	.	8gg	.	.	.
+16GGJ	.	16gJ	.	.	.	.	.	16gJ	.	.	.	.	.	.	.
+8GGL	.	8gL	.	.	.	.	.	8gL	.	8dd	.	8gg	.	.	.
+8GGJ	.	8gJ	.	.	.	.	.	8gJ	.	8ggJ	.	8bbJ	.	.	.
+8GGL	.	8gL	.	.	.	.	.	8gL	.	8ggL	.	8bbL	.	.	.
+16GG	.	16g	.	.	.	.	.	16g	.	8bbJ	.	8dddJ	.	.	.
+16GGJ	.	16gJ	.	.	.	.	.	16gJ	.	.	.	.	.	.	.
+8GGL	.	8gL	.	.	.	.	.	8gL	.	4bb	.	4ddd	.	.	.
+8GGJ	.	8gJ	.	.	.	.	.	8gJ	.	.	.	.	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
+8GGL	.	8gL	.	1r	.	1r	.	4g	.	8bb'L	.	8ddd'L	.	1r	.
+16GG	.	16g	.	.	.	.	.	.	.	(>8bb	.	(>8gg	.	.	.
+16GGJ	.	16gJ	.	.	.	.	.	.	.	.	.	.	.	.	.
+8GGL	.	8gL	.	.	.	.	.	4r	.	8ccc	.	8aa	.	.	.
+8r	.	8gJ	.	.	.	.	.	.	.	8bbJ)	.	8ggJ)	.	.	.
+8GG	.	8gL	.	.	.	.	.	4g	.	8bb'L	.	8ddd'L	.	.	.
+16GG	.	16g	.	.	.	.	.	.	.	(>8bb	.	(>8gg	.	.	.
+16GGJ	.	16gJ	.	.	.	.	.	.	.	.	.	.	.	.	.
+8GG	.	8gL	.	.	.	.	.	4r	.	8ccc	.	8aa	.	.	.
+8r	.	8gJ	.	.	.	.	.	.	.	8bbJ)	.	8ggJ)	.	.	.
+!!LO:LB
+=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
+.	.	.	.	.	.	.	.	.	.	.	.	(>16qaa	.	.	.
+4C	.	1r	.	1r	.	1r	.	4cc	.	8eeL	.	8ggL)	.	1r	.
+.	.	.	.	.	.	.	.	.	.	16dd	.	16ff	.	.	.
+.	.	.	.	.	.	.	.	.	.	16ccJ	.	16eeJ	.	.	.
+8r	.	.	.	.	.	.	.	8r	.	8ddL	.	8ffL	.	.	.
+8C	.	.	.	.	.	.	.	8cc	.	8ggJ	.	8eeJ	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	(>8qee	.	.	.
+8GGL	.	.	.	.	.	.	.	8gL	.	4bb	.	4dd)	.	.	.
+16GG	.	.	.	.	.	.	.	16g	.	.	.	.	.	.	.
+16GGJ	.	.	.	.	.	.	.	16gJ	.	.	.	.	.	.	.
+4GG	.	.	.	.	.	.	.	4g	.	4r	.	4r	.	.	.
+=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
+8CL	.	8cL	.	8eL	.	8gL	.	1r	.	1r	.	1r	.	1r	.
+16C	.	16c	.	8g	.	8cc	.	.	.	.	.	.	.	.	.
+16CJ	.	16cJ	.	.	.	.	.	.	.	.	.	.	.	.	.
+8CL	.	8cL	.	8g	.	8cc	.	.	.	.	.	.	.	.	.
+8CJ	.	8cJ	.	8ccJ	.	8eeJ	.	.	.	.	.	.	.	.	.
+8CL	.	8cL	.	8ccL	.	8eeL	.	.	.	.	.	.	.	.	.
+16C	.	16c	.	8ee	.	8gg	.	.	.	.	.	.	.	.	.
+16CJ	.	16cJ	.	.	.	.	.	.	.	.	.	.	.	.	.
+8CL	.	8cL	.	8ee	.	8gg	.	.	.	.	.	.	.	.	.
+8CJ	.	8cJ	.	8eeJ	.	8cccJ	.	.	.	.	.	.	.	.	.
+=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27
+8r	.	8r	.	8eeL	.	8cccL	.	1r	.	1r	.	1r	.	1r	.
+16CL	.	16cL	.	8ee	.	8gg	.	.	.	.	.	.	.	.	.
+16CJ	.	16cJ	.	.	.	.	.	.	.	.	.	.	.	.	.
+4C	.	4c	.	8ff	.	8aa	.	.	.	.	.	.	.	.	.
+.	.	.	.	8eeJ	.	8ggJ	.	.	.	.	.	.	.	.	.
+8r	.	8r	.	8eeL	.	8cccL	.	.	.	.	.	.	.	.	.
+16CL	.	16cL	.	8ee	.	8gg	.	.	.	.	.	.	.	.	.
+16CJ	.	16cJ	.	.	.	.	.	.	.	.	.	.	.	.	.
+4C	.	4c	.	8ff	.	8aa	.	.	.	.	.	.	.	.	.
+.	.	.	.	8eeJ	.	8ggJ	.	.	.	.	.	.	.	.	.
+!!LO:LB
+=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28
+.	.	.	.	(>16qff	.	.	.	.	.	.	.	.	.	.	f
+.	.	.	.	.	.	(>16qaa	.	.	.	.	.	.	.	.	.
+4C	.	4c	.	8eeL)	.	8ggL)	.	1r	.	1r	.	1r	.	2r	.
+.	.	.	.	16dd	.	16ff	.	.	.	.	.	.	.	.	.
+.	.	.	.	16ccJ	.	16eeJ	.	.	.	.	.	.	.	.	.
+8r	.	8r	.	8ddL	.	8ffL	.	.	.	.	.	.	.	.	.
+8C	.	8ee	.	8ccJ	.	8eeJ	.	.	.	.	.	.	.	.	.
+8GGL	.	8gL	.	4g	.	8eeL	.	.	.	.	.	.	.	4r	.
+16GG	.	16g	.	.	.	8ddJ	.	.	.	.	.	.	.	.	.
+16GGJ	.	16gJ	.	.	.	.	.	.	.	.	.	.	.	.	.
+8GGL	.	4g	.	4r	.	4r	.	.	.	.	.	.	.	8r	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:iB:t=Solo	!
+8GGJ	.	.	.	.	.	.	.	.	.	.	.	.	.	8g	.
+=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29	=29
+8CL	.	1r	.	1r	.	1r	.	8r	mf	1r	.	8r	mf	8ccL	.
+8GG	.	.	.	.	.	.	.	16cL	.	.	.	8cL	.	8g	.
+.	.	.	.	.	.	.	.	16cJ	.	.	.	.	.	.	.
+8C	.	.	.	.	.	.	.	8eL	.	.	.	8e	.	8cc	.
+8GGJ	.	.	.	.	.	.	.	8gJ	.	.	.	8gJ	.	8gJ	.
+4C	.	.	.	.	.	.	.	4cc	.	.	.	4cc	.	16ccL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16dd	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ee	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ffJ	.
+8r	.	.	.	.	.	.	.	4r	.	.	.	4r	.	8ggL	.
+8GG	.	.	.	.	.	.	.	.	.	.	.	.	.	8gJ	.
+=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30	=30
+8CL	.	1r	.	1r	.	1r	mf	8r	.	2r	.	8r	.	8ccL	.
+8GG	.	.	.	.	.	.	.	16cL	.	.	.	8cL	.	8g	.
+.	.	.	.	.	.	.	.	16cJ	.	.	.	.	.	.	.
+8C	.	.	.	.	.	.	.	8eL	.	.	.	8e	.	8cc	.
+8GGJ	.	.	.	.	.	.	.	8gJ	.	.	.	8gJ	.	8gJ	.
+4C	.	.	.	.	.	.	.	4cc	.	4r	.	4cc	.	16ccL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16dd	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ee	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ffJ	.
+4r	.	.	.	.	.	.	.	8r	.	8r	.	8r	.	8ggL	.
+.	.	.	.	.	.	.	.	8cc	.	8cc	.	8ff	.	8aaJ	.
+!!LO:LB
+=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31	=31
+4C	.	1r	.	1r	.	1r	.	4cc	.	4cc	.	4ee	.	8ggL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8cccJ	.
+8r	.	.	.	.	.	.	.	8r	.	8r	.	8r	.	8ggL	.
+8GG	.	.	.	.	.	.	.	16gL	.	8g	.	8dd	.	8ffJ	.
+.	.	.	.	.	.	.	.	16gJ	.	.	.	.	.	.	.
+4C	.	.	.	.	.	.	.	4c	.	4cc	.	16ccL	.	16eeL	.
+.	.	.	.	.	.	.	.	.	.	.	.	16ddJ	.	16ffJ	.
+.	.	.	.	.	.	.	.	.	.	.	.	4ee	.	4gg	.
+4C	.	.	.	.	.	.	.	4c	.	4cc	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	8ff	.	8aa	.
+=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32	=32
+4C	.	1r	.	1r	.	1r	.	4c	.	4cc	.	4.ee	.	8ggL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8cccJ	.
+8r	.	.	.	.	.	.	.	8r	.	8r	.	.	.	8ggL	.
+8GG	.	.	.	.	.	.	.	16GL	.	8g	.	8dd	.	8ffJ	.
+.	.	.	.	.	.	.	.	16GJ	.	.	.	.	.	.	.
+4C	.	.	.	.	.	.	.	4c	.	4cc	.	4cc	.	16eeL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16dd	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ccJ	.
+4r	.	.	.	.	.	.	.	4r	.	8r	.	8r	.	4r	.
+.	.	.	.	.	.	.	.	.	.	8ee	.	8gg	.	.	.
+=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33	=33
+2C	.	1r	.	1r	.	1r	.	1r	.	(>4ee	.	(>4gg	.	1r	.
+.	.	.	.	.	.	.	.	.	.	8ddL)	.	8ffL)	.	.	.
+.	.	.	.	.	.	.	.	.	.	8ccJ	.	8eeJ	.	.	.
+2GG	.	.	.	.	.	.	.	.	.	(>4cc	.	(>4ee	.	.	.
+.	.	.	.	.	.	.	.	.	.	8gL)	.	8ddL)	.	.	.
+.	.	.	.	.	.	.	.	.	.	8ddJ	.	8bbJ	.	.	.
+!!LO:LB
+=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34	=34
+2GG	.	1r	.	2r	.	2r	.	1r	.	(>4dd	.	(>4bb	.	1r	.
+.	.	.	.	.	.	.	.	.	.	8eeL)	.	8cccL)	.	.	.
+.	.	.	.	.	.	.	.	.	.	8ccJ	.	8eeJ	.	.	.
+2GG	.	.	.	4r	.	4r	.	.	.	4cc	.	4ee	.	.	.
+.	.	.	.	8r	.	8r	.	.	.	8g	.	8dd	.	.	.
+.	.	.	.	8ee	.	8gg	.	.	.	8r	.	8r	.	.	.
+=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35	=35
+2C	.	1r	.	4ee	.	(>4gg	.	1r	.	1r	.	1r	.	1r	.
+.	.	.	.	8ddL	.	8ffL)	.	.	.	.	.	.	.	.	.
+.	.	.	.	8ccJ	.	8eeJ	.	.	.	.	.	.	.	.	.
+2GG	.	.	.	4cc	.	(>4ee	.	.	.	.	.	.	.	.	.
+.	.	.	.	8gL	.	8ddL)	.	.	.	.	.	.	.	.	.
+.	.	.	.	8ddJ	.	8bbJ	.	.	.	.	.	.	.	.	.
+=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36	=36
+2GG	.	1r	.	4dd	.	(>4bb	.	1r	.	1r	.	1r	.	1r	.
+.	.	.	.	8eeL	.	8cccL)	.	.	.	.	.	.	.	.	.
+.	.	.	.	8ccJ	.	8eeJ	.	.	.	.	.	.	.	.	.
+2GG	.	.	.	4cc	.	4ee	.	.	.	.	.	.	.	.	.
+.	.	.	.	8g	.	8dd	.	.	.	.	.	.	.	.	.
+.	.	.	.	8r	.	8r	.	.	.	.	.	.	.	.	.
+!!LO:LB
+=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37	=37
+!LO:TX:a:iB:t=Adagio	!	!	!	!	!	!	!	!LO:TX:a:iB:t=Adagio	!	!LO:TX:a:iB:t=Adagio	!	!LO:TX:a:iB:t=Adagio	!	!LO:TX:a:iB:t=Adagio	!
+4C	.	1r	.	1r	f	1r	f	4cc	f	4ee	.	4gg	.	4.ccc	f
+8r	.	.	.	.	.	.	.	8r	.	8ddL	.	8ffL	.	.	.
+8C	.	.	.	.	.	.	.	8cc	.	8ccJ	.	8eeJ	.	8ccc	.
+4GG	.	.	.	.	.	.	.	4g	.	8.gL	.	8.ddL	.	8.bbL	.
+.	.	.	.	.	.	.	.	.	.	16ddJ	.	32ee	.	32ccc	.
+.	.	.	.	.	.	.	.	.	.	.	.	32ffJ	.	32dddJ	.
+4C;	.	.	.	.	.	.	.	4G;	.	4cc;	.	4ee;	.	4ccc;	.
+=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38	=38
+!LO:TX:a:iB:t=Tempo primo	!	!	!	!	!	!	!	!LO:TX:a:iB:t=Tempo primo	!	!LO:TX:a:iB:t=Tempo primo	!	!LO:TX:a:iB:t=Tempo primo	!	!LO:TX:a:iB:t=Tempo primo	!
+8GGL	.	1r	.	1r	.	1r	.	4g	.	(>2dd	.	(>2ff	.	2bb	.
+8GG	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8GG	.	.	.	.	.	.	.	4g	.	.	.	.	.	.	.
+8GGJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8GGL	.	.	.	.	.	.	.	4g	.	2cc	.	2ee	.	[2ccc	.
+8GG	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8GG	.	.	.	.	.	.	.	4g	.	.	.	.	.	.	.
+8GGJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39	=39
+8GGL	.	1r	.	1r	.	1r	.	4g	.	2aa	.	2ff#	.	2ccc]	.
+8GG	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8GG	.	.	.	.	.	.	.	4g	.	.	.	.	.	.	.
+8GGJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8GGL	.	.	.	.	.	.	.	4g	.	2gg)	.	2gg)	.	2bb	.
+8GG	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8GG	.	.	.	.	.	.	.	4g	.	.	.	.	.	.	.
+8GGJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!!LO:LB
+=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40	=40
+8GGL	.	1r	.	1r	.	1r	.	4g	.	(>2dd	.	(>2ff	.	2bb	.
+8GG	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8GG	.	.	.	.	.	.	.	4g	.	.	.	.	.	.	.
+8GGJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8GGL	.	.	.	.	.	.	.	4g	.	2cc	.	2ee	.	[2ccc	.
+8GG	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8GG	.	.	.	.	.	.	.	4g	.	.	.	.	.	.	.
+8GGJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41	=41
+8GGL	.	1r	.	1r	.	1r	.	4g	.	2aa	.	2ff#	.	2ccc]	.
+8GG	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8GG	.	.	.	.	.	.	.	4g	.	.	.	.	.	.	.
+8GGJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8GGL	.	.	.	.	.	.	.	4g	.	2gg)	.	4gg	.	2bb	.
+8GG	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8GG	.	.	.	.	.	.	.	4g	.	.	.	4ffn)	.	.	.
+8GGJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42	=42
+8CL	.	1r	.	1r	.	1r	.	4c	.	2gg	.	4ee	.	(>2ccc	.
+8C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8C	.	.	.	.	.	.	.	4c	.	.	.	4ee	.	.	.
+8CJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8CL	.	.	.	.	.	.	.	4c	.	2r	.	4ff	.	2bb-)	.
+8C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8C	.	.	.	.	.	.	.	4c	.	.	.	4gg	.	.	.
+8CJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43	=43
+8CL	.	1r	.	1r	.	1r	.	4c	.	1r	.	4ff	.	4aa	.
+8C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8C	.	.	.	.	.	.	.	4c	.	.	.	8ffL	.	4gg	.
+8CJ	.	.	.	.	.	.	.	.	.	.	.	8eeJ	.	.	.
+8CL	.	.	.	.	.	.	.	4c	.	.	.	4ff	.	4aa	.
+8C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8C	.	.	.	.	.	.	.	4c	.	.	.	4dd	.	4bb	.
+8CJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!!LO:LB
+=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44	=44
+8CL	.	1r	.	1r	.	1r	.	4c	.	1r	.	4ee	.	2ccc	.
+8C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8C	.	.	.	.	.	.	.	4c	.	.	.	4ee	.	.	.
+8CJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8CL	.	.	.	.	.	.	.	4c	.	.	.	4ff	.	2bb-	.
+8C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8C	.	.	.	.	.	.	.	4c	.	.	.	4gg	.	.	.
+8CJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45	=45
+8CL	.	1r	.	1r	.	1r	.	4c	.	1r	.	4ff	.	4aa	.
+8C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8C	.	.	.	.	.	.	.	4c	.	.	.	4ee	.	4gg	.
+8CJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8CL	.	.	.	.	.	.	.	4c	.	.	.	4ff	.	4aa	.
+8C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8C	.	.	.	.	.	.	.	4c	.	.	.	4dd	.	4bb	.
+8CJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46	=46
+!LO:TX:a:iB:t=Tutti	!	!LO:TX:a:iB:t=Tutti	!	!LO:TX:a:iB:t=Tutti	!	!LO:TX:a:iB:t=Tutti	!	!LO:TX:a:iB:t=Tutti	!	!LO:TX:a:iB:t=Tutti	!	!LO:TX:a:iB:t=Tutti	!	!	!
+8CL	.	8cL	.	8eL	ff	8gL	ff	8cL	ff	8eL	.	8gL	.	4ccc	.
+16C	.	16e	.	8g	.	8cc	.	16e	.	8g	.	8cc	.	.	.
+16CJ	.	16eJ	.	.	.	.	.	16eJ	.	.	.	.	.	.	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:iB:t=Tutti	!
+8CL	.	8eL	.	8g	.	8cc	.	8eL	.	8g	.	8cc	.	4r	.
+8CJ	.	8gJ	.	8ccJ	.	8eeJ	.	8gJ	.	8ccJ	.	8eeJ	.	.	.
+8CL	.	8gL	.	8ccL	.	8eeL	.	8gL	.	8ccL	.	8eeL	.	2r	.
+16C	.	16cc	.	8ee	.	8gg	.	16cc	.	8ee	.	8gg	.	.	.
+16CJ	.	16ccJ	.	.	.	.	.	16ccJ	.	.	.	.	.	.	.
+8CL	.	8ccL	.	8ee	.	8gg	.	8ccL	.	8ee	.	8gg	.	.	.
+8CJ	.	8ccJ	.	8eeJ	.	8cccJ	.	8ccJ	.	8eeJ	.	8cccJ	.	.	.
+!!LO:LB
+=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47	=47
+8r	.	8ccL	.	8eeL	.	8cccL	.	8ccL	.	8eeL	.	8cccL	.	1r	.
+16CL	.	16cc	.	16dd	.	8gg	.	16cc	.	16dd	.	8gg	.	.	.
+16C	.	16ccJ	.	16eeJ	.	.	.	16ccJ	.	16eeJ	.	.	.	.	.
+8C	.	8ccL	.	8ffL	.	8aa	.	8ccL	.	8ffL	.	8aa	.	.	.
+8CJ	.	8ccJ	.	8eeJ	.	8ggJ	.	8ccJ	.	8eeJ	.	8ggJ	.	.	.
+8r	.	8r	.	8eeL	.	8cccL	.	8r	.	8eeL	.	8cccL	.	.	.
+16CL	.	16ccL	.	16dd	.	8gg	.	16ccL	.	16dd	.	8gg	.	.	.
+16C	.	16ccJ	.	16eeJ	.	.	.	16ccJ	.	16eeJ	.	.	.	.	.
+8C	.	8ccL	.	8ffL	.	8aa	.	8ccL	.	8ffL	.	8aa	.	.	.
+8CJ	.	8ccJ	.	8eeJ	.	8ggJ	.	8ccJ	.	8eeJ	.	8ggJ	.	.	.
+=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48	=48
+.	.	.	.	(>16qff	.	.	.	.	.	.	.	.	.	.	ff
+.	.	.	.	.	.	(>16qaa	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	(>16qff	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	(>16qaa	.	.	.
+4C	.	4cc	.	8eeL)	.	8ggL)	.	4cc	.	8eeL)	.	8ggL)	.	2r	.
+.	.	.	.	16dd	.	16ff	.	.	.	16dd	.	16ff	.	.	.
+.	.	.	.	16ccJ	.	16eeJ	.	.	.	16ccJ	.	16eeJ	.	.	.
+8r	.	8r	.	8ddL	.	8ffL	.	8r	.	8ddL	.	8ffL	.	.	.
+8C	.	8cc	.	8ggJ	.	8eeJ	.	8cc	.	8ggJ	.	8eeJ	.	.	.
+.	.	.	.	.	.	(>8qee	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	(>8qee	.	.	.
+8GGL	.	8gL	.	4bb	.	4dd)	.	8gL	.	4bb	.	4dd)	.	4r	.
+16GG	.	16g	.	.	.	.	.	16g	.	.	.	.	.	.	.
+16GG	.	16gJ	.	.	.	.	.	16gJ	.	.	.	.	.	.	.
+8GGJ	.	8gL	.	8r	.	8r	.	8gL	.	8r	.	8r	.	8r	.
+8r	.	8rJ	.	8gg	.	8gg	.	8rJ	.	8gg	.	8gg	.	8gg	.
+=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49	=49
+4GG	.	8g	.	8ggL	.	8ggL	.	8g	.	8ggL	.	8ggL	.	1gg	.
+.	.	16g	.	16ee	.	16ee	.	16g	.	16ee	.	16ee	.	.	.
+.	.	16g	.	16ffJ	.	16ffJ	.	16g	.	16ffJ	.	16ffJ	.	.	.
+4GG	.	8gL	.	8ggL	.	8ggL	.	8gL	.	8ggL	.	8ggL	.	.	.
+.	.	8gJ	.	8eeJ	.	8eeJ	.	8gJ	.	8eeJ	.	8eeJ	.	.	.
+4GG	.	8gL	.	8ggL	.	8ggL	.	8gL	.	8ggL	.	8ggL	.	.	.
+.	.	16g	.	8dd	.	8dd	.	16g	.	8dd	.	8dd	.	.	.
+.	.	16gJ	.	.	.	.	.	16gJ	.	.	.	.	.	.	.
+4GG	.	8gL	.	8gg	.	8gg	.	8gL	.	8gg	.	8gg	.	.	.
+.	.	8gJ	.	8ccJ	.	8ccJ	.	8gJ	.	8ccJ	.	8ccJ	.	.	.
+!!LO:LB
+=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50	=50
+4GG	.	8gL	.	8ggL	.	8ggL	.	8gL	.	8ggL	.	8ggL	.	1gg	.
+.	.	16g	.	8ff	.	8ff	.	16g	.	8ff	.	8ff	.	.	.
+.	.	16gJ	.	.	.	.	.	16gJ	.	.	.	.	.	.	.
+4GG	.	8gL	.	8gg	.	8gg	.	8gL	.	8gg	.	8gg	.	.	.
+.	.	8gJ	.	8eeJ	.	8eeJ	.	8gJ	.	8eeJ	.	8eeJ	.	.	.
+4GG	.	8gL	.	8ggL	.	8ggL	.	8gL	.	8ggL	.	8ggL	.	.	.
+.	.	16g	.	8dd	.	8dd	.	16g	.	8dd	.	8dd	.	.	.
+.	.	16gJ	.	.	.	.	.	16gJ	.	.	.	.	.	.	.
+4GG	.	8gL	.	8gg	.	8gg	.	8gL	.	8gg	.	8gg	.	.	.
+.	.	8gJ	.	8ccJ	.	8ccJ	.	8gJ	.	8ccJ	.	8ccJ	.	.	.
+=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51	=51
+.	.	.	.	(>16qff	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	(>16qff	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	(>16qff	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	(>16qff	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	(>16qff	.
+8CL	.	8eL	.	8eeL)	.	8eeL)	.	8eL	.	8eeL)	.	8eeL)	.	8eeL)	.
+16C	.	16c	.	16dd	.	16dd	.	16c	.	16dd	.	16dd	.	16dd	.
+16CJ	.	16cJ	.	16ccJ	.	16ccJ	.	16cJ	.	16ccJ	.	16ccJ	.	16ccJ	.
+8GGL	.	8gL	.	8ggL	.	8ggL	.	8gL	.	8ggL	.	8ggL	.	8ggL	.
+8GGJ	.	8GJ	.	8gJ	.	8gJ	.	8GJ	.	8gJ	.	8gJ	.	8ggJ	.
+8CL	.	8cL	.	8gL	.	8eeL	.	8cL	.	8gL	.	8eeL	.	8cccL	.
+16C	.	16c	.	16g	.	16ee	.	16c	.	16g	.	16ee	.	16ccc	.
+16CJ	.	16cJ	.	16gJ	.	16eeJ	.	16cJ	.	16gJ	.	16eeJ	.	16cccJ	.
+8CL	.	8cL	.	8gL	.	8eeL	.	8cL	.	8gL	.	8eeL	.	8cccL	.
+8CJ	.	8cJ	.	8gJ	.	8eeJ	.	8cJ	.	8gJ	.	8eeJ	.	8cccJ	.
+=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52	=52
+4C;	.	4c;	.	4g;	.	4ee;	.	4c;	.	4g;	.	4ee;	.	4ccc;	.
+4r	.	4r	.	4r	.	4r	.	4r	.	4r	.	4r	.	4r	.
+2r	.	2r	.	2r	.	2r	.	2r	.	2r	.	2r	.	2r	.
+==53	==53	==53	==53	==53	==53	==53	==53	==53	==53	==53	==53	==53	==53	==53	==53
+!!Warning: measure 53, staff 8 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 53, staff 4 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 53, staff 3 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 53, staff 2 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Error: measure 53 staff 7 is overfilled: 4 quarter notes instead of 2.
+!!Error: measure 53 staff 6 is overfilled: 4 quarter notes instead of 2.
+!!Error: measure 53 staff 5 is overfilled: 4 quarter notes instead of 2.
+!!Error: measure 53 staff 1 is overfilled: 4 quarter notes instead of 2.
+!LO:TX:a:iB:t=Andante	!	!	!	!	!	!	!	!LO:TX:a:iB:t=Andante	!	!LO:TX:a:iB:t=Andante	!	!	!	!LO:TX:a:iB:t=Andante	!
+8CL	.	1r	.	1r	mf	1r	mf	8.cL	mf	4cc	.	16r	.	1r	.
+.	.	.	.	.	.	.	.	.	.	.	.	16ggL	.	.	.
+16C	.	.	.	.	.	.	.	.	.	.	.	16ee	.	.	.
+16CJ	.	.	.	.	.	.	.	16eJ	.	.	.	16cc	.	.	.
+8GGL	.	.	.	.	.	.	.	8gL	.	8ddLT	.	16r	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	16gg	.	.	.
+16GG	.	.	.	.	.	.	.	8GJ	.	8gJ	.	16ff	.	.	.
+16GGJ	.	.	.	.	.	.	.	.	.	.	.	16ddJ	.	.	.
+2ryy	.	.	.	.	.	.	.	2ryy	.	2ryy	.	2ryy	.	.	.
+=54	=54	=54	=54	=54	=54	=54	=54	=54	=54	=54	=54	=54	=54	=54	=54
+!!Warning: measure 54, staff 8 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 54, staff 4 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 54, staff 3 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 54, staff 2 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Error: measure 54 staff 7 is overfilled: 4 quarter notes instead of 2.
+!!Error: measure 54 staff 6 is overfilled: 4 quarter notes instead of 2.
+!!Error: measure 54 staff 5 is overfilled: 4 quarter notes instead of 2.
+!!Error: measure 54 staff 1 is overfilled: 4 quarter notes instead of 2.
+.	.	.	.	.	.	.	.	.	.	.	.	(>8qdd	.	.	.
+8CL	.	1r	.	1r	.	1r	.	16r	.	4ee	.	4cc)	.	1r	.
+.	.	.	.	.	.	.	.	16ccL	.	.	.	.	.	.	.
+16C	.	.	.	.	.	.	.	16g	.	.	.	.	.	.	.
+16CJ	.	.	.	.	.	.	.	16eJ	.	.	.	.	.	.	.
+8CL	.	.	.	.	.	.	.	8cL	.	8r	.	8r	.	.	.
+8rJ	.	.	.	.	.	.	.	8rJ	.	8ff	.	8aa	.	.	.
+2ryy	.	.	.	.	.	.	.	2ryy	.	2ryy	.	2ryy	.	.	.
+=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55	=55
+!!Warning: measure 55, staff 7 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 55, staff 3 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 55, staff 2 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 55, staff 1 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Error: measure 55 staff 6 is overfilled: 4 quarter notes instead of 2.
+!!Error: measure 55 staff 5 is overfilled: 4 quarter notes instead of 2.
+!!Error: measure 55 staff 4 is overfilled: 4 quarter notes instead of 2.
+8C	.	1r	.	1r	.	1r	.	8r	.	8eeL	.	16ggL	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	16ccc	.	.	.
+8C	.	.	.	.	.	.	.	8c	.	8cc	.	16ee	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	16ggJ	.	.	.
+8GGL	.	.	.	.	.	.	.	8g	.	8dd	.	4ffT	.	.	.
+8GGJ	.	.	.	.	.	.	.	8g	.	8gJ	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	2ryy	.	2ryy	.	2ryy	.
+=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56	=56
+!!Warning: measure 56, staff 7 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 56, staff 3 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 56, staff 2 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 56, staff 1 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Error: measure 56 staff 6 is overfilled: 4 quarter notes instead of 2.
+!!Error: measure 56 staff 5 is overfilled: 4 quarter notes instead of 2.
+!!Error: measure 56 staff 4 is overfilled: 4 quarter notes instead of 2.
+8CL	.	1r	.	1r	.	1r	.	8g	.	(>8ddL	.	(>8ffL	.	.	.
+16C	.	.	.	.	.	.	.	16cL	.	8ccJ)	.	8eeJ)	.	.	.
+16CJ	.	.	.	.	.	.	.	16cJ	.	.	.	.	.	.	.
+4C	.	.	.	.	.	.	.	8eL	.	4r	.	4r	.	.	.
+.	.	.	.	.	.	.	.	8gJ	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	2ryy	.	2ryy	.	2ryy	.
+!!LO:LB
+=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57	=57
+!!Warning: measure 57, staff 8 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 57, staff 7 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 57, staff 6 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 57, staff 5 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Error: measure 57 staff 4 is overfilled: 4 quarter notes instead of 2.
+!!Error: measure 57 staff 3 is overfilled: 4 quarter notes instead of 2.
+!!Error: measure 57 staff 2 is overfilled: 4 quarter notes instead of 2.
+!!Error: measure 57 staff 1 is overfilled: 4 quarter notes instead of 2.
+8CL	.	8.cL	.	8r	.	16r	.	1r	.	1r	.	1r	.	1r	.
+.	.	.	.	.	.	16ggL	.	.	.	.	.	.	.	.	.
+8CJ	.	.	.	8cc	.	16ee	.	.	.	.	.	.	.	.	.
+.	.	16eJ	.	.	.	16cc	.	.	.	.	.	.	.	.	.
+8GGL	.	8gL	.	8ddL	.	16r	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	16gg	.	.	.	.	.	.	.	.	.
+8GGJ	.	8gJ	.	8gJ	.	16ff	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	16ddJ	.	.	.	.	.	.	.	.	.
+2ryy	.	2ryy	.	2ryy	.	2ryy	.	.	.	.	.	.	.	.	.
+=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58	=58
+!!Warning: measure 58, staff 8 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 58, staff 7 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 58, staff 6 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 58, staff 5 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Error: measure 58 staff 4 is overfilled: 4 quarter notes instead of 2.
+!!Error: measure 58 staff 3 is overfilled: 4 quarter notes instead of 2.
+!!Error: measure 58 staff 2 is overfilled: 4 quarter notes instead of 2.
+!!Error: measure 58 staff 1 is overfilled: 4 quarter notes instead of 2.
+.	.	.	.	.	.	(>8qdd	.	.	.	.	.	.	.	.	.
+8CL	.	16r	.	4cc	.	4ee)	.	1r	.	1r	.	1r	.	1r	.
+.	.	16ccL	.	.	.	.	.	.	.	.	.	.	.	.	.
+8C	.	16g	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16eJ	.	.	.	.	.	.	.	.	.	.	.	.	.
+8C	.	8cL	.	8r	.	8r	.	.	.	.	.	.	.	.	.
+8rJ	.	8rJ	.	8g	.	8dd	.	.	.	.	.	.	.	.	.
+2ryy	.	2ryy	.	2ryy	.	2ryy	.	.	.	.	.	.	.	.	.
+=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59	=59
+!!Warning: measure 59, staff 8 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 59, staff 7 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 59, staff 6 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 59, staff 5 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Error: measure 59 staff 4 is overfilled: 4 quarter notes instead of 2.
+!!Error: measure 59 staff 3 is overfilled: 4 quarter notes instead of 2.
+!!Error: measure 59 staff 2 is overfilled: 4 quarter notes instead of 2.
+!!Error: measure 59 staff 1 is overfilled: 4 quarter notes instead of 2.
+8r	.	8c	.	8.ccL	.	8.eeL	.	1r	.	1r	.	1r	.	1r	.
+8C	.	16c	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16c	.	32dd	.	32ff	.	.	.	.	.	.	.	.	.
+.	.	.	.	32eeJ	.	32ggJ	.	.	.	.	.	.	.	.	.
+8C	.	8cL	.	16ffL	.	16aaL	.	.	.	.	.	.	.	.	.
+.	.	.	.	16ee	.	16gg	.	.	.	.	.	.	.	.	.
+8C	.	8cJ	.	16dd	.	16ff	.	.	.	.	.	.	.	.	.
+.	.	.	.	16ccJ	.	16eeJ	.	.	.	.	.	.	.	.	.
+2ryy	.	2ryy	.	2ryy	.	2ryy	.	.	.	.	.	.	.	.	.
+!!LO:LB
+=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60	=60
+!!Warning: measure 60, staff 8 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 60, staff 7 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 60, staff 6 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 60, staff 5 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 60, staff 4 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 60, staff 3 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 60, staff 2 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Error: measure 60 staff 1 is overfilled: 4 quarter notes instead of 2.
+8GGL	.	8gL	.	8ccL	.	8eeL	.	4r	.	4r	.	4r	.	1r	.
+16GG	.	16g	.	8g	.	8dd	.	.	.	.	.	.	.	.	.
+16GGJ	.	16gJ	.	.	.	.	.	.	.	.	.	.	.	.	.
+8GG	.	8g	.	4rJ	.	4rJ	.	8r	.	8r	.	8r	.	.	.
+8r	.	8r	.	.	.	.	.	8g	.	8dd	.	8dd	.	.	.
+2ryy	.	2ryy	.	2ryy	.	2ryy	.	2ryy	.	2ryy	.	2ryy	.	.	.
+=61	=61	=61	=61	=61	=61	=61	=61	=61	=61	=61	=61	=61	=61	=61	=61
+!!Warning: measure 61, staff 8 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 61, staff 4 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 61, staff 3 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 61, staff 2 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Error: measure 61 staff 7 is overfilled: 4 quarter notes instead of 2.
+!!Error: measure 61 staff 6 is overfilled: 4 quarter notes instead of 2.
+!!Error: measure 61 staff 5 is overfilled: 4 quarter notes instead of 2.
+!!Error: measure 61 staff 1 is overfilled: 4 quarter notes instead of 2.
+4GG	.	1r	.	1r	.	1r	.	[2g	.	16ddL	.	8ggL	.	1r	.
+.	.	.	.	.	.	.	.	.	.	16g	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	16dd	.	8ggJ	.	.	.
+.	.	.	.	.	.	.	.	.	.	16gJ	.	.	.	.	.
+4GG	.	.	.	.	.	.	.	.	.	16ccL	.	8.aaL	.	.	.
+.	.	.	.	.	.	.	.	.	.	16g	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	16cc	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	16gJ	.	16ff#J	.	.	.
+2ryy	.	.	.	.	.	.	.	2ryy	.	2ryy	.	2ryy	.	.	.
+=62	=62	=62	=62	=62	=62	=62	=62	=62	=62	=62	=62	=62	=62	=62	=62
+!!Warning: measure 62, staff 8 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 62, staff 4 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 62, staff 3 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 62, staff 2 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Error: measure 62 staff 7 is overfilled: 4 quarter notes instead of 2.
+!!Error: measure 62 staff 6 is overfilled: 4 quarter notes instead of 2.
+!!Error: measure 62 staff 5 is overfilled: 4 quarter notes instead of 2.
+!!Error: measure 62 staff 1 is overfilled: 4 quarter notes instead of 2.
+4GG	.	1r	.	1r	.	1r	.	2g_	.	16ddL	.	8ggL	.	1r	.
+.	.	.	.	.	.	.	.	.	.	16g	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	16dd	.	8ggJ	.	.	.
+.	.	.	.	.	.	.	.	.	.	16gJ	.	.	.	.	.
+4GG	.	.	.	.	.	.	.	.	.	16eeL	.	8.cccL	.	.	.
+.	.	.	.	.	.	.	.	.	.	16g	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	16ee	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	16gJ	.	16aaJ	.	.	.
+2ryy	.	.	.	.	.	.	.	2ryy	.	2ryy	.	2ryy	.	.	.
+=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63	=63
+4GG	.	2g	.	16dd	.	8gg	.	8g]	.	8dd	.	8gg	.	.	.
+.	.	.	.	16g	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16dd	.	8gg	.	8r	.	8r	.	8r	.	.	.
+.	.	.	.	16g	.	.	.	.	.	.	.	.	.	.	.
+4GG	.	.	.	16ccL	.	8.aaL	.	4r	.	4r	.	4r	.	.	.
+.	.	.	.	16g	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16cc	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16gJ	.	16ff#J	.	.	.	.	.	.	.	.	.
+!!LO:LB
+=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64	=64
+!!Warning: measure 64, staff 8 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 64, staff 7 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 64, staff 6 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 64, staff 5 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Error: measure 64 staff 4 is overfilled: 4 quarter notes instead of 2.
+!!Error: measure 64 staff 3 is overfilled: 4 quarter notes instead of 2.
+!!Error: measure 64 staff 2 is overfilled: 4 quarter notes instead of 2.
+!!Error: measure 64 staff 1 is overfilled: 4 quarter notes instead of 2.
+4GG	.	[2g	.	16ddL	.	8ggL	.	1r	.	1r	.	1r	.	1r	.
+.	.	.	.	16g	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16dd	.	8ggJ	.	.	.	.	.	.	.	.	.
+.	.	.	.	16gJ	.	.	.	.	.	.	.	.	.	.	.
+4GG	.	.	.	16eeL	.	8.cccL	.	.	.	.	.	.	.	.	.
+.	.	.	.	16g	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16cc	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16gJ	.	16aaJ	.	.	.	.	.	.	.	.	.
+2ryy	.	2ryy	.	2ryy	.	2ryy	.	.	.	.	.	.	.	.	.
+=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65	=65
+!!Warning: measure 65, staff 8 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 65, staff 7 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 65, staff 6 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 65, staff 5 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Error: measure 65 staff 4 is overfilled: 4 quarter notes instead of 2.
+!!Error: measure 65 staff 3 is overfilled: 4 quarter notes instead of 2.
+!!Error: measure 65 staff 2 is overfilled: 4 quarter notes instead of 2.
+!!Error: measure 65 staff 1 is overfilled: 4 quarter notes instead of 2.
+4GG	.	8gL]	.	8ddL	.	8bbL	.	1r	.	1r	.	1r	.	1r	.
+.	.	8r	.	16ee	.	16ccc	.	.	.	.	.	.	.	.	.
+.	.	.	.	16ccJ	.	16aaJ	.	.	.	.	.	.	.	.	.
+4GG	.	4rJ	.	8ddL	.	8ggL	.	.	.	.	.	.	.	.	.
+.	.	.	.	8ddJ	.	16aa	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	16ff#J	.	.	.	.	.	.	.	.	.
+2ryy	.	2ryy	.	2ryy	.	2ryy	.	.	.	.	.	.	.	.	.
+=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66	=66
+!!Warning: measure 66, staff 8 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 66, staff 7 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 66, staff 6 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 66, staff 5 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Error: measure 66 staff 4 is overfilled: 4 quarter notes instead of 2.
+!!Error: measure 66 staff 3 is overfilled: 4 quarter notes instead of 2.
+!!Error: measure 66 staff 2 is overfilled: 4 quarter notes instead of 2.
+!!Error: measure 66 staff 1 is overfilled: 4 quarter notes instead of 2.
+8GG	.	8g	.	8r	.	4gg	.	1r	.	1r	.	1r	.	1r	.
+8r	.	16g	.	16ggL	.	.	.	.	.	.	.	.	.	.	.
+.	.	16g	.	16ffJ	.	.	.	.	.	.	.	.	.	.	.
+4r	.	8gL	.	8eeL	.	4r	.	.	.	.	.	.	.	.	.
+.	.	8gJ	.	8ddJ	.	.	.	.	.	.	.	.	.	.	.
+2ryy	.	2ryy	.	2ryy	.	2ryy	.	.	.	.	.	.	.	.	.
+=67	=67	=67	=67	=67	=67	=67	=67	=67	=67	=67	=67	=67	=67	=67	=67
+!!Warning: measure 67, staff 8 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 67, staff 6 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 67, staff 3 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 67, staff 2 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Error: measure 67 staff 7 is overfilled: 4 quarter notes instead of 2.
+!!Error: measure 67 staff 5 is overfilled: 4 quarter notes instead of 2.
+!!Error: measure 67 staff 4 is overfilled: 4 quarter notes instead of 2.
+!!Error: measure 67 staff 1 is overfilled: 4 quarter notes instead of 2.
+4C	.	1r	.	4cc	.	1r	p	1r	p	(>4ee	.	16r	.	1r	.
+.	.	.	.	.	.	.	.	.	.	.	.	16eeL	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	16gg	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	16bb-J	.	.	.
+4r	.	.	.	4r	.	.	.	.	.	8ff)	.	16aaL	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	16ff	.	.	.
+.	.	.	.	.	.	.	.	.	.	8r	.	16ee	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	16ddJ	.	.	.
+2ryy	.	.	.	2ryy	.	.	.	.	.	2ryy	.	2ryy	.	.	.
+!!LO:LB
+=68	=68	=68	=68	=68	=68	=68	=68	=68	=68	=68	=68	=68	=68	=68	=68
+!!Warning: measure 68, staff 4 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 68, staff 3 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 68, staff 2 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Error: measure 68 staff 8 is overfilled: 4 quarter notes instead of 2.
+!!Error: measure 68 staff 7 is overfilled: 4 quarter notes instead of 2.
+!!Error: measure 68 staff 6 is overfilled: 4 quarter notes instead of 2.
+!!Error: measure 68 staff 5 is overfilled: 4 quarter notes instead of 2.
+!!Error: measure 68 staff 1 is overfilled: 4 quarter notes instead of 2.
+1r	.	1r	.	1r	p	1r	.	4g	.	16r	.	(>4dd	.	1r	.
+.	.	.	.	.	.	.	.	.	.	16ddL	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	16ff	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	16aaJ	.	.	.	.	.
+.	.	.	.	.	.	.	.	4cc	.	16ggL	.	8ee)	.	.	.
+.	.	.	.	.	.	.	.	.	.	16ee	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	16dd	.	8r	.	.	.
+.	.	.	.	.	.	.	.	.	.	16ccJ	.	.	.	.	.
+.	.	.	.	.	.	.	.	2ryy	.	2ryy	.	2ryy	.	.	.
+=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69	=69
+!!Warning: measure 69, staff 4 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 69, staff 3 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 69, staff 2 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Error: measure 69 staff 8 is overfilled: 4 quarter notes instead of 2.
+!!Error: measure 69 staff 7 is overfilled: 4 quarter notes instead of 2.
+!!Error: measure 69 staff 6 is overfilled: 4 quarter notes instead of 2.
+!!Error: measure 69 staff 5 is overfilled: 4 quarter notes instead of 2.
+!!Error: measure 69 staff 1 is overfilled: 4 quarter notes instead of 2.
+1r	.	1r	.	1r	.	1r	.	4g	.	8r	.	8.ddL	.	1r	.
+.	.	.	.	.	.	.	.	.	.	8ddL	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	16ffJ	.	.	.
+.	.	.	.	.	.	.	.	16ccL	.	8ee	.	16eeL	.	.	.
+.	.	.	.	.	.	.	.	16g	.	.	.	16gg	.	.	.
+.	.	.	.	.	.	.	.	16e	.	8ggJ	.	16ccc	.	.	.
+.	.	.	.	.	.	.	.	16cJ	.	.	.	16eeJ	.	.	.
+.	.	.	.	.	.	.	.	2ryy	.	2ryy	.	2ryy	.	.	.
+=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70	=70
+!!Warning: measure 70, staff 8 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 70, staff 4 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 70, staff 3 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 70, staff 2 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Error: measure 70 staff 7 is overfilled: 4 quarter notes instead of 2.
+!!Error: measure 70 staff 6 is overfilled: 4 quarter notes instead of 2.
+!!Error: measure 70 staff 5 is overfilled: 4 quarter notes instead of 2.
+!!Error: measure 70 staff 1 is overfilled: 4 quarter notes instead of 2.
+.	.	.	.	.	.	.	.	.	.	.	.	(>8qee	.	.	.
+8GGL	.	1r	.	1r	.	1r	.	8gL	.	4bb	.	4dd)	.	1r	.
+16GG	.	.	.	.	.	.	.	16g	.	.	.	.	.	.	.
+16GGJ	.	.	.	.	.	.	.	16gJ	.	.	.	.	.	.	.
+4GG	.	.	.	.	.	.	.	8gL	.	4r	.	8r	.	.	.
+.	.	.	.	.	.	.	.	8gJ	.	.	.	16ccL	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	16ddJ	.	.	.
+2ryy	.	.	.	.	.	.	.	2ryy	.	2ryy	.	2ryy	.	.	.
+!!LO:LB
+=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71	=71
+!!Warning: measure 71, staff 8 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 71, staff 4 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 71, staff 3 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 71, staff 2 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Error: measure 71 staff 7 is overfilled: 4 quarter notes instead of 2.
+!!Error: measure 71 staff 6 is overfilled: 4 quarter notes instead of 2.
+!!Error: measure 71 staff 5 is overfilled: 4 quarter notes instead of 2.
+!!Error: measure 71 staff 1 is overfilled: 4 quarter notes instead of 2.
+4GG	.	1r	.	1r	.	1r	.	[2g	.	16ccL	.	8eeL	.	1r	.
+.	.	.	.	.	.	.	.	.	.	16g	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	16cc	.	8eeJ	.	.	.
+.	.	.	.	.	.	.	.	.	.	16gJ	.	.	.	.	.
+4GG	.	.	.	.	.	.	.	.	.	16ddL	.	8.ffL	.	.	.
+.	.	.	.	.	.	.	.	.	.	16g	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	16dd	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	16gJ	.	16ddJ	.	.	.
+2ryy	.	.	.	.	.	.	.	2ryy	.	2ryy	.	2ryy	.	.	.
+=72	=72	=72	=72	=72	=72	=72	=72	=72	=72	=72	=72	=72	=72	=72	=72
+!!Warning: measure 72, staff 8 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 72, staff 4 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 72, staff 3 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 72, staff 2 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Error: measure 72 staff 7 is overfilled: 4 quarter notes instead of 2.
+!!Error: measure 72 staff 6 is overfilled: 4 quarter notes instead of 2.
+!!Error: measure 72 staff 5 is overfilled: 4 quarter notes instead of 2.
+!!Error: measure 72 staff 1 is overfilled: 4 quarter notes instead of 2.
+4GG	.	1r	.	1r	.	1r	.	2g_	.	16ccL	.	8eeL	.	1r	.
+.	.	.	.	.	.	.	.	.	.	16g	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	16cc	.	8eeJ	.	.	.
+.	.	.	.	.	.	.	.	.	.	16gJ	.	.	.	.	.
+4GG	.	.	.	.	.	.	.	.	.	16ffL	.	8.aaL	.	.	.
+.	.	.	.	.	.	.	.	.	.	16g	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	16dd	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	16gJ	.	16ffJ	.	.	.
+2ryy	.	.	.	.	.	.	.	2ryy	.	2ryy	.	2ryy	.	.	.
+=73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73	=73
+!!Warning: measure 73, staff 8 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 73, staff 7 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 73, staff 6 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 73, staff 5 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 73, staff 4 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 73, staff 3 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 73, staff 2 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Error: measure 73 staff 1 is overfilled: 4 quarter notes instead of 2.
+4GG	.	2g	.	16ccL	.	8eeL	.	8g]	.	8cc	.	8ee	.	1r	.
+.	.	.	.	16g	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16cc	.	8eeJ	.	8r	.	8r	.	8r	.	.	.
+.	.	.	.	16gJ	.	.	.	.	.	.	.	.	.	.	.
+4GG	.	.	.	16ddL	.	8.ffL	.	4r	.	4r	.	4r	.	.	.
+.	.	.	.	16g	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16dd	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16gJ	.	16ddJ	.	.	.	.	.	.	.	.	.
+2ryy	.	2ryy	.	2ryy	.	2ryy	.	2ryy	.	2ryy	.	2ryy	.	.	.
+!!LO:LB
+=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74	=74
+!!Warning: measure 74, staff 8 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 74, staff 7 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 74, staff 6 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 74, staff 5 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Error: measure 74 staff 4 is overfilled: 4 quarter notes instead of 2.
+!!Error: measure 74 staff 3 is overfilled: 4 quarter notes instead of 2.
+!!Error: measure 74 staff 2 is overfilled: 4 quarter notes instead of 2.
+!!Error: measure 74 staff 1 is overfilled: 4 quarter notes instead of 2.
+4GG	.	[2g	.	16ccL	.	8eeL	.	1r	.	1r	.	1r	.	1r	.
+.	.	.	.	16g	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16cc	.	8eeJ	.	.	.	.	.	.	.	.	.
+.	.	.	.	16gJ	.	.	.	.	.	.	.	.	.	.	.
+4GG	.	.	.	16ffL	.	8.aaL	.	.	.	.	.	.	.	.	.
+.	.	.	.	16g	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16dd	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	16gJ	.	16ffJ	.	.	.	.	.	.	.	.	.
+2ryy	.	2ryy	.	2ryy	.	2ryy	.	.	.	.	.	.	.	.	.
+=75	=75	=75	=75	=75	=75	=75	=75	=75	=75	=75	=75	=75	=75	=75	=75
+!!Warning: measure 75, staff 8 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 75, staff 7 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 75, staff 6 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 75, staff 5 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 75, staff 4 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 75, staff 3 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 75, staff 2 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Error: measure 75 staff 1 is overfilled: 4 quarter notes instead of 2.
+8CL	.	8gL]	.	8eeL	mf	8ggL	mf	8ccL	mf	8eeL	.	8ggL	.	1r	.
+8r	.	8r	.	8r	.	8r	.	8r	.	16ff	.	16aa	.	.	.
+.	.	.	.	.	.	.	.	.	.	16ddJ	.	16ffJ	.	.	.
+8r	.	8r	.	8r	.	8r	.	8r	.	8ccL	.	8eeL	.	.	.
+16GG	.	16g	.	8ffJ	.	8bbJ	.	16g	.	8ggJ	.	8ddJ	.	.	.
+16GGJ	.	16gJ	.	.	.	.	.	16gJ	.	.	.	.	.	.	.
+2ryy	.	2ryy	.	2ryy	.	2ryy	.	2ryy	.	2ryy	.	2ryy	.	.	.
+=76	=76	=76	=76	=76	=76	=76	=76	=76	=76	=76	=76	=76	=76	=76	=76
+!!Warning: measure 76, staff 8 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 76, staff 7 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 76, staff 6 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 76, staff 5 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 76, staff 4 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 76, staff 3 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 76, staff 2 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Error: measure 76 staff 1 is overfilled: 4 quarter notes instead of 2.
+.	.	.	.	.	.	.	.	.	.	.	.	(>4qdd	.	.	.
+2C;	.	2g;	.	2ee;	.	2ccc;	.	2g;	.	2ccc;	.	2cc;)	.	1r	.
+2ryy	.	2ryy	.	2ryy	.	2ryy	.	2ryy	.	2ryy	.	2ryy	.	.	.
+==77	==77	==77	==77	==77	==77	==77	==77	==77	==77	==77	==77	==77	==77	==77	==77
+!LO:TX:a:iB:t=Vivace	!	!LO:TX:a:iB:t=Vivace	!	!LO:TX:a:iB:t=Vivace	!	!LO:TX:a:iB:t=Vivace	!	!LO:TX:a:iB:t=Vivace	!	!LO:TX:a:iB:t=Vivace	!	!LO:TX:a:iB:t=Vivace	!	!LO:TX:a:iB:t=Vivace	!
+8r	.	8r	.	8r	.	8r	.	8r	f	8r	.	8g	.	8r	.
+=78	=78	=78	=78	=78	=78	=78	=78	=78	=78	=78	=78	=78	=78	=78	=78
+!!Error: measure 78, staff 8 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 78, staff 4 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 78, staff 3 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 78, staff 2 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+8r	.	1r	.	1r	f	1r	f	8r	.	8r	.	8cc	.	1r	.
+8r	.	.	.	.	.	.	.	8r	.	8r	.	8ee	.	.	.
+16CL	.	.	.	.	.	.	.	16ccL	.	8ee	.	8gg	.	.	.
+16CJ	.	.	.	.	.	.	.	16ccJ	.	.	.	.	.	.	.
+12...ryy	.	.	.	.	.	.	.	12...ryy	.	12...ryy	.	12...ryy	.	.	.
+=79	=79	=79	=79	=79	=79	=79	=79	=79	=79	=79	=79	=79	=79	=79	=79
+!!Error: measure 79, staff 8 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 79, staff 4 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 79, staff 3 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 79, staff 2 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+8GGL	.	1r	.	1r	.	1r	.	8gL	.	(>8eeL	.	(>8ggL	.	1r	.
+16GG	.	.	.	.	.	.	.	16g	.	8dd)	.	8ffJ)	.	.	.
+16GG	.	.	.	.	.	.	.	16gJ	.	.	.	.	.	.	.
+8GGJ	.	.	.	.	.	.	.	8g	.	8rJ	.	8g	.	.	.
+12...ryy	.	.	.	.	.	.	.	12...ryy	.	12...ryy	.	12...ryy	.	.	.
+=80	=80	=80	=80	=80	=80	=80	=80	=80	=80	=80	=80	=80	=80	=80	=80
+!!Error: measure 80, staff 8 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 80, staff 4 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 80, staff 3 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 80, staff 2 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+8GGL	.	1r	.	1r	.	1r	.	8gL	.	8r	.	8gL	.	1r	.
+8r	.	.	.	.	.	.	.	8r	.	8r	.	8dd	.	.	.
+16GG	.	.	.	.	.	.	.	16g	.	8dd	.	8ffJ	.	.	.
+16GGJ	.	.	.	.	.	.	.	16gJ	.	.	.	.	.	.	.
+12...ryy	.	.	.	.	.	.	.	12...ryy	.	12...ryy	.	12...ryy	.	.	.
+=81	=81	=81	=81	=81	=81	=81	=81	=81	=81	=81	=81	=81	=81	=81	=81
+!!Error: measure 81, staff 8 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 81, staff 4 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 81, staff 3 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 81, staff 2 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+4C	.	1r	.	1r	.	1r	.	8c	.	(>8ddL	.	(>8ffL	.	1r	.
+.	.	.	.	.	.	.	.	16eL	.	8cc)	.	8eeJ)	.	.	.
+.	.	.	.	.	.	.	.	16e	.	.	.	.	.	.	.
+16GGL	.	.	.	.	.	.	.	16g	.	8rJ	.	8dd	.	.	.
+16GGJ	.	.	.	.	.	.	.	16gJ	.	.	.	.	.	.	.
+12...ryy	.	.	.	.	.	.	.	12...ryy	.	12...ryy	.	12...ryy	.	.	.
+=82	=82	=82	=82	=82	=82	=82	=82	=82	=82	=82	=82	=82	=82	=82	=82
+!!Error: measure 82, staff 8 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 82, staff 4 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 82, staff 3 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 82, staff 2 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+4C	.	1r	.	1r	.	1r	.	8g	.	8cc	.	8ee	.	1r	.
+.	.	.	.	.	.	.	.	.	.	.	.	(>32qff	.	.	.
+.	.	.	.	.	.	.	.	16gL	.	8cc	.	16eeL)	.	.	.
+.	.	.	.	.	.	.	.	16g	.	.	.	16dd	.	.	.
+8GG	.	.	.	.	.	.	.	16g	.	8cc	.	8eeJ	.	.	.
+.	.	.	.	.	.	.	.	16gJ	.	.	.	.	.	.	.
+12...ryy	.	.	.	.	.	.	.	12...ryy	.	12...ryy	.	12...ryy	.	.	.
+!!LO:LB
+=83	=83	=83	=83	=83	=83	=83	=83	=83	=83	=83	=83	=83	=83	=83	=83
+!!Error: measure 83, staff 8 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 83, staff 4 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 83, staff 3 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 83, staff 2 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+4GG	.	1r	.	1r	.	1r	.	8g	.	8ddL	.	8ff	.	1r	.
+.	.	.	.	.	.	.	.	.	.	.	.	(>32qgg	.	.	.
+.	.	.	.	.	.	.	.	16gL	.	8dd	.	16ffL)	.	.	.
+.	.	.	.	.	.	.	.	16g	.	.	.	16ee	.	.	.
+16GGL	.	.	.	.	.	.	.	16g	.	8ddJ	.	8ffJ	.	.	.
+16GGJ	.	.	.	.	.	.	.	16gJ	.	.	.	.	.	.	.
+12...ryy	.	.	.	.	.	.	.	12...ryy	.	12...ryy	.	12...ryy	.	.	.
+=84	=84	=84	=84	=84	=84	=84	=84	=84	=84	=84	=84	=84	=84	=84	=84
+!!Error: measure 84, staff 8 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 84, staff 4 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 84, staff 3 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 84, staff 2 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+4C	.	1r	.	1r	.	1r	.	8g	.	8eeL	.	8ggL	.	1r	.
+.	.	.	.	.	.	.	.	16gL	.	8dd	.	8ff	.	.	.
+.	.	.	.	.	.	.	.	16g	.	.	.	.	.	.	.
+16CL	.	.	.	.	.	.	.	16g	.	8ccJ	.	8eeJ	.	.	.
+16CJ	.	.	.	.	.	.	.	16gJ	.	.	.	.	.	.	.
+12...ryy	.	.	.	.	.	.	.	12...ryy	.	12...ryy	.	12...ryy	.	.	.
+=85	=85	=85	=85	=85	=85	=85	=85	=85	=85	=85	=85	=85	=85	=85	=85
+!!Error: measure 85, staff 8 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 85, staff 4 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 85, staff 3 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 85, staff 2 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 85, staff 1 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+.	.	.	.	.	.	.	.	.	.	.	.	(>8qee	.	.	f
+4GG	.	1r	.	1r	.	1r	.	8g	.	4gg	.	4dd)	.	8r	.
+!	!	!	!	!	!	!	!	!	!	!	!	!	!	!LO:TX:a:iB:t=Solo	!
+.	.	.	.	.	.	.	.	8r	.	.	.	.	.	8r	.
+8r	.	.	.	.	.	.	.	8r	.	8r	.	8r	.	8g	.
+12...ryy	.	.	.	.	.	.	.	12...ryy	.	12...ryy	.	12...ryy	.	12...ryy	.
+=86	=86	=86	=86	=86	=86	=86	=86	=86	=86	=86	=86	=86	=86	=86	=86
+!!Error: measure 86, staff 3 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 86, staff 2 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 86, staff 1 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+1r	.	1r	.	1r	.	1r	mf	1r	mf	8r	.	8r	.	8ccL	.
+.	.	.	.	.	.	.	.	.	.	8r	.	8r	.	16dd	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ee	.
+.	.	.	.	.	.	.	.	.	.	8cc	.	8ee	.	16ff	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ggJ	.
+.	.	.	.	.	.	.	.	.	.	12...ryy	.	12...ryy	.	12...ryy	.
+=87	=87	=87	=87	=87	=87	=87	=87	=87	=87	=87	=87	=87	=87	=87	=87
+!!Error: measure 87, staff 3 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 87, staff 2 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 87, staff 1 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+1r	.	1r	.	1r	.	1r	.	1r	.	8gL	.	(>8eeL	.	(>8ggL	.
+.	.	.	.	.	.	.	.	.	.	8gJ	.	8ddJ)	.	8ffJ)	.
+.	.	.	.	.	.	.	.	.	.	8r	.	8r	.	8g	.
+.	.	.	.	.	.	.	.	.	.	12...ryy	.	12...ryy	.	12...ryy	.
+!!LO:LB
+=88	=88	=88	=88	=88	=88	=88	=88	=88	=88	=88	=88	=88	=88	=88	=88
+!!Error: measure 88, staff 8 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 88, staff 3 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 88, staff 2 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 88, staff 1 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+8r	.	1r	.	1r	.	1r	.	1r	.	8r	.	8r	.	8gL	.
+8r	.	.	.	.	.	.	.	.	.	8r	.	8r	.	16dd	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ee	.
+8GG	.	.	.	.	.	.	.	.	.	8g	.	8dd	.	8ffJ	.
+12...ryy	.	.	.	.	.	.	.	.	.	12...ryy	.	12...ryy	.	12...ryy	.
+=89	=89	=89	=89	=89	=89	=89	=89	=89	=89	=89	=89	=89	=89	=89	=89
+!!Error: measure 89, staff 8 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 89, staff 3 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 89, staff 2 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 89, staff 1 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+4C	.	1r	.	1r	.	1r	.	1r	.	4c	.	(>8ddL	.	(>8ffL	.
+.	.	.	.	.	.	.	.	.	.	.	.	8cc)	.	8ee)	.
+8GG	.	.	.	.	.	.	.	.	.	8g	.	8gJ	.	8ddJ	.
+12...ryy	.	.	.	.	.	.	.	.	.	12...ryy	.	12...ryy	.	12...ryy	.
+=90	=90	=90	=90	=90	=90	=90	=90	=90	=90	=90	=90	=90	=90	=90	=90
+!!Error: measure 90, staff 8 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 90, staff 3 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 90, staff 2 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 90, staff 1 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+4C	.	1r	.	1r	.	1r	.	1r	.	4c	.	8ccL	.	8eeL	.
+.	.	.	.	.	.	.	.	.	.	.	.	8cc	.	16ff	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ee	.
+8r	.	.	.	.	.	.	.	.	.	8c	.	8ccJ	.	16dd	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16eeJ	.
+12...ryy	.	.	.	.	.	.	.	.	.	12...ryy	.	12...ryy	.	12...ryy	.
+=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91	=91
+!!Error: measure 91, staff 8 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 91, staff 3 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 91, staff 2 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 91, staff 1 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+4C	.	1r	.	1r	.	1r	.	1r	.	4c	.	8ddL	.	8ffL	.
+.	.	.	.	.	.	.	.	.	.	.	.	8dd	.	16gg	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ff	.
+8r	.	.	.	.	.	.	.	.	.	8c	.	8ddJ	.	16ee	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ffJ	.
+12...ryy	.	.	.	.	.	.	.	.	.	12...ryy	.	12...ryy	.	12...ryy	.
+=92	=92	=92	=92	=92	=92	=92	=92	=92	=92	=92	=92	=92	=92	=92	=92
+!!Error: measure 92, staff 8 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 92, staff 3 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 92, staff 2 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 92, staff 1 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+4C	.	1r	.	1r	.	1r	.	1r	.	8cL	.	8eeL	.	8ggL	.
+.	.	.	.	.	.	.	.	.	.	8c	.	16ff	.	16aa	.
+.	.	.	.	.	.	.	.	.	.	.	.	16ee	.	16gg	.
+8C	.	.	.	.	.	.	.	.	.	8cJ	.	16dd	.	16ff	.
+.	.	.	.	.	.	.	.	.	.	.	.	16ccJ	.	16eeJ	.
+12...ryy	.	.	.	.	.	.	.	.	.	12...ryy	.	12...ryy	.	12...ryy	.
+!!LO:LB
+=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93	=93
+!!Error: measure 93, staff 8 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 93, staff 3 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 93, staff 2 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 93, staff 1 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	(>8qee	.
+4GG	.	1r	.	1r	.	1r	.	1r	.	8gL	.	4gg	.	4dd)	.
+.	.	.	.	.	.	.	.	.	.	8G	.	.	.	.	.
+8r	.	.	.	.	.	.	.	.	.	8rJ	.	8r	.	8r	.
+12...ryy	.	.	.	.	.	.	.	.	.	12...ryy	.	12...ryy	.	12...ryy	.
+=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94	=94
+!!Error: measure 94, staff 1 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+1r	.	1r	.	1r	.	1r	.	1r	.	1r	.	1r	.	(>16ddL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16eeJ	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	4ff#)	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	12...ryy	.
+=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95	=95
+!!Error: measure 95, staff 3 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 95, staff 2 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 95, staff 1 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+1r	.	1r	.	1r	.	1r	f	1r	f	8r	.	(>16ddL	.	(>16ff#L	.
+.	.	.	.	.	.	.	.	.	.	.	.	16eeJ	.	16ggJ	.
+.	.	.	.	.	.	.	.	.	.	8dd	.	4ff#)	.	4aa)	.
+.	.	.	.	.	.	.	.	.	.	8dd	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12...ryy	.	12...ryy	.	12...ryy	.
+=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96	=96
+!!Error: measure 96, staff 3 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 96, staff 2 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 96, staff 1 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+1r	.	1r	.	1r	.	1r	.	1r	.	8ddL	.	(>16ff#L	.	(>16aaL	.
+.	.	.	.	.	.	.	.	.	.	.	.	16ggJ	.	16bbJ	.
+.	.	.	.	.	.	.	.	.	.	8dd	.	4aa)	.	4ccc)	.
+.	.	.	.	.	.	.	.	.	.	8ddJ	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12...ryy	.	12...ryy	.	12...ryy	.
+=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97	=97
+!!Error: measure 97, staff 3 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 97, staff 2 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 97, staff 1 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+1r	.	1r	.	1r	.	1r	.	1r	.	8ddL	.	(>16aaL	.	(>16cccL	.
+.	.	.	.	.	.	.	.	.	.	.	.	16bbJ	.	16bbJ	.
+.	.	.	.	.	.	.	.	.	.	8dd	.	4ccc)	.	4aa)	.
+.	.	.	.	.	.	.	.	.	.	8ddJ	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	12...ryy	.	12...ryy	.	12...ryy	.
+!!LO:LB
+=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98	=98
+!!Error: measure 98, staff 3 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 98, staff 2 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 98, staff 1 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+1r	.	1r	.	1r	.	1r	.	1r	.	4g	.	8r	.	16ggL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16dd	.
+.	.	.	.	.	.	.	.	.	.	.	.	8bbL	.	(>32dd	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32ee)	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16dd	.
+.	.	.	.	.	.	.	.	.	.	8g	.	8dddJ	.	16gg	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16bbJ	.
+.	.	.	.	.	.	.	.	.	.	12...ryy	.	12...ryy	.	12...ryy	.
+=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99	=99
+!!Error: measure 99, staff 2 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 99, staff 1 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+1r	.	1r	.	1r	.	1r	.	1r	.	1r	.	8cccL	.	8aaL	.
+.	.	.	.	.	.	.	.	.	.	.	.	8bb	.	8gg	.
+.	.	.	.	.	.	.	.	.	.	.	.	8aaJ	.	8ff#J	.
+.	.	.	.	.	.	.	.	.	.	.	.	12...ryy	.	12...ryy	.
+=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100	=100
+!!Error: measure 100, staff 3 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 100, staff 2 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 100, staff 1 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+1r	.	1r	.	1r	.	1r	.	1r	.	4g	.	8r	.	16ggL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16dd	.
+.	.	.	.	.	.	.	.	.	.	.	.	8bbL	.	(>32dd	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32ee)	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16dd	.
+.	.	.	.	.	.	.	.	.	.	8g	.	8dddJ	.	16gg	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16bbJ	.
+.	.	.	.	.	.	.	.	.	.	12...ryy	.	12...ryy	.	12...ryy	.
+=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101	=101
+!!Error: measure 101, staff 3 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 101, staff 2 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 101, staff 1 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+1r	.	1r	.	1r	.	1r	.	1r	.	8ccL	.	8cccL	.	8aaL	.
+.	.	.	.	.	.	.	.	.	.	8dd	.	8bb	.	8gg	.
+.	.	.	.	.	.	.	.	.	.	8ddJ	.	8aaJ	.	8ff#J	.
+.	.	.	.	.	.	.	.	.	.	12...ryy	.	12...ryy	.	12...ryy	.
+=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102	=102
+!!Error: measure 102, staff 8 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 102, staff 7 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 102, staff 6 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 102, staff 5 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 102, staff 3 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 102, staff 2 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 102, staff 1 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+4GG	.	4g	.	8r	.	16ggL	.	1r	.	4dd	.	4gg	.	4gg	.
+.	.	.	.	.	.	16dd	.	.	.	.	.	.	.	.	.
+.	.	.	.	8ccL	.	16bb	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	16aa	.	.	.	.	.	.	.	.	.
+8r	.	8r	.	8ddJ	.	16gg	.	.	.	8r	.	8r	.	8r	.
+.	.	.	.	.	.	16ff#J	.	.	.	.	.	.	.	.	.
+12...ryy	.	12...ryy	.	12...ryy	.	12...ryy	.	.	.	12...ryy	.	12...ryy	.	12...ryy	.
+=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103	=103
+!!Error: measure 103, staff 7 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 103, staff 6 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 103, staff 5 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 103, staff 4 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+.	.	4GG	.	4g	.	8r	.	16ggL	.	1r	.	1r	.	1r	.
+.	.	.	.	.	.	.	.	16dd	.	.	.	.	.	.	.
+.	.	.	.	.	.	8ccL	.	16bb	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16aa	.	.	.	.	.	.	.
+.	.	8r	.	8r	.	8ddJ	.	16gg	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16ff#J	.	.	.	.	.	.	.
+.	.	12...ryy	.	12...ryy	.	12...ryy	.	12...ryy	.	.	.	.	.	.	.
+!!LO:LB
+=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104	=104
+!!Error: measure 104, staff 8 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 104, staff 7 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 104, staff 6 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 104, staff 5 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+8GGL	.	4g	.	8ddL	.	8ggL	.	1r	.	1r	.	1r	.	1r	.
+8r	.	.	.	8cc	.	8aa	.	.	.	.	.	.	.	.	.
+8rJ	.	8r	.	8ddJ	.	8ff#J	.	.	.	.	.	.	.	.	.
+12...ryy	.	12...ryy	.	12...ryy	.	12...ryy	.	.	.	.	.	.	.	.	.
+=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105	=105
+!!Error: measure 105, staff 8 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 105, staff 6 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 105, staff 5 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 105, staff 2 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+16GG	.	1r	.	4dd	.	4gg	.	1r	.	1r	.	8r	.	1r	.
+16GG	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8GG	.	.	.	.	.	.	.	.	.	.	.	8r	.	.	.
+8r	.	.	.	8r	.	8r	.	.	.	.	.	8g	.	.	.
+12...ryy	.	.	.	12...ryy	.	12...ryy	.	.	.	.	.	12...ryy	.	.	.
+=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106	=106
+!!Error: measure 106, staff 8 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 106, staff 4 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 106, staff 3 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 106, staff 2 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+8r	.	1r	.	1r	.	1r	.	8r	.	8r	.	16ccL	.	1r	.
+.	.	.	.	.	.	.	.	.	.	.	.	16dd	.	.	.
+8r	.	.	.	.	.	.	.	8r	.	8r	.	16ee	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	16ff	.	.	.
+8C	.	.	.	.	.	.	.	8cc	.	8bb-	.	8ggJ	.	.	.
+12...ryy	.	.	.	.	.	.	.	12...ryy	.	12...ryy	.	12...ryy	.	.	.
+=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107	=107
+!!Error: measure 107, staff 8 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 107, staff 4 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 107, staff 3 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 107, staff 2 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+4C	.	1r	.	1r	.	1r	.	8ccL	.	(>8bb-L	.	(>8ggL	.	1r	.
+.	.	.	.	.	.	.	.	8cc	.	8aa)	.	8ffJ)	.	.	.
+8C	.	.	.	.	.	.	.	8ccJ	.	8ggJ	.	8bb-	.	.	.
+12...ryy	.	.	.	.	.	.	.	12...ryy	.	12...ryy	.	12...ryy	.	.	.
+=108	=108	=108	=108	=108	=108	=108	=108	=108	=108	=108	=108	=108	=108	=108	=108
+!!Error: measure 108, staff 7 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 108, staff 3 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 108, staff 2 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 108, staff 1 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+4C	.	1r	.	1r	.	1r	.	8ccL	.	(>8ggL	.	(>8bb-L	.	.	.
+.	.	.	.	.	.	.	.	8cc	.	8ff)	.	8aa)	.	.	.
+8C	.	.	.	.	.	.	.	8ccJ	.	8eeJ	.	8ggJ	.	.	.
+.	.	.	.	.	.	.	.	.	.	12...ryy	.	12...ryy	.	12...ryy	.
+=109	=109	=109	=109	=109	=109	=109	=109	=109	=109	=109	=109	=109	=109	=109	=109
+!!Error: measure 109, staff 7 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 109, staff 4 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 109, staff 2 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 109, staff 1 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+.	.	.	.	.	.	.	.	.	.	(>8qee	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	(>8qgg	.	.	.
+4C	.	1r	.	1r	.	8r	.	1r	.	4ff)	.	4aa)	.	.	.
+.	.	.	.	.	.	8r	.	.	.	.	.	.	.	.	.
+8r	.	.	.	.	.	8dd	.	.	.	8r	.	8r	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	12...ryy	.	12...ryy	.
+!!LO:LB
+=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110	=110
+!!Error: measure 110, staff 6 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 110, staff 5 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+1r	.	1r	.	8r	.	16ddL	.	1r	.	1r	.	1r	.	1r	.
+.	.	.	.	.	.	16ee	.	.	.	.	.	.	.	.	.
+.	.	.	.	8r	.	16ff#	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	16gg	.	.	.	.	.	.	.	.	.
+.	.	.	.	8ccc	.	8aaJ	.	.	.	.	.	.	.	.	.
+.	.	.	.	12...ryy	.	12...ryy	.	.	.	.	.	.	.	.	.
+=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111	=111
+!!Error: measure 111, staff 6 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 111, staff 5 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+1r	.	1r	.	(>8cccL	.	(>8aaL	.	1r	.	1r	.	1r	.	1r	.
+.	.	.	.	8bbJ)	.	8ggJ)	.	.	.	.	.	.	.	.	.
+.	.	.	.	8aa	.	8ccc	.	.	.	.	.	.	.	.	.
+.	.	.	.	12...ryy	.	12...ryy	.	.	.	.	.	.	.	.	.
+=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112	=112
+!!Error: measure 112, staff 6 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 112, staff 5 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+1r	.	1r	.	(>8aaL	.	(>8cccL	.	1r	.	1r	.	1r	.	1r	.
+.	.	.	.	8ggJ)	.	8bbJ)	.	.	.	.	.	.	.	.	.
+.	.	.	.	8ff#	.	8aa	.	.	.	.	.	.	.	.	.
+.	.	.	.	12...ryy	.	12...ryy	.	.	.	.	.	.	.	.	.
+=113	=113	=113	=113	=113	=113	=113	=113	=113	=113	=113	=113	=113	=113	=113	=113
+.	.	.	.	(>8qff#	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	(>8qaa	.	.	.	.	.	.	.	.	.
+8GGL	.	8gL	.	4gg)	.	4bb)	.	.	.	.	.	.	.	.	.
+16GG	.	16g	.	.	.	.	.	.	.	.	.	.	.	.	.
+16GG	.	16g	.	.	.	.	.	.	.	.	.	.	.	.	.
+8GGJ	.	16g	.	8r	.	8r	.	.	.	.	.	.	.	.	.
+.	.	16gJ	.	.	.	.	.	.	.	.	.	.	.	.	.
+!!LO:LB
+=114	=114	=114	=114	=114	=114	=114	=114	=114	=114	=114	=114	=114	=114	=114	=114
+!!Error: measure 114, staff 8 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 114, staff 7 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 114, staff 6 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 114, staff 3 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 114, staff 2 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+8CL	.	4c	.	8r	.	1r	.	1r	.	(>16ccL	.	(>16eeL	.	1r	.
+.	.	.	.	.	.	.	.	.	.	16ddJ	.	16ffJ	.	.	.
+8C	.	.	.	8ccL	.	.	.	.	.	4ee)	.	4gg)	.	.	.
+8CJ	.	8r	.	8ccJ	.	.	.	.	.	.	.	.	.	.	.
+12...ryy	.	12...ryy	.	12...ryy	.	.	.	.	.	12...ryy	.	12...ryy	.	.	.
+=115	=115	=115	=115	=115	=115	=115	=115	=115	=115	=115	=115	=115	=115	=115	=115
+!!Error: measure 115, staff 8 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 115, staff 6 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 115, staff 3 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 115, staff 2 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+8CL	.	1r	.	8ffL	.	1r	.	1r	.	(>16ffL	.	(>16aaL	.	1r	.
+.	.	.	.	.	.	.	.	.	.	16ggJ	.	16bbJ	.	.	.
+8C	.	.	.	8ff	.	.	.	.	.	4aa)	.	4ccc)	.	.	.
+8CJ	.	.	.	8ffJ	.	.	.	.	.	.	.	.	.	.	.
+12...ryy	.	.	.	12...ryy	.	.	.	.	.	12...ryy	.	12...ryy	.	.	.
+=116	=116	=116	=116	=116	=116	=116	=116	=116	=116	=116	=116	=116	=116	=116	=116
+!!Error: measure 116, staff 8 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 116, staff 6 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 116, staff 3 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 116, staff 2 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+8GGL	.	1r	.	8ggL	.	1r	.	1r	.	(>16ggL	.	(>16bbL	.	1r	.
+.	.	.	.	.	.	.	.	.	.	16aaJ	.	16aaJ	.	.	.
+8GG	.	.	.	8g	.	.	.	.	.	4bb)	.	4gg)	.	.	.
+8GGJ	.	.	.	8gJ	.	.	.	.	.	.	.	.	.	.	.
+12...ryy	.	.	.	12...ryy	.	.	.	.	.	12...ryy	.	12...ryy	.	.	.
+=117	=117	=117	=117	=117	=117	=117	=117	=117	=117	=117	=117	=117	=117	=117	=117
+!!Error: measure 117, staff 8 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 117, staff 6 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 117, staff 3 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 117, staff 2 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+8GGL	.	1r	.	8gL	.	1r	.	1r	.	(>16ddL	.	(>16ffL	.	1r	.
+.	.	.	.	.	.	.	.	.	.	16eeJ	.	16eeJ	.	.	.
+8GG	.	.	.	8g	.	.	.	.	.	4ff)	.	4dd)	.	.	.
+8GGJ	.	.	.	8gJ	.	.	.	.	.	.	.	.	.	.	.
+12...ryy	.	.	.	12...ryy	.	.	.	.	.	12...ryy	.	12...ryy	.	.	.
+!!LO:LB
+=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118	=118
+!!Error: measure 118, staff 8 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 118, staff 6 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 118, staff 4 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 118, staff 3 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 118, staff 2 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 118, staff 1 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+8CL	.	1r	.	4g	.	1r	.	8c	.	8r	.	8r	.	16ccL	f
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16gg	.
+8C	.	.	.	.	.	.	.	16cL	.	8ccL	.	8eeL	.	(>32gg	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32aa)	.
+.	.	.	.	.	.	.	.	16c	.	.	.	.	.	16gg	.
+8CJ	.	.	.	8r	.	.	.	16c	.	8ccJ	.	8eeJ	.	16ccc	.
+.	.	.	.	.	.	.	.	16cJ	.	.	.	.	.	16ggJ	.
+12...ryy	.	.	.	12...ryy	.	.	.	12...ryy	.	12...ryy	.	12...ryy	.	12...ryy	.
+=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119	=119
+!!Error: measure 119, staff 8 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 119, staff 4 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 119, staff 3 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 119, staff 2 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 119, staff 1 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+8GGL	.	1r	.	1r	.	1r	.	4g	.	4g	.	8ddL	.	8ffL	.
+8GG	.	.	.	.	.	.	.	.	.	.	.	8cc	.	8ee	.
+8GGJ	.	.	.	.	.	.	.	8g	.	8g	.	8ggJ	.	8ddJ	.
+12...ryy	.	.	.	.	.	.	.	12...ryy	.	12...ryy	.	12...ryy	.	12...ryy	.
+=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120	=120
+!!Error: measure 120, staff 8 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 120, staff 4 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 120, staff 3 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 120, staff 2 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 120, staff 1 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+8CL	.	1r	.	1r	.	1r	.	8c	.	8r	.	8r	.	16ccL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16gg	.
+8C	.	.	.	.	.	.	.	16cL	.	8ccL	.	8eeL	.	(>32gg	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	32aa)	.
+.	.	.	.	.	.	.	.	16c	.	.	.	.	.	16gg	.
+8CJ	.	.	.	.	.	.	.	16c	.	8ccJ	.	8eeJ	.	16ccc	.
+.	.	.	.	.	.	.	.	16cJ	.	.	.	.	.	16ggJ	.
+12...ryy	.	.	.	.	.	.	.	12...ryy	.	12...ryy	.	12...ryy	.	12...ryy	.
+=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121	=121
+!!Error: measure 121, staff 8 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 121, staff 4 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 121, staff 3 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 121, staff 2 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 121, staff 1 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+8GGL	.	1r	.	1r	.	1r	.	4G	.	4g	.	8ddL	.	8ffL	.
+8GG	.	.	.	.	.	.	.	.	.	.	.	8cc	.	8ee	.
+8GGJ	.	.	.	.	.	.	.	8G	.	8g	.	8gJ	.	8ddJ	.
+12...ryy	.	.	.	.	.	.	.	12...ryy	.	12...ryy	.	12...ryy	.	12...ryy	.
+!!LO:LB
+=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122	=122
+!!Error: measure 122, staff 8 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 122, staff 7 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 122, staff 4 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 122, staff 3 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 122, staff 2 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 122, staff 1 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+4C	.	8g	.	1r	.	1r	.	4c	.	8gL	.	8e	.	16ccL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ee	.
+.	.	16gL	.	.	.	.	.	.	.	8g	.	16eeL	.	16gg	.
+.	.	16g	.	.	.	.	.	.	.	.	.	16dd	.	16ff	.
+8r	.	16g	.	.	.	.	.	8r	.	8gJ	.	16cc	.	16ee	.
+.	.	16gJ	.	.	.	.	.	.	.	.	.	16ddJ	.	16ddJ	.
+12...ryy	.	12...ryy	.	.	.	.	.	12...ryy	.	12...ryy	.	12...ryy	.	12...ryy	.
+=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123	=123
+!!Error: measure 123, staff 7 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 123, staff 3 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 123, staff 2 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 123, staff 1 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+1r	.	4cc	.	1r	.	1r	.	1r	.	8gL	.	8ee	.	16ccL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16ee	.
+.	.	.	.	.	.	.	.	.	.	8g	.	16ddL	.	16ff	.
+.	.	.	.	.	.	.	.	.	.	.	.	16ee	.	16gg	.
+.	.	16gL	.	.	.	.	.	.	.	8gJ	.	16ff	.	16aa	.
+.	.	16gJ	.	.	.	.	.	.	.	.	.	16ddJ	.	16bbJ	.
+.	.	12...ryy	.	.	.	.	.	.	.	12...ryy	.	12...ryy	.	12...ryy	.
+=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124	=124
+!!Error: measure 124, staff 7 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 124, staff 3 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 124, staff 2 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 124, staff 1 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+1r	.	4cc	.	1r	.	1r	.	1r	.	8gL	.	8.eeL	.	16cccL	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16aa	.
+.	.	.	.	.	.	.	.	.	.	8g	.	.	.	16gg	.
+.	.	.	.	.	.	.	.	.	.	.	.	16ffJ	.	16ff	.
+.	.	16gL	.	.	.	.	.	.	.	8gJ	.	16eeL	.	16ee	.
+.	.	16gJ	.	.	.	.	.	.	.	.	.	16ddJ	.	16ddJ	.
+.	.	12...ryy	.	.	.	.	.	.	.	12...ryy	.	12...ryy	.	12...ryy	.
+=125	=125	=125	=125	=125	=125	=125	=125	=125	=125	=125	=125	=125	=125	=125	=125
+!!Error: measure 125, staff 7 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 125, staff 3 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 125, staff 2 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 125, staff 1 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+.	.	.	.	.	.	.	.	.	.	.	.	(>8qdd	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	(>8qdd	.
+1r	.	4g	.	1r	.	1r	.	1r	.	4e	.	4cc)	.	4cc)	.
+.	.	8r	.	.	.	.	.	.	.	8r	.	8r	.	8r	.
+.	.	12...ryy	.	.	.	.	.	.	.	12...ryy	.	12...ryy	.	12...ryy	.
+=126	=126	=126	=126	=126	=126	=126	=126	=126	=126	=126	=126	=126	=126	=126	=126
+!LO:TX:a:iB:t=Tutti	!	!LO:TX:a:iB:t=Tutti	!	!LO:TX:a:iB:t=Tutti	!	!LO:TX:a:iB:t=Tutti	!	!LO:TX:a:iB:t=Tutti	!	!LO:TX:a:iB:t=Tutti	!	!LO:TX:a:iB:t=Tutti	!	!LO:TX:a:iB:t=Tutti	!
+8CL	ff	8c	ff	8r	ff	16ccL	ff	8cc	ff	8ccL	ff	8eeL	ff	16ccL	ff
+.	.	.	.	.	.	16gg	.	.	.	.	.	.	.	16gg	.
+16C	.	16cL	.	8r	.	(>32gg	.	16ccL	.	8cc	.	8ee	.	(>32gg	.
+.	.	.	.	.	.	32aa)	.	.	.	.	.	.	.	32aa)	.
+16C	.	16c	.	.	.	16gg	.	16cc	.	.	.	.	.	16gg	.
+16C	.	16c	.	8eee	.	16ccc	.	16cc	.	8ccJ	.	8eeJ	.	16ccc	.
+16CJ	.	16cJ	.	.	.	16ggJ	.	16ccJ	.	.	.	.	.	16ggJ	.
+!!LO:LB
+=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127	=127
+!!Error: measure 127, staff 8 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 127, staff 7 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 127, staff 6 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 127, staff 5 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 127, staff 4 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 127, staff 1 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+4GG	.	4g	.	8dddL	.	8ffL	.	4g	.	1r	.	1r	.	8ffL	.
+.	.	.	.	8ccc	.	8ee	.	.	.	.	.	.	.	8ee	.
+8r	.	8r	.	8bbJ	.	8ddJ	.	8r	.	.	.	.	.	8ddJ	.
+12...ryy	.	12...ryy	.	12...ryy	.	12...ryy	.	12...ryy	.	.	.	.	.	12...ryy	.
+=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128	=128
+8CL	.	8cc	.	4ccc	.	16ccL	.	8c	.	8ccL	.	8eeL	.	16ccL	.
+.	.	.	.	.	.	16gg	.	.	.	.	.	.	.	16gg	.
+16C	.	16ccL	.	.	.	(>32gg	.	16cL	.	8cc	.	8ee	.	(>32gg	.
+.	.	.	.	.	.	32aa)	.	.	.	.	.	.	.	32aa)	.
+16C	.	16cc	.	.	.	16gg	.	16c	.	.	.	.	.	16gg	.
+16C	.	16cc	.	8eee	.	16ccc	.	16c	.	8ccJ	.	8eeJ	.	16ccc	.
+16CJ	.	16ccJ	.	.	.	16ggJ	.	16cJ	.	.	.	.	.	16ggJ	.
+=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129	=129
+!!Error: measure 129, staff 8 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 129, staff 7 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 129, staff 6 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 129, staff 5 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 129, staff 4 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 129, staff 3 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+!!Error: measure 129, staff 1 is underfilled: adding token 12...ryy at end of measure to complete its duration.
+4GG	.	4g	.	8dddL	.	8ffL	.	4g	.	4g	.	1r	.	8ffL	.
+.	.	.	.	8ccc	.	8ee	.	.	.	.	.	.	.	8ee	.
+8r	.	8r	.	8bbJ	.	8ddJ	.	8r	.	8r	.	.	.	8ddJ	.
+12...ryy	.	12...ryy	.	12...ryy	.	12...ryy	.	12...ryy	.	12...ryy	.	.	.	12...ryy	.
+=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130	=130
+8CL	.	8cL	.	8cccL	.	8ccL	.	8ccL	.	8eeL	.	8ggL	.	8cc	.
+16C	.	8c	.	8ccc	.	8ee	.	8cc	.	8ee	.	8gg	.	8cccL	.
+16C	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16C	.	8cJ	.	8cccJ	.	8eeJ	.	8ccJ	.	8eeJ	.	8ggJ	.	8cccJ	.
+16CJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131	=131
+4C;	.	4c;	.	4ccc;	.	4ee;	.	4cc;	.	4ee;	.	4gg;	.	4ccc;	.
+8r	.	8r	.	8r	.	8r	.	8r	.	8r	.	8r	.	8r	.
+==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!RDF**kern: > = above

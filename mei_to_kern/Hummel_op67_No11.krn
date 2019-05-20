@@ -1,0 +1,176 @@
+!!!COM: Johann Nepomuk Hummel
+!!!OTL: Préludes op. 67, No. 11
+**kern	**dynam	**kern	**dynam
+*part2	*part2	*part1	*part1
+*staff2	*	*staff1	*
+*clefF4	*	*clefG2	*
+*k[f#c#g#d#a#]	*	*k[f#c#g#d#a#]	*
+*M4/4	*	*M4/4	*
+!	!	!LO:TX:i:t=armonioso	!
+*^	*	*^	*
+16BBL	2BB	p	4ryy	4r	p
+[16F#y	.	.	.	.	.
+[16D#y	.	.	.	.	.
+16BJ	.	.	.	.	.
+4B 4F#y] 4D#y]	.	.	(<16d#yL	4d#y	.
+.	.	.	16b	.	.
+.	.	.	16f#y	.	.
+.	.	.	16dd#yJ)	.	.
+16BBL	2BB	.	4ryy	4r	.
+[16G#y	.	.	.	.	.
+[16D#y	.	.	.	.	.
+16BJ	.	.	.	.	.
+4B 4G#y] 4D#y]	.	.	16g#yL	(<4g#y	.
+.	.	.	16dd#y	.	.
+.	.	.	16b	.	.
+.	.	.	16gg#yJ)	.	.
+=2	=2	=2	=2	=2	=2
+16BBL	2BB	.	4r	4ryy	.
+[16G#y	.	.	.	.	.
+[16C#y	.	.	.	.	.
+16BJ	.	.	.	.	.
+4B 4G#y] 4C#y]	.	.	16e#yL	(<4e#y	.
+.	.	.	16cc#y	.	.
+.	.	.	16g#y	.	.
+.	.	.	16ee#yJ)	.	.
+16AA#yL	2AA#y	.	4r	4ryy	.
+[16F#y	.	.	.	.	.
+[16C#y	.	.	.	.	.
+16A#yJ	.	.	.	.	.
+4A#y 4F#y] 4C#y]	.	.	(<16f#yL	4f#y	.
+.	.	.	16cc#y	.	.
+.	.	.	16a#y	.	.
+.	.	.	16ff#yJ)	.	.
+*v	*v	*	*	*	*
+!!LO:LB
+=3	=3	=3	=3	=3
+4A#y 4AA#y	.	(>16d#yL	4d#y	.
+.	.	16b	.	.
+.	.	16f#y	.	.
+.	.	16dd#yJ	.	.
+2G#y 2GG#y	.	16enL	4en	.
+!	!	!LO:TX:i:t=cresc. e sempre più pressante	!	!
+.	.	16b	.	.
+.	.	16g#y	.	.
+.	.	(>16eenJ)	.	.
+.	.	16c##yL	4c##y	.
+.	.	16a#y	.	.
+.	.	16e#y	.	.
+.	.	16cc##yJ	.	.
+4F#y 4FF#y	.	16d#yL	4d#y	.
+.	.	16a#y	.	.
+.	.	16f#y	.	.
+.	.	16dd#yJ)	.	.
+=4	=4	=4	=4	=4
+4F#y 4FF#y	.	(>16B#yL	4B#y	.
+.	.	16g#y	.	.
+.	.	16d#y	.	.
+.	.	16b#yJ	.	.
+2E 2EE	.	16c#yL	4c#y	.
+.	.	16g#y	.	.
+.	.	16e	.	.
+.	.	(>16cc#yJ)	.	.
+.	.	16A#yL	4A#y	.
+.	.	16f#y	.	.
+.	.	16c#y	.	.
+.	.	16a#yJ	.	.
+4D#y 4DD#y	.	16BnL	4Bn	.
+.	.	16f#y	.	.
+.	.	16d#y	.	.
+.	.	16bnJ)	.	.
+*	*	*clefF4	*	*
+=5	=5	=5	=5	=5
+4C#y (<4CC#y	.	16EL	(>4E	f
+.	.	16c#y	.	.
+.	.	16G#y	.	.
+.	.	16c#yJ	.	.
+4BB 4BBB	.	16EL	4E	.
+.	.	16c#y	.	.
+.	.	16Gn	.	.
+.	.	16eJ	.	.
+4AA#y 4AAA#y	.	16EL	4E	.
+.	.	16c#y	.	.
+.	.	16F#y	.	.
+.	.	16eJ	.	.
+4GG 4GGG)	.	16D#yL	4D#y	.
+.	.	16B	.	.
+.	.	16F#y	.	.
+.	.	16d#yJ)	.	.
+*	*	*v	*v	*
+*	*	*clefG2	*
+!!LO:LB
+=6	=6	=6	=6
+*^	*	*	*
+*	*^	*	*	*
+!!Warning: measure 6, staff 2 padded. adding token 12...ryy at end ot measure to extend its duration.
+!!Error: measure 6, staff 2 is underfilled: adding token 2ryy at end of measure to complete its duration.
+!!Error: measure 6 staff 1 is overfilled: 9.5 quarter notes instead of 9.
+4r	1EE^	4ryy	p	2r	sf
+8r	.	4GG#y	.	.	.
+8C#y	.	.	.	.	.
+*	*v	*v	*	*	*
+2E	.	.	14r	.
+.	.	.	14G#yL	.
+.	.	.	14c#y	.
+.	.	.	14e	.
+.	.	.	14g#y	.
+.	.	.	14cc#y	.
+.	.	.	14eeJ	.
+4ryy	4ryy	.	8.gg#yL	.
+.	.	.	16aa#yJ	.
+4.f#y 4.d#y 4.B 4.F#y	2ryy	.	32bbL	.
+.	.	.	32ff##y	.
+.	.	.	32gg#y	.
+.	.	.	32dd#y	.
+.	.	.	32ee	.
+.	.	.	32b#y	.
+.	.	.	32cc#y	.
+.	.	.	32gg#yJ	.
+!	!	!	!LO:TX:i:t=allegro	!
+.	.	.	8ff#y	.
+8r	.	.	4fff#y	.
+!	!	!	!LO:TX:a:i:t=Andante.	!
+12...ryy	8FF#y 8FFF#y	.	.	.
+.	.	.	32qeeeL	.
+.	.	.	32qddd	.
+.	.	.	32qccc	.
+.	.	.	32qbbn	.
+.	.	.	32qaa	.
+.	.	.	32qgg	.
+.	.	.	32qff	.
+.	.	.	32qee	.
+.	.	.	32qdd	.
+.	.	.	32qcc	.
+.	.	.	32qb	.
+.	.	.	32qa	.
+.	.	.	32qg	.
+.	.	.	32qf	.
+.	.	.	32qe	.
+.	.	.	32qd	.
+.	.	.	32qc	.
+.	.	.	32qB	.
+.	.	.	32qA	.
+.	.	.	32qG	.
+.	.	.	32qF`J	.
+.	8r	.	4r	.
+.	4r	.	.	.
+.	.	.	4A#y 4F#y 4E	.
+=7	=7	=7	=7	=7
+!!Error: measure 7, staff 2 is underfilled: adding token 2.ryy at end of measure to complete its duration.
+!!Error: measure 7, staff 1 is underfilled: adding token 4%9ryy at end of measure to complete its duration.
+2c#y 2A#y 2F#y 2E	2BB 2BBB	p	4%9ryy	.
+2ryy	16BBBL	.	.	.
+.	16DD	.	.	.
+.	16FF	.	.	.
+.	16BBJ	.	.	.
+.	16DL	.	.	.
+.	16F	.	.	.
+.	16BJ	.	.	.
+.	2BBB	.	.	.
+2r	.	.	.	.
+*v	*v	*	*	*
+2.ryy	.	.	.
+==	==	==	==
+*-	*-	*-	*-
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below

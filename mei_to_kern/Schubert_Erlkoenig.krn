@@ -1,0 +1,135 @@
+!!!COM: Franz Schubert
+!!!OTL: Erlkönig
+**kern	**dynam	**kern	**dynam	**kern	**text
+*part3	*part3	*part2	*part2	*part1	*part1
+*staff3	*	*staff2	*	*staff1	*staff1
+*clefF4	*	*clefG2	*	*clefG2	*
+*k[b-e-]	*	*k[b-e-]	*	*k[b-e-]	*
+*M4/4	*	*M4/4	*	*M4/4	*
+!!Error: measure 1, staff 2 is underfilled: adding token 2.ryy at end of measure to complete its duration.
+!	!	!	!	!LO:TX:a:i:t=Schnell.	!
+1r	.	12GL 12g	f	1r	.
+.	.	12G 12g	.	.	.
+.	.	12GJ 12g	.	.	.
+.	.	2.ryy	.	.	.
+=2	=2	=2	=2	=2	=2
+!!Error: measure 2, staff 2 is underfilled: adding token 1ryy at end of measure to complete its duration.
+12GGL	f	1ryy	.	1r	.
+12AA	.	.	.	.	.
+12BBJ	.	.	.	.	.
+12CL	.	.	.	.	.
+12D	.	.	.	.	.
+12EJ	.	.	.	.	.
+4D'	.	.	.	.	.
+4BB'	.	.	.	.	.
+=3	=3	=3	=3	=3	=3
+!!Error: measure 3, staff 2 is underfilled: adding token 1ryy at end of measure to complete its duration.
+4GG'	.	1ryy	.	1r	.
+4r	.	.	.	.	.
+2r	.	.	.	.	.
+!!Error: measure 6, staff 2 is underfilled: adding token 1ryy at end of measure to complete its duration.
+2.CC 2.C	.	1ryy	<	1r	.
+4CC# 4C#	.	.	[	.	.
+=5	=5	=5	=5	=5	=5
+!!Error: measure 7, staff 1 is underfilled: adding token 1ryy at end of measure to complete its duration.
+1DD 1D	.	.	]	1ryy	.
+!!Error: measure 13, staff 2 is underfilled: adding token 1ryy at end of measure to complete its duration.
+1CC 1C	.	1ryy	pp	1r	.
+=7	=7	=7	=7	=7	=7
+!!Error: measure 14, staff 2 is underfilled: adding token 1ryy at end of measure to complete its duration.
+1CC# 1C#	.	1ryy	.	1r	.
+=8	=8	=8	=8	=8	=8
+!!Error: measure 15, staff 2 is underfilled: adding token 1ryy at end of measure to complete its duration.
+(<12DDL	.	1ryy	.	2r	.
+12FF#	.	.	.	.	.
+12GGJ	.	.	.	.	.
+12AAL	.	.	.	.	.
+12BBn	.	.	.	.	.
+12C#J)	.	.	.	.	.
+2D	>	.	.	4r	.
+.	]	.	.	4a	Wer
+=9	=9	=9	=9	=9	=9
+!!Error: measure 16, staff 2 is underfilled: adding token 1ryy at end of measure to complete its duration.
+1D	.	1ryy	.	2b	rei-
+.	.	.	.	4a	-tet
+.	.	.	.	4g	so
+=10	=10	=10	=10	=10	=10
+!!Error: measure 17, staff 3 is underfilled: adding token 1ryy at end of measure to complete its duration.
+!!Error: measure 17, staff 2 is underfilled: adding token 1ryy at end of measure to complete its duration.
+1ryy	.	1ryy	.	2.a	spät
+.	.	.	.	4a	durch
+=11	=11	=11	=11	=11	=11
+!!Error: measure 18, staff 3 is underfilled: adding token 1ryy at end of measure to complete its duration.
+!!Error: measure 18, staff 2 is underfilled: adding token 1ryy at end of measure to complete its duration.
+1ryy	.	1ryy	.	2b	Nacht
+.	.	.	.	2g	und
+=12	=12	=12	=12	=12	=12
+!!Error: measure 19, staff 3 is underfilled: adding token 1ryy at end of measure to complete its duration.
+!!Error: measure 19, staff 2 is underfilled: adding token 1ryy at end of measure to complete its duration.
+1ryy	.	1ryy	.	2dd	Wind?
+.	.	.	.	2r	.
+=13	=13	=13	=13	=13	=13
+!!Error: measure 20, staff 3 is underfilled: adding token 1ryy at end of measure to complete its duration.
+!!Error: measure 20, staff 2 is underfilled: adding token 1ryy at end of measure to complete its duration.
+1ryy	.	1ryy	.	2r	.
+.	.	.	.	4r	.
+.	.	.	.	4dd	Es
+=14	=14	=14	=14	=14	=14
+!!Error: measure 21, staff 2 is underfilled: adding token 1ryy at end of measure to complete its duration.
+1GG 1G	.	1ryy	.	2.dd	ist
+.	.	.	.	4gg	ist
+=15	=15	=15	=15	=15	=15
+!!Error: measure 2, staff 2 is underfilled: adding token 1ryy at end of measure to complete its duration.
+2.CC	.	1ryy	.	2gg	Va-
+.	.	.	.	4ee	-ter
+4E	.	.	.	4cc	mit
+=16	=16	=16	=16	=16	=16
+!!Error: measure 23, staff 2 is underfilled: adding token 1ryy at end of measure to complete its duration.
+4FF	.	1ryy	.	2.ff	sei-
+4r	.	.	.	.	.
+4FFF	.	.	.	.	.
+4r	.	.	.	4a	-nem
+=17	=17	=17	=17	=17	=17
+!!Warning: measure 24, staff 2 padded. adding token 4%5ryy at end ot measure to extend its duration.
+!!Warning: measure 24, staff 1 padded. adding token 4ryy at end ot measure to extend its duration.
+!!Error: measure 24 staff 3 is overfilled: 5 quarter notes instead of 4.
+!!Error: measure 24, staff 2 is underfilled: adding token 1ryy at end of measure to complete its duration.
+8BBL	.	4%5ryy	.	2b	Kind
+8C	.	.	.	.	.
+8DJ	.	.	.	.	.
+8EL	.	.	.	.	.
+8F	.	.	.	4r	.
+8G-J	.	.	.	.	.
+4F	.	.	.	4b	er
+4BB'	.	.	.	4ryy	.
+=18	=18	=18	=18	=18	=18
+!!Error: measure 25, staff 2 is underfilled: adding token 1ryy at end of measure to complete its duration.
+1BBB^	.	1ryy	.	2.ee	hat
+.	.	.	.	4a	den
+=19	=19	=19	=19	=19	=19
+!!Error: measure 26, staff 3 is underfilled: adding token 1ryy at end of measure to complete its duration.
+!!Error: measure 26, staff 2 is underfilled: adding token 1ryy at end of measure to complete its duration.
+.	.	.	.	4qcc	.
+1ryy	.	1ryy	.	2b	Kna-
+.	.	.	.	2b	-ben
+=20	=20	=20	=20	=20	=20
+!!Error: measure 27, staff 3 is underfilled: adding token 1ryy at end of measure to complete its duration.
+!!Error: measure 27, staff 2 is underfilled: adding token 1ryy at end of measure to complete its duration.
+1ryy	.	1ryy	.	2ee	wohl
+.	.	.	.	4.a	in
+.	.	.	.	8a	dem
+=21	=21	=21	=21	=21	=21
+!!Error: measure 28, staff 3 is underfilled: adding token 1ryy at end of measure to complete its duration.
+!!Error: measure 28, staff 2 is underfilled: adding token 1ryy at end of measure to complete its duration.
+.	.	.	.	4qcc	.
+1ryy	.	1ryy	.	2b	Arm,
+.	.	.	.	4r	.
+.	.	.	.	4b	er
+=22	=22	=22	=22	=22	=22
+!!Error: measure 29, staff 3 is underfilled: adding token 1ryy at end of measure to complete its duration.
+!!Error: measure 29, staff 2 is underfilled: adding token 1ryy at end of measure to complete its duration.
+1ryy	.	1ryy	.	2.dd	fasst
+.	.	.	.	4a	ihn
+=	=	=	=	=	=
+*-	*-	*-	*-	*-	*-
+!!!RDF**kern: < = below

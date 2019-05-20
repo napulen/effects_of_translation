@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 2.0 Partwise//EN"
+                                "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="3.0">
+  <movement-title>Bourrée in E Minor</movement-title>
+  <identification>
+    <encoding>
+      <software>python-ly 0.9.5</software>
+      <encoding-date>2019-05-18</encoding-date>
+    </encoding>
+    <creator type="composer">J. S. Bach</creator>
+    <mutopiacomposer>BachJS</mutopiacomposer>
+    <opus>BWV996</opus>
+    <date>1700s</date>
+    <style>Baroque</style>
+    <instrument>Lute or Lute-Harpischord (Lautenwerk)</instrument>
+    <source>Band I: J.S. Bach: Compositionen für die Laute, Denkmäler alter Lautenkunst Wolfenbüttel: Julius Zwißlers Verlag, 1921. Plate Band I. (among other sources)</source>
+    <maintainer>Rudy Matela</maintainer>
+    <maintainerEmail>rudy [dot] matela [at] gmail [dot] com</maintainerEmail>
+    <maintainerWeb>http://matela.com.br/</maintainerWeb>
+    <moreInfo>Other Public Domain Sheet Music: http://imslp.org/wiki/Lute_Pieces,_BWV_995-1000_(Bach,_Johann_Sebastian)</moreInfo>
+    <footer>Mutopia-2011/04/01-1743</footer>
+    <tagline>  Sheet music from http://www.MutopiaProject.org www.  MutopiaProject  .org  •  Free to download, with the freedom to distribute, modify and perform. Typeset using http://www.LilyPond.org www.  LilyPond  .org by   .  Reference:  This sheet music has been placed in the public domain by the typesetter, for details see:  http://creativecommons.org/licenses/publicdomain http://creativecommons.org/licenses/publicdomain</tagline>
+    <rights>Public Domain</rights>
+  </identification>
+  <part-list />
+</score-partwise>

@@ -1,0 +1,782 @@
+!!!OTL: Quartett in Es für 2 Violinen, Viola und Violoncello, 2. Satz, KV 428/02
+!!!system-decoration: [(s1,s2,s3,s4)]
+**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**kern	**kern	**dynam
+*part4	*part4	*part4	*part4	*part4	*part3	*part3	*part3	*part3	*part3	*part2	*part2	*part2	*part2	*part2	*part1	*part1	*part1	*part1	*part1
+*staff16	*staff15	*staff14	*staff13	*	*staff12	*staff11	*staff10	*staff9	*	*staff8	*staff7	*staff6	*staff5	*	*staff4	*staff3	*staff2	*staff1	*
+*I"Violoncello	*	*	*	*	*I"Viola	*	*	*	*	*I"Violino II	*	*	*	*	*I"Violino I	*	*	*	*
+*clefF4	*	*clefC3	*	*clefG2	*	*clefG2	*
+*k[b-e-a-d-]	*	*k[b-e-a-d-]	*	*k[b-e-a-d-]	*	*k[b-e-a-d-]	*
+*M6/8	*	*M6/8	*	*M6/8	*	*M6/8	*
+(8AA-yL	.	(4.A-y	.	(4.c	.	[4.e-y	.
+8C	.	.	.	.	.	.	.
+8E-yJ)	.	.	.	.	.	.	.
+(8GGL	.	4.B-y)	.	4.d-y)	.	4.e-y_	.
+8BB-y	.	.	.	.	.	.	.
+8E-yJ)	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2
+(8AA-yL	.	(4A-y	.	(8cL	.	(8e-y	.
+8C	.	.	.	8e-y	.	4a-y)	.
+8FJ)	.	8c)	.	8fJ)	.	.	.
+(8D-yL	.	(4.B-y	.	(8f_	.	(8a-y_	.
+8E-y	.	.	.	4e-y)	.	4g)	.
+8BB-yJ)	.	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3
+(8BBnL	.	4.A-y	.	(8e-y_	.	(8g_	.
+8C	.	.	.	4d-y)	.	4f)	.
+8D-yJ	.	.	.	.	.	.	.
+8BB-L	.	4.G	.	(8d-y_	.	(8f_	.
+8C	.	.	.	4c)	.	4e-y)	.
+8GGJ)	.	.	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4
+(8AA-yL	cresc.	4.F)	cresc.	(8c_	cresc.	(8e-y_	cresc.
+8AAn	.	.	.	4B-y)	.	4d-y)	.
+8BB-yJ	.	.	.	.	.	.	.
+8GGL	.	(8F-	.	(8B-y_	.	(8d-y_	.
+8AA-	.	4E-y)	.	4A-y)	.	4c)	.
+8GG-J)	.	.	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5
+(8FFL	.	(8FnL	.	(8A-yL_	.	(8d-yL	.
+8EE-y	.	8G	.	8B-y	.	8e-y	.
+8DDnJ)	.	8A-yJ)	.	8c-J)	.	8fJ)	.
+8EE-yL	.	(8A-yL	.	(8cnL	.	4e-y	.
+8E-yJ	.	8GJ)	.	8B-yJ)	.	.	.
+8r	.	8r	.	8r	.	(16.d-yL	.
+.	.	.	.	.	.	32B-yJ)	.
+=6	=6	=6	=6	=6	=6	=6	=6
+(8A-yL	.	(4.a-y	.	4r	.	4A-y	.
+8c	.	.	.	.	.	.	.
+8e-yJ	.	.	.	8r	.	8r	.
+8GL	.	4.ee-y)	.	(4.ee-y	.	4r	.
+8B-y	.	.	.	.	.	.	.
+8e-yJ)	.	.	.	.	.	8r	.
+!!LO:LB
+=7	=7	=7	=7	=7	=7	=7	=7
+(8FL	.	(8ee-y_	.	4.aa-y)	.	(4.aa-y	.
+8A-y	.	4dd-y)	.	.	.	.	.
+8d-yJ	.	.	.	.	.	.	.
+8E-yL	.	(8cc	.	(8aa-y_	.	4.eee-y)	.
+8B-y	.	4b-y)	.	4gg)	.	.	.
+8e-yJ)	.	.	.	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8
+(8fL	crescendo	(8anL	crescendo	(8ccL	crescendo	(8eee-y_	crescendo
+8B-y	.	8b-y	.	8dd-y	.	4ddd-y)	.
+8d-yJ	.	8a-J	.	8cc-J	.	.	.
+8e-yL	.	8gL	.	8b-yL	.	(8ddd-y_	.
+8A-y	.	8a-y	.	8cc-y	.	4ccc-)	.
+8c-J)	.	8g-J)	.	8b-yJ)	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9
+(4.Dn	.	(4.f	.	(8a-yL	.	(8ccc-yL_	.
+.	.	.	.	8b-y	.	8bb-y	.
+.	.	.	.	8cc-J)	.	8aa-yJ)	.
+8E-yL	.	16.gnL	.	(16.b-yL	.	(4gg	.
+.	.	32a-y	.	32ccn	.	.	.
+8En	.	8b-y	.	8dd-y	.	.	.
+8FJ)	.	8a-yJ)	.	8ccJ)	.	8aa-y)	.
+=10	=10	=10	=10	=10	=10	=10	=10
+(4G	.	8r	.	(4b-y	.	(8ee-yL	.
+.	.	8e-yL	.	.	.	8dd-y	.
+8A-y)	.	8e-yJ	.	8a-y)	.	8ccJ)	.
+.	.	.	.	(<16qb-y	.	.	.
+.	.	.	.	.	.	(<16qdd-y	.
+4E-y	.	4e-y	.	8a-yL)	.	8ccL)	.
+.	.	.	.	8gJ	.	8b-yJ	.
+8r	.	8r	.	8r	.	(8gg	.
+=11	=11	=11	=11	=11	=11	=11	=11
+8r	.	8r	.	8r	.	4.b-y)	.
+(8GL	.	(8B-yL	.	(8e-yL	.	.	.
+8E-yJ)	.	8e-yJ)	.	8gJ)	.	.	.
+4B-y	.	(8enL	.	(8gL	.	4b-y]	.
+.	.	8fJ)	.	8a-yJ)	.	.	.
+8r	.	8r	.	8r	.	(8aa-y	.
+=12	=12	=12	=12	=12	=12	=12	=12
+8r	.	8r	.	8r	.	4.b-y)	.
+(8DnL	.	(8FL	.	(8B-yL	.	.	.
+8BB-yJ)	.	8dnJ)	.	8fJ)	.	.	.
+4E-y	.	(8dL	.	(8f#L	.	4b-y]	.
+.	.	8e-yJ)	.	8gJ)	.	.	.
+8r	.	8r	.	8r	.	(8bb-y	.
+=13	=13	=13	=13	=13	=13	=13	=13
+8r	cre	8r	cre	8r	cre	4.dd-)	cre
+(8FL	.	(8fL	.	(8a-yL	.	.	.
+8GJ	.	8e-yJ)	.	8b-yJ)	.	.	.
+4A-y	.	(4e-y	.	(8b-yL_	.	(8dd-yL_	.
+.	.	.	.	8a-y	.	8cc	.
+8G)	.	8c)	.	8enJ)	.	8b-yJ)	.
+=14	=14	=14	=14	=14	=14	=14	=14
+8FL	scendo	4.c	.	8fL	scendo	8a-yL	scendo
+(8FF	.	.	.	(8cc	.	(16bb-y	.
+.	.	.	.	.	.	16aa-y	.
+8AA-yJ)	.	.	.	16b-y	.	16gg	.
+.	.	.	.	16a-yJ)	.	16ffJ)	.
+4BB-y	.	4B-y	.	(8gL	.	(8ee-yL	.
+.	.	.	.	8fJ)	.	8ddnJ)	.
+8r	.	(8b-y	.	8r	.	8r	.
+=15	=15	=15	=15	=15	=15	=15	=15
+8r	.	4.cc-)	.	8r	.	8r	.
+(8FL	.	.	.	(8dnL	.	8r	.
+8E-yJ	.	.	.	8e-yJ	.	(8ggn	.
+4.Dn)	.	4cc-y]	.	8enL	.	4.aa-y)	.
+.	.	.	.	8fJ)	.	.	.
+.	.	(8b-y	.	8r	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16
+8r	.	4.cc-)	.	8r	.	4aa-y]	.
+(8FL	.	.	.	(8dL	.	.	.
+8E-yJ	.	.	.	8eJ	.	(8gg	.
+4.Dn)	.	4cc-y]	.	8enL	.	4.aa-y)	.
+.	.	.	.	8fJ)	.	.	.
+.	.	(8b-y	.	8r	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17
+8r	cresc.	(4.cc-)	cresc.	8r	cresc.	4aa-y]	cresc.
+(8FL	.	.	.	(8dL	.	.	.
+8E-yJ	.	.	.	8eJ	.	(8aan	.
+4Dn	.	4.b-y)	.	8enL	.	8bb-yL	.
+.	.	.	.	8f	.	8aa-	.
+8E-y)	.	.	.	8gJ)	.	8ggJ)	.
+=18	=18	=18	=18	=18	=18	=18	=18
+(8A-yL	.	(8a-yL	.	(8ccL	.	(16ggL	.
+.	.	.	.	.	.	16ff	.
+8B-y)	.	8g	.	8b-y	.	8ee-y	.
+8BB-yJ	.	8fJ)	.	8a-yJ)	.	8ddnJ)	.
+8E-yL	.	4e-y	.	4g	.	4ee-y	.
+8EE-yJ	.	.	.	.	.	.	.
+8r	.	8r	.	8r	.	(8cc	.
+=19	=19	=19	=19	=19	=19	=19	=19
+8r	.	8r	.	8r	.	4.dd-)	.
+8r	.	(8B-yL	.	(8gL	.	.	.
+(8F-	.	8A-yJ)	.	8a-yJ	.	.	.
+4.E-y)	.	4.G	.	8anL	.	4dd-y]	.
+.	.	.	.	8b-yJ)	.	.	.
+.	.	.	.	8r	.	(8cc	.
+!!LO:LB
+=20	=20	=20	=20	=20	=20	=20	=20
+4E-y]	.	8r	.	8r	.	4.dd-y)	cre
+.	.	(8B-yL	.	(8gL	.	.	.
+(8F-	.	8A-yJ	.	8aJ	.	.	.
+4.E-y)	.	4.G)	.	8anL	.	4dd-y]	.
+.	.	.	.	8b-yJ)	.	.	.
+.	.	.	.	8r	.	(8cc	.
+=21	=21	=21	=21	=21	=21	=21	=21
+(4E-y_	crescendo	[2.e-y	cresc.	8r	cresc.	4.dd-y)	scendo
+.	.	.	.	(8gL	.	.	.
+8Fn	.	.	.	8aJ	.	.	.
+8F#L	.	.	.	8anL	.	(4dd-y_	.
+8G	.	.	.	8b-y	.	.	.
+8A-yJ)	.	.	.	8a-J)	.	8cc)	.
+=22	=22	=22	=22	=22	=22	=22	=22
+8B-y	.	8e-y_	.	(8f#L	.	(8anL	.
+8r	.	8r	.	8g	.	8b-y	.
+8r	.	8r	.	8e-yJ)	.	8gJ)	.
+8BB-y	.	8B-y	.	(8gL	.	(8b-yL	.
+8r	.	8r	.	16.fn)	.	16.a-)	.
+.	.	.	.	32e-y	.	32g	.
+8r	.	8r	.	8dnJ	.	8fJ	.
+=23	=23	=23	=23	=23	=23	=23	=23
+(8AAnL	.	(4.c	.	(4.e-y	.	2.f	.
+8C	.	.	.	.	.	.	.
+8FJ)	.	.	.	.	.	.	.
+(8AA-L	.	4.B-y)	.	4.dn)	.	.	.
+8Dn	.	.	.	.	.	.	.
+8FJ)	.	.	.	.	.	.	.
+=24	=24	=24	=24	=24	=24	=24	=24
+(8GGL	.	(8B-yL_	.	(8e-yL	.	(8b-yL	.
+8BBn	.	8dn	.	8f	.	8a-y	.
+8CJ)	.	8e-yJ)	.	8e-yJ)	.	8gJ)	.
+(8AA-yL	.	(16.e-yL_	.	(16.a-yL	.	(16.ccL	.
+.	.	32cJ)	.	32f)	.	32a-y)	.
+8BB-)	.	4B-y	.	(8e-y	.	(8g	.
+8B-yJ	.	.	.	8dnJ)	.	8fJ)	.
+=25	=25	=25	=25	=25	=25	=25	=25
+*	*	*	*	*^	*	*	*
+(4.An	.	(4.cc	.	(4.ee-y	2.f	.	(8ffL	.
+.	.	.	.	.	.	.	8aan	.
+.	.	.	.	.	.	.	8cccJ)	.
+4.A-)	.	4.b-y)	.	4.ddn)	.	.	(8ffL	.
+.	.	.	.	.	.	.	8bb-y	.
+.	.	.	.	.	.	.	8dddnJ)	.
+*	*	*	*	*v	*v	*	*	*
+!!LO:LB
+=26	=26	=26	=26	=26	=26	=26	=26
+8G	.	8b-y]	.	8ee-yL 8e-y	.	8eee-yL	.
+8r	.	8r	.	(8g	.	(8gg	.
+8r	.	8r	.	8a-yJ	.	8aaJ	.
+4r	.	4r	.	8anL	.	8aanL	.
+.	.	.	.	8b-y	.	8bb-y	.
+8r	.	8r	.	8bnJ)	.	8bbnJ)	.
+=27	=27	=27	=27	=27	=27	=27	=27
+4A-y	.	4c	.	(8ccL	.	(8cccL	.
+.	.	.	.	8en	.	8een	.
+8r	.	8r	.	8fJ)	.	8ffJ)	.
+4r	.	4r	.	(8..a-L	.	(8..aa-L	.
+.	.	.	.	32f	.	32ff	.
+8r	.	8r	.	16.a-y	.	16.aa-y	.
+.	.	.	.	32fJ)	.	32ffJ)	.
+=28	=28	=28	=28	=28	=28	=28	=28
+8r	.	8r	.	8e-	.	(16.ee-L	.
+.	.	.	.	.	.	32gg	.
+8r	.	8r	.	8r	.	8.bb-y	.
+8B-y	.	8e-y	.	8g	.	.	.
+.	.	.	.	.	.	16ggJ)	.
+8r	.	8r	.	8r	.	(8.eee-yL	.
+8B-y	.	8e-y	.	8g	.	.	.
+.	.	.	.	.	.	16bb-y	.
+8r	.	8r	.	8r	.	8gggJ)	.
+=29	=29	=29	=29	=29	=29	=29	=29
+8B-y	.	8e-y	.	8g	.	16r	.
+.	.	.	.	.	.	(16g'L	.
+8r	.	8r	.	8r	.	16a-y'	.
+.	.	.	.	.	.	16an'	.
+8r	.	8r	.	8r	.	16b-y'	.
+.	.	.	.	.	.	16bn'J)	.
+4r	.	4r	.	4r	.	16.ccLT	.
+.	.	.	.	.	.	32ddn	.
+.	.	.	.	.	.	16ee-y	.
+.	.	.	.	.	.	(16ee-y'	.
+8r	.	8r	.	8r	.	16ee-y'	.
+.	.	.	.	.	.	16ee-y'J)	.
+=30	=30	=30	=30	=30	=30	=30	=30
+(8BB-y'L	.	(4.G	.	(4.B-y	.	4ee-y	.
+8BB-y'	.	.	.	.	.	.	.
+8BB-y'J	.	.	.	.	.	(16.e-yL	.
+.	.	.	.	.	.	32fJ)	.
+8BB-y'L	.	4.B-y)	.	4.dn 4.A-y)	.	4.fT	.
+8BB-y'	.	.	.	.	.	.	.
+8BB-y'J)	.	.	.	.	.	.	.
+.	.	.	.	.	.	(<32qe-yL	.
+.	.	.	.	.	.	32qfJ)	.
+!!LO:LB
+=31	=31	=31	=31	=31	=31	=31	=31
+.	cre	.	cre	(>32qGL	cre	.	.
+.	.	.	.	32qe-yJ	.	.	.
+(8E-yL	.	2.g 2.B-y	.	(4.ee-y)	.	4e-y	.
+8G	.	.	.	.	.	.	.
+8B-yJ	.	.	.	.	.	8r	.
+8E-yL	.	.	.	4.dd-	.	4r	.
+8G	.	.	.	.	.	.	.
+8B-yJ	.	.	.	.	.	8r	.
+=32	=32	=32	=32	=32	=32	=32	=32
+8E-yL	scendo	(4.a-y 4.c	scendo	4.cc	scendo	(16ccL	.
+.	.	.	.	.	.	16ccc)	.
+8A-y	.	.	.	.	.	(16bb-y'	.
+.	.	.	.	.	.	16aa-y'	.
+8cJ	.	.	.	.	.	16gg'	.
+.	.	.	.	.	.	16ff'J)	.
+8E-yL	.	4.f) 4.B-y	.	4.ddn)	.	(16b-yL	.
+.	.	.	.	.	.	16aa-y)	.
+8F	.	.	.	.	.	(16gg'	.
+.	.	.	.	.	.	16ff'	.
+8A-yJ)	.	.	.	.	.	16ee-y'	.
+.	.	.	.	.	.	16ddn'J)	.
+=33	=33	=33	=33	=33	=33	=33	=33
+(8E-yL	crescendo	2.g 2.B-y	crescendo	(4.ee-y	crescendo	(16.bb-yL	.
+.	.	.	.	.	.	32ggJ)	.
+8G	.	.	.	.	.	8ee-y	.
+8B-yJ	.	.	.	.	.	8r	.
+8E-yL	.	.	.	4.dd-	.	4r	.
+8G	.	.	.	.	.	.	.
+8B-yJ	.	.	.	.	.	8r	.
+=34	=34	=34	=34	=34	=34	=34	=34
+8E-yL	.	(4.a-y 4.c	.	4.cc	.	(16ccL	.
+.	.	.	.	.	.	16ccc)	.
+8A-y	.	.	.	.	.	(16bb-y'	.
+.	.	.	.	.	.	16aa-y'	.
+8cJ	.	.	.	.	.	16gg'	.
+.	.	.	.	.	.	16ff'J)	.
+8E-yL	.	4.f) 4.B-y	.	4.ddn)	.	(16b-yL	.
+.	.	.	.	.	.	16aa-y)	.
+8F	.	.	.	.	.	(16gg'	.
+.	.	.	.	.	.	16ff'	.
+8A-yJ)	.	.	.	.	.	16ee-y'	.
+.	.	.	.	.	.	16ddn'J)	.
+=35	=35	=35	=35	=35	=35	=35	=35
+8E-yL	.	8gL 8B-y	.	8ee-yL	.	8ee-yL	.
+8EE-y	.	8B-y 8E-y	.	8e-y 8G	.	8e-y 8G	.
+8EE-yJ	.	8B-yJ 8E-y	.	8e-yJ 8G	.	8e-yJ 8G	.
+8EE-y	.	8B-y 8E-y	.	8e-y 8G	.	8e-y 8G	.
+8r	.	8r	.	8r	.	8r	.
+8r	.	8r	.	8r	.	8r	.
+=36:|!	=36:|!	=36:|!	=36:|!	=36:|!	=36:|!	=36:|!	=36:|!
+(4.E-y	.	(8e-yL	.	4r	.	2.r	.
+.	.	8g	.	.	.	.	.
+.	.	8b-yJ	.	8r	.	.	.
+4.B-y)	.	8dnL	.	(4.b-y	.	.	.
+.	.	8f	.	.	.	.	.
+.	.	8b-yJ)	.	.	.	.	.
+=37	=37	=37	=37	=37	=37	=37	=37
+(8B-y_	.	(8cL	.	4.ee-y)	.	(4.ee-y	.
+4A-y)	.	8e-y	.	.	.	.	.
+.	.	8a-yJ)	.	.	.	.	.
+(8G	.	(8B-yL	.	(8ee-y_	.	4.bb-y)	.
+4F)	.	8d-	.	4dd-)	.	.	.
+.	.	8fJ)	.	.	.	.	.
+=38	=38	=38	=38	=38	=38	=38	=38
+(8EnL	.	(8cL	.	(4cc	.	(8bb-y_	.
+8F	.	8f	.	.	.	4aa-y)	.
+8BBnJ)	.	8a-yJ)	.	8ff)	.	.	.
+4C	.	(8cL	.	(8ff_	.	(8aa-y_	.
+.	.	8en	.	4een)	.	4gg)	.
+8r	.	8gJ)	.	.	.	.	.
+=39	=39	=39	=39	=39	=39	=39	=39
+2.r	.	(4.F	.	(8fL	.	2.r	.
+.	.	.	.	8a-y	.	.	.
+.	.	.	.	8ccJ	.	.	.
+.	.	4.c)	.	8e-L	.	.	.
+.	.	.	.	8g	.	.	.
+.	.	.	.	8ccJ)	.	.	.
+=40	=40	=40	=40	=40	=40	=40	=40
+2.r	.	(8c_	cresc.	(8d-L	cre	(4.dd-	.
+.	.	4B-y)	.	8g	.	.	.
+.	.	.	.	8b-yJ)	.	.	.
+.	.	(8B-y_	.	(8cL	.	4.aa-y)	.
+.	.	4A-y)	.	8e-y	.	.	.
+.	.	.	.	8a-yJ)	.	.	.
+=41	=41	=41	=41	=41	=41	=41	=41
+(4.EE-	.	2.r	.	(8B-yL	scen	(8aa-yL_	cre
+.	.	.	.	8e-y	.	8ggJ	.
+.	.	.	.	8b-yJ)	.	4gg-)	.
+4.BB-y)	.	.	.	(8B-yL	.	.	.
+.	.	.	.	8dn	.	(8ffL	.
+.	.	.	.	8fJ)	.	8bb-yJ)	.
+=42	=42	=42	=42	=42	=42	=42	=42
+2.r	.	(4.F	.	(8cL	.	(8bb-yL_	scendo
+.	.	.	.	8f	.	8aanJ)	.
+.	.	.	.	8ccJ)	.	(4aa-	.
+.	.	4.c)	.	(8cL	.	.	.
+.	.	.	.	8en	.	8ggnL	.
+.	.	.	.	8gJ)	.	8cccJ)	.
+!!LO:LB
+=43	=43	=43	=43	=43	=43	=43	=43
+(4.BB-y	.	(4.d-	.	(8fL	.	(8cccL_	.
+.	.	.	.	8b-y	.	8aanJ	.
+.	.	.	.	8dd-J	.	4bb-y	.
+4.F)	.	4.c)	.	8fL	.	.	.
+.	.	.	.	8a-y	.	8ggL	.
+.	.	.	.	8ccJ)	.	8aa-J)	.
+=44	=44	=44	=44	=44	=44	=44	=44
+(4.GG-	.	(4B-y	.	(8d-L	.	(8aa-yL_	.
+.	.	.	.	8g-	.	8ffJ	.
+.	.	8c)	.	8b-yJ	.	4gg-	.
+4.D-)	.	(4d-y	.	8a-yL	.	.	.
+.	.	.	.	8b-y	.	8eenL	.
+.	.	8a-y)	.	8bnJ)	.	8ffJ)	.
+=45	=45	=45	=45	=45	=45	=45	=45
+4.C	.	(8a-yL	.	[4.cc	.	(8ffL	.
+.	.	8b-y	.	.	.	8ggn	.
+.	.	8gnJ	.	.	.	8eenJ	.
+(8FL	.	8a-y)	.	8cc]	.	8ff)	.
+8A-y	.	8r	.	8r	.	8r	.
+8cJ)	.	8r	.	8r	.	8r	.
+=46	=46	=46	=46	=46	=46	=46	=46
+(2.f	.	(8fL	.	4r	.	2.r	.
+.	.	8a-y	.	.	.	.	.
+.	.	8cc-J	.	8r	.	.	.
+.	.	8e-yL	.	[4.a-y	.	.	.
+.	.	8a-y	.	.	.	.	.
+.	.	8cc-yJ)	.	.	.	.	.
+=47	=47	=47	=47	=47	=47	=47	=47
+2.B-y)	.	(8dnL	.	4.a-y]	.	(8bb-yL	.
+.	.	8f	.	.	.	8ff	.
+.	.	8b-yJ)	.	.	.	8ddnJ	.
+.	.	4r	.	4.f	.	8aa-yL	.
+.	.	.	.	.	.	8ff	.
+.	.	8r	.	.	.	8ddJ)	.
+=48	=48	=48	=48	=48	=48	=48	=48
+(2.e-y	.	(8e-yL	.	[2.g-	.	(8gg-L	.
+.	.	8g-	.	.	.	8ee-y	.
+.	.	8b-yJ	.	.	.	8b-yJ)	.
+.	.	8d-L	.	.	.	4r	.
+.	.	8f-	.	.	.	.	.
+.	.	8b--J)	.	.	.	8r	.
+=49	=49	=49	=49	=49	=49	=49	=49
+2.A-y)	.	(8cL	.	4.g-y]	.	(8aa-yL	.
+.	.	8e-y	.	.	.	8ee-y	.
+.	.	8a-yJ)	.	.	.	8ccJ)	.
+.	.	4r	.	4.e-y	.	(8gg-L	.
+.	.	.	.	.	.	8ee-y	.
+.	.	8r	.	.	.	8ccJ)	.
+!!LO:LB
+=50	=50	=50	=50	=50	=50	=50	=50
+(4.D-y	crescendo	(4.a-y	crescendo	4.d-y	crescendo	(8ff-L	cre
+.	.	.	.	.	.	8dd-	.
+.	.	.	.	.	.	8a-yJ	.
+4.E-y	.	4.gn)	.	[4.B-y	.	8gnL	.
+.	.	.	.	.	.	8b-y	.
+.	.	.	.	.	.	8ee-yJ)	.
+=51	=51	=51	=51	=51	=51	=51	=51
+4.F	.	(4.a-y	.	4.B-y]	.	(8ddnL	scendo
+.	.	.	.	.	.	8a-y	.
+.	.	.	.	.	.	8fJ)	.
+4.G)	.	4.e-y)	.	4.b-y	.	(8e-yL	.
+.	.	.	.	.	.	8b-y	.
+.	.	.	.	.	.	8dd-J)	.
+=52	=52	=52	=52	=52	=52	=52	=52
+(4.A-y	.	(4.e-y_	.	2.a-y	f	(8ccL	.
+.	.	.	.	.	.	8a-y	.
+.	.	.	.	.	.	8e-yJ)	.
+4.Dn)	.	4.f)	.	.	.	(8fL	.
+.	.	.	.	.	.	8a-y	.
+.	.	.	.	.	.	8cc-J)	.
+=53	=53	=53	=53	=53	=53	=53	=53
+4E-y	.	(8B-yL	.	8gn	.	8b-y	.
+.	.	8G	.	8r	.	8r	.
+8r	.	8E-yJ	.	8r	.	8r	.
+4r	.	8DnL	.	8a-y	.	8cc-	.
+.	.	8F	.	8r	.	8r	.
+8r	.	8A-yJ)	.	8r	.	8r	.
+=54	=54	=54	=54	=54	=54	=54	=54
+(8EE-yL	.	8G	.	8e-y	.	8b-y	.
+8GG	.	8r	.	8r	.	8r	.
+8BB-yJ	.	8r	.	8r	.	8r	.
+8AA-yL	.	4r	.	4r	.	4r	.
+8FF	.	.	.	.	.	.	.
+8DDnJ)	.	8r	.	8r	.	8r	.
+=55	=55	=55	=55	=55	=55	=55	=55
+4.EE-y	.	[4.E-y	.	(8ggL	.	(8bb-yL	.
+.	.	.	.	8ee-y	.	8gg	.
+.	.	.	.	8b-yJ)	.	8ee-yJ	.
+(8GGL	.	(8E-yL_	.	(8b-yL_	.	8dd-L	.
+8BB-y	.	8G	.	8e-y	.	8b-y	.
+8E-yJ)	.	8B-yJ)	.	8d-J)	.	8gJ)	.
+=56	=56	=56	=56	=56	=56	=56	=56
+(8AA-yL	.	((4.A-y	.	(4.c	.	[4.e-y	.
+8C	.	.	.	.	.	.	.
+8E-yJ)	.	.	.	.	.	.	.
+(8GGL	.	4.B-y))	.	4.d-y)	.	4.e-y_	.
+8BB-y	.	.	.	.	.	.	.
+8E-yJ)	.	.	.	.	.	.	.
+!!LO:LB
+=57	=57	=57	=57	=57	=57	=57	=57
+(8AA-yL	.	(4A-y	.	(8cL	.	(8e-y	.
+8C	.	.	.	8e-y	.	4a-y)	.
+8FJ)	.	8c)	.	8fJ)	.	.	.
+(8D-yL	.	(4.B-y	.	(8f_	.	(8a-y_	.
+8E-y	.	.	.	4e-y)	.	4g)	.
+8BB-yJ)	.	.	.	.	.	.	.
+=58	=58	=58	=58	=58	=58	=58	=58
+(8BBnL	.	4.A-y	.	(8e-y_	.	(8g_	.
+8C	.	.	.	4d-y)	.	4f)	.
+8D-yJ	.	.	.	.	.	.	.
+8BB-L	.	4.G	.	(8d-y_	.	(8f_	.
+8C	.	.	.	4c)	.	4e-y)	.
+8GGJ)	.	.	.	.	.	.	.
+=59	=59	=59	=59	=59	=59	=59	=59
+(8AA-yL	cresc.	4.F)	cresc.	(8c_	cresc.	(8e-y_	cresc.
+8AAn	.	.	.	4B-y)	.	4d-y)	.
+8BB-yJ	.	.	.	.	.	.	.
+8GGL	.	(8F-	.	(8B-y_	.	(8d-y_	.
+8AA-	.	4E-y)	.	4A-y)	.	4c)	.
+8GG-J)	.	.	.	.	.	.	.
+=60	=60	=60	=60	=60	=60	=60	=60
+(8FFL	.	(8FnL	.	(8A-yL_	.	(8d-yL	.
+8EE-y	.	8G	.	8B-y	.	8e-y	.
+8DDnJ)	.	8A-yJ)	.	8c-J)	.	8fJ)	.
+8EE-yL	.	(8A-yL	.	(8cnL	.	4e-y	.
+8E-yJ	.	8GJ)	.	8B-yJ)	.	.	.
+8r	.	8r	.	8r	.	(16.d-yL	.
+.	.	.	.	.	.	32B-yJ)	.
+=61	=61	=61	=61	=61	=61	=61	=61
+(8A-yL	.	(4.a-y	.	4r	.	4A-y	.
+8c	.	.	.	.	.	.	.
+8e-yJ	.	.	.	8r	.	8r	.
+8GL	.	4.ee-y)	.	(4.ee-y	.	4r	.
+8B-y	.	.	.	.	.	.	.
+8e-yJ)	.	.	.	.	.	8r	.
+=62	=62	=62	=62	=62	=62	=62	=62
+(8FL	.	(8ee-y_	.	4.aa-y)	.	(4.aa-y	.
+8A-y	.	4dd-y)	.	.	.	.	.
+8d-yJ	.	.	.	.	.	.	.
+8E-yL	.	(8cc	.	(8aa-y_	.	4.eee-y)	.
+8B-y	.	4b-y)	.	4gg)	.	.	.
+8e-yJ)	.	.	.	.	.	.	.
+=63	=63	=63	=63	=63	=63	=63	=63
+(8fL	crescendo	(8anL	crescendo	(8ccL	crescendo	(8eee-y_	crescendo
+8B-y	.	8b-y	.	8dd-y	.	4ddd-y)	.
+8d-yJ	.	8a-J	.	8cc-J	.	.	.
+8e-yL	.	8gL	.	8b-yL	.	(8ddd-y_	.
+8A-y	.	8a-y	.	8cc-y	.	4ccc-)	.
+8c-J)	.	8g-J)	.	8b-yJ)	.	.	.
+=64	=64	=64	=64	=64	=64	=64	=64
+(4.Dn	.	(4.f	.	(8a-yL	.	(8ccc-yL_	.
+.	.	.	.	8b-y	.	8bb-y	.
+.	.	.	.	8cc-J)	.	8aa-yJ)	.
+8E-yL	.	16.gnL	.	(16.b-yL	.	(4gg	.
+.	.	32a-y	.	32ccn	.	.	.
+8En	.	8b-y	.	8dd-y	.	.	.
+8FJ)	.	8a-yJ)	.	8ccJ)	.	8aa-y)	.
+=65	=65	=65	=65	=65	=65	=65	=65
+(4G	.	8r	.	(4b-y	.	(8ee-yL	.
+.	.	8e-yL	.	.	.	8dd-y	.
+8A-y)	.	8e-yJ	.	8a-y)	.	8ccJ)	.
+.	.	.	.	(<16qb-y	.	.	.
+.	.	.	.	.	.	(<16qdd-y	.
+4E-y	.	4e-y	.	8a-yL)	.	8ccL)	.
+.	.	.	.	8gJ	.	8b-yJ	.
+8r	.	8r	.	8r	.	(8ee-y	.
+=66	=66	=66	=66	=66	=66	=66	=66
+8r	.	8r	.	8r	.	4.e-y)	.
+(8CL	.	(8E-yL	.	(8A-yL	.	.	.
+8AA-yJ)	.	8A-yJ)	.	8cJ)	.	.	.
+4E-y	.	(8AnL	.	(8cL	.	4e-y]	.
+.	.	8B-yJ)	.	8d-yJ)	.	.	.
+8r	.	8r	.	8r	.	(8ee-y	.
+=67	=67	=67	=67	=67	=67	=67	=67
+8r	.	8r	.	8r	.	4.e-y)	.
+(8GGL	.	(8E-yL	.	(8B-yL	.	.	.
+8EE-yJ)	.	8B-yJ)	.	8d-yJ)	.	.	.
+4AA-y	.	(8GL	.	(8BnL	.	4e-y]	.
+.	.	8A-J)	.	8cJ)	.	.	.
+8r	.	8r	.	8r	.	(8ee-y	.
+=68	=68	=68	=68	=68	=68	=68	=68
+8r	.	8r	.	8r	.	4.en)	.
+(8C'L	.	(8A-yL	.	(8A-y'L	.	.	.
+8C'J)	.	8G-J)	.	8A-y'J	.	.	.
+(8CL	.	(8G-yL	.	4A-y')	.	(8eL_	.
+8D-yJ)	.	8FJ)	.	.	.	8fJ)	.
+8r	.	8r	.	8r	.	(8ff	.
+!!LO:LB
+=69	=69	=69	=69	=69	=69	=69	=69
+8r	.	8r	.	8r	.	4.f#)	.
+(8Dn'L	.	(8B-yL	.	(8B-y'L	.	.	.
+8D'J)	.	8A-yJ)	.	8B-y'J	.	.	.
+(8DL	.	(8A-yL	.	4B-y')	.	(8f#yL_	.
+8E-yJ)	.	8GJ)	.	.	.	8gJ)	.
+(8En	.	[8c	.	8b-y	.	8gg	.
+=70	=70	=70	=70	=70	=70	=70	=70
+4F)	.	4c_	.	(8gL	.	(8b-yL	.
+.	.	.	.	8fJ)	.	8a-yJ)	.
+(8G	.	[8e-y	.	8dd-y	.	8bb-y	.
+4A-y)	.	4e-y_	.	(8b-yL	.	(8dd-yL	.
+.	.	.	.	8a-yJ)	.	8ccJ)	.
+(8C	.	[8A-y	.	[8a-y	.	[8een	.
+=71	=71	=71	=71	=71	=71	=71	=71
+(4.D-y)	.	(8A-yL_	.	(4a-y_	.	8ee_	.
+.	.	8d-y	.	.	.	(16ggL	.
+.	.	.	.	.	.	16ff	.
+.	.	8fJ)	.	8b-y)	.	16ee-	.
+.	.	.	.	.	.	16dd-yJ)	.
+4E-y)	.	4e-y	.	(8a-yL	.	(8ccL	.
+.	.	.	.	8gJ)	.	8b-yJ)	.
+8r	.	8e-y	.	8g	.	8b-y	.
+=72	=72	=72	=72	=72	=72	=72	=72
+*	*	*	*	*^	*	*	*
+(4.B-y	.	8.dnLT	.	8.fLT	8.ryy	.	4b-y	.
+.	.	16e-y	.	16g	16ryy	.	.	.
+.	.	8fJ	.	8a-yJ	8ryy	.	8b-y	.
+8e-y)	.	(8fL	.	(8a-yL	8ryy	.	4b-y	.
+8r	.	8e-yJ)	.	8gJ)	8ryy	.	.	.
+8r	.	8e-y	.	8b-y	8g	.	8ee-y	.
+=73	=73	=73	=73	=73	=73	=73	=73	=73
+(4.BB-y	.	4.f	.	4.b-y	4.a-y	.	(16ddnL	.
+.	.	.	.	.	.	.	16ff	.
+.	.	.	.	.	.	.	16aa-y	.
+.	.	.	.	.	.	.	16ff	.
+.	.	.	.	.	.	.	16ee-y	.
+.	.	.	.	.	.	.	16ddJ)	.
+4EE-y)	.	(8fL	.	4b-y	(8a-yL	.	(8ddL	.
+.	.	8e-yJ)	.	.	8gJ)	.	8ee-yJ)	.
+8r	.	8r	.	(8e-y	8ryy	.	8r	.
+*	*	*	*	*v	*v	*	*	*
+=74	=74	=74	=74	=74	=74	=74	=74
+8r	.	8r	.	4.f-)	.	8r	.
+(8BB-yL	.	(8GL	.	.	.	8r	.
+8AA-yJ	.	8A-yJ	.	.	.	(8cc	.
+4.GG)	.	8AnL	.	4f-y]	.	4.dd-)	.
+.	.	8B-yJ)	.	.	.	.	.
+.	.	8r	.	(8e-y	.	.	.
+!!LO:LB
+=75	=75	=75	=75	=75	=75	=75	=75
+8GGL]	.	8r	.	4.f-)	.	4dd-y]	.
+(8BB-y	.	(8GL	.	.	.	.	.
+8AA-yJ	.	8AJ	.	.	.	(8cc	.
+4.GG)	.	8AnL	.	4f-y]	.	4.dd-y)	.
+.	.	8B-yJ)	.	.	.	.	.
+.	.	8r	.	(8e-y	.	.	.
+=76	=76	=76	=76	=76	=76	=76	=76
+8GGL]	cresc.	8r	cresc.	(4.f-)	cresc.	(4dd-y_	cresc.
+(8BB-y	.	(8GL	.	.	.	.	.
+8AA-yJ)	.	8AJ	.	.	.	8ddn	.
+(4GG	.	8AnL	.	4.e-y)	.	8ee-yL	.
+.	.	8B-y	.	.	.	8dd-	.
+8AA-y)	.	8cJ)	.	.	.	8ccJ)	.
+=77	=77	=77	=77	=77	=77	=77	=77
+(8D-yL	.	(8fL	.	(8d-yL	.	(16ccL	.
+.	.	.	.	.	.	16b-y	.
+8E-y	.	8e-y	.	8c	.	8a-y	.
+8EnJ)	.	8d-yJ)	.	8B-yJ)	.	8gJ)	.
+[4.F	.	[4.c	.	[4.A-y	.	(8.a-yL	.
+.	.	.	.	.	.	48b-y	.
+.	.	.	.	.	.	48a-y	.
+.	.	.	.	.	.	48g	.
+.	.	.	.	.	.	16a-y)	.
+.	.	.	.	.	.	16b-yJ	.
+=78	=78	=78	=78	=78	=78	=78	=78
+8F]	.	8c]	.	8A-y]	.	8cc	.
+8r	.	8r	.	8r	.	8r	.
+8r	.	8r	.	8r	.	8r	.
+4r	.	4r	.	4r	.	8r	.
+.	.	.	.	.	.	8r	.
+8r	.	8r	.	8r	.	(8f	.
+=79	=79	=79	=79	=79	=79	=79	=79
+8r	.	8r	.	8r	.	4.g-)	.
+8r	.	(8E-yL	.	(8cL	.	.	.
+(8BB	.	8D-yJ	.	8d-yJ	.	.	.
+4.AA-y)	.	4.C)	.	8dnL	.	4g-y]	.
+.	.	.	.	8e-yJ)	.	.	.
+.	.	.	.	8r	.	(8f	.
+=80	=80	=80	=80	=80	=80	=80	=80
+4AA-y]	.	8CL]	.	8r	.	4.g-)	cre
+.	.	(8E-y	.	(8cL	.	.	.
+(8BB--	.	8D-yJ	.	8dJ	.	.	.
+4.AA-y)	.	4.C)	.	8dnL	.	4g-y]	.
+.	.	.	.	8e-yJ)	.	.	.
+.	.	.	.	8r	.	(8ff	.
+!!LO:LB
+=81	=81	=81	=81	=81	=81	=81	=81
+8AA-yL]	cresc.	[2.a-y	cresc.	8r	crescendo	4.gg-)	scendo
+(8A-y	.	.	.	(8ccL	.	.	.
+8B-yJ	.	.	.	8dd-J	.	.	.
+8BnL	.	.	.	8ddnL	.	(4gg-y_	.
+8c	.	.	.	8ee-y	.	.	.
+8d-yJ)	.	.	.	8dd-J)	.	8ff)	.
+=82	=82	=82	=82	=82	=82	=82	=82
+8e-y	.	8a-y_	.	(8bnL	.	(8ddnL	.
+8r	.	8r	.	8cc	.	8ee-y	.
+8r	.	8r	.	8a-yJ)	.	8ccJ)	.
+8E-y	.	8e-y	.	(8ccL	.	(8ee-yL	.
+8r	.	8r	.	16.b-)	.	16.dd-)	.
+.	.	.	.	32a-y	.	32cc	.
+8r	.	8r	.	8gJ	.	8b-yJ	.
+=83	=83	=83	=83	=83	=83	=83	=83
+(8DnL	.	(4.f	.	(4.a-y	.	2.b-y	.
+8F	.	.	.	.	.	.	.
+8B-yJ)	.	.	.	.	.	.	.
+(8D-L	.	4.e-y)	.	4.g)	.	.	.
+8G	.	.	.	.	.	.	.
+8B-yJ)	.	.	.	.	.	.	.
+=84	=84	=84	=84	=84	=84	=84	=84
+(8CL	.	(8e-yL_	.	(8a-yL	.	(8ee-yL	.
+8En	.	8g	.	8b-y	.	8dd-y	.
+8FJ)	.	8a-yJ)	.	8a-yJ)	.	8ccJ)	.
+(8D-yL	.	(16.a-yL_	.	(16.dd-yL	.	(16.ffL	.
+.	.	32fJ)	.	32b-y)	.	32dd-y)	.
+8E-)	.	4e-y	.	(8a-y	.	(8cc	.
+8e-yJ	.	.	.	8gJ)	.	8b-yJ)	.
+=85	=85	=85	=85	=85	=85	=85	=85
+*	*	*	*	*^	*	*	*
+(4.dn	.	4.a-y	.	(4.ff	2.b-y	.	(8bb-yL	.
+.	.	.	.	.	.	.	8dddn	.
+.	.	.	.	.	.	.	8fffJ	.
+4.d-)	.	[4.ee-y	.	4.gg)	.	.	8bb-yL	.
+.	.	.	.	.	.	.	8eee-y	.
+.	.	.	.	.	.	.	8gggJ)	.
+*	*	*	*	*v	*v	*	*	*
+=86	=86	=86	=86	=86	=86	=86	=86
+8c	.	8ee-y]	.	8aa-yL	.	8aaa-yL	.
+8r	.	8r	.	(8cc	.	(8ccc	.
+8r	.	8r	.	8ddJ	.	8ddd-J	.
+4r	.	4r	.	8ddnL	.	8dddnL	.
+.	.	.	.	8ee-y	.	8eee-y	.
+8r	.	8r	.	8eenJ)	.	8eeenJ)	.
+=87	=87	=87	=87	=87	=87	=87	=87
+4d-y	.	4f	.	(8ffL	.	(8fffL	.
+.	.	.	.	8an	.	8aan	.
+8r	.	8r	.	8b-yJ)	.	8bb-yJ)	.
+4r	.	4r	.	(8..dd-L	.	(8..ddd-L	.
+.	.	.	.	32b-y	.	32bb-y	.
+8r	.	8r	.	16.dd-y	.	16.ddd-y	.
+.	.	.	.	32b-yJ)	.	32bb-yJ)	.
+=88	=88	=88	=88	=88	=88	=88	=88
+8r	.	8r	.	8a-	.	(16.aa-L	.
+.	.	.	.	.	.	32ccc	.
+8r	.	8r	.	8r	.	8.eee-y	.
+8e-y	.	8a-y	.	8cc	.	.	.
+.	.	.	.	.	.	16cccJ)	.
+8r	.	8r	.	8r	.	(8..eee-yL	.
+8e-y	.	8a-y	.	8cc	.	.	.
+.	.	.	.	.	.	32ccc	.
+8r	.	8r	.	8r	.	16.eee-y	.
+.	.	.	.	.	.	32cccJ)	.
+=89	=89	=89	=89	=89	=89	=89	=89
+8r	.	8r	.	8r	.	8eee-y	.
+8e-y	.	8a-y	.	8cc	.	16.r	.
+.	.	.	.	.	.	(32ccL	.
+8r	.	8r	.	8r	.	16.ee-y	.
+.	.	.	.	.	.	32ccJ)	.
+8r	.	8r	.	8r	.	8ee-y	.
+8E-y	.	8A-y	.	8c	.	16.r	.
+.	.	.	.	.	.	(32cL	.
+8r	.	8r	.	8r	.	16.e-y	.
+.	.	.	.	.	.	32cJ)	.
+=90	=90	=90	=90	=90	=90	=90	=90
+2.r	.	2.r	.	2.r	.	(8e-yL	.
+.	.	.	.	.	.	8en	.
+.	.	.	.	.	.	8fJ	.
+.	.	.	.	.	.	8g-L	.
+.	.	.	.	.	.	8gn	.
+.	.	.	.	.	.	8a-yJ)	.
+=91	=91	=91	=91	=91	=91	=91	=91
+.	.	.	.	.	.	(<16qa-y	.
+(8EE-y'L	.	(4.E-y	.	(4.c	.	4.A-y)	.
+8EE-y'	.	.	.	.	.	.	.
+8EE-y'J	.	.	.	.	.	.	.
+8EE-y'L	.	4.D-y)	.	4.G)	.	4.B-yT	.
+8EE-y'	.	.	.	.	.	.	.
+8EE-y'J)	.	.	.	.	.	.	.
+.	.	.	.	.	.	(<32qA-yL	.
+.	.	.	.	.	.	32qB-yJ)	.
+!!LO:LB
+=92	=92	=92	=92	=92	=92	=92	=92
+(8AA-yL	cresc.	4.C	crescendo	(4.A-y	crescendo	4A-y	.
+8C	.	.	.	.	.	.	.
+8E-yJ	.	.	.	.	.	8r	.
+8AA-yL	.	4.c 4.E-y	.	4.g-)	.	4r	.
+8C	.	.	.	.	.	.	.
+8E-yJ)	.	.	.	.	.	8r	.
+=93	=93	=93	=93	=93	=93	=93	=93
+*	*	*^	*	*	*	*	*
+(8AA-yL	.	2.d-y	(4.F	.	(4.f	.	(16fL	.
+.	.	.	.	.	.	.	16ff)	.
+8D-y	.	.	.	.	.	.	(16ee-y'	.
+.	.	.	.	.	.	.	16dd-y'	.
+8FJ	.	.	.	.	.	.	16cc'	.
+.	.	.	.	.	.	.	16b-y'J)	.
+8AA-yL	.	.	4.E-y)	.	4.gn)	.	(16e-yL	.
+.	.	.	.	.	.	.	16dd-y)	.
+8BB-y	.	.	.	.	.	.	(16cc'	.
+.	.	.	.	.	.	.	16b-y'	.
+8D-yJ)	.	.	.	.	.	.	16a-y'	.
+.	.	.	.	.	.	.	16g'J)	.
+*	*	*v	*v	*	*	*	*	*
+=94	=94	=94	=94	=94	=94	=94	=94
+(8AA-yL	cresc.	4.c 4.E-y	cresc.	(4.a-y	cresc.	(16.ee-yL	.
+.	.	.	.	.	.	32cc)	.
+8C	.	.	.	.	.	8a-yJ	.
+8E-yJ	.	.	.	.	.	8r	.
+8AA-yL	.	4.e-y 4.c	.	4.g-)	.	4r	.
+8C	.	.	.	.	.	.	.
+8E-yJ	.	.	.	.	.	8r	.
+=95	=95	=95	=95	=95	=95	=95	=95
+*	*	*^	*	*	*	*	*
+8AA-yL	.	[4.d-y	4.ryy	.	4.f	.	(16fL	.
+.	.	.	.	.	.	.	16ff)	.
+8D-y	.	.	.	.	.	.	(16ee-y'	.
+.	.	.	.	.	.	.	16dd-y'	.
+8FJ	.	.	.	.	.	.	16cc'	.
+.	.	.	.	.	.	.	16b-y'J)	.
+8AA-yL	.	[4.e-y	(4.d-y__	.	4.gn 4.B-y	.	(16b-yL	.
+.	.	.	.	.	.	.	16ddd-y)	.
+8BB-y	.	.	.	.	.	.	(16ccc'	.
+.	.	.	.	.	.	.	16bb-y'	.
+8D-yJ)	.	.	.	.	.	.	16aa-y'	.
+.	.	.	.	.	.	.	16gg'J)	.
+=96	=96	=96	=96	=96	=96	=96	=96	=96
+8AA-yL	.	8e-yL]	8c)	.	8a-yL 8c	.	8aa-yL	.
+8AA-y'	.	8A-y'	8ryy	.	8e-y' 8c'	.	8a-y'	.
+8AA-y'J	.	8A-y'J	8ryy	.	8e-y'J 8c'	.	8a-y'J	.
+8AA-y'	.	8A-y'	8ryy	.	8e-y' 8c'	.	8a-y'	.
+8r	.	8r	8ryy	.	8r	.	8r	.
+8r	.	8r	8ryy	.	8r	.	8r	.
+*	*	*v	*v	*	*	*	*	*
+=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below

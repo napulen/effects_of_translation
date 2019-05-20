@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 2.0 Partwise//EN"
+                                "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="3.0">
+  <movement-title>Invention 6</movement-title>
+  <identification>
+    <encoding>
+      <software>python-ly 0.9.5</software>
+      <encoding-date>2019-05-18</encoding-date>
+    </encoding>
+    <creator type="composer">J. S. Bach (1685-1750)</creator>
+    <opus>BWV 777</opus>
+    <mutopiatitle>Invention 6</mutopiatitle>
+    <mutopiacomposer>BachJS</mutopiacomposer>
+    <mutopiaopus>BWV 777</mutopiaopus>
+    <mutopiainstrument>Harpsichord, Piano</mutopiainstrument>
+    <source>Bach-Gesellschaft</source>
+    <style>Baroque</style>
+    <maintainer>jeff covey</maintainer>
+    <maintainerEmail>jeff.covey@pobox.com</maintainerEmail>
+    <maintainerWeb>http://pobox.com/~jeff.covey/</maintainerWeb>
+    <lastupdated>2006/08/26</lastupdated>
+    <footer>Mutopia-2008/06/15-159</footer>
+    <tagline>  Sheet music from http://www.MutopiaProject.org www.  MutopiaProject  .org  •  Free to download, with the freedom to distribute, modify and perform. Typeset using http://www.LilyPond.org www.  LilyPond  .org by   .  Copyright © 2008.  Reference:  Licensed under the Creative Commons Attribution-ShareAlike 3.0 (Unported) License, for details see:  http://creativecommons.org/licenses/by-sa/3.0 http://creativecommons.org/licenses/by-sa/3.0</tagline>
+    <tempoWholesPerMinute />
+    <rights>Creative Commons Attribution-ShareAlike 3.0</rights>
+  </identification>
+  <part-list>
+    <score-part id="P1">
+      <part-name />
+    </score-part>
+  </part-list>
+  <part id="P1">
+    <measure number="1">
+      <attributes>
+        <divisions>1</divisions>
+        <key>
+          <fifths>4</fifths>
+          <mode>major</mode>
+        </key>
+        <time>
+          <beats>3</beats>
+          <beat-type>8</beat-type>
+        </time>
+        <staves>2</staves>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+      </attributes>
+    </measure>
+  </part>
+</score-partwise>

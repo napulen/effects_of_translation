@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 2.0 Partwise//EN"
+                                "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="3.0">
+  <movement-title> Gott durch deine Güte  oder  Gottes Sohn ist kommen</movement-title>
+  <identification>
+    <encoding>
+      <software>python-ly 0.9.5</software>
+      <encoding-date>2019-05-18</encoding-date>
+    </encoding>
+    <creator type="composer">Johann Sebastian Bach</creator>
+    <mutopiatitle>Gott durch deine Güte</mutopiatitle>
+    <mutopiacomposer>BachJS</mutopiacomposer>
+    <mutopiaopus>BWV 600</mutopiaopus>
+    <mutopiainstrument>Organ</mutopiainstrument>
+    <source>Autograph</source>
+    <style>Baroque</style>
+    <maintainer>Urs Metzger</maintainer>
+    <maintainerEmail>urs@ursmetzger.de</maintainerEmail>
+    <lastupdated>2006/May/21</lastupdated>
+    <opus>BWV 600</opus>
+    <license>Public Domain</license>
+    <footer>Mutopia-2018/03/31-769</footer>
+    <tagline />
+    <rights>DejaVu Sans, Bold  http://www.MutopiaProject.org  Mutopia    ǀ Project  DejaVu Sans, Bold    ǀ ǀ DejaVu Sans,sans-serif   Typeset using http://www.lilypond.org LilyPond by  —   Placed in the  http://creativecommons.org/licenses/publicdomain Public Domain  by the typesetter   — free to distribute, modify, and perform  ǀ</rights>
+  </identification>
+  <part-list />
+</score-partwise>

@@ -1,0 +1,214 @@
+!!!OTL: Sinfonie in C („Linzer Sinfonie“), 3. Satz, KV 425/03
+!!!system-decoration: [(s1,s2)][(s3,s4)]s5[({(s6,s7)}s8,s9)]
+**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern
+*part9	*part9	*part9	*part9	*part9	*part9	*part9	*part9	*part9	*part8	*part8	*part8	*part8	*part8	*part8	*part8	*part8	*part8	*part7	*part7	*part7	*part7	*part7	*part7	*part7	*part7	*part7	*part6	*part6	*part6	*part6	*part6	*part6	*part6	*part6	*part6	*part5	*part4	*part3	*part2	*part2	*part2	*part2	*part2	*part2	*part2	*part2	*part2	*part1	*part1	*part1	*part1	*part1	*part1	*part1	*part1	*part1
+*staff57	*staff56	*staff55	*staff54	*staff53	*staff52	*staff51	*staff50	*staff49	*staff48	*staff47	*staff46	*staff45	*staff44	*staff43	*staff42	*staff41	*staff40	*staff39	*staff38	*staff37	*staff36	*staff35	*staff34	*staff33	*staff32	*staff31	*staff30	*staff29	*staff28	*staff27	*staff26	*staff25	*staff24	*staff23	*staff22	*staff21	*staff20	*staff19	*staff18	*staff17	*staff16	*staff15	*staff14	*staff13	*staff12	*staff11	*staff10	*staff9	*staff8	*staff7	*staff6	*staff5	*staff4	*staff3	*staff2	*staff1
+*I"Violoncello e Basso	*	*	*	*	*	*	*	*	*I"Viola	*	*	*	*	*	*	*	*	*I"Violino II	*	*	*	*	*	*	*	*	*I"Violino I	*	*	*	*	*	*	*	*	*	*	*	*I"Fagotto I, II	*	*	*	*	*	*	*	*	*I"Oboe I, II	*	*	*	*	*	*	*	*
+*clefF4	*clefC3	*clefG2	*clefG2	*clefF4	*clefG2	*clefG2	*clefF4	*clefG2
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4
+*	*	*	*	*	*	*ITrd7c12	*	*
+4r	4r	4g	4gg	4r	4r	4r	4r	4gg
+=1	=1	=1	=1	=1	=1	=1	=1	=1
+*	*	*	*	*	*^	*^	*	*
+4r	4r	(2g	(2gg	4C	4cc	4e	4r	4ryy	4r	(2gg
+(4e	(4e	.	.	4r	4r	4ryy	(4g	(4e	(4e	.
+8c)	8c)	8e)	8ee)	4r	4r	4ryy	4e)	4c)	8c)	8ee)
+8r	8r	8r	8r	.	.	.	.	.	8r	8r
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+4r	4r	(2e	(2ee	4C	4cc	4e	4r	4ryy	4r	(2ee
+(4c	(4c	.	.	4r	4r	4ryy	(4e	(4c	(4c	.
+8A)	8A)	8c)	8cc)	4r	4r	4ryy	4c)	4C)	8A)	8cc)
+8r	8r	8r	8r	.	.	.	.	.	8r	8r
+*	*	*	*	*	*v	*v	*	*	*	*
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+4r	4r	(4c	(4cc	2.r	2.r	4r	4ryy	4r	(4cc
+((4A	4c	4f	4ff	.	.	4c	4C	((4A	4ff
+4F))	4c	4a)	4aa)	.	.	4c	4C	4F))	4aa)
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+*	*	*	*	*	*^	*	*	*	*^
+4G	2g	(4e	(4cc	4GG	2g	2g	(4e	(4c	4G	(4ee	(4cc
+4GG	.	4d)	4b)	4r	.	.	4d)	4G)	4GG	4dd)	4b)
+4r	4r	4r	8.gL 8.G	4r	4r	4ryy	8.GL	8.GL	4r	8.gL	8.gL
+.	.	.	16gJ 16G	.	.	.	16GJ	16GJ	.	16gJ	16gJ
+*	*	*	*	*	*v	*v	*	*	*	*	*
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+2.r	2.r	2.r	4g 4G	2.r	2.r	4G	4G	2.r	4g	4g
+.	.	.	4g 4G	.	.	4G	4G	.	4g	4g
+.	.	.	4g 4G	.	.	4G	4G	.	4g	4g
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+*	*	*	*	*	*^	*	*	*	*	*
+4G	4g	4ff 4dd	(8bbLT	4GG	4dd	4g	4d	4G	4G	(4bb	(4ff
+.	.	.	16aa	.	.	.	.	.	.	.	.
+.	.	.	16bbJ)	.	.	.	.	.	.	.	.
+4C	4g	4ee 4cc	4ccc	4C	4ee	4cc	4e	4c	4C	4ccc)	4ee)
+4r	4r	4r	8.gL 8.G	4r	4r	4ryy	8.GL	8.GL	4r	8.gL	8.gL
+.	.	.	16gJ 16G	.	.	.	16GJ	16GJ	.	16gJ	16gJ
+*	*	*	*	*	*v	*v	*	*	*	*	*
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+2.r	2.r	2.r	4g 4G	2.r	2.r	4G	4G	2.r	4g	4g
+.	.	.	4g 4G	.	.	4G	4G	.	4g	4g
+.	.	.	4g 4G	.	.	4G	4G	.	4g	4g
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+*	*	*	*	*	*^	*	*	*	*	*
+4G	4g	4ff 4dd	(8bbLT	4GG	4dd	4g	4d	4G	4G	(4bb	(4ff
+.	.	.	16aa	.	.	.	.	.	.	.	.
+.	.	.	16bbJ)	.	.	.	.	.	.	.	.
+4C	4g	4ee 4cc	4ccc	4C	4ee	4cc	4e	4c	4C	4ccc)	4ee)
+4A	4a	4cc	4ee	4r	4r	4ryy	4e	4c	4A	4ee	4cc
+!!LO:LB
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+4F	4f	4a	(8ddL	4r	4r	4ryy	2f	2d	4F	2aa	(2a
+.	.	.	8ff)	.	.	.	.	.	.	.	.
+4D	4d	(8fL	(8aa	4r	4r	4ryy	.	.	4D	.	.
+.	.	8a)	8ff)	.	.	.	.	.	.	.	.
+4G	4g	(8f	(8dd	4GG	4dd	4g	4d	4G	4G	(8ffL	4b)
+.	.	8dJ)	8bJ)	.	.	.	.	.	.	8ddJ)	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+4C	4g	4e	4cc	4C	4cc	4e	4c	4E	4C	4cc	4cc
+4c	4r	4r	4r	4r	4r	4ryy	4r	4ryy	4c	4r	4ryy
+*	*	*	*	*	*v	*v	*	*	*	*v	*v
+*	*	*	*	*	*	*v	*v	*	*
+=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!
+4r	4r	4g	4g	4r	4r	4r	4r	4g
+=11	=11	=11	=11	=11	=11	=11	=11	=11
+*	*	*	*	*	*	*^	*	*
+4r	4r	(2g	(2g	4GG	4g	4r	4ryy	4r	(2g
+4e'	4e'	.	.	4r	4r	4e	4c	4e'	.
+4c'	4c'	8ee)	8ee)	4r	4r	4e	4c	4c'	8ee)
+.	.	8r	8r	.	.	.	.	.	8r
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+4r	4r	(2dd	(2dd	4GG	4g	4r	4ryy	4r	(2dd
+4B'	4B'	.	.	4r	4r	4d	4G	4B'	.
+4G'	4G'	8gg)	8gg)	4r	4r	4d	4G	4G'	8gg)
+.	.	8r	8r	.	.	.	.	.	8r
+*	*	*	*	*	*	*v	*v	*	*
+=13	=13	=13	=13	=13	=13	=13	=13	=13
+4r	4r	(2dd	(2dd	2.r	4dd	4r	4r	(2dd
+4F#'	4f#'	.	.	.	4r	4d	4F#'	.
+4D'	4d'	8aa)	8aa)	.	4r	4d	4D'	8aa)
+.	.	8r	8r	.	.	.	.	8r
+=14	=14	=14	=14	=14	=14	=14	=14	=14
+*	*	*	*	*	*	*^	*	*
+4r	4r	(2dd	(2dd	2.r	4dd	4r	4ryy	4r	(2dd
+4G'	4g'	.	.	.	4r	4d	4G	4G'	.
+4D'	4d'	8bb)	8bb)	.	4r	4d	4G	4D'	8bb)
+.	.	8r	8r	.	.	.	.	.	8r
+*	*	*	*	*	*	*v	*v	*	*
+=15	=15	=15	=15	=15	=15	=15	=15	=15
+4r	4r	(2d	(2dd	2.r	2.r	2.r	4r	2.r
+(4A	(4f#	.	.	.	.	.	((4A	.
+4D)	4a)	8cc)	8ccc)	.	.	.	4D))	.
+.	.	8r	8r	.	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16
+4r	4r	(2d	(2dd	2.r	2.r	2.r	4r	2.r
+(4B	(4g	.	.	.	.	.	((4B	.
+4G)	4b)	8dd)	8ddd)	.	.	.	4G))	.
+.	.	8r	8r	.	.	.	.	.
+=17	=17	=17	=17	=17	=17	=17	=17	=17
+4r	4r	4r	(8dd#L	2.r	2.r	2.r	4r	2.r
+.	.	.	8ee)	.	.	.	.	.
+4C	4A	(8eL	(8cc	.	.	.	4C	.
+.	.	8c)	8a)	.	.	.	.	.
+4D	4d	(8A	(8f#	.	.	.	4D	.
+.	.	8cJ)	8aJ)	.	.	.	.	.
+=18	=18	=18	=18	=18	=18	=18	=18	=18
+4GG	4d	4B	4g	2.r	2.r	2.r	4GG	2.r
+4G	4r	4r	4r	.	.	.	4G	.
+4r	4r	4r	8.ggL	.	.	.	4r	.
+.	.	.	16ggJ	.	.	.	.	.
+=19	=19	=19	=19	=19	=19	=19	=19	=19
+2.r	2.r	2.r	4gg	2.r	2.r	2.r	2.r	2.r
+.	.	.	(4gg	.	.	.	.	.
+.	.	.	4bb-)	.	.	.	.	.
+=20	=20	=20	=20	=20	=20	=20	=20	=20
+*	*	*	*	*	*	*	*	*^
+(4A	(4e	(4g	(8cc#LT	2.r	2.r	2.r	(4A	(4gg	(4ee
+.	.	.	16b	.	.	.	.	.	.
+.	.	.	16cc#yJ)	.	.	.	.	.	.
+4D)	4d)	4f)	4dd	.	.	.	4D)	4ff)	4dd)
+4r	4r	4r	8.ffL	.	.	.	4r	4r	4ryy
+.	.	.	16ffJ	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*v	*v
+=21	=21	=21	=21	=21	=21	=21	=21	=21
+2.r	2.r	2.r	4ff	2.r	2.r	2.r	2.r	2.r
+.	.	.	(4ff	.	.	.	.	.
+.	.	.	4aa)	.	.	.	.	.
+=22	=22	=22	=22	=22	=22	=22	=22	=22
+*	*	*	*	*	*	*^	*	*^
+(4G	(4d	(4f	(8bLT	2.r	2.r	4r	4ryy	(4G	(4ff	(4dd
+.	.	.	16a	.	.	.	.	.	.	.
+.	.	.	16bJ)	.	.	.	.	.	.	.
+4C)	4c)	4e)	4ccn	.	.	4r	4ryy	4C)	4ee)	4cc)
+4r	4r	4r	8.gL 8.G	.	.	8.GL	8.GL	4r	8.gL	8.gL
+.	.	.	16gJ 16G	.	.	16GJ	16GJ	.	16gJ	16gJ
+=23	=23	=23	=23	=23	=23	=23	=23	=23	=23	=23
+2.r	2.r	2.r	4g 4G	2.r	2.r	4G	4G	2.r	4g	4g
+.	.	.	4g 4G	.	.	4G	4G	.	4g	4g
+.	.	.	4g 4G	.	.	4G	4G	.	4g	4g
+=24	=24	=24	=24	=24	=24	=24	=24	=24	=24	=24
+*	*	*	*	*	*^	*	*	*	*	*
+!!Error: measure 24, staff 7 is underfilled: adding token 2ryy at end of measure to complete its duration.
+4G'	4g'	4r	(8bbLT	4GG	4dd	4g	4d	4G	4G'	(4bb	(4ff
+.	.	.	16aa	.	.	.	.	.	.	.	.
+.	.	.	16bbJ)	.	.	.	.	.	.	.	.
+4C'	4g'	2ryy	4ccc	4C	4ee	4cc	4e	4c	4C'	4ccc)	4ee)
+4r	4r	.	8.cL	4r	4r	4ryy	8.cL	8.CL	4r	8.ccL	8.ccL
+.	.	.	16cJ	.	.	.	16cJ	16CJ	.	16ccJ	16ccJ
+*	*	*	*	*	*v	*v	*	*	*	*	*
+!!LO:LB
+=25	=25	=25	=25	=25	=25	=25	=25	=25	=25	=25
+2.r	2.r	2.r	4c	2.r	2.r	4c	4C	2.r	4cc	4cc
+.	.	.	4c	.	.	4c	4C	.	4cc	4cc
+.	.	.	4c	.	.	4c	4C	.	4cc	4cc
+=26	=26	=26	=26	=26	=26	=26	=26	=26	=26	=26
+*	*	*	*	*	*^	*	*	*	*	*
+4C'	4c	(8ggLT	(8bb-LT	4C	4cc	4c	4c	4C	4C'	(4bb-	(4ee
+.	.	16ff	16aa	.	.	.	.	.	.	.	.
+.	.	16ggJ)	16bb-yJ)	.	.	.	.	.	.	.	.
+4F'	4c	4ff	4aa	4C	4cc	4c	4c	4C	4F'	4aa)	4ff)
+4F'	4c	(8aaL	(8cccL	4r	4r	4ryy	4c	4C	4F'	(8cccL	(8aaL
+.	.	8ffJ)	8aaJ)	.	.	.	.	.	.	8aaJ)	8ffJ)
+=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27	=27
+.	.	(<8qff	.	.	.	.	.	.	.	.	.
+.	.	.	(<8qaa	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	(<8qff
+.	.	.	.	.	.	.	.	.	.	(>8qaa	.
+4G'	4g	4ee)	4gg)	4GG	4gg	4g	2e	2c	4G	4gg)	4ee)
+4G'	4g	(8eeL	(8ggL	4GG	4ee	4cc	.	.	4G	(8ggL	(8eeL
+.	.	8cc)	8ee)	.	.	.	.	.	.	8ee)	8cc)
+4G'	(8gL	(8dd	(8ff	4GG	4dd	4g	4d	4G	4G	(8ff	(8dd
+.	8fJ)	8bJ)	8ddJ)	.	.	.	.	.	.	8ddJ)	8bJ)
+*	*	*	*	*	*	*	*	*	*	*v	*v
+=28	=28	=28	=28	=28	=28	=28	=28	=28	=28	=28
+4C'	4e	4cc	4cc	4C	4cc	4e	4c	4E	4C	4cc
+4c'	4r	4r	4r	4r	4r	4ryy	4r	4ryy	4c	4r
+4r	4r	4g	4gg	4r	4r	4ryy	4r	4ryy	4r	4r
+*	*	*	*	*	*v	*v	*	*	*	*
+*	*	*	*	*	*	*v	*v	*	*
+=29	=29	=29	=29	=29	=29	=29	=29	=29
+4r	4r	(2g	(2gg	2.r	2.r	2.r	4r	2.r
+(4B	(4d	.	.	.	.	.	(4B	.
+8c)	8e)	8e)	8ee)	.	.	.	8c)	.
+8r	8r	8r	8r	.	.	.	8r	.
+=30	=30	=30	=30	=30	=30	=30	=30	=30
+4r	4r	(2e	(2ee	2.r	2.r	2.r	4r	2.r
+(4G#	(4B	.	.	.	.	.	(4G#	.
+8A)	8e)	8c#)	8cc#)	.	.	.	8A)	.
+8r	8r	8r	8r	.	.	.	8r	.
+=31	=31	=31	=31	=31	=31	=31	=31	=31
+*	*	*	*	*	*	*^	*	*^
+4F	4a	(8dL	(8ddL	2.r	2.r	4r	4ryy	4F	2aa	(2a
+.	.	8f)	8ff)	.	.	.	.	.	.	.
+4D	(8fL	(8a	(8aa	.	.	4r	4ryy	4D	.	.
+.	8d)	8f)	8ff)	.	.	.	.	.	.	.
+4G	(8f	(8d	(8dd	.	.	4d	4G	4G	(8ffL	4b)
+.	8dJ)	8BJ)	8bJ)	.	.	.	.	.	8ddJ)	.
+*	*	*	*	*	*	*	*	*	*v	*v
+=32	=32	=32	=32	=32	=32	=32	=32	=32	=32
+4C	4c	4cn	4ccn	4r	4r	4c	4E	4C	4cc
+4r	4r	4r	4r	4r	4r	4r	4ryy	4r	4r
+*	*	*	*	*	*	*v	*v	*	*
+=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!
+*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 2.0 Partwise//EN"
+                                "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="3.0">
+  <movement-title>Praeludium Nr. 2</movement-title>
+  <identification>
+    <encoding>
+      <software>python-ly 0.9.5</software>
+      <encoding-date>2019-05-18</encoding-date>
+    </encoding>
+    <creator type="composer">Johann Sebastian Bach (165-1750)</creator>
+    <subtitle>"Fünf kleine Präludien"</subtitle>
+    <piece>Bwv 940</piece>
+    <mutopiatitle>Praeludium Nr. 2</mutopiatitle>
+    <mutopiacomposer>BachJS</mutopiacomposer>
+    <opus>BWV 940</opus>
+    <date>1717-1723?</date>
+    <mutopiainstrument>Clavier</mutopiainstrument>
+    <style>Baroque</style>
+    <source>Bach-Gesellschaft Edition Band 36 / Ernst Naumann 1890</source>
+    <maintainer>Hajo Dezelski</maintainer>
+    <maintainerWeb>http://www.roxele.de/</maintainerWeb>
+    <maintainerEmail>dl1sdz (at) gmail.com</maintainerEmail>
+    <footer>Mutopia-2008/11/13-1594</footer>
+    <tagline>  Sheet music from http://www.MutopiaProject.org www.  MutopiaProject  .org  •  Free to download, with the freedom to distribute, modify and perform. Typeset using http://www.LilyPond.org www.  LilyPond  .org by   .  Copyright © 2008.  Reference:  Licensed under the Creative Commons Attribution-ShareAlike 3.0 (Unported) License, for details see:  http://creativecommons.org/licenses/by-sa/3.0 http://creativecommons.org/licenses/by-sa/3.0</tagline>
+    <rights>Creative Commons Attribution-ShareAlike 3.0</rights>
+  </identification>
+  <part-list />
+</score-partwise>

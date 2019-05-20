@@ -1,0 +1,639 @@
+!!!OTL: Divertimento in B, 3. Satz, KV 137/03
+!!!system-decoration: [(s1,s2,s3,s4)]
+**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern
+*part4	*part4	*part4	*part4	*part3	*part3	*part3	*part3	*part2	*part2	*part2	*part2	*part1	*part1	*part1	*part1
+*staff16	*staff15	*staff14	*staff13	*staff12	*staff11	*staff10	*staff9	*staff8	*staff7	*staff6	*staff5	*staff4	*staff3	*staff2	*staff1
+*I"Violoncello e Basso	*	*	*	*I"Viola	*	*	*	*I"Violino II	*	*	*	*I"Violino I	*	*	*
+*clefF4	*clefC3	*clefG2	*clefG2
+*k[b-e-]	*k[b-e-]	*k[b-e-]	*k[b-e-]
+*M3/8	*M3/8	*M3/8	*M3/8
+!!Warning: measure 1, staff 4 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 1, staff 3 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 1, staff 2 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 1 staff 1 is overfilled: 1.5 quarter notes instead of 1.
+4r	4r	4r	8ffL
+.	.	.	8b-y
+8ryy	8ryy	8ryy	8ccJ
+=2	=2	=2	=2
+8BB-yL	8fL	8b-yL	8ddL
+8FJ	8FJ	8aJ	8ccJ
+8r	8r	8r	8r
+=3	=3	=3	=3
+!!Warning: measure 3, staff 4 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 3, staff 3 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 3, staff 2 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 3 staff 1 is overfilled: 1.5 quarter notes instead of 1.
+4r	4r	4r	8ffL
+.	.	.	8cc
+8ryy	8ryy	8ryy	8ddJ
+=4	=4	=4	=4
+8FFL	8aL	8ccL	8ee-yL
+8BB-yJ	8b-yJ	8b-yJ	8ddJ
+8r	8r	8r	8r
+=5	=5	=5	=5
+4.E-y	4.e-y	16r	4.gg
+.	.	(16b-yL	.
+.	.	16a	.
+.	.	16b-y	.
+.	.	16cc	.
+.	.	16b-yJ)	.
+=6	=6	=6	=6
+8DL	8dL	(16b-yL	8ffL
+.	.	16f)	.
+8C	8c	(16a	8ee-y
+.	.	16f)	.
+8BB-yJ	8B-yJ	(16b-y	8ddJ
+.	.	16fJ)	.
+=7	=7	=7	=7
+8AAL	8AL	(16ccL	(8ccL
+.	.	16f)	.
+8A	8A	(16cc	8ee-y)
+.	.	16f)	.
+8B-yJ	8B-yJ	(16b-y	8ddJ
+.	.	16fJ)	.
+=8	=8	=8	=8
+16FL	8FL	8b-yL	8ddL
+16En	.	.	.
+16F	16f	8aJ	8ccJ
+16E-	16g	.	.
+16D	16f	8r	8r
+16CJ	16e-yJ	.	.
+=9	=9	=9	=9
+!!Warning: measure 9, staff 2 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 9 staff 4 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 9 staff 3 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 9 staff 1 is overfilled: 1.5 quarter notes instead of 1.
+4BB-y	4d	4r	8ffL
+.	.	.	8b-y
+8r	8r	8ryy	8ccJ
+=10	=10	=10	=10
+8B-yL	8fL	8b-yL	8ddL
+8FJ	8FJ	8aJ	8ccJ
+8r	8r	8r	8r
+=11	=11	=11	=11
+!!Warning: measure 11, staff 4 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 11, staff 3 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 11, staff 2 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 11 staff 1 is overfilled: 1.5 quarter notes instead of 1.
+4r	4r	4r	8ffL
+.	.	.	8cc
+8ryy	8ryy	8ryy	8ddJ
+=12	=12	=12	=12
+8FFL	8aL	8ccL	8ee-yL
+8BB-yJ	8b-yJ	8b-yJ	8ddJ
+8r	8r	8r	8r
+=13	=13	=13	=13
+4.E-y	4.e-y	16r	4.gg
+.	.	(16b-yL	.
+.	.	16a	.
+.	.	16b-y	.
+.	.	16cc	.
+.	.	16b-yJ)	.
+=14	=14	=14	=14
+8DL	8dL	(16b-yL	8ffL
+.	.	16f)	.
+8C	8c	(16ee-y	8aa
+.	.	16f)	.
+8BB-yJ	[8B-yJ	(16dd	8bb-yJ
+.	.	16ffJ)	.
+=15	=15	=15	=15
+.	.	(<16qff	.
+.	.	.	(<16qaa
+8E-yL	16B-yL]	8ee-yL)	8ggL)
+.	16g	.	.
+8F	8f	16dd	16ff
+.	.	16cc	16ee-y
+8FFJ	8fJ	16b-y	16dd
+.	.	16aJ	16ccJ
+=16	=16	=16	=16
+8BB-yL	4f	4b-y	4b-y
+8B-yJ	.	.	.
+8r	8r	8r	8r
+=17	=17	=17	=17
+4.B-y	4.g	16r	4.een
+.	.	(16ccL	.
+.	.	16bn	.
+.	.	16cc	.
+.	.	16dd	.
+.	.	16ccJ)	.
+!!LO:LB
+=18	=18	=18	=18
+4.A	8aL	16r	(8ffL
+.	.	(16cL	.
+.	(8cc	16Bn	8aa)
+.	.	16c	.
+.	8aJ)	16d	8ffJ
+.	.	16cJ)	.
+=19	=19	=19	=19
+4.B-y	4.g	16r	4.een
+.	.	(16ccL	.
+.	.	16bn	.
+.	.	16cc	.
+.	.	16dd	.
+.	.	16ccJ)	.
+=20	=20	=20	=20
+4.A	8aL	16r	(8ffL
+.	.	(16cL	.
+.	(8cc	16Bn	8aa)
+.	.	16c	.
+.	8aJ)	16d	8ffJ
+.	.	16cJ)	.
+=21	=21	=21	=21
+!!Warning: measure 21, staff 3 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 21 staff 4 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 21 staff 2 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 21 staff 1 is overfilled: 1.5 quarter notes instead of 1.
+8r	4r	8dL	8bb-yL
+8GL	.	8en	8b-y
+8FJ	8ryy	8fJ	8b-yJ
+=22	=22	=22	=22
+(4En	8r	(16gL	(16b-yL
+.	.	16b	16dd
+.	8cL	16a	16cc
+.	.	16g)	16b-y)
+8F)	8cJ	(16f	8aJ
+.	.	16cJ)	.
+=23	=23	=23	=23
+.	.	.	(<16qa
+8BB-yL	(16B-yL	(16dL	8gL)
+.	16d)	16B-y)	.
+8C	8c	8A	8f
+8CJ	8B-yJ	8GJ	8enJ
+!!LO:LB
+=24	=24	=24	=24
+4FF	4A	4A	(16fL
+.	.	.	16en)
+.	.	.	16f'
+.	.	.	16g'
+8r	8r	8r	16a'
+.	.	.	16b-y'J
+=25	=25	=25	=25
+!!Warning: measure 25, staff 4 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 25, staff 3 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 25, staff 2 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 25 staff 1 is overfilled: 1.5 quarter notes instead of 1.
+4r	4r	4r	16cc'L
+.	.	.	16dd'
+.	.	.	16een'
+.	.	.	16ff'
+8ryy	8ryy	8ryy	16gg'
+.	.	.	16aa'J
+=26	=26	=26	=26
+(4C#	(4g	(4een	(4bb-y
+8D)	8f)	8ff)	8aa)
+=27	=27	=27	=27
+8DL	8r	8aL	8ffL
+8BB-y	8b-yL	8dd	8gg
+8CnJ	8gJ	8b-yJ	8eenJ
+=28	=28	=28	=28
+4FF	8f	8a	8ff
+.	8r	8r	8r
+8r	8a	8cc	8ccc
+=29	=29	=29	=29
+4.F	(4f	(4a	(4aa
+.	8c)	8f)	8ff)
+=30	=30	=30	=30
+4.FF	(4A	(4c	(4cc
+.	8c)	8f)	8ff)
+=31	=31	=31	=31
+8CL	8enL	8gL	8ggL
+8C	8f	8a	8aa
+8CJ	8gJ	8b-yJ	8bb-yJ
+=32	=32	=32	=32
+4F	8f	8a	8aa
+.	8r	8r	8r
+8r	8a	8cc	8ccc
+=33	=33	=33	=33
+4.FF	(4f	(4a	(4aa
+.	8c)	8f)	8ff)
+=34	=34	=34	=34
+4.F	(4A	(4c	(4cc
+.	8c)	8f)	8ff)
+!!LO:LB
+=35	=35	=35	=35
+8CL	8B-yL	8gL	8ggL
+8C	8A	8f	8ff
+8CJ	8GJ	8enJ	8eenJ
+=36	=36	=36	=36
+4F	8A	8f	8ff
+.	8r	8r	8r
+8r	(8a	(8cc	(8ccc
+=37	=37	=37	=37
+8FFL	8fL)	8aL)	8aaL)
+8FF	(8f	(8a	(8aa
+8FFJ	8cJ	8fJ	8ffJ
+=38	=38	=38	=38
+8FFL	8AL)	8cL)	8ccL)
+8FF	(8A	(8c	(8cc
+8FFJ	8cJ)	8fJ)	8ffJ)
+=39	=39	=39	=39
+8CCL	8enL	8gL	8ggL
+8CC	8f	8a	8aa
+8CCJ	8gJ	8b-yJ	8bb-yJ
+=40	=40	=40	=40
+8FFL	8f	8a	8aa
+8FF	8r	8r	8r
+8FFJ	(8a	(8cc	(8ccc
+=41	=41	=41	=41
+8FFL	8fL)	8aL)	8aaL)
+8FF	(8f	(8a	(8aa
+8FFJ	8cJ	8fJ	8ffJ
+=42	=42	=42	=42
+8FFL	8AL)	8cL)	8ccL)
+8FF	(8A	(8c	(8cc
+8FFJ	8cJ)	8fJ)	8ffJ)
+=43	=43	=43	=43
+8CCL	8B-yL	8gL	8ggL
+8CC	8A	8f	8ff
+8CCJ	8GJ	8enJ	8eenJ
+=44	=44	=44	=44
+4FF	4F	4ff 4cc 4f	4ff 4a 4f
+8r	8r	8r	8r
+=45:|!	=45:|!	=45:|!	=45:|!
+!!Warning: measure 45, staff 4 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 45, staff 3 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 45, staff 2 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 45 staff 1 is overfilled: 1.5 quarter notes instead of 1.
+4r	4r	4r	(16ffL
+.	.	.	16gg
+.	.	.	16ff)
+.	.	.	16ee-'
+8ryy	8ryy	8ryy	16dd'
+.	.	.	16cc'J
+=46	=46	=46	=46
+!!Warning: measure 46, staff 4 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 46, staff 3 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 46, staff 2 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 46 staff 1 is overfilled: 1.5 quarter notes instead of 1.
+4r	4r	4r	16dd'L
+.	.	.	16ff'
+.	.	.	16ee-y'
+.	.	.	16dd'
+8ryy	8ryy	8ryy	16cc'
+.	.	.	16b-y'J
+=47	=47	=47	=47
+!!Warning: measure 47, staff 4 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 47, staff 3 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 47 staff 2 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 47 staff 1 is overfilled: 1.5 quarter notes instead of 1.
+4r	4r	(16fL	4.a
+.	.	16g	.
+.	.	16f)	.
+.	.	16e-'	.
+8ryy	8ryy	16d'	.
+.	.	16c'J	.
+=48	=48	=48	=48
+!!Warning: measure 48, staff 4 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 48, staff 3 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 48 staff 2 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 48 staff 1 is overfilled: 1.5 quarter notes instead of 1.
+4r	4r	16d'L	4.b-y
+.	.	16f'	.
+.	.	16e-y'	.
+.	.	16d'	.
+8ryy	8ryy	16c'	.
+.	.	16B-y'J	.
+=49	=49	=49	=49
+(16FL	4.F	4.A	4.cc
+16G	.	.	.
+16F)	.	.	.
+16E-'	.	.	.
+16D'	.	.	.
+16C'J	.	.	.
+=50	=50	=50	=50
+16D'L	4F	4B-y	(4ff
+16F'	.	.	.
+16E-y'	.	.	.
+16D'	.	.	.
+16C'	8r	8ff	8ddd)
+16BB-y'J	.	.	.
+=51	=51	=51	=51
+8AAL	8r	8ee-yL	8cccL
+8A	8fL	8cc	8ee-y
+8B-yJ	8fJ	8b-yJ	8ddJ
+!!LO:LB
+=52	=52	=52	=52
+4D	4a 4d	4ff# 4a 4d	4aa 4cc 4d
+8r	8r	8r	8r
+=53	=53	=53	=53
+!!Warning: measure 53, staff 3 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 53 staff 4 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 53 staff 2 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 53 staff 1 is overfilled: 1.5 quarter notes instead of 1.
+4.G	4r	8r	(8ggL
+.	.	8gL	8dd)
+.	8ryy	8b-yJ	8ddJ
+=54	=54	=54	=54
+4.F#	(16cL	(16aL	[4.dd
+.	16B-y	16b-y	.
+.	16A	16cc	.
+.	16B-y)	16b-y	.
+.	8AJ	16cc	.
+.	.	16aJ)	.
+=55	=55	=55	=55
+4.G	4.G	8b-yL	16ddL]
+.	.	.	(16gg
+.	.	(8g	8dd)
+.	.	8b-yJ)	8ddJ
+=56	=56	=56	=56
+4.F#	(16cL	(16aL	4.dd
+.	16B-y	16b-y	.
+.	16A	16cc	.
+.	16B-y)	16b-y	.
+.	8AJ	16cc	.
+.	.	16aJ)	.
+=57	=57	=57	=57
+8GL	8GL	8b-yL	8ddL
+(8GG	(8G	(8B-y	(8gg
+8AAJ)	8AJ)	8cJ)	8ff#J)
+=58	=58	=58	=58
+(8BBnL	4G	(8dL	(8ffnL
+8C)	.	8e-y)	8ee-y)
+(8DJ	8d	(8f#J	(8ddJ
+=59	=59	=59	=59
+8EnL)	(8enL	8gL)	8cc#L)
+(8F#	8d)	(8a	(8ccn
+8GJ)	8dJ	8dJ)	8b-yJ)
+=60	=60	=60	=60
+.	.	.	(<16qb-y
+8CL	8cL	8e-yL	8aL)
+8D	8B-y	8d	8g
+8DDJ	8AJ	8cJ	8f#J
+!!LO:LB
+=61	=61	=61	=61
+4EE-	4e- 4G	4B-y	8gL
+.	.	.	(<16qaa
+.	.	.	(16gg)
+.	.	.	16ff#J)
+8r	8r	8r	8gg
+=62	=62	=62	=62
+4BB-y	4g	4dd	8r
+.	.	.	(<16qaa
+.	.	.	(16ggL)
+.	.	.	16ff#J)
+8r	8r	8r	8gg
+=63	=63	=63	=63
+8CL	4g	(8ccL	(8ee-yL
+8D	.	8b-y)	8dd)
+8DDJ	8A	8cJ	8f#J
+=64	=64	=64	=64
+4GG	4G	4B-y	4g
+8r	8r	8r	8r
+=65	=65	=65	=65
+!!Warning: measure 65, staff 4 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 65, staff 3 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 65, staff 2 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 65 staff 1 is overfilled: 1.5 quarter notes instead of 1.
+4r	4r	4r	8ffnL
+.	.	.	8b-y
+8ryy	8ryy	8ryy	8ccJ
+=66	=66	=66	=66
+8BB-yL	8fL	8b-yL	8ddL
+8FJ	8FJ	8aJ	8ccJ
+8r	8r	8r	8r
+=67	=67	=67	=67
+!!Warning: measure 67, staff 4 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 67, staff 3 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 67, staff 2 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 67 staff 1 is overfilled: 1.5 quarter notes instead of 1.
+4r	4r	4r	8ffL
+.	.	.	8cc
+8ryy	8ryy	8ryy	8ddJ
+=68	=68	=68	=68
+8FFL	8aL	8ccL	8ee-yL
+8BB-yJ	8b-yJ	8b-yJ	8ddJ
+8r	8r	8r	8r
+=69	=69	=69	=69
+4.E-y	4.e-y	16r	4.gg
+.	.	(16b-yL	.
+.	.	16a	.
+.	.	16b-y	.
+.	.	16cc	.
+.	.	16b-yJ)	.
+!!LO:LB
+=70	=70	=70	=70
+8DL	8dL	(16b-yL	8ffL
+.	.	16f)	.
+8C	8c	(16a	8ee-y
+.	.	16f)	.
+8BB-yJ	8B-yJ	(16b-y	8ddJ
+.	.	16fJ)	.
+=71	=71	=71	=71
+8AAL	8AL	(16ccL	(8ccL
+.	.	16f)	.
+8A	8f	(16cc	8ee-y)
+.	.	16f)	.
+8B-yJ	8fJ	(16b-y	8ddJ
+.	.	16fJ)	.
+=72	=72	=72	=72
+16FL	8fL	8b-yL	8ddL
+16En	.	.	.
+16F	16F	8aJ	8ccJ
+16E-	16g	.	.
+16D	16f	8r	8r
+16CJ	16e-yJ	.	.
+=73	=73	=73	=73
+!!Warning: measure 73, staff 2 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 73 staff 4 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 73 staff 3 is overfilled: 1.5 quarter notes instead of 1.
+!!Error: measure 73 staff 1 is overfilled: 1.5 quarter notes instead of 1.
+4BB-y	4d	4r	8ffL
+.	.	.	8b-y
+8r	8r	8ryy	8ccJ
+=74	=74	=74	=74
+8B-yL	8fL	8b-yL	8ddL
+8FJ	8FJ	8aJ	8ccJ
+8r	8r	8r	8r
+=75	=75	=75	=75
+!!Warning: measure 75, staff 4 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 75, staff 3 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 75, staff 2 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 75 staff 1 is overfilled: 1.5 quarter notes instead of 1.
+4r	4r	4r	8ffL
+.	.	.	8cc
+8ryy	8ryy	8ryy	8ddJ
+=76	=76	=76	=76
+8FL	8aL	8ccL	8ee-yL
+8BB-yJ	8b-yJ	8b-yJ	8ddJ
+8r	8r	8r	8r
+=77	=77	=77	=77
+4.E-y	4.e-y	16r	4.gg
+.	.	(16b-yL	.
+.	.	16a	.
+.	.	16b-y	.
+.	.	16cc	.
+.	.	16b-yJ)	.
+=78	=78	=78	=78
+8DL	8dL	(16b-yL	8ffL
+.	.	16f)	.
+8C	8c	(16ee-y	8aa
+.	.	16f)	.
+8BB-yJ	[8B-yJ	(16dd	8bb-yJ
+.	.	16ffJ)	.
+=79	=79	=79	=79
+.	.	(<16qff	.
+.	.	.	(<16qaa
+8E-yL	16B-yL]	8ee-yL)	8ggL)
+.	16g	.	.
+8F	8f	16dd	16ff
+.	.	16cc	16ee-y
+8FFJ	8fJ	16b-y	16dd
+.	.	16aJ	16ccJ
+=80	=80	=80	=80
+8BB-yL	4f	4b-y	4b-y
+8B-yJ	.	.	.
+8r	8r	8r	8r
+=81	=81	=81	=81
+4.A-	4.f	16r	4.dd
+.	.	(16b-yL	.
+.	.	16a	.
+.	.	16b-y	.
+.	.	16cc	.
+.	.	16b-yJ)	.
+=82	=82	=82	=82
+4.G	8gL	16r	(8ee-yL
+.	.	(16B-yL	.
+.	(8b-y	16A	8gg)
+.	.	16B-y	.
+.	8gJ)	16c	8ee-yJ
+.	.	16B-yJ)	.
+=83	=83	=83	=83
+4.B-y	4.g	16r	4.een
+.	.	(16ccL	.
+.	.	16bn	.
+.	.	16cc	.
+.	.	16dd	.
+.	.	16ccJ)	.
+=84	=84	=84	=84
+4.An	8aL	16r	(8ffL
+.	.	(16cL	.
+.	(8cc	16Bn	8aa)
+.	.	16c	.
+.	8aJ)	16d	8ffJ
+.	.	16cJ)	.
+!!LO:LB
+=85	=85	=85	=85
+4.E-y	4.c	16r	4.aa
+.	.	(16ffL	.
+.	.	16een	.
+.	.	16ff	.
+.	.	16gg	.
+.	.	16ffJ)	.
+=86	=86	=86	=86
+4.D	8dL	16r	(8bb-yL
+.	.	(16fL	.
+.	(8f	16en	8ddd)
+.	.	16f	.
+.	8dJ)	16g	8bb-yJ
+.	.	16fJ)	.
+=87	=87	=87	=87
+8CL	4c	8e-L	8eeeL
+8c	.	8g	8ee-
+8B-yJ	8B-y	(16a	8ee-yJ
+.	.	16b-yJ)	.
+=88	=88	=88	=88
+8AL	8AL	(16ccL	(16ee-yL
+.	.	16ee-y	16gg
+8AA	8f	16dd	16ff
+.	.	16cc)	16ee-y)
+8BB-yJ	8fJ	(16b-y	8ddJ
+.	.	16fJ)	.
+=89	=89	=89	=89
+.	.	.	(<16qdd
+8E-yL	16r	(16gL	8ccL)
+.	16g	16e-y)	.
+8F	8fL	8d	8b-y
+8FFJ	8FJ	8cJ	8aJ
+=90	=90	=90	=90
+4BB-y	4F	4d	(16b-yL
+.	.	.	16bb-y)
+.	.	.	16aa'
+.	.	.	16gg'
+8r	8r	8r	16ff'
+.	.	.	16ee-y'J
+=91	=91	=91	=91
+!!Warning: measure 91, staff 4 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 91, staff 3 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 91, staff 2 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 91 staff 1 is overfilled: 1.5 quarter notes instead of 1.
+4r	4r	4r	16dd'L
+.	.	.	16cc'
+.	.	.	16b-y'
+.	.	.	16a'
+8ryy	8ryy	8ryy	16g'
+.	.	.	16f'J
+!!LO:LB
+=92	=92	=92	=92
+(4FF#	(4A	(4c	(4e-y
+8GG)	8B-y)	8B-y)	8d)
+=93	=93	=93	=93
+8GGL	8GL	8b-yL	8ddL
+8EE-y	8g	8cc	8ee-y
+8FFnJ	8fJ	8aJ	8ccJ
+=94	=94	=94	=94
+4BB-y	8f	8b-y	8b-y
+.	8r	8r	8r
+8r	8f	8b-y	8bb-y
+=95	=95	=95	=95
+4.B-y	(4d	(4f	(4ff
+.	8B-y)	8d)	8dd)
+=96	=96	=96	=96
+4.BB-y	(4D	(4B-y	(4b-y
+.	8F)	8d)	8dd)
+=97	=97	=97	=97
+8FL	8AL	8cL	8ccL
+8F	8B-y	8d	8dd
+8FJ	8cJ	8e-yJ	8ee-yJ
+=98	=98	=98	=98
+4BB-y	8B-y	8d	8dd
+.	8r	8r	8r
+8r	8f	8b-y	8bb-y
+=99	=99	=99	=99
+4.B-y	(4d	(4f	(4ff
+.	8B-y)	8d)	8dd)
+=100	=100	=100	=100
+4.BB-y	(4F	(4B-y	(4b-y
+.	8B-y)	8d)	8dd)
+=101	=101	=101	=101
+8FFL	8E-yL	8cL	8ccL
+8FF	8D	8B-y	8b-y
+8FFJ	8CJ	8AJ	8aJ
+!!LO:LB
+=102	=102	=102	=102
+4BB-y	8D	8B-y	8b-y
+.	8r	8r	8r
+8r	(8f	(8b-y	(8bb-y
+=103	=103	=103	=103
+8BB-yL	8dL)	8fL)	8ffL)
+8BB-y	(8d	(8f	(8ff
+8BB-yJ	8B-yJ	8dJ	8ddJ
+=104	=104	=104	=104
+8BB-yL	8FL)	8B-yL)	8b-yL)
+8BB-y	(8F	(8B-y	(8b-y
+8BB-yJ	8B-yJ)	8dJ)	8ddJ)
+=105	=105	=105	=105
+8FFL	8AL	8cL	8ccL
+8FF	8B-y	8d	8dd
+8FFJ	8cJ	8e-yJ	8ee-yJ
+=106	=106	=106	=106
+8BB-yL	8B-y	8d	8dd
+8BB-y	8r	8r	8r
+8BB-yJ	(8f	(8b-y	(8bb-y
+=107	=107	=107	=107
+8BB-yL	8dL)	8fL)	8ffL)
+8BB-y	(8d	(8f	(8ff
+8BB-yJ	8B-yJ	8dJ	8ddJ
+=108	=108	=108	=108
+8BB-yL	8FL)	8B-yL)	8b-yL)
+8BB-y	(8F	(8d	(8b-y
+8BB-yJ	8B-yJ)	8fJ)	8ddJ)
+=109	=109	=109	=109
+8FFL	8cL	8e-yL	8ccL
+8FF	8B-y	8d	8b-y
+8FFJ	8AJ	8cJ	8aJ
+=110	=110	=110	=110
+4BB-y	4b-y 4f 4B-y	4dd 4f 4B-y	4bb-y 4b-y 4d
+8r	8r	8r	8r
+=:|!	=:|!	=:|!	=:|!
+*-	*-	*-	*-
+!!!RDF**kern: < = below

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 2.0 Partwise//EN"
+                                "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="3.0">
+  <movement-title>Christum wir sollen loben schon</movement-title>
+  <identification>
+    <encoding>
+      <software>python-ly 0.9.5</software>
+      <encoding-date>2019-05-18</encoding-date>
+    </encoding>
+    <creator type="composer">Johann Sebastian Bach</creator>
+    <mutopiatitle>Christum wir sollen loben schon</mutopiatitle>
+    <mutopiacomposer>BachJS</mutopiacomposer>
+    <mutopiaopus>BWV 611</mutopiaopus>
+    <mutopiainstrument>Organ</mutopiainstrument>
+    <date>1715</date>
+    <source>Autograph</source>
+    <style>Baroque</style>
+    <maintainer>Urs Metzger</maintainer>
+    <maintainerEmail>urs@ursmetzger.de</maintainerEmail>
+    <lastupdated>2007/Oct/24</lastupdated>
+    <subtitle>Choral in Alto</subtitle>
+    <opus>BWV 611</opus>
+    <footer>Mutopia-2007/10/25-1081</footer>
+    <tagline>  Sheet music from http://www.MutopiaProject.org www.  MutopiaProject  .org  •  Free to download, with the freedom to distribute, modify and perform. Typeset using http://www.LilyPond.org www.  LilyPond  .org by   .  Copyright © 2007.  Reference:  Licensed under the Creative Commons Attribution-ShareAlike 3.0 (Unported) License, for details see:  http://creativecommons.org/licenses/by-sa/3.0 http://creativecommons.org/licenses/by-sa/3.0</tagline>
+    <rights>Creative Commons Attribution-ShareAlike 3.0</rights>
+  </identification>
+  <part-list />
+</score-partwise>

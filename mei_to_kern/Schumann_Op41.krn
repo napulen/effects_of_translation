@@ -1,0 +1,1173 @@
+!!!COM: Robert Schumann
+!!!OTL: String Quartet No. 1
+!!!system-decoration: (s1,s2,s3,s4)
+**kern	**dynam	**kern	**dynam	**kern	**kern	**dynam
+*part4	*part4	*part3	*part3	*part2	*part1	*part1
+*staff4	*	*staff3	*	*staff2	*staff1	*
+*clefF4	*	*clefC3	*	*clefG2	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*k[b-]	*
+*M4/4	*	*M4/4	*	*M4/4	*M4/4	*
+!!Error: measure 1, staff 1 is underfilled: adding token 1ryy at end of measure to complete its duration.
+!	!	!	!	!	!LO:TX:a:iB:t=Adagio	!
+16r	pp	2r	pp	4r	1ryy	.
+(<8DDL	.	.	.	.	.	.
+16FFJ	.	.	.	.	.	.
+16BB-yL	.	.	.	[2f	.	.
+16C#	.	.	.	.	.	.
+16D	.	.	.	.	.	.
+16FJ	.	.	.	.	.	.
+16B-yL	.	(<4.D'>	.	.	.	.
+16f	.	.	.	.	.	.
+16e	.	.	.	.	.	.
+16dJ	.	.	.	.	.	.
+16cL	.	.	.	8fL]	.	.
+16B-y	.	.	.	.	.	.
+16A	.	8D'>)	.	8fJ	.	.
+16G#J)	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2
+*	*	*^	*	*	*	*
+!!Error: measure 2, staff 1 is underfilled: adding token 1ryy at end of measure to complete its duration.
+(>4A	.	(<4C#	8.GL	.	(<4e	1ryy	.
+.	.	.	16AJ)	.	.	.	.
+*	*	*v	*v	*	*	*	*
+2C^>)	<	2F#^>	<	2e-^> 2a^>	.	.
+8.CL]	<	4e-	.	8.gL	.	.
+16CJ	]	.	[	16f#J)	.	.
+=3	=3	=3	=3	=3	=3	=3
+2BB-y	.	2d	.	(<4a	16r	p
+.	.	.	.	.	(<8dL	.
+.	<	.	.	.	16f#J	.
+.	.	.	.	4g)	16gL	.
+.	.	.	.	.	16bn	.
+.	.	.	.	.	16cc#	.
+.	.	.	.	.	16ddJ	.
+4r	.	4r	.	4r	16ggL	.
+.	.	.	.	.	16ddd	.
+.	>	.	.	.	16ccc	.
+.	.	.	.	.	16bbnJ	.
+8r	.	8r	.	8r	16aaL	.
+.	.	.	.	.	16gg	.
+8C	.	8c	.	(<8g 8b-y	16ff	.
+.	]	.	.	.	16eeJ)	.
+=4	=4	=4	=4	=4	=4	=4
+(<2FF	p	8r	.	(<2a)	(>2aa	.
+.	.	16r	.	.	.	.
+.	.	[(<16C	.	.	.	.
+.	.	16CL]	.	.	.	.
+.	.	16F	.	.	.	.
+.	.	16A	.	.	.	.
+.	.	16cJ)	.	.	.	.
+2GG	.	8r	.	2e	2ee	.
+.	.	16r	.	.	.	.
+.	.	[(<16C	.	.	.	.
+.	.	16CL]	.	.	.	.
+.	.	16G	.	.	.	.
+.	.	16B-y	.	.	.	.
+.	.	16cJ)	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5
+2AA	.	8r	.	2f)	2ff	.
+.	.	16r	.	.	.	.
+.	.	[(<16C	.	.	.	.
+.	.	16CL]	.	.	.	.
+.	.	16F	.	.	.	.
+.	.	16A	.	.	.	.
+.	.	16cJ)	.	.	.	.
+2BBn)	.	8r	.	8fL]	4g	.
+.	.	16r	.	(<8f	.	.
+.	.	[(<16C	.	.	.	.
+.	.	16CL]	.	8G	4dd)	.
+.	.	16F	.	.	.	.
+.	.	16G	.	8fJ)	.	.
+.	.	16dJ)	.	.	.	.
+!!LO:LB
+=6	=6	=6	=6	=6	=6	=6
+(<2C	.	8r	.	2f 2a	(>4dd	.
+.	.	16r	.	.	.	.
+.	.	[(<16C	.	.	.	.
+.	.	16CL]	.	.	[4cc	.
+.	.	16F	.	.	.	.
+.	.	16A	.	.	.	.
+.	.	16cJ)	.	.	.	.
+2CC	.	8r	.	8e 8b-y	8ccL]	.
+.	.	16r	.	4e 4b-y	8cc#	.
+.	.	[(<16C	.	.	.	.
+.	.	16CL]	.	.	8dd	.
+.	.	16E	.	.	.	.
+.	.	16G	.	8e 8g	8b-yJ)	.
+.	.	16cJ)	.	.	.	.
+=7	=7	=7	=7	=7	=7	=7
+2.FF	.	8r	.	2.c 2.f	(>4b-y	.
+.	.	16r	.	.	.	.
+.	.	[(<16C	.	.	.	.
+.	.	16CL]	.	.	2a)	.
+.	.	16F	.	.	.	.
+.	.	16A	.	.	.	.
+.	.	16cJ)	.	.	.	.
+.	.	8r	.	.	.	.
+.	.	16r	.	.	.	.
+.	.	[(<16F	.	.	.	.
+4EE)	.	16FL]	.	[4f	[(<4a	.
+.	.	16A	.	.	.	.
+.	.	16c	.	.	.	.
+.	.	16fJ)	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8
+2DD	.	8r	.	2f]	4a]	.
+.	.	16r	.	.	.	.
+.	.	[(<16F	.	.	.	.
+.	.	16FL]	.	.	2ff	.
+.	.	16A	.	.	.	.
+.	.	16d	.	.	.	.
+.	.	16fJ)	.	.	.	.
+(<4DD	.	8r	.	(<4f	.	.
+.	<	16r	.	.	.	<
+.	.	[(<16F	<	.	.	.
+4FF)	.	16FL]	.	4a)	8.eeL	.
+.	.	16A	.	.	.	.
+.	.	16d	.	.	.	.
+.	[	16fJ)	[	.	16ddJ	[
+=9	=9	=9	=9	=9	=9	=9
+2GG#	.	8r	.	(<2d 2f	4cc	.
+.	.	16r	.	.	.	.
+.	.	[(<16F	.	.	.	.
+.	<	16FL]	<	.	4bn	.
+.	<	16Bn	.	.	.	<
+.	.	16d	.	.	.	.
+.	.	16fJ)	.	.	.	.
+(<2AA	.	8r	.	2d#) 2f#	4dd	.
+.	.	16r	.	.	.	.
+.	.	[(<16F#	.	.	.	.
+.	.	16F#yL]	.	.	4cc)	.
+.	.	16c	.	.	.	.
+.	.	16d#	.	.	.	[
+.	[	16f#J)	[	.	.	.
+!!LO:LB
+=10	=10	=10	=10	=10	=10	=10
+*	*	*	*	*	*^	*
+2GG)	.	8r	.	[2e [2g	(>4cc	1%0g	.
+*	*	*	*	*	*v	*v	*
+.	.	16r	.	.	.	.
+.	.	[(<16G	.	.	.	.
+.	.	16GL]	.	.	2g)	.
+.	.	16c	.	.	.	.
+.	.	16e	.	.	.	.
+.	.	16gJ)	.	.	.	.
+(<4GG	.	8r	.	8e] 8g]	.	.
+.	.	16r	.	(<4f	.	.
+.	.	[(<16G	>	.	.	>
+.	>	.	.	.	16qf#L	.
+.	.	.	.	.	16qgJ	.
+4G)	.	16GL]	.	.	4gT	.
+.	.	16Bn	.	.	.	.
+.	.	16d	.	8f'<)	.	.
+.	]	16gJ)	]	.	.	]
+=11	=11	=11	=11	=11	=11	=11
+2.C	.	8r	.	2.e	(>4dd	.
+.	.	16r	.	.	.	.
+.	.	[(<16G	.	.	.	.
+.	.	16GL]	.	.	2cc)	.
+.	.	16c	.	.	.	.
+.	.	16e	.	.	.	.
+.	.	16gJ)	.	.	.	.
+.	.	8r	.	.	.	.
+.	.	16r	.	.	.	.
+.	.	[(<16G	.	.	.	.
+4r	.	16GL]	.	4c	4cc	.
+.	.	16c	.	.	.	.
+.	.	16e	.	.	.	.
+.	.	16gJ)	.	.	.	.
+=12	=12	=12	=12	=12	=12	=12
+(<2AA	.	8r	.	(<4c	(>4cc	.
+.	<	16r	<	.	.	<
+.	.	[(<16F	.	.	.	.
+.	.	16FL]	.	2e-	2ee-	.
+.	.	16F	[	.	.	.
+.	[	16c	.	.	.	.
+.	.	16fJ)	.	.	.	[
+4C	.	8r	.	.	.	<
+.	>	16r	.	.	.	.
+.	>	[(<16F	.	.	.	>
+8.BB-yL	.	16FL]	.	8.dL	8.ddL	.
+.	.	16c	.	.	.	.
+.	.	16e-	.	.	.	]
+16AAJ)	]	16fJ)	.	16c#J)	16cc#J)	.
+=13	=13	=13	=13	=13	=13	=13
+2.BB-y	.	8r	.	(<4c#	(>4cc#	.
+.	.	16r	.	.	.	.
+.	.	[(<16F	.	.	.	.
+.	.	16FL]	.	2d)	2dd)	.
+.	.	16B-y	.	.	.	.
+.	.	16d	.	.	.	.
+.	.	16fJ)	.	.	.	.
+.	.	8r	.	.	.	.
+.	.	16r	.	.	.	.
+.	.	[(<16F#	.	.	.	.
+4r	.	16F#yL]	.	[4d	[4dd	.
+!	!	!LO:TX:i:t=cresc.	!	!	!	!
+.	.	16B-y	.	.	.	.
+.	.	16d	.	.	.	.
+.	.	16f#J)	.	.	.	.
+!!LO:LB
+=14	=14	=14	=14	=14	=14	=14
+2BBn	.	8r	.	(<4d_	(>4dd_	.
+.	<	16r	.	.	.	.
+.	.	[(<16G	.	.	.	.
+.	.	16GL]	.	2f	2ff	.
+.	.	16Bn	.	.	.	.
+.	.	16d)	.	.	.	.
+.	.	16gJ	.	.	.	.
+4D	[	8r	.	.	.	.
+.	>	16r	.	.	.	.
+.	.	[(<16G	.	.	.	.
+8.CL	.	16GL]	.	8.eL	8.eeL	.
+.	.	16d	.	.	.	.
+.	.	16f	.	.	.	.
+16BBJ	]	16gJ)	.	16d#J)	16dd#J)	.
+=15	=15	=15	=15	=15	=15	=15
+*^	*	*	*	*	*	*
+4.C	1%0BB-y	.	8r	.	(<4d#	(>4dd#	.
+*v	*v	*	*	*	*	*	*
+.	.	16r	.	.	.	.
+.	.	[(<16G	.	.	.	.
+.	.	16GL]	.	2e	2ee)	.
+.	.	16c	.	.	.	.
+8BB-	.	16e	.	.	.	.
+.	.	16gJ)	.	.	.	.
+2BB-yT	.	8r	.	.	.	.
+.	.	16r	.	.	.	.
+.	.	[(<16C	.	.	.	.
+!LO:TX:i:t=cresc.	!	!	!	!	!	!
+.	.	16CL]	.	4c)	8.eeL]	.
+.	.	16F	.	.	.	.
+.	.	16A	.	.	.	.
+.	.	16cJ)	.	.	16ccJ	.
+=16	=16	=16	=16	=16	=16	=16
+!!Error: measure 16, staff 4 is underfilled: adding token 32%31ryy at end of measure to complete its duration.
+!!Error: measure 16, staff 3 is underfilled: adding token 32%31ryy at end of measure to complete its duration.
+!!Error: measure 16, staff 1 is underfilled: adding token 32%31ryy at end of measure to complete its duration.
+32AA	f	32f'>	sf	16r	32f'<	sf
+32%31ryy	<	32%31ryy	.	.	32%31ryy	.
+.	.	.	.	(<16cL	.	.
+.	.	.	.	16f	.	.
+.	.	.	.	16eJ	.	.
+.	.	.	.	16gL	.	.
+.	.	.	.	16f	.	.
+.	.	.	.	16b-y	.	.
+.	.	.	.	16aJ	.	.
+.	[	.	.	16ddL	.	.
+.	.	.	.	16cc	.	.
+.	>	.	.	16bn	.	.
+.	.	.	.	16ccJ	.	.
+.	.	.	.	16g#L	.	.
+.	.	.	.	16a	.	.
+.	.	.	.	16f	.	.
+.	]	.	.	16cJ)	.	.
+=17	=17	=17	=17	=17	=17	=17
+!!Error: measure 17, staff 4 is underfilled: adding token 32%31ryy at end of measure to complete its duration.
+!!Error: measure 17, staff 2 is underfilled: adding token 32%31ryy at end of measure to complete its duration.
+!!Error: measure 17, staff 1 is underfilled: adding token 32%31ryy at end of measure to complete its duration.
+32D-y	f	16f'<L	sf	32g-'<	32g-'<	f
+32%31ryy	.	.	.	32%31ryy	32%31ryy	.
+.	.	16F	.	.	.	.
+.	.	16c	<	.	.	.
+.	.	16B-yJ	.	.	.	.
+.	.	16e-L	.	.	.	.
+.	.	16d-	.	.	.	.
+.	.	16g-	.	.	.	.
+.	.	16fJ	.	.	.	.
+.	.	16ccL	[	.	.	.
+.	.	16b-y	.	.	.	.
+.	>	16a	.	.	.	.
+.	.	16b-yJ	.	.	.	.
+.	.	16enL	.	.	.	.
+.	.	16f	.	.	.	.
+.	.	16d-y	.	.	.	.
+.	]	16B-yJ	.	.	.	.
+!!LO:LB
+=18	=18	=18	=18	=18	=18	=18
+*	*	*	*	*	*^	*
+!!Error: measure 18, staff 4 is underfilled: adding token 8...ryy at end of measure to complete its duration.
+!!Error: measure 18, staff 2 is underfilled: adding token 8...ryy at end of measure to complete its duration.
+!!Error: measure 18, staff 1 is underfilled: adding token 16...ryy at end of measure to complete its duration.
+32BB-y'<	f	16r	f	32dn	32f	1%0ff	f
+*	*	*	*	*	*v	*v	*
+32BB'<	.	.	.	32d	2ffT	.
+8...ryy	.	(<16D-L	.	8...ryy	.	.
+.	.	16A-	.	.	.	.
+.	.	16G-J	.	.	.	.
+.	.	16e-L	.	.	.	.
+.	.	16d-	.	.	.	.
+.	.	16a-	.	.	.	.
+.	.	16g-J)	.	.	.	.
+.	.	16r	.	.	.	.
+.	.	.	.	.	16...ryy	.
+.	.	(<16DnL	.	.	.	.
+.	.	16Gn	.	.	.	.
+.	.	16FJ	.	.	.	.
+.	.	16B-yL	.	.	.	.
+.	.	16An	.	.	.	.
+.	.	16gn	.	.	.	.
+.	.	16fJ)	.	.	.	.
+=19	=19	=19	=19	=19	=19	=19
+2.C	.	16r	.	4c	(>4ff	.
+.	.	(<16GL	.	.	.	.
+.	.	16c	.	.	.	.
+.	.	16BnJ	.	.	.	.
+!	!	!LO:TX:i:t=dim.	!	!	!LO:TX:i:t=dim.	!
+.	.	16dL	.	2g 2b-	[4ee	.
+.	.	16c	.	.	.	.
+.	.	16f	.	.	.	.
+.	.	16eJ	.	.	.	.
+.	.	16b-yL	.	.	4ee]	.
+.	.	16g	.	.	.	.
+.	.	16e	.	.	.	.
+.	.	16cJ	.	.	.	.
+!LO:TX:i:t=dim.	!	!	!	!	!	!
+4r	.	16B-L	.	4e 4g	8.ddL	.
+.	.	16G	.	.	.	.
+.	.	16E	.	.	.	.
+.	.	16CJ)	.	.	16ccJ)	.
+=20	=20	=20	=20	=20	=20	=20
+(>2aa	p	(<2F	p	8r	8r	.
+.	.	.	.	(<4c'< 4a'<	16r	.
+.	.	.	.	.	16c	.
+.	.	.	.	.	16r	.
+.	.	.	.	.	16fL	.
+.	.	.	.	8c'<) 8a'<	16a	.
+.	.	.	.	.	16ccJ	.
+2ee	.	2G	.	8r	8r	.
+.	.	.	.	(<4B-y'< 4e'<	16r	.
+.	.	.	.	.	16c	.
+.	.	.	.	.	16r	.
+.	.	.	.	.	16eL	.
+.	.	.	.	8B-y'<) 8e'<	16g	.
+.	.	.	.	.	16ccJ	.
+=21	=21	=21	=21	=21	=21	=21
+2ff)	.	2A	.	8r	8r	.
+.	.	.	.	(<4c'< 4f'<	16r	.
+.	.	.	.	.	16c	.
+.	.	.	.	.	16r	.
+.	.	.	.	.	16fL	.
+.	.	.	.	8c'<) 8f'<	16a	.
+.	.	.	.	.	16ccJ	.
+(>8ff_	.	2Bn)	.	8r	8r	.
+4g	.	.	.	(<4G'< 4f'<	16r	.
+.	.	.	.	.	16d	.
+.	.	.	.	.	16r	.
+.	.	.	.	.	16fL	.
+8dd)	.	.	.	8G'<) 8f'<	16g	.
+.	.	.	.	.	16ddJ	.
+!!LO:LB
+=22	=22	=22	=22	=22	=22	=22
+(>4dd	.	2.C	.	8r	8r	.
+.	.	.	.	(<4A'< 4f'<	16r	.
+.	.	.	.	.	16c	.
+[4cc	.	.	.	.	16r	.
+.	.	.	.	.	16fL	.
+.	.	.	.	8A'<) 8f'<	16a	.
+.	.	.	.	.	16ccJ	.
+8ccL]	.	.	.	8r	8r	.
+8cc#	.	.	.	(<4B-y'< 4e'<	16r	.
+.	.	.	.	.	16c	.
+8dd	.	4C	.	.	16r	.
+.	.	.	.	.	16eL	.
+8b-yJ)	.	.	.	8B-y'<) 8e'<	16g	.
+.	.	.	.	.	16ccJ	.
+=23	=23	=23	=23	=23	=23	=23
+(>4b-y	.	(<2.F	.	8r	8r	.
+.	.	.	.	(<4B-y'< 4e'<	16r	.
+.	.	.	.	.	16c	.
+2a)	.	.	.	.	16r	.
+.	.	.	.	.	16fL	.
+.	.	.	.	8A'<) 8f'<	16a	.
+.	.	.	.	.	16ccJ	.
+.	.	.	.	8r	8r	.
+.	.	.	.	(<4A'< 4f'<	16r	.
+.	.	.	.	.	16c#	.
+[(<4a	.	4E)	.	.	16r	.
+.	.	.	.	.	16fL	.
+.	.	.	.	8A'<) 8f'<	16a	.
+.	.	.	.	.	16cc#J	.
+=24	=24	=24	=24	=24	=24	=24
+4a]	.	2D	.	8r	8r	.
+.	<	.	.	(<4A'< 4f'<	16r	.
+.	.	.	.	.	16d	.
+2ff	.	.	.	.	16r	.
+.	.	.	.	.	16fL	.
+.	.	.	.	8A'<) 8f'<	16a	.
+.	.	.	.	.	16ddJ	.
+.	.	(<4D	.	8r	8r	.
+.	<	.	.	(<4A'< 4f'<	16r	.
+.	.	.	.	.	16d	.
+8.eeL	.	4F)	.	.	16r	.
+.	.	.	.	.	16fL	.
+.	.	.	.	8A'<) 8f'<	16a	.
+16ddJ)	[	.	.	.	16ddJ	.
+=25	=25	=25	=25	=25	=25	=25
+(>4cc	.	(<2G#	.	8r	8r	.
+.	.	.	.	(<4d'< 4f'<	16r	.
+.	.	.	.	.	16d	.
+4bn	.	.	.	.	16r	.
+.	.	.	.	.	16fL	.
+.	.	.	.	8d'<) 8f'<	16bn	.
+.	.	.	<	.	16ddJ	.
+4dd	.	2A)	.	8d'< 8f#'<	8r	.
+.	.	.	.	(<4d'< 4f#y'<	16r	.
+.	.	.	.	.	16d	.
+4cc)	.	.	.	.	16r	.
+.	.	.	.	.	16f#L	.
+.	.	.	.	8d'<)	16cc	.
+.	.	.	[	.	16ddJ	.
+!!LO:LB
+=26	=26	=26	=26	=26	=26	=26
+*^	*	*	*	*	*	*
+4cc	1%0g	.	2.G	.	8r	8r	.
+*v	*v	*	*	*	*	*	*
+.	.	.	.	(<4e'< 4g'<	16r	.
+.	.	.	.	.	16G	.
+2g	.	.	.	.	16r	.
+.	.	.	.	.	16cL	.
+.	.	.	.	8e'<) 8g'<	16e	.
+.	.	.	.	.	16gJ	.
+.	.	.	.	8r	8r	.
+.	>	.	>	(<4f'< 4g'<	16r	.
+.	.	.	.	.	16G	.
+(<16qf#L	.	.	.	.	.	.
+16qgJ)	.	.	.	.	.	.
+4gT	.	4G	.	.	16r	.
+.	.	.	.	.	16BnL	.
+.	.	.	.	8f'<) 8g'<	16d	.
+.	]	.	]	.	16gJ	.
+=27	=27	=27	=27	=27	=27	=27
+(>4dd	.	2C 2G	.	8r	8r	.
+.	.	.	.	(<4e'< 4g'<	16r	.
+.	.	.	.	.	16c	.
+4cc)	.	.	.	.	16r	.
+.	.	.	.	.	16eL	.
+.	.	.	.	8e'<) 8g'<	16g	.
+.	.	.	.	.	16ccJ	.
+2r	.	2r	.	2r	16r	.
+.	.	.	.	.	16eeL	.
+.	.	.	.	.	16gg	.
+.	.	.	.	.	16cccJ	.
+.	.	.	.	.	4r	.
+=28	=28	=28	=28	=28	=28	=28
+2r	.	4r	.	4r	4r	.
+!	!	!	!	!	!LO:TX:a:i:t=arco	!
+!	!	!LO:TX:a:i:t=cresc.	!	!	!LO:TX:i:t=cresc.	!
+!	!	!LO:TX:i:t=cresc.	!	!	!	!
+.	.	2D-	.	2d-	2dd-	.
+4r	.	.	.	.	.	.
+4E-'>	.	4E-'<	.	4d-y'<	4g'<	.
+=29	=29	=29	=29	=29	=29	=29
+8AA-'<L 8E-'<	f	8E-'<L	f	8r	8c'<L 8a-'<	p
+8BB-y'<J 8E-y'<	.	8E-y'<J	.	[(<8e-	8d-'<J 8e-'<	.
+4r	.	4r	.	16e-yL]	8r	.
+.	.	.	.	16g	.	.
+.	.	.	.	16b-y	[(>8ee-	.
+.	.	.	.	16ee-J)	.	.
+2r	.	8r	.	2r	16ee-yL]	.
+.	.	.	.	.	16gg	.
+.	.	[(<8E-y	.	.	16bb-y	.
+.	.	.	.	.	16eee-J)	.
+.	.	16E-yL]	.	.	4r	.
+.	.	16G	.	.	.	.
+.	.	16B-y	.	.	.	.
+.	.	16e-J)	.	.	.	.
+=30	=30	=30	=30	=30	=30	=30
+8AA-'<L 8E-'<	f	8E-'<L	p	8r	8c'<L 8a-'<	p
+8GG'>J 8E-y'>	.	8E-y'<J	.	[8ee-	8e-'<J 8ee-'<	.
+4r	.	8r	.	16ee-yL]	4r	.
+.	.	.	.	16b-y	.	.
+.	.	[(>8e-	.	16g	.	.
+.	.	.	.	16e-J	.	.
+2r	.	16e-yL]	.	2r	8r	.
+.	.	16B-y	.	.	.	.
+.	.	16G	.	.	[8ee-y	.
+.	.	16E-yJ)	.	.	.	.
+.	.	4r	.	.	16ee-yL]	.
+.	.	.	.	.	16b-y	.
+.	.	.	.	.	16g	.
+.	.	.	.	.	16e-yJ	.
+!!LO:LB
+=31	=31	=31	=31	=31	=31	=31
+8FF'<L 8C'<	p	8C'<L	fp	8r	8A-'<L 8f'<	.
+8FF'<J 8C'<	.	8C'<J 8B-y'<	.	[(<8c	8c'<J	.
+4r	.	4r	.	16cL]	8r	.
+.	.	.	.	16e	.	.
+.	.	.	.	16g	[(<8c	.
+.	.	.	.	16ccJ)	.	.
+2r	.	8r	.	2r	16cL]	.
+.	.	.	.	.	16e	.
+.	.	[(<8C	.	.	16g	.
+.	.	.	.	.	16ccJ)	.
+.	.	16CL]	.	.	4r	.
+.	.	16E	.	.	.	.
+.	.	16G	.	.	.	.
+.	.	16cJ)	.	.	.	.
+=32	=32	=32	=32	=32	=32	=32
+8FF'<L 8C'<	f	8C-'<L	sf	8r	8A-'<L 8f'<	sf
+8EE-'>J 8C'>	.	8C-'<J 8An'<	.	[(>8gg-	8g-'<J 8cc'<	.
+4r	.	4r	.	16gg-yL]	8r	.
+.	.	.	.	16ee-	.	.
+.	.	.	.	16cc	[(>8gg-	.
+.	.	.	.	16aJ)	.	.
+2r	.	8r	.	2r	16gg-yL]	.
+.	.	.	.	.	16ee-	.
+.	.	[(>8g-	.	.	16cc	.
+.	.	.	.	.	16aJ)	.
+.	.	16g-yL]	.	.	4r	.
+.	.	16e-	.	.	.	.
+.	.	16c	.	.	.	.
+.	.	16AJ)	.	.	.	.
+=33	=33	=33	=33	=33	=33	=33
+!!Error: measure 33, staff 1 is underfilled: adding token 32%31ryy at end of measure to complete its duration.
+1DD-	f	16r	sf	1B-y	32b-y'>	.
+.	.	.	.	.	32%31ryy	.
+.	.	(<16FL	.	.	.	.
+.	.	16c	.	.	.	.
+.	.	16B-yJ	.	.	.	.
+.	.	16d-L	.	.	.	.
+.	.	16c	.	.	.	.
+.	.	16g-	.	.	.	.
+.	.	16fJ	.	.	.	.
+.	.	16ccL	.	.	.	.
+.	.	16b-y	.	.	.	.
+.	.	16a	.	.	.	.
+.	.	16b-yJ	.	.	.	.
+.	.	16eL	.	.	.	.
+.	.	16f	.	.	.	.
+.	.	16d-y	.	.	.	.
+.	.	16B-yJ)	.	.	.	.
+=34	=34	=34	=34	=34	=34	=34
+!!Error: measure 34, staff 1 is underfilled: adding token 32%31ryy at end of measure to complete its duration.
+1GG-	sf	1B-y	f	16r	32ee-y'>	sf
+.	.	.	.	.	32%31ryy	.
+.	.	.	.	(<16B-yL	.	.
+.	.	.	.	16f	.	.
+.	.	.	.	16e-J	.	.
+.	.	.	.	16a-L	.	.
+.	.	.	.	16g-	.	.
+.	.	.	.	16bn	.	.
+.	.	.	.	16b-J	.	.
+.	.	.	.	16ffL	.	.
+.	.	.	.	16ee-	.	.
+.	.	.	.	16dd	.	.
+.	.	.	.	16ee-yJ	.	.
+.	.	.	.	16anL	.	.
+.	.	.	.	16b-y	.	.
+.	.	.	.	16g-y	.	.
+.	.	.	.	16e-yJ)	.	.
+!!LO:LB
+=35	=35	=35	=35	=35	=35	=35
+!!Error: measure 35, staff 1 is underfilled: adding token 32%31ryy at end of measure to complete its duration.
+2C-	sf	16r	.	1e-	32a-y'<	f
+.	.	.	.	.	32%31ryy	.
+.	.	(<16E-L	.	.	.	.
+.	.	16B-y	.	.	.	.
+.	.	16A-J	.	.	.	.
+.	.	16d-L	.	.	.	.
+.	.	16c	.	.	.	.
+.	.	16f-	.	.	.	.
+.	.	16e-J	.	.	.	.
+2r	.	16b-yL	.	.	.	.
+.	.	16a-	.	.	.	.
+.	.	16g	.	.	.	.
+.	.	16a-yJ	.	.	.	.
+.	.	16dnL	.	.	.	.
+.	.	16e-y	.	.	.	.
+.	.	16Bn	.	.	.	.
+.	.	16A-yJ)	.	.	.	.
+=36	=36	=36	=36	=36	=36	=36
+1BB-y	sf	1A- 1f	.	16r	1aa-	sf
+.	.	.	.	(<16A-L	.	.
+.	.	.	.	16e-	.	.
+.	.	.	.	16dJ	.	.
+.	.	.	.	16g-L	.	.
+.	.	.	.	16f	.	.
+.	.	.	.	16cc-	.	.
+.	.	.	.	16b-yJ	.	.
+.	.	.	.	16gg-L	.	.
+.	.	.	.	16ff	.	.
+.	.	.	.	16ee	.	.
+.	.	.	.	16ffJ	.	.
+.	.	.	.	16cc#L	.	.
+.	.	.	.	16dd	.	.
+.	.	.	.	16b-y	.	.
+.	.	.	.	16fJ)	.	.
+=37	=37	=37	=37	=37	=37	=37
+!!Error: measure 37, staff 1 is underfilled: adding token 32%31ryy at end of measure to complete its duration.
+[1G-	sf	16r	.	2r	32een'>	sf
+.	.	.	.	.	32%31ryy	.
+.	.	(>16B-yL	.	.	.	.
+.	.	16f	.	.	.	.
+.	.	16e-J	.	.	.	.
+.	.	16a-L	.	.	.	.
+.	.	16g-	.	.	.	.
+.	.	16bn	.	.	.	.
+.	.	16b-J	.	.	.	.
+.	.	16ffL	.	[2e-	.	.
+.	.	16ee-	.	.	.	.
+.	.	16dd	.	.	.	.
+.	.	16ee-yJ	.	.	.	.
+.	.	16anL	.	.	.	.
+.	.	16b-y	.	.	.	.
+.	.	16g-	.	.	.	.
+.	.	16e-yJ)	.	.	.	.
+=38	=38	=38	=38	=38	=38	=38
+!!Error: measure 38, staff 4 is underfilled: adding token 16...ryy at end of measure to complete its duration.
+!!Error: measure 38, staff 1 is underfilled: adding token 32%31ryy at end of measure to complete its duration.
+32G-'>	sf	8ee-	sf	16e-yL]	32aa-y'>	sf
+[2C-	.	.	.	.	32%31ryy	.
+.	.	.	.	(<16e-	.	.
+.	.	8r	.	16b-y	.	.
+.	.	.	.	16a-J	.	.
+.	.	4r	.	16dd-L	.	.
+.	.	.	.	16cc	.	.
+.	.	.	.	16ff	.	.
+.	.	.	.	16ee-J	.	.
+.	.	[2a-	.	16bb-yL	.	.
+16...ryy	.	.	.	.	.	.
+.	.	.	.	16aa-	.	.
+.	.	.	.	16gg	.	.
+.	.	.	.	16aa-yJ	.	.
+.	.	.	.	16ddnL	.	.
+.	.	.	.	16ee-y	.	.
+.	.	.	.	16cc	.	.
+.	.	.	.	16a-yJ)	.	.
+!!LO:LB
+=39	=39	=39	=39	=39	=39	=39
+!!Error: measure 39, staff 4 is underfilled: adding token 16...ryy at end of measure to complete its duration.
+!!Error: measure 39, staff 1 is underfilled: adding token 32%31ryy at end of measure to complete its duration.
+32C'<	sf	16a-y]]	.	4aa-	32dd-y	sf
+[2F-	.	.	.	.	32%31ryy	.
+.	.	(>16A-L	.	.	.	.
+.	.	16e-	.	.	.	.
+.	.	16d-J	.	.	.	.
+.	.	16g-L	.	4r	.	.
+.	.	16f	.	.	.	.
+.	.	16b--	.	.	.	.
+.	.	16a-J	.	.	.	.
+.	.	16ee-L	.	[2a-	.	.
+16...ryy	.	.	.	.	.	.
+.	.	16dd-	.	.	.	.
+.	.	16cc	.	.	.	.
+.	.	16dd-yJ	.	.	.	.
+.	.	16gnL	.	.	.	.
+.	.	16a-y	.	.	.	.
+.	.	16f-)	.	.	.	.
+.	.	16d-J	.	.	.	.
+=40	=40	=40	=40	=40	=40	=40
+!!Error: measure 40, staff 4 is underfilled: adding token 16...ryy at end of measure to complete its duration.
+32F-'>	sf	8dd-	.	(<16a-yL	1ddd-	sf
+2E-	.	.	.	.	.	.
+.	.	.	.	16d-	.	.
+.	.	8r	.	16a-	.	.
+.	.	.	.	16gJ	.	.
+.	.	4r	.	16cc-L	.	.
+.	.	.	.	16b-y	.	.
+.	.	.	.	16ff-	.	.
+.	.	.	.	16ee-J	.	.
+.	.	2g 2dd-y	.	16ccc-L	.	.
+16...ryy	.	.	.	.	.	.
+.	.	.	.	16bb-y	.	.
+.	.	.	.	16aa	.	.
+.	.	.	.	16bb-yJ	.	.
+.	.	.	.	16ff#L	.	.
+.	.	.	.	16gg	.	.
+.	.	.	.	16ee-y	.	.
+.	.	.	.	16dd-J)	.	.
+=41	=41	=41	=41	=41	=41	=41
+(<2AA-	p	8r	.	(>2cc-	2ccc-	p
+.	.	16r	.	.	.	.
+.	.	[(<16E-	.	.	.	.
+.	.	16E-yL]	.	.	.	.
+.	.	16A-	.	.	.	.
+.	.	16c-	.	.	.	.
+.	.	16e-J)	.	.	.	.
+2BB-y)	.	8r	.	2g	2gg	.
+.	.	16r	.	.	.	.
+.	.	[(<16En	.	.	.	.
+.	.	16EL]	.	.	.	.
+.	.	16G	.	.	.	.
+.	.	16B-y	.	.	.	.
+.	.	16f-J)	.	.	.	.
+=42	=42	=42	=42	=42	=42	=42
+*	*	*	*	*	*^	*
+[(<2C-	.	8r	.	2a-)	2aa-	1%0dd	.
+*	*	*	*	*	*v	*v	*
+.	.	16r	.	.	.	.
+.	.	[(<16E	.	.	.	.
+.	.	16EL]	.	.	.	.
+.	.	16G#	.	.	.	.
+.	.	16Bn	.	.	.	.
+.	.	16enJ)	.	.	.	.
+.	.	.	.	.	8qdd	.
+4.C-y]]	.	8r	.	(<4.a-y	(>2ddT	.
+.	.	16r	.	.	.	.
+.	.	[16E	.	.	.	.
+.	.	16EL]	.	.	.	.
+.	.	16G#y	.	.	.	.
+8EEn)	.	16B	.	8ddn)	.	.
+.	.	16eJ	.	.	.	.
+.	.	.	.	.	16qcc#L	.
+.	.	.	.	.	16qddJ)	.
+!!LO:LB
+=43	=43	=43	=43	=43	=43	=43
+!!Error: measure 43, staff 1 is underfilled: adding token 1ryy at end of measure to complete its duration.
+(<2AAn	.	8r	.	(>2cc#	1ryy	.
+.	.	16r	.	.	.	.
+.	.	[(<16E	.	.	.	.
+.	.	16EL]	.	.	.	.
+.	.	16A	.	.	.	.
+.	.	16c#	.	.	.	.
+.	.	16eJ)	.	.	.	.
+2BBn)	.	8r	.	2g#)	.	.
+.	.	16r	.	.	.	.
+.	.	[(<16F	.	.	.	.
+.	.	16FL]]	.	.	.	.
+.	.	16G#	.	.	.	.
+.	.	16Bn	.	.	.	.
+.	.	16fJ)	.	.	.	.
+=44	=44	=44	=44	=44	=44	=44
+(<2C	.	8r	.	(<2a	(>2aa	p
+.	.	16r	.	.	.	.
+.	.	[(<16F	.	.	.	.
+.	.	16FL]	.	.	.	.
+.	.	16A	.	.	.	.
+.	.	16c	.	.	.	.
+.	.	16fJ)	.	.	.	.
+2BB-)	.	8r	.	2g)	2ee)	.
+.	.	16r	.	.	.	.
+.	.	[(<16G	.	.	.	.
+.	.	16GL]	.	.	.	.
+.	.	16c	.	.	.	.
+.	.	16e	.	.	.	.
+.	.	16gJ)	.	.	.	.
+=45	=45	=45	=45	=45	=45	=45
+(<2AA	.	8r	.	[2f	[(>2ff	.
+.	.	16r	.	.	.	.
+.	.	[(<16F	.	.	.	.
+.	.	16FL]	.	.	.	.
+.	.	16A	.	.	.	.
+.	.	16c	.	.	.	.
+.	.	16fJ)	.	.	.	.
+2BBn)	.	8r	.	8fL]	8ff]	.
+.	.	16r	.	(<8f	4g	.
+.	.	[(<16F	.	.	.	.
+.	.	16FL]	.	8G	.	.
+.	.	16G	.	.	.	.
+.	.	16d	.	8fJ)	8dd)	.
+.	.	16fJ)	.	.	.	.
+=46	=46	=46	=46	=46	=46	=46
+(<2C	.	8r	.	2f 2a	(>4dd	.
+.	.	16r	.	.	.	.
+.	.	[(<16F	.	.	.	.
+.	.	16FL]	.	.	[4cc	.
+.	.	16A	.	.	.	.
+.	.	16c	.	.	.	.
+.	.	16fJ)	.	.	.	.
+4CC	.	8r	.	12r	8ccL]	.
+.	.	.	.	(<12e'<L 12b-y'<	.	.
+.	.	16r	.	.	8cc#	.
+.	.	.	.	12e'<J) 12b-y'<	.	.
+.	.	[(<16G	.	.	.	.
+4C	.	16GL]	.	(<12e'<L 12b-y'<	8dd	.
+.	.	16B-y	.	.	.	.
+.	.	.	.	12e'< 12b-y'<	.	.
+.	.	16e	.	.	8b-yJ)	.
+.	.	.	.	12e'<J) 12b-y'<	.	.
+.	.	16gJ)	.	.	.	.
+!!LO:LB
+=47	=47	=47	=47	=47	=47	=47
+!!Warning: measure 47, staff 4 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 47, staff 3 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Warning: measure 47, staff 1 padded. adding token 2ryy at end ot measure to extend its duration.
+!!Error: measure 47 staff 2 is overfilled: 6 quarter notes instead of 4.
+2.FF	.	8r	.	8r	(>4b-y	.
+.	.	16r	.	(<8f'<L 8b-y'<	.	.
+.	.	[(<16F	.	.	.	.
+.	.	16FL]	.	8f'<J 8b-y'<	2a)	.
+.	.	16A	.	.	.	.
+.	.	16c	.	8f'<L 8a'<	.	.
+.	.	16fJ)	.	.	.	.
+.	.	8r	.	8f'< 8a'<	.	.
+.	.	16r	.	8f'<J) 8a'<	.	.
+.	.	[(<16F	.	.	.	.
+4EE)	.	16FL]	.	8r	[(<4a	.
+.	.	16A	.	.	.	.
+.	.	16c	.	(<8f'<L 8a'<	.	.
+.	.	16fJ)	.	.	.	.
+2ryy	.	2ryy	.	8f'<J 8a'<	2ryy	.
+.	.	.	.	8f'<L 8a'<	.	.
+.	.	.	.	8f'< 8a'<	.	.
+.	.	.	.	8f'>J) 8a'>	.	.
+=48	=48	=48	=48	=48	=48	=48
+!!Warning: measure 48, staff 4 padded. adding token 4.ryy at end ot measure to extend its duration.
+!!Warning: measure 48, staff 3 padded. adding token 4.ryy at end ot measure to extend its duration.
+!!Warning: measure 48, staff 1 padded. adding token 4.ryy at end ot measure to extend its duration.
+!!Error: measure 48 staff 2 is overfilled: 5.5 quarter notes instead of 4.
+2DD	.	8r	.	8r	4a]	.
+.	.	16r	.	(<8f'<L 8a'<	.	.
+.	.	[(<16F	.	.	.	.
+.	.	16FL]	.	8f'<J 8a'<	2ff	.
+.	.	16A	<	.	.	<
+.	.	16d	.	12f'<L 12a'<	.	.
+.	.	16fJ)	.	.	.	.
+.	.	.	.	12f'< 12a'<	.	.
+(<4DD	.	8r	.	.	.	.
+.	.	.	.	12f'<J) 12a'<	.	.
+.	.	16r	.	8r	.	.
+.	.	[(<16F	.	.	.	.
+4FF)	.	16FL]	.	(>8ffL	8.eeL	.
+.	.	16A	.	.	.	.
+.	.	16d	.	8aJ)	.	.
+.	.	16fJ)	.	.	16ddJ	.
+4.ryy	.	4.ryy	[	(<8f'<L 8a'<	4.ryy	[
+.	.	.	.	8f'< 8a'<	.	.
+.	.	.	.	8f'<J) 8a'<	.	.
+=49	=49	=49	=49	=49	=49	=49
+!!Warning: measure 49, staff 4 padded. adding token 4.ryy at end ot measure to extend its duration.
+!!Warning: measure 49, staff 3 padded. adding token 4.ryy at end ot measure to extend its duration.
+!!Warning: measure 49, staff 1 padded. adding token 4.ryy at end ot measure to extend its duration.
+!!Error: measure 49 staff 2 is overfilled: 5.5 quarter notes instead of 4.
+(<2GG#	.	8r	.	8r	4cc	.
+.	.	16r	.	(<8dn'<L 8fn'<	.	.
+.	.	[(<16F	.	.	.	.
+.	<	16FL]	.	8d'<J 8f'<	4bn	.
+.	.	16Bn	.	.	.	.
+.	.	16d	.	12d'<L 12f'<	.	.
+.	.	16fJ)	.	.	.	.
+.	.	.	.	12d'< 12f'<	.	.
+2AA	.	8r	<	.	4dd	.
+.	.	.	.	12d'<J) 12f'<	.	.
+.	.	16r	.	8r	.	.
+.	.	[(<16F#	.	.	.	.
+.	.	16F#yL]	.	(<8d#'<L 8f#'<	4cc)	.
+.	.	16c	.	.	.	.
+.	[	16d#	.	8dn'<J 8f#y'<	.	.
+.	.	16f#J)	[	.	.	.
+4.ryy	.	4.ryy	.	8d'<L 8f#y'<	4.ryy	.
+.	.	.	.	8d'< 8f#y'<	.	.
+.	.	.	.	8d'<J) 8f#y'<	.	.
+=50	=50	=50	=50	=50	=50	=50
+*	*	*	*	*	*^	*
+!!Warning: measure 50, staff 4 padded. adding token 4.ryy at end ot measure to extend its duration.
+!!Warning: measure 50, staff 3 padded. adding token 4.ryy at end ot measure to extend its duration.
+!!Warning: measure 50, staff 1 padded. adding token 4.ryy at end ot measure to extend its duration.
+!!Error: measure 50 staff 2 is overfilled: 5.5 quarter notes instead of 4.
+2GG)	.	8r	.	8r	(>4cc	1%0g	.
+*	*	*	*	*	*v	*v	*
+.	.	16r	.	(<8e'<L 8g'<	.	.
+.	.	[(<16G	.	.	.	.
+.	.	16GL]	.	8e'<J 8g'<	2g)	.
+.	.	16c	.	.	.	.
+.	.	16e	.	8e'<L 8g'<	.	.
+.	.	16gJ)	.	.	.	.
+(<4GG	.	8r	.	8e'< 8g'<	.	.
+.	.	16r	.	8e'<J) 8g'<	.	.
+.	.	[(<16G	.	.	.	.
+.	.	.	.	.	16qf#L	.
+.	.	.	.	.	16qgJ	.
+4G)	.	16GL]	.	8r	4gT	.
+.	.	16Bn	.	.	.	.
+.	.	16d	.	(<8f'<L 8g'<	.	.
+.	.	16gJ)	.	.	.	.
+4.ryy	.	4.ryy	.	8f'<J 8g'<	4.ryy	.
+.	.	.	.	12f'<L 12g'<	.	.
+.	.	.	.	12f'< 12g'<	.	.
+.	.	.	.	12f'>J) 12g'>	.	.
+!!LO:LB
+=51	=51	=51	=51	=51	=51	=51
+2C	.	8r	.	12r	(>4dd	.
+.	>	.	.	(<12eL 12g	.	.
+.	.	16r	.	.	.	.
+.	.	.	.	12eJ 12g	.	.
+.	.	[(>16c	.	.	.	.
+.	.	16cL]	.	12eL 12g	2cc)	.
+.	.	16e	.	.	.	.
+.	.	.	.	12e 12g	.	.
+.	.	16g	.	.	.	.
+.	.	.	.	12eJ) 12g	.	.
+.	.	16ccJ)	.	.	.	.
+(<4C	]	8r	.	4r	.	.
+.	.	16r	.	.	.	.
+.	.	[(<16C	.	.	.	.
+4BB-)	.	16CL]	.	4c	4r	.
+.	.	16E	.	.	.	.
+.	.	16G	.	.	.	.
+.	.	16cJ)	.	.	.	.
+=52	=52	=52	=52	=52	=52	=52
+(<2AA	sf	12r	sf	(<4c	2r	.
+.	<	12FL	.	.	.	.
+.	.	12F	.	.	.	.
+.	[	12F	.	2e-	.	.
+.	.	12E	.	.	.	.
+.	>	12FJ)	.	.	.	.
+4C	>	12r	.	.	(<4f	<
+.	.	12FL	.	.	.	.
+.	.	12F	.	.	.	.
+8.BB-yL	]	12F	.	8.dL	4ff)	.
+.	.	12E	.	.	.	.
+.	.	12FJ)	.	.	.	.
+16AAJ)	]	.	.	16d-J)	.	[
+=53	=53	=53	=53	=53	=53	=53
+2BB-y	.	12r	sf	(<4c#	(>16ffL_	.
+.	.	.	.	.	16dd	.
+.	.	12FL	.	.	.	.
+.	.	.	.	.	16a	.
+.	.	12F	.	.	.	.
+.	.	.	.	.	16b-yJ	.
+.	.	12F	.	2d)	16eL	.
+.	.	.	.	.	16f	.
+.	.	12E	.	.	.	.
+.	.	.	.	.	16c#	.
+.	.	12FJ)	.	.	.	.
+.	.	.	.	.	16dJ	<
+8r	.	12r	.	.	16AL	.
+.	.	.	.	.	16B-yJ)	.
+.	.	12F#L	.	.	.	.
+(>16AL	.	.	.	.	8r	.
+.	.	12F#y	.	.	.	.
+16B-yJ	.	.	.	.	.	.
+16FL	.	12F#y	.	[4d	4r	.
+16F#	.	.	.	.	.	[
+.	.	12E#	.	.	.	.
+16C#	.	.	.	.	.	.
+.	.	12F#yJ)	.	.	.	.
+16DJ)	.	.	.	.	.	.
+=54	=54	=54	=54	=54	=54	=54
+4BBn	sf	12r	sf	(<4d_	2r	.
+.	<	12GL	.	.	.	.
+.	.	12G	.	.	.	.
+4r	[	12G	.	2f	.	.
+.	>	12F#	.	.	.	.
+.	.	12GJ)	.	.	.	.
+(>4D^>	.	12r	.	.	(<4g	.
+.	.	12GL	.	.	.	.
+.	.	12G	.	.	.	.
+8.CL	]	12G	.	8.eL	4gg)	.
+.	.	12F#y	.	.	.	.
+.	.	12GJ)	.	.	.	.
+16BBJ)	.	.	.	16e-J)	.	.
+!!LO:LB
+=55	=55	=55	=55	=55	=55	=55
+!!Warning: measure 55, staff 4 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 55, staff 2 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Warning: measure 55, staff 1 padded. adding token 8ryy at end ot measure to extend its duration.
+!!Error: measure 55 staff 3 is overfilled: 4.5 quarter notes instead of 4.
+[2C	sf	12r	.	4d#	16ggL]	.
+.	.	.	.	.	(>16ee	.
+.	.	12GL	.	.	.	.
+.	.	.	.	.	16bn	.
+.	.	12GJ	.	.	.	.
+.	.	.	.	.	16ccJ	.
+.	.	(<12qFL	.	.	.	.
+.	.	12qG	.	.	.	.
+.	.	12qAJ	.	.	.	.
+.	.	12GL	.	[4e	16f#L	.
+.	.	.	.	.	16g	.
+.	.	12F#	.	.	.	.
+.	.	.	.	.	16d#	.
+.	.	12GJ)	.	.	.	.
+.	.	.	.	.	16eJ	.
+12CL_	.	8r	.	12eL_	12cL)	.
+(>12c'>	.	.	.	(<12e'< 12g'<	(<12b'<	<
+.	<	(>8c'>L	<	.	.	.
+12c'>J	.	.	.	12e'<J 12g'<	12cc'<J	.
+12B-'>L	.	8c'>J	.	12e'<L 12g'<	12dd'>L	.
+12B-y'>	.	.	.	12e'< 12g'<	12dd#'>	.
+.	.	12c'>L	.	.	.	.
+12B-y'>J)	[	.	.	12e'<J) 12g'<	12ee'>J)	.
+.	.	12c'>	.	.	.	[
+8ryy	[	.	[	8ryy	8ryy	.
+.	.	12c'>J)	.	.	.	.
+=56	=56	=56	=56	=56	=56	=56
+!!Error: measure 56, staff 1 is underfilled: adding token 32%31ryy at end of measure to complete its duration.
+1AA	f	1c	sf	16r	(<32f	sf
+.	.	.	.	.	32%31ryy	.
+.	.	.	.	(<16cL	.	.
+.	.	.	.	16f	.	.
+.	<	.	.	16eJ	.	.
+.	.	.	.	16gL	.	.
+.	.	.	.	16f	.	.
+.	.	.	.	16b-y	.	.
+.	.	.	.	16aJ	.	.
+.	[	.	.	16ddL	.	.
+.	.	.	.	16cc	.	.
+.	.	.	.	16bn	.	.
+.	.	.	.	16ccJ	.	.
+.	.	.	.	16g#L	.	.
+.	.	.	.	16a	.	.
+.	.	.	.	16f	.	.
+.	.	.	.	16cJ)	.	.
+=57	=57	=57	=57	=57	=57	=57
+2GG	sf	16r	sf	4Bn 4f	(>4gg)	sf
+.	.	(<16dL	.	.	.	.
+.	<	16g	.	.	.	.
+.	.	16fJ	.	.	.	.
+.	.	16ccL	.	2B 2f	2aa-)	.
+.	.	16bn	.	.	.	.
+.	.	16ee-	.	.	.	.
+.	.	16ddJ	.	.	.	.
+(<4GG	[	16ggL	.	.	.	.
+.	.	16ff	.	.	.	>
+.	>	16een	.	.	.	.
+.	.	16ffJ	.	.	.	.
+4D)	.	16cc#L	.	4f	8.aa-yL]	.
+.	.	16dd	.	.	.	.
+.	.	16a#	.	.	.	]
+.	]	16bJ)	.	.	16ffJ	.
+=58	=58	=58	=58	=58	=58	=58
+!!Error: measure 58, staff 4 is underfilled: adding token 16...ryy at end of measure to complete its duration.
+32BB-y)	.	8.ccL	.	8r	(>4ff	.
+(<4C'<	.	.	.	.	.	.
+.	.	.	.	(<4c'< 4f'<	.	.
+.	.	[(>16cJ	.	.	.	.
+.	.	16cL]	.	.	2cc)	.
+4C'<)	.	.	.	.	.	.
+.	.	16f	.	.	.	.
+.	.	16a	.	8c'<) 8f'<	.	.
+.	.	16ccJ)	.	.	.	.
+.	.	8r	.	8r	.	.
+16...ryy	.	.	.	.	.	.
+.	.	16r	.	(<4c'< 4e'<	.	.
+.	.	[(<16B-y	.	.	.	.
+.	.	.	.	.	(<16qbnL	.
+.	.	.	.	.	16qccJ)	.
+.	.	16B-yL]	.	.	4ccT	.
+.	.	16c	.	.	.	.
+.	.	16e	.	8c'<) 8e'<	.	.
+.	.	16gJ)	.	.	.	.
+!!LO:LB
+=59	=59	=59	=59	=59	=59	=59
+1FF	p	(<2A	p	16r	(>4gg	<
+.	.	.	.	(<16cL	.	.
+.	.	.	.	16g	.	.
+.	.	.	<	16fJ	.	.
+.	.	.	.	16b-yL	2ff)	.
+.	.	.	.	16a	.	.
+.	.	.	.	16dd	.	.
+.	.	.	.	16ccJ	.	.
+.	.	2e-	>	16ggL	.	[
+.	.	.	.	16ff	.	>
+.	.	.	.	16ee	.	.
+.	.	.	.	16ffJ	.	.
+.	.	.	.	.	8qaT	.
+.	.	.	.	16ddL	(<4aT	.
+.	.	.	.	16ee-	.	.
+.	.	.	.	16cc	.	.
+.	.	.	]	16aJ)	.	]
+=60	=60	=60	=60	=60	=60	=60
+1F	.	2d	.	(>4cc	16cc)	.
+.	.	.	.	.	(<16fL	.
+.	.	.	.	.	16cc	.
+.	.	.	.	.	16b-yJ	.
+.	.	.	.	2b-y)	16ee-L	.
+.	.	.	.	.	16dd	.
+.	.	.	.	.	16gg	.
+.	.	.	.	.	16ffJ	.
+.	.	2d-)	.	.	16cccL	.
+.	.	.	.	.	16bb-y	.
+.	.	.	.	.	16aa	.
+.	.	.	.	.	16bb-yJ	.
+.	.	.	.	4b-y	16aaL	.
+.	.	.	.	.	16bb-y	.
+.	.	.	.	.	16gg	.
+.	.	.	.	.	16eenJ)	.
+=61	=61	=61	=61	=61	=61	=61
+(>8F'>	.	8r	.	8r	(>16ggL	.
+.	.	.	.	.	16ff)	.
+8r	.	(>16c'>L	.	(<16a'<L	(>16ee'>	.
+.	.	16c'>J)	.	16a'<J)	16ff'>J)	.
+8D'>)	.	8r	.	8r	(>16eeL	.
+.	.	.	.	.	16ff)	.
+8r	.	(<16Bn'<L	.	(<16f'<L	(>16dd'>	.
+.	.	16B'<J)	.	16f'<J)	16bn'>J)	.
+(>8E'>	.	8r	.	8r	(>16ddL	.
+.	.	.	.	.	16cc)	.
+8r	.	(>16c'>L	.	(<16g'<L	(>16b'>	.
+.	.	16c'>J)	.	16g'<J)	16cc'>J)	.
+8AA'<)	.	8r	.	8r	(<16bL	.
+.	.	.	.	.	16cc)	.
+8r	.	(<16F#'<L	.	(<16e-'<L	(<16a'<	.
+.	.	16F#y'<J)	.	16e-y'<J)	16f#'<J)	.
+=62	=62	=62	=62	=62	=62	=62
+(<8BB-y'<	.	8r	.	8r	(<16aL	.
+.	.	.	.	.	16g)	.
+8r	.	(<16G'<L	.	(<16d'<L	(<16f#'<	.
+.	.	16G'<J)	.	16d'<J)	16g'<J)	.
+8BBn'<)	.	8r	.	8r	(<16f#yL	.
+.	.	.	.	.	16g)	.
+8r	.	(<16G#'<L	.	(<16d'<L	(<16fn'<	.
+.	.	16G#y'<J)	.	16d'<J)	16d'<J)	.
+8r	.	8r	.	8r	(<16dL	.
+.	.	.	.	.	16c	.
+[8C	.	(<8A	.	(<8c	16Bn	.
+.	.	.	.	.	16cJ)	.
+8.CL]	.	8.GnL	.	8.B-yL	(<8.b-L	.
+16CJ	.	16B-J)	.	16eJ)	16eJ)	.
+!!LO:LB
+=63	=63	=63	=63	=63	=63	=63
+16r	pp	2r	pp	4r	(<4g	.
+(<8DDL	.	.	.	.	.	.
+16FFJ	.	.	.	.	.	.
+16BB-yL	.	.	.	[2f	4f)	.
+16C#	<	.	.	.	.	.
+16D	.	.	.	.	.	.
+16FJ	.	.	.	.	.	.
+16B-yL	>	(<4.D'>	.	.	2r	.
+16f	.	.	.	.	.	.
+16e	.	.	.	.	.	.
+16dJ	.	.	.	.	.	.
+16cL	.	.	.	8fL]	.	.
+16B-y	.	.	.	.	.	.
+16A	.	8D'>)	.	8fJ	.	.
+16G#J)	]	.	.	.	.	.
+=64	=64	=64	=64	=64	=64	=64
+(>4A	.	(<4C#	.	(<4e	4r	.
+2C)	.	2F#	.	(<2.e-)	(<2a	.
+8.CL]	.	8.GL	.	.	8.gL	.
+16CJ	.	16AJ)	.	.	16f#J)	.
+=65	=65	=65	=65	=65	=65	=65
+*	*	*	*	*	*^	*
+2BB-y	.	2d	.	2d)	16aL	8.aL	.
+.	<	.	.	.	16d	.	.
+.	.	.	.	.	16f#	.	.
+.	.	.	.	.	16gJ	16gJ	.
+*	*	*	*	*	*v	*v	*
+.	.	.	.	.	16b-yL	.
+.	.	.	.	.	16cc#	.
+.	.	.	.	.	16dd	.
+.	.	.	.	.	16ff#J	.
+4r	[	4r	.	4r	16ggL	>
+.	.	.	.	.	16ddd	.
+.	.	.	.	.	16cccn	.
+.	.	.	.	.	16bb-yJ	.
+4C	.	[4b-y	.	(<8eL	(<16aa'<L	.
+.	.	.	.	.	16gg'<	.
+.	.	.	.	16f'<	16ffn'<	.
+.	.	.	.	16g'<J)	16ee'<J)	]
+=66	=66	=66	=66	=66	=66	=66
+4FF	.	(>16b-yL_	.	4f	4ff	.
+.	.	16a	.	.	.	.
+.	.	16cc	.	.	.	.
+.	.	16aJ	.	.	.	.
+4r	.	16gL	.	4r	4r	.
+.	.	16f	.	.	.	.
+.	.	16a	.	.	.	.
+.	.	16fJ	.	.	.	.
+(<4FF'< 4C'<	.	16dL	.	(<4A'<	(<4f'<	.
+.	.	16c	.	.	.	.
+.	.	16f	.	.	.	.
+.	.	16cJ	.	.	.	.
+4FF'<) 4C'<	.	16B-yL	.	4c'<)	4f'<)	.
+.	.	16A	.	.	.	.
+.	.	16c	.	.	.	.
+.	.	16AJ)	.	.	.	.
+=67	=67	=67	=67	=67	=67	=67
+2FF 2C	>	2F	>	2c	2A 2f	.
+2r	]	2r	]	2r	2r	.
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below
